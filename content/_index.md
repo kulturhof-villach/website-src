@@ -1,0 +1,36 @@
++++
+title = "Kulturhofkeller Villach"
+authors = ["test-author"]
+date = "2019-09-05"
+description = ""
+featured = "/img/mood.jpg"
+featuredVideo = ""
+featuredVimeo = ""
+linktitle = ""
+type = "blog"
+tags = []
++++
+
+# Der Kulturhof
+
+Mitten in der Lederergasse befindet sich der Eingang zum Innenhof des Cling-Hauses. In diesem Hof existieren mehrere Räume in unterschiedlichen Dimensionen. Gleich am Anfang die Räume eines ehemaligen Speiselokals, gegenüber ein Schaukasten, daneben Lagerräume sowie eine verglaste Stube, ein ehemaliges Café, ein einladender Innenhof und schöner Garten und neben Wohnungen, die sich noch im gleichen Gebäude befinden, nicht zuletzt die Räumlichkeiten des ehemaligen Cling Kellers.
+
+Dadurch trägt genau dieser Ort in der Lederergasse, durch seine vielfältige Nutzbarkeit ein besonderes Potential in sich.
+
+Es ist ein Ort, dem wir den Namen Kulturhof gegeben haben und ihn mit Kultur füllen wollen.
+
+# Der Kulturhofkeller
+
+Die Räumlichkeiten im ehemaligen Cling Keller, die sich einerseits in einem für Villach historisch bedeutenden Haus liegen und andererseits auch schon lange als Veranstaltungslocation dienten, bieten in verschiedenen Räumen und auf verschiedenen Ebenen Platz für Veranstaltungen aller Art. Es gibt einen größeren Veranstaltungsraum, der Platz für mindestens 300 BesucherInnen (ca. 100 Sitzplätze) bietet und einen kleineren Raum, der für kleinere Veranstaltungen, wie zum Beispiel Lesungen, ausreichend Platz bietet. Somit ist garantiert, dass je nach Veranstaltungsgröße auch ein geeigneter Raum zur Verfügung gestellt werden kann. Dazwischen gibt es noch Aufenthaltsräume, Nischen und einen Durchgang, der ebenfalls bei Veranstaltungen für diejenigen zur Verfügung steht, die sich abseits eines Konzerts, beispielsweise, unterhalten wollen.
+
+Der Kulturhofkeller: bietet außerdem schon von vornherein eine gute Infrastruktur.
+
+Wir arbeiten daran den Kulturhofkeller in Zukunft möglichst barrierefrei erreichbar zu machen.
+
+# Nutzung
+
+Die verschiedenen Räumlichkeiten können getrennt voneinander oder auch der ganze Kulturhofkeller gesamt gebucht werden. Mit oder ohne Barnutzung durch den Veranstalter. Und mit verschiedenen Zusatzleistungen (zB Zusatztechnik) durch das Team des Kulturhofkeller.
+
+Wir wollen einen leistbaren Veranstaltungsort für die verschiedenste Kultursparten bieten. Die Mietpreise sind dabei sehr unterschiedlich. Der Mietpreis bemisst sich aus den erwartbaren BesucherInnen, die Höhe der Eintrittspreisen, den Barbetrieb, Bestuhlung, usw….
+
+Die genauen Preise werden im persönlichen Gespräch geklärt bzw. senden wir gerne ein Angebot zu.
