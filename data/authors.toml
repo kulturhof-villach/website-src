@@ -19,3 +19,25 @@
   slideshare = ""
   xing = ""
   linkedin = ""
+
+[ kulturhofkeller ]
+  name = "Kulturhofkeller"
+  featured = "/img/organiser/kulturhofkeller.svg"
+  [kulturhofkeller.trained]
+    en = "Job"
+    de = "Job"
+  [kulturhofkeller.role]
+    en = "Role"
+    de = "Rolle"
+  [ kulturhofkeller.bio ]
+    en = "Short paragraph about author"
+    de = "Kurzer Absatz über den Autor"
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""

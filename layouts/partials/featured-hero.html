@@ -1,0 +1,55 @@
+
+<section class="hero is-large has-background feature-hero top-hero">
+  <img class="hero-background" src="{{ .Params.featured | relURL }}"  alt="">
+  <div class="hero-body">
+    <div class="container hero-container has-text-right">
+        <h1 class="is-6 has-margin-bottom-08">
+          <mark class="mark-bg-bc">
+            {{ range $key := .Param "tags"}}
+            <a href="{{ $.Site.BaseURL}}/{{ $.Site.LanguagePrefix }}/tags/{{ $key}}/">
+              <span class="has-text-warning">
+                #{{ $key }}
+              </span>
+            </a>
+            {{ end }}
+          </mark>
+        </h1>
+        <h1 class="is-6 subtitle has-margin-bottom-08">
+          <mark class="mark-bg-link has-text-warning">
+            {{ .Params.date  | dateFormat "02.01.2006"}}, {{ .Params.time }}
+          </mark>
+        </h1>
+        <h1 class="title is-1 has-margin-bottom-08"><mark>{{ .Title }}</mark></h1>
+        <h1 class="is-6 subtitle has-margin-bottom-08">
+          <mark class="mark-bg-link has-text-warning">
+            {{ range $key := .Param "authors"}}
+            <a href="{{ $.Site.BaseURL}}/{{ $.Site.LanguagePrefix }}/tags/{{ $key}}/">
+              <span class="has-text-warning">
+                hosted by {{ $key }}
+              </span>
+            </a>
+            {{ end }}
+          </mark>
+        </h1>
+    </div>
+  </div>
+  <div class="hero-foot has-padding">
+    <div class="next-prev">
+      <div class="next">
+      {{ with .NextInSection }}
+        <a class="button is-link" href="{{ .Permalink }}">
+          <i class="fas fa-chevron-left fa-lg"></i>
+        </a>
+      {{ end }}
+    </div>
+    <div class="prev">
+      {{ with .PrevInSection }}
+        <a class="button is-link" href="{{ .Permalink }}">
+          <i class="fas fa-chevron-right fa-lg"></i>
+        </a>
+      {{ end }}
+    </div>
+    </div>
+    <!-- {{ partial "hero-header.html" . }} -->
+  </div>
+</section>
