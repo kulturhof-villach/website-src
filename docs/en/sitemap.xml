@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/categories/</loc>
+    <loc>https://el-uhu.github.io/kulturhofkeller-website/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/categories/"
+                href="https://el-uhu.github.io/kulturhofkeller-website/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://el-uhu.github.io/kulturhofkeller-website/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>/en/</loc>
+    <loc>https://el-uhu.github.io/kulturhofkeller-website/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/"
+                href="https://el-uhu.github.io/kulturhofkeller-website/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://el-uhu.github.io/kulturhofkeller-website/en/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/</loc>
+    <loc>https://el-uhu.github.io/kulturhofkeller-website/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/tags/"
+                href="https://el-uhu.github.io/kulturhofkeller-website/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://el-uhu.github.io/kulturhofkeller-website/en/tags/"
                 />
   </url>
   

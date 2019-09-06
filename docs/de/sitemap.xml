@@ -3,86 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/events/2019-12_asperitas/</loc>
+    <loc>https://el-uhu.github.io/kulturhofkeller-website/events/2019-12_asperitas/</loc>
     <lastmod>2019-12-14T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/events/</loc>
+    <loc>https://el-uhu.github.io/kulturhofkeller-website/events/</loc>
     <lastmod>2019-12-14T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/konzert/</loc>
+    <loc>https://el-uhu.github.io/kulturhofkeller-website/tags/konzert/</loc>
     <lastmod>2019-12-14T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://el-uhu.github.io/kulturhofkeller-website/tags/</loc>
     <lastmod>2019-12-14T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://el-uhu.github.io/kulturhofkeller-website/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/tags/"
+                href="https://el-uhu.github.io/kulturhofkeller-website/tags/"
                 />
   </url>
   
   <url>
-    <loc>/events/2019-11_tiger-lillies/</loc>
+    <loc>https://el-uhu.github.io/kulturhofkeller-website/events/2019-11_tiger-lillies/</loc>
     <lastmod>2019-11-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/events/2019-11_tiger-lillies2/</loc>
+    <loc>https://el-uhu.github.io/kulturhofkeller-website/events/2019-11_tiger-lillies2/</loc>
     <lastmod>2019-11-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/events/2019-10_felix-kramer/</loc>
+    <loc>https://el-uhu.github.io/kulturhofkeller-website/events/2019-10_felix-kramer/</loc>
     <lastmod>2019-10-04T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/events/2019-09_himmels/</loc>
+    <loc>https://el-uhu.github.io/kulturhofkeller-website/events/2019-09_himmels/</loc>
     <lastmod>2019-09-26T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/theater/</loc>
+    <loc>https://el-uhu.github.io/kulturhofkeller-website/tags/theater/</loc>
     <lastmod>2019-09-26T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://el-uhu.github.io/kulturhofkeller-website/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://el-uhu.github.io/kulturhofkeller-website/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/"
+                href="https://el-uhu.github.io/kulturhofkeller-website/"
                 />
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://el-uhu.github.io/kulturhofkeller-website/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://el-uhu.github.io/kulturhofkeller-website/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/categories/"
+                href="https://el-uhu.github.io/kulturhofkeller-website/categories/"
                 />
   </url>
   
