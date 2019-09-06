@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html><head>
+	<meta name="generator" content="Hugo 0.58.1" />
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>kulturhof:keller - kulturhof:keller</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="favicon.png">
+
+  
+  <link rel="stylesheet" href="/bundle.min.css">
+
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+  
+  <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+  });
+  MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+  });
+
+  MathJax.Hub.Config({
+  
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+
+  MathJax.Ajax.config.path["mhchem"] =
+  "https://cdnjs.cloudflare.com/ajax/libs/mathjax-mhchem/3.3.2";
+  MathJax.Hub.Config({
+    TeX: {
+      extensions: ["[mhchem]/mhchem.js"]
+    }
+  });
+</script>
+
+
+  
+  <script type="text/javascript" src="https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js"></script>
+
+  
+  <script type="text/javascript" src="/bundle.min.js"></script>
+
+  <script type="text/javascript">
+
+  </script>
+
+
+</head>
+<body class="">
+  <div id="hero">
+<section class="hero is-medium has-background">
+  <img class="hero-background is-transparent" src="/img/mood.jpg" alt="">
+  <div class="hero-body">
+    <div class="container hero-container">
+      
+      <h1 class="title has-no-margin">kulturhof:keller</h1></h1>
+      <h2 class="subtitle">Cultural Centre | Villach</h2>
+    </div>
+  </div>
+  
+</section>
+</div>
+</section>
+
+<section class="hero is-link">
+  <div class="hero-body">
+    <div class="container">
+      <div class="content">
+        
+      </div>
+    </div>
+  </div>
+</section>
+<section class="hero">
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns is-centered is-multiline">
+  <div class="column is-4">
+    <input id="calendar" type="date" data-display-mode="inline" data-show-clear-button="false">
+  </div>
+  <div class="column is-8">
+    <div class="columns is-multiline">
+      <div class="calendar-search-results column is-full">
+        
+        
+        <div class="column is-full" >
+          <a class="button is-small is-fullwidth is-link" id="clear">Clear</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<script type="text/javascript">
+  
+  var eventDates = [ ];
+
+  
+  var colormap = {"event" : "has-background-warning", "blog" : "has-background-warning"}
+
+  function normaliseDatestring(datestring) {
+    var d = new Date(datestring).setHours(0,0,0,0)
+    return d
+  }
+
+  function findLink(datestring, eventDates) {
+    return eventDates.find(x => normaliseDatestring(x.date) === normaliseDatestring(datestring)).link
+  };
+
+  function findID(datestring, eventDates) {
+    return eventDates.find(x => normaliseDatestring(x.date) === normaliseDatestring(datestring)).date
+  };
+
+  
+  var calendars = bulmaCalendar.attach('[type="date"]');
+
+  
+  for(var i = 0; i < calendars.length; i++) {
+    
+    calendars[i].on('select', date => {
+      $(".calendar-search-results > .search-res").removeClass("search-res").addClass("search-item")
+      var id = findID(date.data.value(), eventDates);
+      var el = $(".cls-"+id)
+      $(el).removeClass("search-item").addClass("search-res")
+      console.log(el);
+
+    });
+  }
+
+  
+  $("#clear").on('click', function(){
+    $(".search-item").addClass("search-res").removeClass("search-item")
+  })
+
+  
+  function colorDates(eventDates, colormap) {
+    var days = $("div.datepicker-days > div.datepicker-date")
+
+    for ( var i = 0; i < days.length; i++ ){
+      for (var j = 0; j < eventDates.length; j++) {
+        var eventdate = new Date(eventDates[j].date).setHours(0,0,0,0);
+        var datestring = $(days[i]).data("date")
+        var datepickerdate = new Date(datestring).setHours(0,0,0,0)
+        
+        if ( eventdate == datepickerdate ){
+          $(days[i]).children("button").addClass(colormap[eventDates[j].type])
+        }
+      }
+    }
+  }
+
+  colorDates(eventDates, colormap);
+  
+  MutationObserver = window.MutationObserver || window.WebKitMutationObserver;
+  var observer = new MutationObserver(function(mutations, observer) {colorDates(eventDates, colormap)});
+  observer.observe(document, {
+    subtree: true,
+    attributes: true
+    
+  });
+
+</script>
+
+    </div>
+  </div>
+</section>
+
+  <nav class="navbar is-transparent is-fixed-top">
+  <div class="container">
+    <div class="navbar-brand" style="z-index:50">
+      
+      <a class="navbar-item" href="/en">
+        <img src="/logo_white.svg">
+      </a>
+
+      <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div class="navbar-menu" id="navMenu">
+      
+      <div class="navbar-end">
+        <div class="padded">
+          <ul id="sb-menu" class="menu-list">
+  
+  
+  
+  
+  
+  
+  
+  
+
+  <hr>
+
+  
+  <p class="menu-label"> Translations</p>
+  <ul class="menu-list">
+    
+    <li>
+      <a href="/">Deutsch</a>
+    </li>
+    
+  </ul>
+  
+
+</ul>
+<hr>
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+        <section class="section">
+          <div id="content" class="columns is-centered">
+          </div>
+        </section><section class="section has-no-padding">
+
+  <footer class="footer has-background-link has-text-centered footer-tags">
+    
+
+
+
+  </footer>
+
+  <footer class="footer has-background-bc">
+    <div class="container">
+    <div class="content">
+      <div class="columns is-multiline">
+
+        <div class="column is-full center">
+            <p class="has-text-centered">
+              <b>
+                Verein kult:villach
+              </b>
+              <br>
+              Lederergasse 17, 9500 Villach
+              <br>
+              <a href="mailto:office@kulturhofkeller.at" class="has-text-warning">
+                office@kulturhofkeller.at
+              </a>
+              <br>
+              <a href="tel:&#43;43%20699%2015088177" class="has-text-warning">
+                &#43;43 699 15088177
+              </a>
+            </p>
+        </div>
+        <div class=" column is-full center">
+          
+          <div class="has-padding-1em">
+            <a href="http://www.facebook.com/kulturhofkeller"><i class="fab fa-facebook-square fa-lg fa-2x"></i></a>
+          </div>
+          
+          <div class="has-padding-1em">
+            <a href="https://www.instagram.com/kulturhofkeller/"><i class="fab fa-instagram fa-lg fa-2x"></i></a>
+          </div>
+          
+          <div class="has-padding-1em">
+            <a href="https://www.youtube.com/channel/UCgnVBE8INeLEh50VaZlSZZg"><i class="fab fa-youtube fa-lg fa-2x"></i></a>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    </div>
+  </footer>
+</section>
+
+    </body>
+</html>
