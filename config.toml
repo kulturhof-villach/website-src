@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://el-uhu.github.io/kulturhofkeller-website/"
 languageCode = "de-at"
 theme = "bulma-base"
 publishDir = "docs"
