@@ -1,7 +1,7 @@
 +++
 title = "Tiger Lillies"
 authors = ["kulturhofkeller"]
-date = 2019-11-12
+date = 2019-11-16
 publishdate = 2019-09-03
 time = "20:00"
 description = "„Devil’s Fairground“ Tour 2019"

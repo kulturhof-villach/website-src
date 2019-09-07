@@ -23,13 +23,88 @@
 [ kulturhofkeller ]
   name = "Kulturhofkeller"
   featured = "/img/organiser/kulturhofkeller.svg"
-  [kulturhofkeller.trained]
-    en = "Job"
-    de = "Job"
-  [kulturhofkeller.role]
-    en = "Role"
-    de = "Rolle"
   [ kulturhofkeller.bio ]
+    en = "Short paragraph about author"
+    de = "Kurzer Absatz über den Autor"
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
+[ loco ]
+  name = "Loco Soundclub"
+  featured = "/img/organiser/loco.svg"
+  [ loco.bio ]
+    en = "Short paragraph about author"
+    de = "Kurzer Absatz über den Autor"
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
+
+[ doppelt-sichtbar ]
+  name = "Doppelt Sichtbar"
+  featured = "/img/organiser/doppelt-sichtbar.svg"
+  [ doppelt-sichtbar.bio ]
+    en = "Short paragraph about author"
+    de = "Kurzer Absatz über den Autor"
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
+[ freakygreenfish ]
+  name = "Freakygreenfish"
+  featured = "/img/organiser/freakygreenfish.svg"
+  [ freakygreenfish.bio ]
+    en = "Short paragraph about author"
+    de = "Kurzer Absatz über den Autor"
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
+[ kulturforum-villach ]
+  name = "Kulturforum Villach"
+  featured = "/img/organiser/kulturforum-villach.svg"
+  [ kulturforum-villach.bio ]
+    en = "Short paragraph about author"
+    de = "Kurzer Absatz über den Autor"
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
+[ sona-booking ]
+  name = "SONA Booking"
+  featured = "/img/organiser/sona-booking.svg"
+  [ sona-booking.bio ]
     en = "Short paragraph about author"
     de = "Kurzer Absatz über den Autor"
   website = ""

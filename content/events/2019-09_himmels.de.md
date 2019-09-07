@@ -2,7 +2,7 @@
 title = "Die andere Hälfte des Himmels"
 authors = ["kulturhofkeller"]
 date = 2019-09-26
-publishdate = 2019-09-06
+publishdate = 2019-09-07
 time = "20:00"
 description = "Harham - Eine Heimat"
 featured = "img/events/2019-09_himmel.jpg"

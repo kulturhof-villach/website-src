@@ -13,6 +13,25 @@
   <!-- Hero footer: will stick at the bottom -->
 </section>
 </div>
+
+<section class="hero is-small is-link">
+  <div class="hero-body has-text-centered center">
+    {{ range $key, $taxonomy := .Site.Taxonomies.tags }}
+      <div class="">
+        <a href="{{ $.Site.BaseURL }}/{{ $.Site.LanguagePrefix }}/tags/{{ $key}}/">
+          <span class="hero-quote has-text-info">#{{ $key }} </span><p> </p>
+        </a>
+      </div>
+    {{ end }}
+  </div>
+</section>
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container">
+      {{ partial "calendar-block.html" . }}
+    </div>
+  </div>
 </section>
 
 <section class="hero is-link">
@@ -21,13 +40,6 @@
       <div class="content">
         {{ .Content }}
       </div>
-    </div>
-  </div>
-</section>
-<section class="hero">
-  <div class="hero-body">
-    <div class="container">
-      {{ partial "calendar-block.html" . }}
     </div>
   </div>
 </section>

@@ -39,7 +39,7 @@
                   {{ with .tags }}#{{ delimit . " #"}}{{ end }}
                 </h3>
                 <h1 class="hero-quote ov">{{ .title }}</h1>
-                <h2 class="hero-quote ov">{{ .text | markdownify }}</h2>
+                <h2 class="hero-quote has-text-warning">{{ .text | markdownify }}</h2>
                 <h3 class="hero-quote ov">
                   {{ with .authors }}
                     {{ delimit . " | "}}
