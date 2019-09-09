@@ -1,0 +1,40 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-default-list{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "header" }}
+  <div class="column has-navbar-fixed-top has-no-padding top-hero">
+
+      <section class="section">
+        <div class="columns is-multiline is-centered has-padding-LR">
+          {{ range.Pages }}
+          <div class="column is-3">
+            {{ $link := .Permalink }}
+            {{ with .Params.id }}
+              {{ $persondata := (index $.Site.Data.authors .)}}
+              {{ $pdict := (dict "data" $persondata "picsize" "is-128x128" "imgclass" "is-rounded" "link" $link "content" "false" "namesize" "is-size-5" "subsize" "is-size-6")}}
+
+              <section class="content-ov has-margin-bottom" id="{{ . }}">
+                  <section class="section has-no-padding">
+                    <div class="columns is-centered">
+                      <div class="column has-no-padding">
+                        {{ partial "org-info.html" $pdict }}
+                      </div>
+                    </div>
+                  </section>
+              </section>
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </section>
+  </div>
+  {{ partial "header.html" . }}
+{{ end }}
+
+{{ define "non-section-main" }}
+
+{{ end }}
+
+{{ define "custom-js"}}
+{{ end }}

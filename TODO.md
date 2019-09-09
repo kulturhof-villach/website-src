@@ -7,8 +7,10 @@
 - [ ] Sponsors
 - [ ] Participate and Support
 
-## Layouts
+## Layouts / Style
 - [ ] Veranstalter Info
+- [x] Link styling: lighter
+- [ ] List styling
 
 ## Functionality
 - [ ] Newsletter Subscription

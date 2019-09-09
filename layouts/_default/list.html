@@ -17,7 +17,7 @@
       </div>
     </section>
     <section class="hero is-medium is-info">
-      {{ range .Pages }}
+      {{ range .Pages.Reverse }}
         {{ $p := (dict "title" .Title "text" .Params.description "link" .Permalink "image" .Params.featured "imgclass" "is-square is-128x128 ov-img" "date" .Params.date "tags" .Params.tags "authors" .Params.authors )}}
 
         {{ partial "content-ov.html" $p }}
