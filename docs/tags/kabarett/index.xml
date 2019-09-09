@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kabarett on kulturhof:keller</title>
+    <link>https://el-uhu.github.io/kulturhofkeller-website/tags/kabarett/</link>
+    <description>Recent content in Kabarett on kulturhof:keller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-at</language>
+    <lastBuildDate>Fri, 22 Nov 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://el-uhu.github.io/kulturhofkeller-website/tags/kabarett/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nikbakhsh &amp; Oppitz / Zdenka Becker feat. Gebrüder Moped</title>
+      <link>https://el-uhu.github.io/kulturhofkeller-website/events/2019-11_kabarettkoalition/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://el-uhu.github.io/kulturhofkeller-website/events/2019-11_kabarettkoalition/</guid>
+      <description>Tickets: www.kabarettkoalition.at
+ Nikbakhsh &amp;amp; Oppitz (&amp;ldquo;Niemand nennt uns Mitzi&amp;rdquo;) und Zdenka Becker feat. Gebrüder Moped (&amp;ldquo;Ein fesches Dirndl&amp;rdquo;) bei der Kabarett Koalition im Kulturhofkeller Villach</description>
+    </item>
+    
+    <item>
+      <title>Sona Fest 2019</title>
+      <link>https://el-uhu.github.io/kulturhofkeller-website/events/2019-10_sona/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://el-uhu.github.io/kulturhofkeller-website/events/2019-10_sona/</guid>
+      <description> Irdorath Voidstalker Altar Of I In Somnia  </description>
+    </item>
+    
+    <item>
+      <title>Braunrath &amp; Tartarotti / Patrizia Wunderl / Gebrüder Moped</title>
+      <link>https://el-uhu.github.io/kulturhofkeller-website/events/2019-10_kabarettkoalition/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://el-uhu.github.io/kulturhofkeller-website/events/2019-10_kabarettkoalition/</guid>
+      <description>Tickets: www.kabarettkoalition.at
+ Die Kabarett Koalition im Kulturhofkeller Villach startet in ihre sechste Saison. Zum Auftakt begrüßen die Gebrüder Moped: Birgit Braunrath &amp;amp; Guido Tartarotti (aktuelles Programm &amp;ldquo;Glücklich geschieden&amp;rdquo;) und Patrizia Wunderl (neues Programm &amp;ldquo;Silber&amp;rdquo; ab 2020).</description>
+    </item>
+    
+  </channel>
+</rss>
