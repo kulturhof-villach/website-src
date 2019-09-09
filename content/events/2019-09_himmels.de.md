@@ -18,15 +18,9 @@ draft = false
 
 > Eintritt: € 15.- / € 12.-\* / € 8.-\*\*
 >
-> \*Im Vorverkauf online auf ntry.at/himmel sowie wochentags beim  Stadtmarketing Villach, Hans-Gasser-Platz 5.
+> \*Im Vorverkauf online auf [ntry.at/himmel](ntry.at/himmel) sowie wochentags beim  Stadtmarketing Villach, Hans-Gasser-Platz 5.
 >
 > \*\*Ermäßigungen für SchülerInnen und StudentInnen, JugendLebtStadt
-
-LINKS
-Facebook: https://www.facebook.com/events/2551548928411202/
-Fotos:	https://www.dropbox.com/sh/ajqam3skxiy9lbv/AACnNxMPN8NxjnqD2ndCbw1ga?dl=0
-Video:      ORF Bericht
-
 
 Die Schauspielerin Barbara Gassner, aufgewachsen in einem kleinen Dorf im Pinzgau im Bundesland Salzburg, war aus beruflichen Gründen
 inzwischen an mehreren Orten zuhause. In einer sehr persönlichen Annäherung an ihre Heimat lässt sie an diesem Abend die Geschichte
@@ -42,7 +36,7 @@ Musikalisch begleitet wird der Abend vom wunderbaren Florian KMET. Bekannt wurde
 Live-Performances, seine Soundtracks für internationale Theaterproduktionen, seine Platten „smiling eye“ 2018 „shoot me“ (2011), “electric songs“ (2007)
 und seine außergewöhnlichen live Stummfilmvertonungen auf hochdekorierten Filmfestivals in Europa.
 
-**Konzept und Darstellung**: Barbara Gassner
-**Regie**: Ed Hauswirth
-**Musik**: KMET
-**Dramaturgische Beratung**: Claudia Heu
+- **Konzept und Darstellung**: Barbara Gassner
+- **Regie**: Ed Hauswirth
+- **Musik**: KMET
+- **Dramaturgische Beratung**: Claudia Heu

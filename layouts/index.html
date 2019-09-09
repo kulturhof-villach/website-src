@@ -6,7 +6,18 @@
 {{ define "aside" }}
 {{ end }}
 
-{{ define "main" }}
+{{ define "non-section-main" }}
+<section class="hero">
+  <div class="hero-body">
+    <div class="container">
+      <div class="content">
+        <p>
+          {{ .Site.Params.about }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
 {{ end }}
 
 {{ define "custom-js" }}

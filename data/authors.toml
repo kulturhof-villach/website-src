@@ -25,7 +25,7 @@
   featured = "/img/organiser/kulturhofkeller.svg"
   [ kulturhofkeller.bio ]
     en = "Short paragraph about author"
-    de = "Kurzer Absatz über den Autor"
+    de = "Der Kulturhofkeller ist ein autonomes Kulturzentrum mitten in der Villacher Altstadt - betrieben vom gemeinnützigen Verein kult:villach. Das Kulturzentrum bietet Vereinen und Kulturschaffenden aller Sparten eine Bühne für ein breitgefächertes Programm von Literatur, Theater, Tanz über Musik bis hin zu Ausstellungen, Performances uvm."
   website = ""
   email = ""
   github = ""
@@ -40,8 +40,8 @@
   name = "Loco Soundclub"
   featured = "/img/organiser/loco.jpg"
   [ loco.bio ]
-    en = "Short paragraph about author"
-    de = "Kurzer Absatz über den Autor"
+    en = "LOCO Sound Club stands for alternative DJ an live music of high quality in Villach. Since 2007, we've been supporting young, regional DJs and musicians from a variety of genres and are proud to have thus helped some of them to become professional musicians. Moreover, we regularly feature internationally renowned acts who entice the audience with great sets and awesome tracks. So come in & freak out and always Stay LOCO! <3"
+    de = "Der LOCO Sound Club steht für alternative und qualitative DJ und Live Musik in Villach! Seit 2007 versuchen wir regionale DJs und Musiker*innen in den verschiedenen Genre zu fördern, und dürfen stolz darauf sein, dass wir auf diesem Weg bereits einigen Jung-DJs als Sprungbrett ins Musikbusiness gedient zu haben. Aber im LOCO geben sich auch viele arrivierte und namhafte DJs und internationale Acts die 'Klinken' in die Hand und verzücken den Club und unsere Gäste mit feinsten Sets und fetten Tracks. So come in & freak out and always Stay LOCO! <3"
   website = ""
   email = ""
   github = ""
@@ -58,7 +58,7 @@
   featured = "/img/organiser/doppelt-sichtbar.jpg"
   [ doppelt-sichtbar.bio ]
     en = "Short paragraph about author"
-    de = "Kurzer Absatz über den Autor"
+    de = "doppelt sichtbar sind die Zwillingsbrüder Mart und Kassabrot. Mit einmaligen Stil, der doppelt besser hält."
   website = "https://www.doppelt-sichtbar.at/"
   email = ""
   github = ""

@@ -72,3 +72,9 @@
 
 [references]
   other = "Quellenangaben"
+
+[Organisers]
+  other = "Veranstalter"
+
+[Events]
+  other = "Veranstaltungen"
