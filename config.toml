@@ -1,7 +1,7 @@
-baseURL = "https://el-uhu.github.io/kulturhofkeller-website/"
+baseURL = "https://www.kulturhofkeller.at"
 languageCode = "de-at"
 theme = "bulma-base"
-publishDir = "docs"
+publishDir = "kulturhof-villach.github.io"
 DefaultContentLanguage = "de"
 
 [params]

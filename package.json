@@ -8,9 +8,9 @@
     "git": "git add . && git commit -m",
     "postgit": "git push --all",
     "build": "snap run hugo",
-    "postbuild" : "npm run git -- 'rebuild site'",
+    "postbuild": "npm run git -- 'rebuild site'",
     "server": "snap run hugo server",
-    "start" : "npm run server",
+    "start": "npm run server",
     "say-hello": "echo 'Hello World'"
   },
   "repository": {

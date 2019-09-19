@@ -1,3 +1,6 @@
 [submodule "themes/bulma-base"]
 	path = themes/bulma-base
 	url = https://github.com/el-uhu/bulma-base.git
+[submodule "kulturhof-villach.github.io"]
+	path = kulturhof-villach.github.io
+	url = https://github.com/kulturhof-villach/kulturhof-villach.github.io
