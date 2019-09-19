@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "clean-theme": "rm -r themes/bulma-base/assets/ && mkdir themes/bulma-base/assets/",
-    "git-build" : "cd kulturhof-villach.github.io && git add . && git commit -m 'rebuild site' && cd ..",
+    "git-build": "cd kulturhof-villach.github.io && git add . && git commit -m 'rebuild site' && cd ..",
     "git": "git add . && git commit -m",
     "git-pull": "git pull --recurse-submodules",
     "postgit": "git push --recurse-submodules=on-demand",
@@ -25,5 +25,7 @@
     "url": "https://github.com/el-uhu/kulturhofkeller-website/issues"
   },
   "homepage": "https://github.com/el-uhu/kulturhofkeller-website#readme",
-  "dependencies": {}
+  "dependencies": {
+    "icon-gen": "^2.0.0"
+  }
 }
