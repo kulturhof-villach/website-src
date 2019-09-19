@@ -7,7 +7,7 @@
     "clean-theme": "rm -r themes/bulma-base/assets/ && mkdir themes/bulma-base/assets/",
     "git": "git add . && git commit -m",
     "postgit": "git push --all",
-    "build": "snap run hugo",
+    "build": "snap run hugo && cd kulturhof-villach.github.io",
     "postbuild": "npm run git -- 'rebuild site'",
     "server": "snap run hugo server",
     "start": "npm run server",
