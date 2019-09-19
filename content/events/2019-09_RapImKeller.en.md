@@ -1,6 +1,6 @@
 +++
 title = "Rap Im Keller #2"
-authors = ["kulturhofkeller", "doppelt-sichtbar", "freakygreenfish"]
+authors = ["kulturhofkeller", "doppelt-sichtbar"]
 date = 2019-09-27
 publishdate = 2019-09-06
 time = "20:00"
