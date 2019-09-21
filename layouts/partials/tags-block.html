@@ -26,8 +26,30 @@
       {{ end }}
     </div>
   </section>
+  {{ $futureevents := where $pages.Reverse ".Date" "ge" (now.AddDate 0 0 -1) }}
+  {{ $pastevents := where $pages ".Date" "lt" (now.AddDate 0 0 -1) }}
   <section class="hero is-medium">
-    {{ range $pages.Reverse }}
+    {{ range $futureevents }}
+      {{ if ne .Type "tags"}}
+        {{ $p := (dict "title" .Title "text" .Params.description "link" .Permalink "image" .Params.featured "imgclass" "is-square is-128x128 ov-img" "date" .Params.date "tags" .Params.tags "authors" .Params.authors )}}
+
+        {{ partial "content-ov.html" $p }}
+      {{ else }}
+        {{ range $pages }}
+          {{ $p := (dict "title" .Title "text" .Params.description "link" .Permalink "image" .Params.featured "imgclass" "is-square is-128x128 ov-img" "date" .Params.date "tags" .Params.tags "authors" .Params.authors )}}
+
+          {{ partial "content-ov.html" $p }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </section>
+  <section class="hero is-small is-info">
+    <div class="container hero-body has-text-centered center">
+      <h1 class="title"> Past events </h1>
+    </div>
+  </section>
+  <section class="hero">
+    {{ range $pastevents }}
       {{ if ne .Type "tags"}}
         {{ $p := (dict "title" .Title "text" .Params.description "link" .Permalink "image" .Params.featured "imgclass" "is-square is-128x128 ov-img" "date" .Params.date "tags" .Params.tags "authors" .Params.authors )}}
 
