@@ -16,11 +16,11 @@ draft = false
 +++
 
 
-Gary Smulyan (USA) - baritone sax
-Ralph Moore (USA) - tenor sax
-Olivier Hutman (FRA) - piano
-Stephan Kurmann (CH) - bass
-Bernd Reiter (A) - drums
+- Gary Smulyan (USA) - baritone sax
+- Ralph Moore (USA) - tenor sax
+- Olivier Hutman (FRA) - piano
+- Stephan Kurmann (CH) - bass
+- Bernd Reiter (A) - drums
 
 Gary Smulyan wird von Kritikern und Jazzfans gleichermaßen als der herausragende Baritonsaxophonist des aktuellen Jazz gesehen.
 Smulyans größter Einfluss ist Pepper Adams, dessen klassische Aufnahme "Encounter" mit Zoot Sims, Tommy Flanagan, Ron Carter und Elvin Jones die Basis für dieses Zusammentreffen von Smulyan mit dem Weltklassetenorsaxophonisten Ralph Moore bildet.
@@ -32,17 +32,3 @@ Dieses außergewöhnliche Quintett präsentiert mitreißend energetische und swi
 
 
 Kartenvorverkauf und Information unter 04242 28896 od. [www.kulturforumvillach.at](www.kulturforumvillach.at)
-
-Kulturforum Villach
-
-Obmann Dr. Hans Jalovetz
-
-Postgasse 8, 9500 Villach
-
-Tel. 0 42 42 / 288 96
-
-Fax 0 42 42 / 288 966
-
-kulturforum@jalovetz.at
-
-www.kulturforumvillach.at
