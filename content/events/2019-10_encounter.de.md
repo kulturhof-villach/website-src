@@ -31,12 +31,18 @@ Stephan Kurmann, ein europäischer Bassist, der bereits Jazz Legenden wie Chet B
 Dieses außergewöhnliche Quintett präsentiert mitreißend energetische und swingende Musik auf allerhöchstem Niveau, gleichermaßen mit Professionalität und viel Enthusiasmus vorgetragen, einfach "Jazz at its Best"!!!
 
 
-Kartenvorverkauf und Information unter 04242 28896 od. www.kulturforumvillach.at
+Kartenvorverkauf und Information unter 04242 28896 od. [www.kulturforumvillach.at](www.kulturforumvillach.at)
 
 Kulturforum Villach
+
 Obmann Dr. Hans Jalovetz
+
 Postgasse 8, 9500 Villach
+
 Tel. 0 42 42 / 288 96
+
 Fax 0 42 42 / 288 966
+
 kulturforum@jalovetz.at
+
 www.kulturforumvillach.at
