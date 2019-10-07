@@ -12,7 +12,7 @@
     <div class="container">
       <div class="content">
         <p>
-          {{ .Site.Params.about }}
+          {{ .Site.Params.about | markdownify }}
         </p>
       </div>
     </div>
