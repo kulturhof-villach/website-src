@@ -1,7 +1,7 @@
 +++
 title = "Man of Isle"
 authors = ["kulturhofkeller"]
-date = 2019-10-04
+date = 2019-10-18
 publishdate = 2019-09-18
 time = "20:00"
 description = "Singer-songwriter project by David Edlinger and music producer Stefan Deisenberger"
