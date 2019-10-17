@@ -16,7 +16,7 @@ draft = false
 +++
 
 > Admission: € 15.- / € 12.-* / € 8.-**
-> *Presale online at [ntry.at/manofisle](ntry.at/manofisle) and at Stadtmarketing Villach, Hans-Gasser-Platz 5. *Reduced admission rates for pensioners, **students, JugendLebtStadt
+> *Presale online at [ntry.at/manofisle](https://ntry.at/manofisle) and at Stadtmarketing Villach, Hans-Gasser-Platz 5. *Reduced admission rates for pensioners, **students, JugendLebtStadt
 >
 > **Reservations:**
 >

@@ -16,7 +16,7 @@ draft = false
 +++
 
 > Eintritt: € 15.- / € 12.-* / € 8.-**
-> *Im Vorverkauf online auf [ntry.at/manofisle](ntry.at/manofisle) sowie beim  Stadtmarketing Villach, Hans-Gasser-Platz 5. *Ermäßigungen für Pensionisten, **SchülerInnen und StudentInnen, JugendLebtStadt
+> *Im Vorverkauf online auf [ntry.at/manofisle](https://ntry.at/manofisle) sowie beim  Stadtmarketing Villach, Hans-Gasser-Platz 5. *Ermäßigungen für Pensionisten, **SchülerInnen und StudentInnen, JugendLebtStadt
 >
 > **Reservierungen:**
 >
