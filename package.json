@@ -14,7 +14,7 @@
     "server": "snap run hugo server",
     "start": "npm run server",
     "say-hello": "echo 'Hello World'",
-    "thumb" : "rm /static/img/events/thumb* && for i in /static/img/events/*.jpg; do convert -thumbnail x200 $i thumb_$i; done"
+    "thumb": "rm /static/img/events/thumb* && for i in /static/img/events/*.jpg; do convert -thumbnail x200 $i thumb_$i; done"
   },
   "repository": {
     "type": "git",
