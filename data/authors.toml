@@ -149,6 +149,23 @@
   xing = ""
   linkedin = ""
 
+[ unikum ]
+  name = "unikum"
+  featured = "/img/organiser/unikum.gif"
+  [ unikum.bio ]
+    en = "Short paragraph about author"
+    de = "UniversitÄtskulturzentrum UNIKUM | Kulturni center univerze v Celovcu"
+  website = "http://www.unikum.ac.at"
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
+
 [ sona-booking ]
   name = "SONA Booking"
   featured = "/img/organiser/sona-booking.jpg"
