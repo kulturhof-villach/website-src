@@ -69,6 +69,22 @@
   xing = ""
   linkedin = ""
 
+[ damensalon ]
+  name = "Damensalon"
+  featured = "/img/organiser/damensalon.jpg"
+  [ damensalon.bio ]
+    en = "Short paragraph about author"
+    de = "doppelt sichtbar sind die Zwillingsbrüder Mart und Kassabrot. Mit einmaligen Stil, der doppelt besser hält."
+  website = "https://www.doppelt-sichtbar.at/"
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
 [ freakygreenfish ]
   name = "Freakygreenfish"
   featured = "/img/organiser/freakygreenfish.svg"
@@ -108,6 +124,22 @@
     en = "Short paragraph about author"
     de = "Kurzer Absatz über den Autor"
   website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
+[ acme ]
+  name = "acme"
+  featured = "/img/organiser/gebrueder-moped.jpg"
+  [ acme.bio ]
+    en = "Short paragraph about author"
+    de = "Theaterkollektiv, beheimatet in Villach und Graz"
+  website = "http://www.acmeonline.org"
   email = ""
   github = ""
   twitter = ""

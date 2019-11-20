@@ -1,7 +1,7 @@
 +++
 title = "Monobrother & Katharsis @Loco Sound Club"
 authors = ["loco"]
-date = 2019-11-09
+date = 2019-12-07
 publishdate = 2019-09-07
 time = "21:00"
 description = "presented by Honigdachs"
@@ -36,7 +36,7 @@ AKTUELLE VIDEOS MONOBROTHER:
 https://youtu.be/IZx-AUugiNs
 https://youtu.be/GVCmaxNkgKg
 
-# KATHARSIS (DRK & Digga Mindz) 
+# KATHARSIS (DRK & Digga Mindz)
 
 Ein neues Traum-Gespann ist geboren. KATHARSIS, das sind DRK und DIGGA MINDZ.
 DIGGA MINDZ gilt in der heimischen HipHop-Landschaft nicht nur als einer der gefragtesten Beatbastler, sondern als der Producer-on-the-Mic schlechthin. Traditionell pendeln die Mundart-Raps des in Kärnten aufgewachsenen Künstlers zwischen Gesellschaftskritik, selbstreferenziellen, teils grüblerischen Inhalten und Battleästhetik. Den Faible für Letztere teilt auch der rappende Berserker DRK, aktives Drittel der - laut THE MESSAGE-Magazin - „dreckigsten Boyband Österreichs“, DRK & FOZ. Der aus dem Salzkammergut stammende Wahlwiener ist berüchtigt für rohe Wortgewalt. DRKs splatter-artiger Tempo-Rap und Digga Mindz' humorvolle Battle-Lyrics verwachsen auf Katharsis zur perfekten Symbiose. Die LP erschien im Frühjahr 2019 über Honigdachs.
