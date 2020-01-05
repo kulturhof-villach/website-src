@@ -135,12 +135,28 @@
 
 [ acme ]
   name = "acme"
-  featured = "/img/organiser/gebrueder-moped.jpg"
+  featured = "/img/organiser/acme.jpg"
   [ acme.bio ]
     en = "Short paragraph about author"
     de = "Theaterkollektiv, beheimatet in Villach und Graz"
   website = "http://www.acmeonline.org"
   email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
+[ turbotheater ]
+  name = "TURBOtheater"
+  featured = "/img/organiser/turbotheater.jpg"
+  [ turbotheater.bio ]
+    en = "Free drama group led by Stefan Ebner and Andreas Thaler that is particularly interested in innovative theatre for a young audience"
+    de = "Freie Theatergruppe rund um Stefan Ebner und Andreas Thaler, die neben anderem vor allem versucht relevantes und innovatives Jugendtheater zu machen!"
+  website = "http://www.turhotheater.at"
+  email = "zentrale@turbotheater.at"
   github = ""
   twitter = ""
   facebook = ""
