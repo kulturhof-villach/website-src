@@ -52,6 +52,22 @@
   xing = ""
   linkedin = ""
 
+[ gemma ]
+  name = "Gemma"
+  featured = "/img/avatar-placeholder.png"
+  [ gemma.bio ]
+    en = "GEMMA - Germeshausen und Mak; Villach; Youth; EU; EU Projects; Art; Concerts"
+    de = "GEMMA - Germeshausen und Mak; Villach; Jugend; EU; EU Projekte; Kunst; Freizeit; Konzerte;"
+  website = "http://www.gemma.cc"
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
 
 [ doppelt-sichtbar ]
   name = "Doppelt Sichtbar"
