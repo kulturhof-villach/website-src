@@ -54,7 +54,7 @@
 
 [ gemma ]
   name = "Gemma"
-  featured = "/img/avatar-placeholder.png"
+  featured = "/img/organiser/gemma.png"
   [ gemma.bio ]
     en = "GEMMA - Germeshausen und Mak; Villach; Youth; EU; EU Projects; Art; Concerts"
     de = "GEMMA - Germeshausen und Mak; Villach; Jugend; EU; EU Projekte; Kunst; Freizeit; Konzerte;"
