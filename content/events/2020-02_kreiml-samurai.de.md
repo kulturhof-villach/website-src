@@ -4,7 +4,7 @@ authors = ["loco"]
 date = 2020-02-29
 publishdate = 2019-09-06
 time = "20:00"
-description = "presented by Honigdachs"
+description = "Honigdachs & LOCO Sound Club präsentieren: KREIML & SAMURAI – „Zruck in die Zua-kunft“ Tour 2020"
 featured = "img/events/2020-02_kreiml-samurai.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -16,7 +16,6 @@ draft = false
 
 > **Tickets:** [www.honigdachs.at](www.honigdachs.at)
 
-Honigdachs präsentiert:
 
 KREIML & SAMURAI – „Zruck in die Zua-kunft“ Tour 2020
 
@@ -33,3 +32,5 @@ Nun wird es Zeit sich wieder auf das Wesentliche zu besinnen. Frei nach dem Mott
 
 Tickets erhältlich unter https://honigdachs.at, https://oeticket.com & http://eventim.de
 VVK Start: 21.08. – 16:00
+
+{{< rel-figure src="img/events/2020-02_kreiml-samurai2.jpg" >}}

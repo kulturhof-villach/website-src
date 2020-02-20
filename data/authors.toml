@@ -213,3 +213,19 @@
   slideshare = ""
   xing = ""
   linkedin = ""
+
+[ honkytonk ]
+  name = "Honky Tonk Festival"
+  featured = "/img/organiser/honkytonk.png"
+  [ honkytonk.bio ]
+    en = "Honky Tonk Festival Villach: Die lange Nacht der Livemusik: 19 Lokale, 24 Bands & Künstler"
+    de = "Honky Tonk Festival Villach: The long night of live music: 19 locations , 24 bands and artists"
+  website = "http://www.honky-tonk.info/"
+  email = "office@media-con.at"
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
