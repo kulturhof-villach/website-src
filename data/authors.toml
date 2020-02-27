@@ -229,3 +229,35 @@
   slideshare = ""
   xing = ""
   linkedin = ""
+
+[ zukringl ]
+  name = "Catharina Zukringl"
+  featured = "/img/organiser/zukringl.png"
+  [ zukringl.bio ]
+    en = "Hello! My name is Catharina Zukrigl. I've been a theatre drama teacher since September 2019. Tanztheater is my passion and I want to share this whith you."
+    de = "Hallo! Ich bin Catharina Zukringl, Theaterpädagogin seit September 2019. Das TanzTheater ist meine große Leidenschaft und diese möchte ich mit euch teilen."
+  website = "https://www.theapolis.de/de/profil/catharina-zukrigl"
+  email = "catharinazukrigl@gmail.com"
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
+[ ju-villach ]
+  name = "Jugendbüro Villach"
+  featured = "/img/organiser/ju-villach.jpg"
+  [ ju-villach.bio ]
+    en = "Youth Office of the City of Villach"
+    de = "Jugendbüro der Stadt Villach"
+  website = "https://www.ju.villach.at/"
+  email = "jugend@villach.at"
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
