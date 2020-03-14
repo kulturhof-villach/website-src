@@ -1,10 +1,10 @@
 +++
-title = "Spinning Wheel / Irish Night"
+title = "ABGESAGT: Spinning Wheel / Irish Night"
 authors = ["honkytonk"]
 date = 2020-04-04
 publishdate = 2019-09-06
 time = "20:00"
-description = "Honky Tonk Festival: Die lange Nacht der Livemusik: 19 Lokale, 24 Bands & KünstlerInnen"
+description = "Aufgrund der momentanen Situation wird diese Veranstaltung abgesagt."
 featured = "img/events/2020-04_honkytonk.jpg"
 featuredVideo = ""
 featuredVimeo = ""

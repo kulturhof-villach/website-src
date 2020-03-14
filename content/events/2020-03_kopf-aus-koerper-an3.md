@@ -11,7 +11,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["workshop"]
-draft = false
+draft = true
 +++
 
 > **Teilnahmegebühr:** 10€ zu Beginn der Werkstatt bar zu bezahlen

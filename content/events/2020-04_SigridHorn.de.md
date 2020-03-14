@@ -1,10 +1,10 @@
 +++
-title = "Sigrid Horn Trio"
+title = "VERSCHOBEN: Sigrid Horn Trio"
 authors = ["kulturhofkeller"]
 date = 2020-04-09
 publishdate = 2019-09-06
 time = "20:00"
-description = "SIGRID HORN - endlich wieder mal im Kulturhofkeller ..."
+description = "Aufgrund der momentanen Situation wird diese Veranstaltung verschoben."
 featured = "img/events/2020-04_sigridhorn.jpg"
 featuredVideo = ""
 featuredVimeo = ""

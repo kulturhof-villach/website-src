@@ -1,10 +1,10 @@
 +++
-title = "Wir, Theastronauten"
+title = "ABGESAGT: Wir, Theastronauten"
 authors = ["turbotheater"]
 date = 2020-03-06
 publishdate = 2019-09-06
 time = "09:30"
-description = "Die neue Theaterperformance aus der Werkstatt des TURBOtheater Villach!"
+description = "Aufgrund der momentanen Situation wird diese Veranstaltung abgesagt."
 featured = "img/events/2020-01_theastronauten.jpg"
 featuredVideo = ""
 featuredVimeo = ""

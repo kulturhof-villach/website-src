@@ -1,10 +1,10 @@
 +++
-title = "Emmeluth's Amoeba"
+title = "ABGESAGT: Emmeluth's Amoeba"
 authors = ["kulturforum-villach"]
 date = 2020-03-13
 publishdate = 2019-09-06
 time = "20:00"
-description = "jazz.villach20"
+description = "Aufgrund der momentanen Situation wird diese Veranstaltung abgesagt"
 featured = "img/events/2020-03_kulturforum.png"
 featuredVideo = ""
 featuredVimeo = ""

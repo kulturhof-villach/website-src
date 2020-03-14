@@ -1,10 +1,10 @@
 +++
-title = "Paul Ruben"
+title = "VERSCHOBEN: Paul Ruben"
 authors = ["kulturhofkeller"]
 date = 2020-03-14
 publishdate = 2019-09-06
 time = "20:00"
-description = "Halleluyah Tour 2020"
+description = "Aufgrund der momentanen Situation wird diese Veranstaltung verschoben."
 featured = "img/events/2020-03_paulruben.jpg"
 featuredVideo = ""
 featuredVimeo = ""
