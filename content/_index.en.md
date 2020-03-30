@@ -2,7 +2,7 @@
 title = "Kulturhofkeller Villach"
 authors = ["test-author"]
 date = "2019-09-05"
-description = "Due to the current situation, all events until early April will be cancelled or postponed."
+description = "Due to the current situation, all events until further notice will be cancelled or postponed."
 featured = "/img/mood.jpg"
 featuredVideo = ""
 featuredVimeo = ""
