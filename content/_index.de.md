@@ -2,7 +2,7 @@
 title = "Kulturhofkeller Villach"
 authors = ["test-author"]
 date = "2019-09-05"
-description = "Aufgrund der aktuellen Situation werden vorerst sämtliche  Veranstaltungen bis auf Weiteres abgesagt bzw. verschoben."
+description = ""
 featured = "/img/mood.jpg"
 featuredVideo = ""
 featuredVimeo = ""

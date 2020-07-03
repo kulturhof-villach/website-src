@@ -6,7 +6,7 @@ DefaultContentLanguage = "de"
 
 [params]
 name = "Verein kult:villach"
-address = "Lederergasse 17, 9500 Villach"
+address = "Lederergasse 15, 9500 Villach"
 email = "office@kulturhofkeller.at"
 phone = "+43 699 15088177"
 [params.social]
