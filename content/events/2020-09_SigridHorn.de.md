@@ -31,4 +31,4 @@ Erstmals dem großen Publikum präsentiert wird das Album in der Elbphilharmonie
 >
 > Eintritt: € 18.- / € 15.-\* / € 8.-\*\*
 >
->\*Im Vorverkauf online auf https://ntry.at/sigridhornlive sowie beim Stadtmarketing Villach \*Ermäßigungen für Pensionisten,SchülerInnen und StudentInnen  \**JugendLebtStadt
+>\*Im Vorverkauf online auf https://ntry.at/sigridhornlive \*Ermäßigungen für Pensionisten,SchülerInnen und StudentInnen  \**JugendLebtStadt
