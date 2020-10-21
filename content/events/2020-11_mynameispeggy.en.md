@@ -14,16 +14,15 @@ tags = ["theater"]
 draft = false
 +++
 
-> Bitte kaufen Sie die Tickets nach Möglichkeit online: [http://ntry.at/mynameispeggy
+> Please buy your tickets in advance online: [http://ntry.at/mynameispeggy
 ](http://ntry.at/mynameispeggy)
 >
-> Sollte ein Online-Ticketkauf nicht möglich sein, ist eine RESERVIERUNG aufgrund der begrenzten Anzahl an Plätzen dringend erforlderlich: 
-Via Mail an office@kulturhofkeller.at oder via SMS an 0699 15088177  
+> If you cannot buy tickets in advance, we do require reservations due to current regulations via email (office@kulturhofkeller.at) or via SMS to 0699 15088177  
 >
-> Preise: € 18.- / € 15.-\* / € 8.-\*\*
+> Preise: € 18.- / € 12.-\* / € 8.-\*\*
 >
-> \* Im Vorverkauf online auf http://ntry.at/mynameispeggy 
-> \*Ermäßigungen für Pensionisten, SchülerInnen und StudentInnen \*\*JugendLebtStadt
+> \* presale prices on http://ntry.at/mynameispeggy 
+> \*Reduced ticket prices for retirees, and students \*\*JugendLebtStadt
 
 “Ich frage mich oft, ob ich nach dem Glück suche oder ob das Glück nach mir sucht; aber ich verstecke mich und das Glück findet mich nicht.”
 — Marc Becker

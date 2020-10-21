@@ -20,7 +20,7 @@ draft = false
 > Sollte ein Online-Ticketkauf nicht möglich sein, ist eine RESERVIERUNG aufgrund der begrenzten Anzahl an Plätzen dringend erforlderlich: 
 Via Mail an office@kulturhofkeller.at oder via SMS an 0699 15088177  
 >
-> Preise: € 18.- / € 15.-\* / € 8.-\*\*
+> Preise: € 18.- / € 12.-\* / € 8.-\*\*
 >
 > \* Im Vorverkauf online auf http://ntry.at/mynameispeggy 
 > \*Ermäßigungen für Pensionisten, SchülerInnen und StudentInnen \*\*JugendLebtStadt
