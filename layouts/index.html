@@ -1,5 +1,5 @@
 {{ define "header" }}
-  {{ partial "hero.html" . }}
+  {{ partial "hero-nocal.html" . }}
   {{ partial "header.html" . }}
 {{ end }}
 
@@ -17,6 +17,8 @@
   </div>
 {{ end }}
 
+
+
 {{ define "aside" }}
 {{ end }}
 
@@ -25,4 +27,14 @@
 {{ end }}
 
 {{ define "custom-js" }}
+{{ end }}
+
+{{ define "pre-footer" }}
+<section class="hero">
+    <div class="hero-body">
+      <div class="container">
+        {{ partial "calendar-block.html" . }}
+      </div>
+    </div>
+  </section>
 {{ end }}
