@@ -13,7 +13,7 @@ tags = []
 
 ## Wir suchen...
 
-Nach 10 Jahren Kulturhof:keller Villach geht es in eine Erweiterung und in eine Neuausrichtung, die auch nach einem neuen Team ruft. Mit dem Kulturhof Villachsoll 2021 der nächste Schritt in Richtung großräumiges Kulturzentrum mit Strahlkraftgeschehen. *Wir wollen etwas bewegen und diesen Ort erhalten und neu denken*. Kurz gesagt: Wir suchen eine motivierte, flexible, kunst-und kulturbegeisterte [**Büroleitung**](https://www.dropbox.com/s/t4595pjo849j4d3/KuHof_Ausschreibung%20B%C3%BCroleitung%202021.pdf?dl=0) sowie [**Büroassistenz**](https://www.dropbox.com/s/qe7qp3h38lgx5m7/KuHof_Ausschreibung%20B%C3%BCroassistenz%202021.pdf?dl=0)  die insbesondere daran interessiert sind, diesen einzigartigen Ort mitzugestalten und mitzutragen. 
+Nach 10 Jahren Kulturhof:keller Villach geht es in eine Erweiterung und in eine Neuausrichtung, die auch nach einem neuen Team ruft. Mit dem Kulturhof Villachsoll 2021 der nächste Schritt in Richtung großräumiges Kulturzentrum mit Strahlkraftgeschehen. *Wir wollen etwas bewegen und diesen Ort erhalten und neu denken*. Kurz gesagt: Wir suchen eine motivierte, flexible, kunst-und kulturbegeisterte [**Büroleitung**](https://www.dropbox.com/s/yhg2hq23nbdluhh/KuHof_Ausschreibung%20B%C3%BCroleitung%202021.pdf?dl=0) sowie [**Büroassistenz**](https://www.dropbox.com/s/ubyjz49eznzhjkn/KuHof_Ausschreibung%20B%C3%BCroassistenz%202021.pdf?dl=0)  die insbesondere daran interessiert sind, diesen einzigartigen Ort mitzugestalten und mitzutragen. 
 
 ---
 
