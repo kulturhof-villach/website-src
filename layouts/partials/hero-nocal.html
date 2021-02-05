@@ -1,14 +1,14 @@
 <div id="hero">
-<section class="hero is-medium has-background">
-  <img class="hero-background is-transparent" src="{{ .Site.Params.logo.heroImg | relURL }}" alt="">
+<section class="hero is-fullhight has-navbar">
+  <img class="is-fullwidth" src="{{ .Site.Params.logo.heroImg | relURL }}" alt="">
   <div class="hero-body">
     <div class="container hero-container">
       <!-- <figure class="image">
         <img class="center" src="{{ .Site.Params.logo.notext | relURL }}">
       </figure> -->
-      <h1 class="title has-no-margin">{{ .Site.Title | markdownify}}</h1>
+      <!-- <h1 class="title has-no-margin">{{ .Site.Title | markdownify}}</h1>
       <h2 class="subtitle">{{ .Site.Params.description | markdownify }}</h2>
-      <h3 class="subtitle has-text-warning meta">{{ .Page.Params.description | markdownify }}</h3>
+      <h3 class="subtitle has-text-warning meta">{{ .Page.Params.description | markdownify }}</h3> -->
     </div>
   </div>
   <!-- Hero footer: will stick at the bottom -->
