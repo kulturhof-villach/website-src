@@ -7,7 +7,7 @@ DefaultContentLanguage = "de"
 [params]
 name = "Verein kult:villach"
 address = "Lederergasse 15, 9500 Villach"
-email = "office@kulturhofkeller.at"
+email = "office@kulturhofvillach.at"
 phone = "+43 699 15088177"
 [params.social]
 [params.social.instagram]
