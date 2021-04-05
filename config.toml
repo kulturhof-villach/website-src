@@ -1,4 +1,4 @@
-baseURL = "https://www.kulturhofvillach.at/"
+baseURL = "https://kulturhofvillach.at/"
 languageCode = "de-at"
 theme = "bulma-base"
 publishDir = "kulturhof-villach.github.io"
