@@ -9,9 +9,9 @@
     "git": "git add . && git commit -m",
     "git-pull": "git pull --recurse-submodules",
     "postgit": "git push --recurse-submodules=on-demand",
-    "build": "snap run hugo",
+    "build": "hugo",
     "postbuild": "npm run git-build && npm run git -- 'rebuild site'",
-    "server": "snap run hugo server",
+    "server": "hugo server",
     "start": "npm run server",
     "say-hello": "echo 'Hello World'",
     "thumb": "rm /static/img/events/thumb* && for i in /static/img/events/*.jpg; do thumb_$i; done"

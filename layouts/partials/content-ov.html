@@ -39,11 +39,11 @@
                     {{ dateFormat "02.01.2006" . }}
                   {{ end }}
                 </h3>
-                <h3 class="hero-quote ov has-text-primary">
+                <h3 class="hero-quote ov has-text-success">
                   {{ with .tags }}#{{ delimit . " #"}}{{ end }}
                 </h3>
-                <h1 class="hero-quote ov">{{ .title }}</h1>
-                <h2 class="hero-quote has-text-warning">{{ .text | markdownify }}</h2>
+                <h1 class="hero-quote has-text-warning">{{ .title }}</h1>
+                <h2 class="hero-quote has-text-primary">{{ .text | markdownify }}</h2>
                 <h3 class="hero-quote ov">
                   {{ with .authors }}
                     {{ delimit . " | "}}

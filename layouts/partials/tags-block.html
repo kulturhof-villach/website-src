@@ -6,7 +6,7 @@
   {{ $title := .Title}}
 
   <section class="hero is-small">
-    <div class="hero-body has-text-centered center">
+    <div class="hero-body has-text-centered center is-success">
       {{ range $key, $taxonomy := .Site.Taxonomies.tags }}
         <div class="">
           {{ if in $thistaxonomy $key }}

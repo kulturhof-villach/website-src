@@ -4,10 +4,10 @@
   <div class="hero-body">
     <div class="container hero-container has-text-right">
         <h1 class="is-6 has-margin-bottom-08">
-          <mark class="mark-bg-bc">
+          <mark class="mark-bg-success">
             {{ range $key := .Param "tags"}}
             <a href="{{ $.Site.BaseURL}}/{{ $.Site.LanguagePrefix }}/tags/{{ $key}}/">
-              <span class="has-text-warning">
+              <span class="has-text-black">
                 #{{ $key }}
               </span>
             </a>
@@ -15,18 +15,18 @@
           </mark>
         </h1>
         <h1 class="is-6 subtitle has-margin-bottom-08">
-          <mark class="mark-bg-link has-text-warning">
+          <mark class="mark-bg-warning has-text-black">
             {{ .Params.date  | dateFormat "02.01.2006"}}, {{ .Params.time }}
           </mark>
         </h1>
-        <h1 class="title is-1 has-margin-bottom-08"><mark>{{ .Title }}</mark></h1>
-        <h1 class="title is-3"><mark>{{ .Params.description }}</mark></h1>
+        <h1 class="title is-1 has-margin-bottom-08"><mark class="mark-bg-primary">{{ .Title }}</mark></h1>
+        <h1 class="title is-3"><mark class="mark-bg-link has-text-info">{{ .Params.description }}</mark></h1>
         <h1 class="is-6 subtitle has-margin-bottom-08">
-          <mark class="mark-bg-link has-text-warning">
+          <mark class="mark-bg-info has-text-black">
             hosted by
             {{ range $key := .Param "authors"}}
             <a href="{{ $.Site.BaseURL}}/{{ $.Site.LanguagePrefix }}organisers/{{ $key}}/">
-              <span class="has-text-warning">
+              <span class="has-text-black">
                 {{ $key }} |
               </span>
             </a>
@@ -39,14 +39,14 @@
     <div class="next-prev">
       <div class="next">
       {{ with .NextInSection }}
-        <a class="button is-link" href="{{ .Permalink }}">
+        <a class="button is-info" href="{{ .Permalink }}">
           <i class="fas fa-chevron-left fa-lg"></i>
         </a>
       {{ end }}
     </div>
     <div class="prev">
       {{ with .PrevInSection }}
-        <a class="button is-link" href="{{ .Permalink }}">
+        <a class="button is-info" href="{{ .Permalink }}">
           <i class="fas fa-chevron-right fa-lg"></i>
         </a>
       {{ end }}

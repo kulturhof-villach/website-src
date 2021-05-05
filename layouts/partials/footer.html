@@ -1,16 +1,16 @@
 <section class="section has-no-padding">
 
-  <footer class="footer has-background-link has-text-centered footer-tags">
+  <footer class="footer has-background-bc has-text-centered footer-tags">
     {{partial "tags.html" .}}
   </footer>
 
-  <section id="newsletter" class="hero is-info">
+  <section id="newsletter" class="hero has-background-bcalt">
   <div class="hero-body">
     <div class="container">
       <!-- Begin MailChimp Signup Form -->
       <div id="mc_embed_signup" class="columns is-vcentered is-multiline">
         <div class="column is-full">
-          <p class="subtitle has-text-centered"><i class="fas fa-paper-plane mail"> </i> Kulturhofkeller <strong>Newsletter</strong></p>
+          <p class="subtitle has-text-centered has-text-primary"><i class="fas fa-paper-plane mail"> </i> Kulturhof:Newsletter</p>
         </div>
 
         <div class="column">
@@ -43,7 +43,7 @@
     </div>
   </div>
   </section>
-  <section class="section">
+  <section class="section has-background-info">
     <div class="hero-body">
       <div class="container">
         <div class="columns">
@@ -62,7 +62,7 @@
               <img src="{{ .Site.Params.logo.land | relURL  }}" width="300px">
             </figure>
           </div>
-          <div class="column" class="has-bg-white">
+          <div class="column" class="">
             <figure class="image">
               <img src="{{ .Site.Params.logo.bund | relURL }}" width="300px">
             </figure>
@@ -86,11 +86,11 @@
               <br>
               {{ .Site.Params.address }}
               <br>
-              <a href="mailto:{{ .Site.Params.email}}" class="has-text-warning">
+              <a href="mailto:{{ .Site.Params.email}}" class="has-text-link">
                 {{ .Site.Params.email }}
               </a>
               <br>
-              <a href="tel:{{ .Site.Params.phone }}" class="has-text-warning">
+              <a href="tel:{{ .Site.Params.phone }}" class="has-text-link">
                 {{ .Site.Params.phone }}
               </a>
             </p>

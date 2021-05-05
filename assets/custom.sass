@@ -1,18 +1,22 @@
 @import url('https://fonts.googleapis.com/css?family=Fira+Mono:400,500,700&display=swap')
 $family-primary: 'Fira Mono', monospace
 
-$background-color: #3E3834
+$background-color: #FCEFF9
+$background-alt: #e9d7e5
 
 
 //  F67280   F67280   C06C84   6C5B7B   355C7D
-$primary: #fefefe
-$link: #4e4844
-$info: #8B817A
-$success: hsl(0,0%,94%)
-$warning: #DDD3CE
+$primary: #04C7B7
+$link: #004E64
+$info: #c7a9c0
+$success: #F3A712
+$warning: #DB2B39
 
 .has-background-bc
   background-color: $background-color !important
+
+.has-background-bcalt
+  background-color: $background-alt !important
 
 
 
@@ -20,27 +24,28 @@ body
   background-color: $background-color !important
 
 .navbar, .navbar-menu
-  background-color: $background-color !important
+  background-color: $background-alt !important
 
 .navbar-burger
   color: $primary !important
 
 .menu-list a
-  color: $warning !important
+  color: $primary !important
   &:hover
-    background-color: $warning !important
+    background-color: $primary !important
     color: $background-color !important
 
 a.menu-label
-  color: $warning !important
+  color: $link !important
   &:hover
-    background-color: $warning !important
+    background-color: $primary !important
     color: $background-color !important
 
 a
-  color: $warning !important
+  color: $link !important
+
   &:hover
-    background-color: $warning !important
+    background-color: $primary !important
     color: $background-color !important
 
 
@@ -54,7 +59,7 @@ a
   color: $primary !important
 
 .datepicker-date
-  background-color: $link !important
+  background-color: $info !important
 
 .is-current-month
   background-color: $background-color !important
@@ -71,13 +76,14 @@ h2.subtitle
   color: $warning
 
 h2, h3, h4, h5
-  color: $info !important
+  color: $link !important
 
 p, ul, li
-  color: $primary !important
+  color: $link !important
 
 blockquote
-  background-color: $link !important
+  background-color: $background-alt !important
+  border-left: 0px !important
 
 .content h1
   font-weight: 400 !important
@@ -92,15 +98,29 @@ hr
 mark
   background: rgba($warning, 0.7)
   padding: 0.2em
+  line-height: 1.5em !important
+
 
 .mark-bg-bc
   background: rgba($background-color, 0.7)
+
+.mark-bg-bcalt
+  background: rgba($background-alt, 0.7)
+
+.mark-bg-info
+  background: rgba($info, 0.7)
+
+.mark-bg-primary
+  background: rgba($primary, 0.7)
+
+.mark-bg-success
+  background: rgba($success, 0.7)
 
 .mark-bg-link
   background: rgba($link, 0.7)
 
 .hero-foot
-  background-color: $link !important
+  background-color: $background-alt !important
 
 .hero-container
   margin-top: 4em
@@ -110,7 +130,7 @@ mark
 	background-color: $background-color !important
 
 .content-ov:nth-child(odd)
-	background-color: $link !important
+	background-color: $background-alt !important
 
 $very-light-gray: #fefefe
 $light-gray: #8B817A
@@ -131,8 +151,8 @@ $base-background-color: #4e4844
 $base-border-color:     transparent
 
 // Text Colors
-$text-color-dark:      #4e4844
-$text-color:           #DDD3CE/*#DDCEC2*/
+$text-color-dark:      $info
+$text-color:           $success
 $text-color-subtle:    #8B817A/*#8B817A*/
 $text-color-highlight: hsl(0,0%,94%)
 $text-color-selected:  hsl(0,0%,100%)
@@ -144,13 +164,13 @@ $text-color-error:   hsl(  9, 100%, 64%)
 
 // Background colors
 $background-color-info:    lighten($text-color-info, 10%)
-$background-color-success: #73c48f
-$background-color-warning: hsl(32,   60%, 50%)
+$background-color-success: $success
+$background-color-warning: $warning
 $background-color-error:   hsl(0,    70%, 50%)
 
 $background-color-highlight: #7c7774
 $background-color-selected:  lighten($background-color-highlight, 10%)
-$background-color-darken:    #45413f
+$background-color-darken:    $link
 $background-color-active:    #574f4a
 $app-background-color:       darken($background-color-active, 2%)
 $base-input-background-color: #f6f6f6
