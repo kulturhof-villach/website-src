@@ -36,6 +36,22 @@
   xing = ""
   linkedin = ""
 
+[ kulturhof ]
+  name = "Kulturhof:"
+  featured = "/img/organiser/kulturhofkeller.svg"
+  [ kulturhof.bio ]
+    en = "Short paragraph about author"
+    de = "Der Kulturhofkeller ist ein autonomes Kulturzentrum mitten in der Villacher Altstadt - betrieben vom gemeinnützigen Verein kult:villach. Das Kulturzentrum bietet Vereinen und Kulturschaffenden aller Sparten eine Bühne für ein breitgefächertes Programm von Literatur, Theater, Tanz über Musik bis hin zu Ausstellungen, Performances uvm."
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
 [ cofestival ]
   name = "Cofestival"
   featured = "/img/organiser/cofestival.png"
