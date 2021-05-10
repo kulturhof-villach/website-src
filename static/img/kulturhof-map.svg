@@ -474,7 +474,7 @@
        stroke-width="0"
        fill="#d3d3d3"
        fill-opacity="0.807843"
-       id="backyardstage"
+       id="backyard"
        class="stage  outside  lvl0"
        style="stroke:#ffffff" />
     <path
@@ -554,7 +554,7 @@
        stroke-width="0"
        fill="#d3d3d3"
        fill-opacity="0.807843"
-       id="spot-backyardstage"
+       id="spot-backyard"
        class="spots" />
     <path
        style="fill:none;stroke:#c7a9c0;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -632,7 +632,7 @@
          id="tspan90-09-3"
          x="69.759926"
          y="373.70245"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';fill:#04c7b7;fill-opacity:1;stroke-width:0.75">:backyardstage</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';fill:#04c7b7;fill-opacity:1;stroke-width:0.75">:backyard</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;display:inline;fill:#004e64;fill-opacity:1;stroke:none;stroke-width:0.75"
