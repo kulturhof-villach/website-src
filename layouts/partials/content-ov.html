@@ -37,7 +37,7 @@
                 <h3 class="hero-quote ov has-text-grey has-text-right">
                   {{ with .date }}
                     {{ dateFormat "02.01.2006" . }}
-                  {{ end }}
+                  {{ end }} - {{ .time }}
                 </h3>
                 <h3 class="hero-quote ov has-text-success">
                   {{ with .tags }}#{{ delimit . " #"}}{{ end }}
