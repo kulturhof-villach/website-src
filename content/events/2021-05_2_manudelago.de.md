@@ -3,7 +3,7 @@ title = "MANU DELAGO „ReCycling Tour 2021“"
 authors = ["kulturhof"]
 date = 2021-05-27
 publishdate = 2021-05-01
-time = "20:00"
+time = "20:30"
 description = "Eine umweltfreundliche Konzert-Tournee auf Fahrrädern"
 featured = "img/events/2021-05_manudelago.jpg"
 featuredVideo = ""
@@ -17,7 +17,7 @@ draft = false
 >
 > EINTRITT: € 25.-\* / € 10.-\*\*
 >
-> \*Im Vorverkauf online auf [ntry.at/recycling2021](ntry.at/recycling2021) sowie wochentags von 09 bis 12 Uhr im Kulturhof:Büro, Lederergasse 15.
+> \*Im Vorverkauf online auf [ntry.at/recycling2021](http://ntry.at/recycling2021) sowie wochentags von 09 bis 12 Uhr im Kulturhof:Büro, Lederergasse 15.
 > \*\*Ermäßigungen für SchülerInnen und StudentInnen, JugendLebtStadt und einkommensschwache Personen direkt am Veranstaltungsabend.
 
 
