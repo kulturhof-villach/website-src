@@ -1,7 +1,7 @@
 +++
 title = "MANU DELAGO „ReCycling Tour 2021“"
 authors = ["kulturhof"]
-date = 2021-05-27
+date = 2021-05-27T20:30:00
 publishdate = 2021-05-01
 time = "20:30"
 description = "Eine umweltfreundliche Konzert-Tournee auf Fahrrädern"
