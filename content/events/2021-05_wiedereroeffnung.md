@@ -35,8 +35,19 @@ Ab 18:30 Uhr gibt es die offizielle Eröffnung im Hinterhof mit Vorstellung der 
 ### Sascha Mikel \*1985
 {{< rel-figure src="img/events/2021-05_sascha.jpg" >}}
 
-Der Künstler und Designer Sascha Mikel lebt und arbeitet in Wien und Kärnten, ist Mitbegründer des Kunstvereins “Goto”, international in Sammlungen vertreten und an zahlreichen Ausstellungen beteiligt. Seit 2012 ist er auch als Bühnenbildner für diverse Theaterproduktionen tätig. 
-Sascha Mikel macht den kulturhof:villach als “System” in seinem Facettenreichtum besser erkennbar und erfahrbar. Den kulturhof:™ sieht er nicht als Ort mit einem Zentrum, sondern als etwas Lebendiges, sich Weiterentwickelndes - wie Rhizome von Pilzen vernetzt sich das System kulturhof:™ mit der Stadt und geht mit ihr eine interdependente Beziehung ein - offen nach innen und nach außen.
+Geboren am 02.03.1985 in Klagenfurt, Kärnten, lebt und arbeitet in Wien und Kärnten. Nach 5-jähriger Ausbildung für Industriedesign, und 2-jährigem College für Objektdesign, MA-Studium für Product & Spatial Design an der Kingston University, London. Danach Diplomstudium Bildende Kunst an der Akademie der bildenden Künste Wien, Klasse textuelle Bildhauerei bei Heimo Zobernig. Theoretische Magisterarbeit in „Philosophie & ästhetische Theorie“ bei Dr. Ruth Sonderegger.
+Mitgründer des 2007 entstandenen Kunstverein „Goto“ (www.gotoclub.at). Seit 2008 mit Martin Schnabl und Michael Michael Moser unter dem Namen breadedEscalope (www.breadedescalope.com, www.be-studio.at) als Künstler & Designer tätig (2018 Outstanding Artist Award, Staatspreis für experimentelles design). International in Sammlungen vertreten und an zahlreichen Ausstellungen beteiligt. Seit 2012 auch als Bühnenbildner für diverse Theaterproduktionen tätig.
+
+
+(Werkbeschreibung lang):
+
+
+###  “Zentrum ohne Zentrum”
+Den Kulturhof in einem größeren Zusammenhang zu fassen und ein Konzept zu generieren, das längerfristig verfolgt und umgesetzt werden kann…
+ dass „System“ Kulturhof als solches in seinem Facettenreichtum besser erkennbar und dadurch auch erfahr- und benennbar zu machen.
+Eine Plattform für Kulturschaffende, wie sie der Kulturhof in unterschiedlichster Art und genreübergreifender Form bietet, ist kein Ort oder Zentrum per se, es ist immer etwas Lebendiges, Sich-weiterentwickelndes, Dynamisch-veränderndes, das nicht abgeschlossen oder isoliert betrachtet oder erfahren werden kann. Es ist, im Gegenteil, exzentrisch und steht in einem interdependenten Verhältnis, offen nach innen und nach außen, vernetzt mit der Stadt und den Kulturschaffenden. Der Kulturhof kann als Symbiont bezeichnet werden, der mit der Stadt eine Beziehung eingeht, die beiderseitigen Nutzen bringt. Er wuchert aus, übernimmt Freiräume und „kultiviert“ sie. Dabei geht er rhizomer vor: (Ein Beispiel aus der Natur wären Pilze: Über ein Sprossachsensystem verbreiten sie sich und bilden interkommunikative Fruchtkörper (so bilden sie auch den größten Organismus der Erde)). Auch wenn die „Früchte“ dieser Beziehung von Kulturarbeiter*innen und Stadt nicht immer gleich in einem oberflächlichem „Nutzungsszenario“ erfahrbar werden, finden sie immer subversiv ihren Weg die Gemeinschaft grundlegend zu bereichern. 
+Diese grundlegenden Gedanken sollen auch Eingang in die künstlerische Neugestaltung des Kulturhofs finden: Der Kulturhof soll als System, das sich orts- und größenunabhängig ausbreiten kann, in all seinen Facetten auch visuell erfahrbar werden. So wird ein identitätsstiftender gestalterischer Rahmen von starker Farbe, Material und Form geschaffen, der mit viel Widererkennungswert, orts- und größenunabhängig implementiert werden kann. Über Wände, Böden und Objekte breitet sich so die definierte Farbe wie Schimmel aus, bildet konzentrierte Bereiche, die in Installationen und Skulpturen übergehen. Alles ist somit visuell verbunden und hat doch kein Zentrum (rhizom). Die Kulturarbeit wird im Konzept wörtlich genommen, so finden sich Halbzeuge (Baugitter, Armierungsstahl) und Werkzeuge (Schubkarren, Sackrodel, etc…) als Trägerelemente wieder. Grenzen zwischen Gebrauchsobjekt und Kunstwerk werden bewusst untergraben und in beide Richtungen überschritten: Funktionales und Funktional-anmutendes steht neben- oder aufeinander.
+ 
 
 ### Mimu Merz \*1983
 {{< rel-figure src="img/events/2021-05_mimu.jpg" >}}
@@ -54,3 +65,7 @@ Für visuelle Eindrücke sorgt die Nachwuchskünstlerin Selina Gassinger alias D
 
 Nachdem Besucher\*innen in diese Klang- und Bildwelten eingetaucht sind, erwartet sie eine weitere Neuerung - die kulturhof:artwall. 
 Die Nachwuchskünstlerin Paulina Molnar, Preisträgerin des Bruno-Gironcoli-Förderpreises 2021 stellte ihre Kunst schon im UNIKUM Klagenfurt, der Galerie Freihausgasse, dem Kulturhof:keller Villach und im Dinzlschloss Villach aus. Nun benutzt sie die kulturhof:artwall als überdimensionales Buch und vereint darauf Gedanken und Momentaufnahmen als Schrift und Skizze vereint.
+
+## Covid Informationen
+
+[Wichtige Informationen zum Besuch im Kulturhof.](covid-info)

@@ -32,3 +32,7 @@ Eine Frau im besten Alter ist nervös. Sie wird einen Mann treffen. Gut, er hat 
 - FOTO: Alex Settari
 
 Kontakt: [office@tatworttheater.com](mailto:office@tatworttheater.com)
+
+## Covid Informationen
+
+[Wichtige Informationen zum Besuch im Kulturhof.](covid-info)

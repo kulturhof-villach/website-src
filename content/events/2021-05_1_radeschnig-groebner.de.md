@@ -34,3 +34,7 @@ Neben den erfolgreichen Kärntner Aushängeschildern **RaDeschnig** und **Petuts
 - **Do, 24. Juni 2021** - Gerald Fleischhacker / Benedikt Mitmannsgruber
 - **Fr, 25. Juni 2021** - Gregor Seberg / Tereza Hossa 
 - **Sa, 26. Juni 2021** Kaufmann-Herberstein / Clemens Maria Schreiner
+
+## Covid Informationen
+
+[Wichtige Informationen zum Besuch im Kulturhof.](covid-info)

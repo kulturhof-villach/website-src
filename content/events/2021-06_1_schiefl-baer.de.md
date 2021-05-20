@@ -40,3 +40,7 @@ zum Einsatz, um die Grenzen dieses Instruments ganz neu auszuloten.
 
 **Tickets & weitere Informationen**: Kulturforum Villach, Postgasse 8, A-9500 Villach, Tel: 04242/28896,
 Fax: 04242/288966, e-mail: kulturforum@jalovetz.at
+
+## Covid Informationen
+
+[Wichtige Informationen zum Besuch im Kulturhof.](covid-info)

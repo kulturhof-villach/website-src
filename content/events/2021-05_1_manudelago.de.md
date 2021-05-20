@@ -47,3 +47,7 @@ Konzerterlebnis. Zu verfolgen ist die gesamte Tour mit viel Fotomaterial und ein
 - Veranstalter: Kult:Villach 
 - Info Hotline: 0699 15088177 
 - E-Mail: office@kulturhofvillach.at
+
+## Covid Informationen
+
+[Wichtige Informationen zum Besuch im Kulturhof.](covid-info)

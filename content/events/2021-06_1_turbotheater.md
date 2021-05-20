@@ -15,3 +15,7 @@ draft = false
 +++
 
 Ein Text aus den Theaterwerkstätten des TURBOtheaters 2020, nun als Hörspiel auf der Bühne, mit einem blauen Tisch und Darsteller:innen die nicht ganz genau wissen was passiert. 
+
+## Covid Informationen
+
+[Wichtige Informationen zum Besuch im Kulturhof.](covid-info)
