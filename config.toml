@@ -59,8 +59,6 @@ icon = "fab fa-instagram fa-lg"
     weight = 2
     announcement = "Test Announcement"
 
-
-
     [[languages.de.menu.main]]
     name = "Veranstaltungen"
     pre = "fas fa-theater-masks"
