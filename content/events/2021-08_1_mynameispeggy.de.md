@@ -1,7 +1,7 @@
 +++
 title = "My Name is Peggy"
 authors = ["kulturhof"]
-date = 2021-08-14
+date = 2021-08-14T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Ich frage mich oft, ob ich nach dem Glück suche..."

@@ -1,7 +1,7 @@
 +++
 title = "Wir schweben irgendwo bei PANDORA rum. Irgendwo, irgendwann, irgendwie..."
 authors = ["turbotheater"]
-date = 2021-06-13
+date = 2021-06-13T18:30:00
 publishdate = 2021-05-01
 time = "18:30"
 description = "Aufführung"

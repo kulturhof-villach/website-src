@@ -6,8 +6,8 @@
     <div class="columns is-multiline">
       <div class="calendar-search-results column is-full">
         {{ $calendarentries := where .Site.RegularPages "Type" "in" (slice "blog" "event")}}
-        {{ $futureevents := where $calendarentries ".Date" "ge" (now.AddDate 0 0 -1) }}
-        {{ $pastevents := where $calendarentries ".Date" "lt" (now.AddDate 0 0 -1) }}
+        {{ $futureevents := where $calendarentries ".Date" "ge" (now.AddDate 0 0 0) }}
+        {{ $pastevents := where $calendarentries ".Date" "lt" (now.AddDate 0 0 0) }}
         {{ range $futureevents.Reverse }}
         <div class="search-res future-event column is-full cls-{{ dateFormat "2006-01-02" .Date  }}">
           {{ $p := (dict "title" .Title "text" .Params.description "link" .Permalink "image" .Params.featured "imgclass" "is-square is-128x128 ov-img" "date" .Params.date "time" .Params.time "tags" .Params.tags "authors" .Params.authors )}}

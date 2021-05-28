@@ -1,7 +1,7 @@
 +++
 title = "Gregor Seberg & Tereza Hossa "
 authors = ["gebrueder-moped"]
-date = 2021-06-25
+date = 2021-06-25T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Kabarettkoalition der Gebrüder Moped Open Air im Kulturhof"

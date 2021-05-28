@@ -1,7 +1,7 @@
 +++
 title = "Malarina & Petutschnig Hons"
 authors = ["gebrueder-moped"]
-date = 2021-05-30
+date = 2021-05-30T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Kabarettkoalition der Gebrüder Moped Open Air im Kulturhof"
