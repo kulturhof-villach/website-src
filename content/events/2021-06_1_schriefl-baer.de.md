@@ -1,5 +1,5 @@
 +++
-title = "Matthias Schiefl / Johannes Bär Duo"
+title = "Matthias Schriefl / Johannes Bär Duo"
 authors = ["kulturforum-villach"]
 date = 2021-06-01
 publishdate = 2021-05-01
