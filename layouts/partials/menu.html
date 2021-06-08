@@ -1,8 +1,8 @@
 <ul id="sb-menu" class="menu-list">
   {{ range .Site.Pages }}
-  {{ if eq .Params.type "index" }}
+  {{ if eq .Params.type "info" }}
   <li>
-    <a href="{{ .Site.BaseURL}}/{{ .Site.LanguagePrefix}}/#{{ .Title | urlize }}">
+    <a href="{{ .Permalink }}">
       {{ with .Params.headericon }}
       <i class="{{ . }}"></i>
       {{ end }}

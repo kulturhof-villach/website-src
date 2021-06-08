@@ -7,7 +7,7 @@ featured = "img/virus.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
-type = ""
+type = "info"
 tags = []
 +++
 
