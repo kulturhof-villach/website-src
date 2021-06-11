@@ -1,5 +1,5 @@
 +++
-title = "Unterstützung"
+title = "Unterstützen"
 authors = ["kulturhof"]
 date = "2021-06-08"
 description = "Informationen wie du den Kulturhof: unterstützen kannst"
@@ -16,7 +16,7 @@ Der Kulturhof:villach finanziert sich soweit als möglich durch Subventionen von
 
 # Ehrenamtliche Mitarbeit
 
-Hast du Zeit uns Lust im Team des Kulturhof: mitzuarbeiten? Wir freuen uns immer über freiwillige Helferlein bei Bühnenaufbau, Publikumsdienst, Licht- und Tontechnik, 
+Hast du Zeit und Lust im Team des Kulturhof: mitzuarbeiten? Wir freuen uns immer über freiwillige Helferlein bei Bühnenaufbau, Publikumsdienst, Licht- und Tontechnik, 
 Fotografieren, Zusammenräumen, etc. Bei Interesse schreib uns doch ein Mail an office@kulturhofvillach.at.
 
 # Finanzielle Unterstützung
