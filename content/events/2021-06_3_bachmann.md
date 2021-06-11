@@ -93,6 +93,8 @@ Beim Rahmenprogramm zum Bachmannpreis im Kulturhof:villach werden sie genau dies
 
 # Film & Sound:
 
+{{< rel-figure src="img/events/2021-05_mimu.jpg" >}}
+
 In den Lesepausen zeigt der Kulturhof:villach im :backyard bzw. bei Regen auf der :mainstage Kunstfilme von Gernot Fischer-Kondratovitch “Corona Fish” und von Harald Schwinger/Wort-Werk “Im Elfenbeinfass”.
 Weiters gibt es die Soundinstallation von Mimu Merz “Schleife - Fisch im Treibsand” im Kulturhof:klangkorridor zu belauschen.
 
