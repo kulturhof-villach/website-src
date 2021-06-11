@@ -9,6 +9,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "info"
 tags = []
+weight = 3
 +++
 
 # Presseinformationen

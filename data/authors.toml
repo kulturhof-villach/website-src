@@ -8,8 +8,8 @@
     en = "Role"
     de = "Rolle"
   [ test-author.bio ]
-    en = "Short paragraph about author"
-    de = "Kurzer Absatz über den Autor"
+    en = ""
+    de = ""
   website = ""
   email = ""
   github = ""
@@ -24,7 +24,7 @@
   name = "Kulturhofkeller"
   featured = "/img/organiser/kulturhofkeller.svg"
   [ kulturhofkeller.bio ]
-    en = "Short paragraph about author"
+    en = ""
     de = "Der Kulturhofkeller ist ein autonomes Kulturzentrum mitten in der Villacher Altstadt - betrieben vom gemeinnützigen Verein kult:villach. Das Kulturzentrum bietet Vereinen und Kulturschaffenden aller Sparten eine Bühne für ein breitgefächertes Programm von Literatur, Theater, Tanz über Musik bis hin zu Ausstellungen, Performances uvm."
   website = ""
   email = ""
@@ -40,8 +40,8 @@
   name = "Kulturhof:"
   featured = "/img/organiser/kulturhofkeller.svg"
   [ kulturhof.bio ]
-    en = "Short paragraph about author"
-    de = "Der Kulturhofkeller ist ein autonomes Kulturzentrum mitten in der Villacher Altstadt - betrieben vom gemeinnützigen Verein kult:villach. Das Kulturzentrum bietet Vereinen und Kulturschaffenden aller Sparten eine Bühne für ein breitgefächertes Programm von Literatur, Theater, Tanz über Musik bis hin zu Ausstellungen, Performances uvm."
+    en = ""
+    de = "Der Kulturhof ist ein autonomes Kulturzentrum mitten in der Villacher Altstadt - betrieben vom gemeinnützigen Verein kult:villach. Das Kulturzentrum bietet Vereinen und Kulturschaffenden aller Sparten eine Bühne für ein breitgefächertes Programm von Literatur, Theater, Tanz über Musik bis hin zu Ausstellungen, Performances uvm."
   website = ""
   email = ""
   github = ""
@@ -56,7 +56,7 @@
   name = "Cofestival"
   featured = "/img/organiser/cofestival.png"
   [ cofestival.bio ]
-    en = "Short paragraph about author"
+    en = ""
     de = "Es geht weiter. Das Villacher Kulturleben startet wieder, gebündelt in einem Festival. Und daraus ergibt sich ein dichtes und breites Kulturprogramm im Zentrum Villachs. Angefangen bei Konzerten aus dem Bereich Hip Hop, Alternative und Electronic Music, Klassik und Jazz über Performances und (Kinder-)Theater, Lesungen und Sommerkino bis hin zu Ausstellungen in den Galerien gibt es die große Vielfalt der professionellen Kulturszene dieser Stadt zu erleben."
   website = ""
   email = ""
@@ -105,7 +105,7 @@
   name = "Doppelt Sichtbar"
   featured = "/img/organiser/doppelt-sichtbar.jpg"
   [ doppelt-sichtbar.bio ]
-    en = "Short paragraph about author"
+    en = ""
     de = "doppelt sichtbar sind die Zwillingsbrüder Mart und Kassabrot. Mit einmaligen Stil, der doppelt besser hält."
   website = "https://www.doppelt-sichtbar.at/"
   email = ""
@@ -121,7 +121,7 @@
   name = "Damensalon"
   featured = "/img/organiser/damensalon.jpg"
   [ damensalon.bio ]
-    en = "Short paragraph about author"
+    en = ""
     de = "doppelt sichtbar sind die Zwillingsbrüder Mart und Kassabrot. Mit einmaligen Stil, der doppelt besser hält."
   website = "https://www.doppelt-sichtbar.at/"
   email = ""
@@ -137,8 +137,8 @@
   name = "Freakygreenfish"
   featured = "/img/organiser/freakygreenfish.svg"
   [ freakygreenfish.bio ]
-    en = "Short paragraph about author"
-    de = "Kurzer Absatz über den Autor"
+    en = ""
+    de = ""
   website = ""
   email = ""
   github = ""
@@ -153,8 +153,8 @@
   name = "Kulturforum Villach"
   featured = "/img/organiser/kulturforum.png"
   [ kulturforum-villach.bio ]
-    en = "Short paragraph about author"
-    de = "Kurzer Absatz über den Autor"
+    en = ""
+    de = ""
   website = ""
   email = ""
   github = ""
@@ -169,8 +169,8 @@
   name = "Gebrüder Moped"
   featured = "/img/organiser/gebrueder-moped.jpg"
   [ gebrueder-moped.bio ]
-    en = "Short paragraph about author"
-    de = "Kurzer Absatz über den Autor"
+    en = ""
+    de = ""
   website = ""
   email = ""
   github = ""
@@ -185,7 +185,7 @@
   name = "acme"
   featured = "/img/organiser/acme.jpg"
   [ acme.bio ]
-    en = "Short paragraph about author"
+    en = ""
     de = "Theaterkollektiv, beheimatet in Villach und Graz"
   website = "http://www.acmeonline.org"
   email = ""
@@ -217,7 +217,7 @@
   name = "unikum"
   featured = "/img/organiser/unikum.gif"
   [ unikum.bio ]
-    en = "Short paragraph about author"
+    en = ""
     de = "Universitätskulturzentrum UNIKUM | Kulturni center univerze v Celovcu"
   website = "http://www.unikum.ac.at"
   email = ""
@@ -234,8 +234,8 @@
   name = "SONA Booking"
   featured = "/img/organiser/sona-booking.jpg"
   [ sona-booking.bio ]
-    en = "Short paragraph about author"
-    de = "Kurzer Absatz über den Autor"
+    en = ""
+    de = ""
   website = ""
   email = ""
   github = ""

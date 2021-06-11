@@ -9,9 +9,10 @@ featuredVimeo = ""
 linktitle = ""
 type = "info"
 tags = []
+weight = 2
 +++
 
-# Wichtige Covid-19-Hinweise für Besucher\*innen von Veranstaltungen im kulturhof:villach
+# Wichtige Covid-19-Hinweise für Besucher\*innen von Veranstaltungen im Kulturhof:villach
 
 ### Mindestabstand
 Bei zugewiesenen Sitzplätzen mindestens ein freier Sitzplatz zwischen Besucher\*innengruppen, ansonsten gilt zwei Meter Mindestabstand zu Haushaltsfremden bzw. außerhalb der Besucher\*innengruppe.

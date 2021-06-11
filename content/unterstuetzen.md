@@ -9,6 +9,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "info"
 tags = []
+weight = 1
 +++
 
 Der Kulturhof:villach finanziert sich soweit als möglich durch Subventionen von Bund, Land und Stadt und lebt vom ehrenamtlichen Engagement des Teams rund um den Kulturhof:.
