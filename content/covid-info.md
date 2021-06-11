@@ -17,7 +17,7 @@ tags = []
 Bei zugewiesenen Sitzplätzen mindestens ein freier Sitzplatz zwischen Besucher\*innengruppen, ansonsten gilt zwei Meter Mindestabstand zu Haushaltsfremden bzw. außerhalb der Besucher\*innengruppe.
 
 ### Maskenpflicht
-FFP2-Maskenpflicht gilt während der gesamten Veranstaltung. 
+In Innenräumen gilt FFP2-Maskenpflicht während der gesamten Veranstaltung. 
 
 Ausnahme: Kinder bis 14 Jahre, von 6 - 13 Jahren reicht eine Mund-Nasen-Maske.
 
