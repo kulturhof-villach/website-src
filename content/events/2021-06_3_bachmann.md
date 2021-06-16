@@ -86,6 +86,7 @@ Beim Rahmenprogramm zum Bachmannpreis im Kulturhof:villach werden sie genau dies
 - 13:00 - 13:00 Uhr    Manjana (Musik)
 
 ![Manjana](/img/events/2021-06_manjana.jpg)
+© Teresa Thomaschütz
 
 **Manjana** ist schwärmerisches Gewölk und federleichte Melancholie, Weltenwanderschaft und Dialekt, analoge Herzensergüsse und auch ein bisschen Groove. Erweitert durch Zuwachs Sebastian Haidutschek an der Perkussion performen Manfred Plessl und Jana Thomaschütz mit Violine, Cello, Gitarre, Ukulele, Tiny Piano und Gesang. 
 
