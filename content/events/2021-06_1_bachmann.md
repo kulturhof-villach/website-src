@@ -69,7 +69,7 @@ Der Berliner Autor Karsten Krampitz, Gewinner des Publikumspreises beim Bachmann
 
 ![Playbackdolls](/img/events/2021-06_playbackdolls.jpg)
 
-**Playbackdolls-Duo**: Musikalisch unverschämt durch die Genres wandernd bleibt der Sound der Playbackdolls Tini Trampler und Stephan Sperlich unverkennbar: Durch die ungewöhnliche Besetzung mit Elektronik, Akkordeon, Trompete und Gitarre, und durch die einzigartige Stimme von Tini Trampler, die mühelos zwischen strahlender Diva, rauchiger Chansonette und agitatorischer Punklady changiert.
+**Playbackdolls**: Musikalisch unverschämt durch die Genres wandernd bleibt der Sound der Playbackdolls Tini Trampler und Stephan Sperlich unverkennbar: Durch die ungewöhnliche Besetzung mit Elektronik, Akkordeon, Trompete und Gitarre, und durch die einzigartige Stimme von Tini Trampler, die mühelos zwischen strahlender Diva, rauchiger Chansonette und agitatorischer Punklady changiert.
 
 ![Doppelt Sichtbar](/img/events/2021-06_doppeltsichtbar.jpg)
 © Patrick Isopp
