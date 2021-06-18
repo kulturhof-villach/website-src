@@ -20,48 +20,19 @@ draft = false
 >
 > Die Besucher\*innen können es sich im Hinterhof - dem :backyard - des neu eröffneten Kulturhof:villach in Sonnenstühlen unter der Linde gemütlich machen und den Lesungen und Konzerten folgen. Bei Regen findet das Programm im Kulturhof:keller auf der :mainstage statt.
 
-
-
-
-# Programm Donnerstag, 17. Juni 2021
-
-- 10:00 - 15:30 Uhr     Live-Übertragung Bachmannpreis
-- 15:30 - 16:30 Uhr     Film & Sound
-- 16:30 - 17:30 Uhr     TURBOtheater (Lesung)
-- 17:30 - 18:00 Uhr    Film & Sound
-- 18:00 - 19:00 Uhr    Markus Rainer (Musik)
-
-![TURBOtheater](/img/events/2021-06_turbo.jpg)
-
-**TURBOtheater**: Im Sommer 2020 schrieben elf Jugendliche zusammen einen Text. Es gab keine Absprachen, es gab (fast) kein Regeln, dafür sehr viele Gedankensprünge. „Wir schweben irgendwo bei Pandora rum" - ein Text ist entstanden, ohne vorher zu wissen wohin dieses Experiment führen wird.
-Das TURBOtheater ist eine freie Theatergruppe rund um Stefan Ebner, Andreas Thaler und Catharina Zukrigl, die neben anderem vor allem versucht relevantes und innovatives Jugendtheater zu machen.
-
-![Markus Rainer](/img/events/2021-06_markusrainer.jpg)
-
-**Markus Rainer** setzt sich mit seiner Trompete und einer Loop-Station in den Zug von Wien nach Villach um den experimentellen Texten experimentelles Trompetenspiel zu reichen und damit eine Resonanz zwischen Gelesenem und Gespieltem aufzubauen.
-
-# Programm Freitag, 18. Juni 2021
-
-- 10:00 - 15:30 Uhr     Live-Übertragung Bachmannpreis
-- 15:30 - 16:30 Uhr    Film & Sound
-- 16:30 - 17:30 Uhr     Die Guiteros (Musik)
-- 18:30 - 19:30 Uhr    Die Guiteros (Musik)
-
-![Die Guiteros](/img/events/2021-06_guiteros.jpg)
-
-**Die Guiteros** werden im Anschluss an das Wettlesen im Gastgarten der Tapas Bar “Sem Jeito” für Stimmung sorgen. Die Guiteros, das sind Wolfgang Fischer und Tommy Wallner, zwei Gitarren und eine unverkennbare Stimme, die gemeinsam Songs aus verschiedenen Genres, Eigenkompositionen und Covers interpretieren.
-
 # Samstag, 19. Juni 2021
 
 - 10:00 - 14:30 Uhr     Live-Übertragung Bachmannpreis
 - 14:30 - 15:30 Uhr     Film & Sound
 - 15:30 - 16:15 Uhr     VADA/Krampitz (Lesung)
 - 16:15 - 16:30 Uhr    Film & Sound
-- 16:30 - 17:30 Uhr    Playbackdolls-Duo (Musik)
+- 16:30 - 17:30 Uhr    Playbackdolls (Musik)
 - 17:30 - 18:00 Uhr    Film & Sound
 - 18:00 - 19:00 Uhr    doppelt sichtbar (Musik)
 - 19:00 - 19:30 Uhr    Film & Sound
 - 19:30 - 22:00 Uhr    Kulturhof: DJ Set (Musik)
+
+![Catharina Zukringl](/img/events/2021-06_zukringl.jpg)
 
 **VADA/Krampitz**: Die Schauspielerin Catharina Zukrigl liest Passagen aus Episoden von “Sternen-Dreck”, verfasst von VADA und Karsten Krampitz.
 Hinter VADA, dem Verein zur Anregung des dramatischen Appetits, steht ein Künstler*innenkollektiv, welches auf Grundlage des “vadaistischen Manifests” künstlerische Konzepte unter Volk bringt.
@@ -78,18 +49,6 @@ Der Berliner Autor Karsten Krampitz, Gewinner des Publikumspreises beim Bachmann
 Beim Rahmenprogramm zum Bachmannpreis im Kulturhof:villach werden sie genau dieses literarische Karte ziehen. Das Publikum wird mit eingebunden. Wortspenden vom Publikum werden dann in den Freestyle übernommen und in guter Stegreif-Manier in Reime gepackt.
 
 **Das Kulturhof: DJ Set** wird mit einem ausgewählten Mix den Bachmann-Tag gleichzeitig anregen und ausklingen lassen.
-
-# Programm Sonntag, 20. Juni 2021
-
-- 10:30 - 11:00 Uhr     Manjana (Musik)
-- 11:00 - 12:30 Uhr     Live-Übertragung Bachmannpreis (Preisverleihung)
-- 13:00 - 13:00 Uhr    Manjana (Musik)
-
-![Manjana](/img/events/2021-06_manjana.jpg)
-© Teresa Thomaschütz
-
-**Manjana** ist schwärmerisches Gewölk und federleichte Melancholie, Weltenwanderschaft und Dialekt, analoge Herzensergüsse und auch ein bisschen Groove. Erweitert durch Zuwachs Sebastian Haidutschek an der Perkussion performen Manfred Plessl und Jana Thomaschütz mit Violine, Cello, Gitarre, Ukulele, Tiny Piano und Gesang. 
-
 
 
 # Film & Sound:
