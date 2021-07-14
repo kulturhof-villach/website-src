@@ -36,6 +36,22 @@
   xing = ""
   linkedin = ""
 
+[ sem-jeito ]
+  name = "Sem Jeito"
+  featured = "/img/organiser/sem-jeito.jpg"
+  [ sem-jeito.bio ]
+    en = ""
+    de = ""
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
 [ kulturhof ]
   name = "Kulturhof:"
   featured = "/img/organiser/kulturhofkeller.svg"
