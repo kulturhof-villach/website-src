@@ -10,7 +10,7 @@ featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
 type = "event"
-tags = ["konzert"]
+tags = ["konzert", "ausstellung", "performance"]
 draft = false
 +++
 
@@ -31,7 +31,10 @@ Zunächst startet der Abend um 18:30 Uhr mit einer Vernissage in der wohl kleins
 
 ### Ab 18:30 Uhr im Hinterhof:
 
-**Ronja Fábián** - Vernissage
+**Ronja Fábián** - Ronja Fábián wurde 1995 in Mödling geboren, ist im schönen Kärnten aufgewachsen und lebt derzeit in Wien. Neben der Fotografie als Dienstleistung ist es für die Fotografin und Künstlerin ein wichtiger Punkt sich gesellschaftskritischen Themen zu widmen. Um diese zu hinterfragen und zu kritisieren nutzt sie nicht nur die künstlerische Fotografie als Ausdrucksmittel, sondern experimentiert gerne mit den verschiedensten Materialien und Medien.
+
+{{< rel-figure src="img/events/2021-07_ronjafabian.png" >}}
+
 
 **Lydia Haider** \*1985, Schriftstellerin, lebt in Wien. Zuletzt: Wahrlich fuck you du Sau, bist du komplett zugeschissen in deinem Leib drin oder: Zehrung Reiser Rosi. Ein Gesang, sowie der Roman Am Ball. Wider erbliche Schwachsinnigkeit und die Anthologie und wie wir hassen (als Herausgeberin).
 
