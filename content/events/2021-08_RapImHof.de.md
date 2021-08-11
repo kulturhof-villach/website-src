@@ -1,5 +1,5 @@
 +++
-title = "Rap Im Hof"
+title = "Rap Im Hof - ABGESAGT"
 authors = ["kulturhofkeller", "doppelt-sichtbar"]
 date = 2021-08-28T20:00:00
 publishdate = 2019-09-06
@@ -14,9 +14,4 @@ tags = ["open-mic", "konzert"]
 draft = false
 +++
 
-Der Kulturhofkeller startet mit einer neuen Reihe: Rap im Keller.
-Es geht um Rap, es geht um Musik. Es geht um so viel mehr. Es geht darum, Leute zusammen zu bringen. Es geht darum, die Improvisationskunst zu fördern. Oder einfach gesagt: um gute Flows und nice Freestyles.
-
-Gehostet wird das Ganze von „doppelt sichtbar“ und „Freakygreenfish“.
-
-{{< rel-figure src="img/events/2019-09_rap-im-keller2.jpg" >}}
+> Leider müssen wir Rap im Hof kurzfristig absagen.
