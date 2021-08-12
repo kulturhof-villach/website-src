@@ -3,7 +3,9 @@
   <img class="hero-background" src="{{ .Params.featured | relURL }}"  alt="">
   <div class="hero-body">
     <div class="container hero-container has-text-right">
-      {{ if ne .Type "info" }}
+
+      {{/*  Show TAGS - events  */}}
+      {{ if (eq .Type "event") }}
         <h1 class="is-6 has-margin-bottom-08">
           <mark class="mark-bg-success">
             {{ range $key := .Param "tags"}}
@@ -15,18 +17,31 @@
             {{ end }}
           </mark>
         </h1>
+      {{ end }}
        
+      {{/*  Show DATE - events and news  */}}
+      {{ if or (eq .Type "event") (eq .Type "news") }}
         <h1 class="is-6 subtitle has-margin-bottom-08">
           <mark class="mark-bg-warning has-text-black">
-            {{ .Params.date  | dateFormat "02.01.2006"}}, {{ .Params.time }}
+            {{ .Params.date  | dateFormat "02.01.2006"}}
+            {{/*  Show TIME only if not empty  */}}
+            {{ if ne "" .Params.time }}
+              - {{ .Params.time }}
+            {{ end }}
           </mark>
         </h1>
       {{ end }}
-        <h1 class="title is-1 has-margin-bottom-08"><mark class="mark-bg-primary">{{ .Title }}</mark></h1>
 
-      {{ if ne .Type "info" }}
+      {{/*  Show TITLE - events and news and info  */}}
+      <h1 class="title is-1 has-margin-bottom-08"><mark class="mark-bg-primary">{{ .Title }}</mark></h1>
+
+      {{/*  Show SUBTITLE - events and news  */}}
+      {{ if or (eq .Type "event") (eq .Type "news") }}
         <h1 class="title is-3"><mark class="mark-bg-link has-text-info">{{ .Params.description }}</mark></h1>
+      {{ end }}
 
+      {{/*  Show AUTHOR - events  */}}
+      {{ if or (eq .Type "event") }}
         <h1 class="is-6 subtitle has-margin-bottom-08">
           <mark class="mark-bg-info has-text-black">
             hosted by
@@ -40,6 +55,7 @@
           </mark>
         </h1>
       {{ end }}
+
     </div>
   </div>
   <div class="hero-foot has-padding">

@@ -61,8 +61,8 @@
 [authors]
   other = "Autoren"
 
-[Blogs]
-  other = "Blog"
+[news]
+  other = "Neuigkeiten"
 
 [nexpage]
   other = "Nächste Seite"

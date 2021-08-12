@@ -3,37 +3,33 @@
 {{ define "header_classes" }}{{ end }}
 
 {{ define "header" }}
-  <div class="column has-navbar-fixed-top has-no-padding top-hero">
-
-      <section class="section">
-        <div class="columns is-multiline is-centered has-padding-LR">
-          {{ range.Pages }}
-          <div class="column is-3">
-            {{ $link := .Permalink }}
-            {{ with .Params.id }}
-              {{ $persondata := (index $.Site.Data.authors .)}}
-              {{ $pdict := (dict "data" $persondata "picsize" "is-128x128" "imgclass" "is-rounded" "link" $link "content" "false" "namesize" "is-size-5" "subsize" "is-size-6")}}
-
-              <section class="content-ov has-margin-bottom" id="{{ . }}">
-                  <section class="section has-no-padding">
-                    <div class="columns is-centered">
-                      <div class="column has-no-padding">
-                        {{ partial "org-info.html" $pdict }}
-                      </div>
-                    </div>
-                  </section>
-              </section>
-            {{ end }}
-          </div>
-          {{ end }}
-        </div>
-      </section>
-  </div>
   {{ partial "header.html" . }}
 {{ end }}
 
 {{ define "non-section-main" }}
+<div class="column has-navbar-fixed-top has-no-padding">
+    <section class="hero is-small is-info">
+      <div class="hero-body hero-container">
+        <div class="container">
+          <h1 class="hero-quote is-3 title has-little-margin">{{ i18n .Title }} </h1>
+          <h2 class="hero-quote has-text-grey is-5 subtitle">{{ .Params.description }} </h2>
+        </div>
+      </div>
+    </section>
 
+    <section class="hero is-medium is-info">
+      {{ range .Pages }} 
+      {{ $link := .Permalink }}
+      {{ with .Params.id }}
+
+        {{ $persondata := (index $.Site.Data.authors .)}}           
+        {{/*  {{ $p := (dict "data" $persondata "picsize" "is-128x128" "imgclass" "is-rounded" "link" $link "content" "false" "namesize" "is-size-5" "subsize" "is-size-6")}}  */}}
+        {{ $p := (dict "title" $persondata.name "text" "" "link" $link "image" $persondata.featured "imgclass" "is-square is-128x128 ov-img" "date" "" "time" "" "tags" "" "authors" "" )}}
+        {{ partial "content-ov.html" $p }}
+        {{ end }}
+      {{ end }}
+    </section>
+</div>
 {{ end }}
 
 {{ define "custom-js"}}

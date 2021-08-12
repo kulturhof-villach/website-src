@@ -17,19 +17,43 @@
   </div>
 {{ end }}
 
-
-
 {{ define "aside" }}
 {{ end }}
 
 {{ define "non-section-main" }}
-
 {{ end }}
 
 {{ define "custom-js" }}
 {{ end }}
 
 {{ define "pre-footer" }}
+<div class="column has-navbar-fixed-top has-no-padding">
+  <section class="hero is-small is-info">
+    <div class="hero-body hero-container">
+      <div class="container">
+        <h1 class="hero-quote is-3 title has-little-margin">{{ i18n "news" }} </h1>
+      </div>
+    </div>
+  </section>
+
+  <section class="hero is-medium is-info">
+    {{ range where .Pages "Section" "news"}}
+      {{ range first 3 .Pages }}
+        {{ $p := (dict "title" .Title "text" .Params.description "link" .Permalink "image" .Params.featured "imgclass" "is-square is-128x128 ov-img" "date" .Params.date "time" .Params.time "tags" .Params.tags "authors" .Params.authors )}}
+        {{ partial "content-ov.html" $p }}
+      {{ end }}
+    {{ end }}
+  </section>
+</div>
+
+<section class="hero is-small is-info">
+  <div class="hero-body hero-container">
+    <div class="container">
+      <h1 class="hero-quote is-3 title has-little-margin">{{ i18n "events" }} </h1>
+    </div>
+  </div>
+</section>
+
 <section class="hero">
     <div class="hero-body">
       <div class="container">
