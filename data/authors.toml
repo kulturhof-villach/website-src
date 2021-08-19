@@ -69,7 +69,7 @@
   linkedin = ""
 
 [ kulturhof ]
-  name = "Kulturhof:"
+  name = "Kulturhof:villach"
   featured = "/img/organiser/kulturhofkeller.svg"
   [ kulturhof.bio ]
     en = ""
