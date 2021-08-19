@@ -12,8 +12,9 @@ tags = []
 +++
 
 ## Kulturhof:Villach
+{{< rel-figure src="img/kulturhof/Kulturhofvillach_entry_hoch.jpg" >}}
 
-[Mehr über den Kulturhof:villach erfahren](ueber-uns)
+Der Kulturhof:villach ist das Kulturzentrum der Stadt, das seit 2011 alternativer Kunst und Kultur einen Raum in Villach bietet. Der Kulturhof: versteht sich dabei als eine lebendige Basis für Kulturschaffende mit der Stadt in Beziehung zu treten. [Weiterlesen](ueber-uns)
 
 ## Covid Informationen
 

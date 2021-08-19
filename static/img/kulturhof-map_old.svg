@@ -4,7 +4,7 @@
    overflow="visible"
    version="1.1"
    id="svg212"
-   sodipodi:docname="kulturhof-map_new.svg"
+   sodipodi:docname="kulturhof-map.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -53,13 +53,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2488"
-     inkscape:window-height="1352"
+     inkscape:window-width="1976"
+     inkscape:window-height="1064"
      id="namedview214"
      showgrid="false"
-     inkscape:zoom="1.830129"
-     inkscape:cx="410.6268"
-     inkscape:cy="186.59887"
+     inkscape:zoom="2.5881932"
+     inkscape:cx="426.35921"
+     inkscape:cy="383.08578"
      inkscape:window-x="60"
      inkscape:window-y="39"
      inkscape:window-maximized="0"
@@ -77,8 +77,8 @@
      inkscape:label="background"
      style="display:inline">
     <rect
-       x="-3.8656168"
-       y="0.46575415"
+       x="19.766331"
+       y="58.256138"
        width="845.47803"
        height="598.34601"
        stroke=""
@@ -382,14 +382,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;display:inline;fill:#04c7b7;fill-opacity:1;stroke:none;stroke-width:0.75"
-       x="230.14532"
-       y="83.701164"
+       x="403.7551"
+       y="70.307007"
        id="text92-2"
        class="label"><tspan
          sodipodi:role="line"
          id="tspan90-93"
-         x="230.14532"
-         y="83.701164"
+         x="403.7551"
+         y="70.307007"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';fill:#f3a712;fill-opacity:1;stroke-width:0.75">sem jeito</tspan></text>
     <path
        d="m 534.8308,197.0341 50.895,-19.4678 14.2735,9.7001 -51.1963,19.9849 z"
@@ -443,6 +443,15 @@
        id="spot-proberaum"
        class="spots  inside" />
     <path
+       d="m 541.2764,162.9633 -58.4171,21.8991 -42.996,-33.4458 58.2426,-17.852 z"
+       stroke="#000000"
+       stroke-width="0"
+       fill="#5e9ee6"
+       fill-opacity="0.65098"
+       id="buero"
+       class="infrastructure  inside"
+       style="stroke:#ffffff" />
+    <path
        d="M 775.0172,191.7321 734.4336,207.0551 539.5479,63.4465 575.886,53.2363 Z"
        stroke="#000000"
        stroke-width="0"
@@ -461,15 +470,14 @@
        class="outside"
        style="fill:#e9d7e5;fill-opacity:0.459455;stroke:#04c7b7;stroke-opacity:1" />
     <path
-       d="m 212.2331,377.3326 -43.7193,-32.8442 40.639,-20.6577 36.1443,40.2522 z"
+       d="m 200.2331,361.3326 -59.7193,-44.8442 40.639,-20.6577 52.1443,52.2522 z"
        stroke="#000000"
        stroke-width="0"
        fill="#d3d3d3"
        fill-opacity="0.807843"
        id="backyard"
        class="stage  outside  lvl0"
-       style="stroke:#ffffff"
-       sodipodi:nodetypes="ccccc" />
+       style="stroke:#ffffff" />
     <path
        d="m 638.4906,144.1284 c -1.7194,-2.1932 1.734,-5.0856 6.1627,-5.2163 4.1673,-0.5759 10.5344,1.5023 11.4434,3.7564 1.7826,2.1763 -1.6095,5.1346 -6.1107,5.272 -4.2306,0.5929 -10.659,-1.5512 -11.4954,-3.8121 z"
        stroke="#000000"
@@ -513,6 +521,14 @@
        class="infrastructure  outside"
        style="opacity:0.99;fill:#e9d7e5;fill-opacity:0.67865;stroke:#04c7b7;stroke-width:0.1875;stroke-opacity:1" />
     <path
+       d="m 485.6513,158.7197 c -0.7144,-1.2762 1.6147,-2.9701 4.1682,-3.0471 2.4595,-0.3378 5.8392,0.8816 6.0661,2.1962 0.7363,1.2706 -1.5775,2.9864 -4.1553,3.0656 -2.4813,0.3435 -5.8762,-0.8978 -6.079,-2.2147 z"
+       stroke="#000000"
+       stroke-width="0"
+       fill="#d3d3d3"
+       fill-opacity="0.807843"
+       id="spot-buero"
+       class="spots" />
+    <path
        d="m 375.0297,107.6063 64.8336,43.8103 -16.3302,6.2149 -16.8332,-10.8964 -70.0084,31.1477 -54.7241,-34.8169 z"
        stroke="#000000"
        stroke-width="0"
@@ -522,17 +538,7 @@
        class="gastro  inside"
        style="opacity:1;fill:#c7a9c0;fill-opacity:1;stroke:#04c7b7;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       d="m 381.46242,69.288588 46.00499,32.884372 -14.33478,6.24443 -70.0084,31.1477 -54.7241,-34.8169 z"
-       stroke="#000000"
-       stroke-width="0"
-       fill="#5800ff"
-       fill-opacity="0.647059"
-       id="semjeito-3"
-       class="gastro  inside"
-       style="display:inline;opacity:1;fill:#e9d7e5;fill-opacity:0.912067;stroke:#04c7b7;stroke-width:0.1875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:nodetypes="cccccc" />
-    <path
-       d="m 321.6833,161.9343 c -0.4792,-1.2386 2.1137,-2.8829 4.6432,-2.9576 2.4827,-0.3279 5.5975,0.8558 5.5892,2.1318 0.5013,1.2332 -2.0806,2.8983 -4.634,2.9752 -2.5048,0.3333 -5.6306,-0.8713 -5.5984,-2.1494 z"
+       d="m 355.6833,147.9343 c -0.4792,-1.2386 2.1137,-2.8829 4.6432,-2.9576 2.4827,-0.3279 5.5975,0.8558 5.5892,2.1318 0.5013,1.2332 -2.0806,2.8983 -4.634,2.9752 -2.5048,0.3333 -5.6306,-0.8713 -5.5984,-2.1494 z"
        stroke="#000000"
        stroke-width="0"
        fill="#d3d3d3"
@@ -541,10 +547,10 @@
        class="spots  inside" />
     <path
        style="fill:none;stroke:#04c7b7;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 205.3939,344.6127 v 7.5 l -56.25,41.24999"
+       d="m 177.3939,316.6127 v 7.5 l -56.25,41.24999"
        id="path57" />
     <path
-       d="m 198.9577,345.6686 c -0.2291,-1.9835 3.5476,-4.6108 6.7662,-4.73 3.2358,-0.5236 6.8189,1.3664 6.428,3.4082 0.2666,1.9727 -3.5005,4.6424 -6.758,4.7659 -3.2733,0.5345 -6.866,-1.3979 -6.4362,-3.4441 z"
+       d="m 170.9577,317.6686 c -0.2291,-1.9835 3.5476,-4.6108 6.7662,-4.73 3.2358,-0.5236 6.8189,1.3664 6.428,3.4082 0.2666,1.9727 -3.5005,4.6424 -6.758,4.7659 -3.2733,0.5345 -6.866,-1.3979 -6.4362,-3.4441 z"
        stroke="#000000"
        stroke-width="0"
        fill="#d3d3d3"
@@ -562,8 +568,12 @@
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#f3a712;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 325.65527,160.85 v -7.5 l -59.99999,-67.5"
+       d="m 361.75,146.85 v -7.5 l 59.99999,-67.5"
        id="path59" />
+    <path
+       style="fill:none;stroke:#c7a9c0;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 490.74999,158.1 v -7.5 l 37.5,-60"
+       id="path63" />
     <path
        style="fill:none;stroke:#004e64;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 530.49999,182.1 v -7.5 l 37.5,-63.75"
@@ -576,31 +586,18 @@
        style="fill:none;stroke:#c7a9c0;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 646.74999,143.1 v -11.25 l 48.75,-63.75"
        id="path75" />
-    <path
-       d="m 361.56336,104.64796 c -0.7144,-1.2762 1.6147,-2.9701 4.1682,-3.0471 2.4595,-0.3378 5.8392,0.8816 6.0661,2.1962 0.7363,1.2706 -1.5775,2.9864 -4.1553,3.0656 -2.4813,0.3435 -5.8762,-0.8978 -6.079,-2.2147 z"
-       stroke="#000000"
-       stroke-width="0"
-       fill="#d3d3d3"
-       fill-opacity="0.807843"
-       id="spot-buero-6"
-       class="spots"
-       style="display:inline;fill-opacity:0;stroke-width:1" />
-    <path
-       style="display:inline;fill:none;stroke:#c7a9c0;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 366.66205,104.02826 v -7.499998 l 37.5,-60"
-       id="path63-7" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:'Fira Mono';display:inline;fill:#c7a9c0;fill-opacity:1;stroke:none;stroke-width:0.75"
-       x="388.45935"
-       y="35.257957"
-       id="text92-9-5"
+       style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;display:inline;fill:#c7a9c0;fill-opacity:1;stroke:none;stroke-width:0.75"
+       x="512.5473"
+       y="89.329697"
+       id="text92-9"
        class="label"><tspan
          sodipodi:role="line"
-         id="tspan90-0-3"
-         x="388.45935"
-         y="35.257957"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';fill:#c7a9c0;fill-opacity:1;stroke-width:0.75">:künstlerwohnung</tspan></text>
+         id="tspan90-0"
+         x="512.5473"
+         y="89.329697"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';fill:#c7a9c0;fill-opacity:1;stroke-width:0.75">:büro</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;display:inline;fill:#c7a9c0;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -628,14 +625,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;display:inline;fill:#04c7b7;fill-opacity:1;stroke:none;stroke-width:0.75"
-       x="97.759926"
-       y="401.70245"
+       x="69.759926"
+       y="373.70245"
        id="text92-5-6"
        class="label"><tspan
          sodipodi:role="line"
          id="tspan90-09-3"
-         x="97.759926"
-         y="401.70245"
+         x="69.759926"
+         y="373.70245"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';fill:#04c7b7;fill-opacity:1;stroke-width:0.75">:backyard</tspan></text>
     <text
        xml:space="preserve"
@@ -717,7 +714,7 @@
          y="426.38416"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.75">0</tspan></text>
     <path
-       d="m 158.42166,327.42324 c -0.2888,-1.6259 3.0248,-3.7818 5.9362,-3.8797 2.9105,-0.4297 6.2316,1.1216 5.9581,2.796 0.3193,1.6179 -2.985,3.8053 -5.9281,3.9064 -2.9409,0.4378 -6.2714,-1.145 -5.9662,-2.8227 z"
+       d="m 338.58515,359.22799 c -0.2888,-1.6259 3.0248,-3.7818 5.9362,-3.8797 2.9105,-0.4297 6.2316,1.1216 5.9581,2.796 0.3193,1.6179 -2.985,3.8053 -5.9281,3.9064 -2.9409,0.4378 -6.2714,-1.145 -5.9662,-2.8227 z"
        stroke="#000000"
        stroke-width="0"
        fill="#d3d3d3"
@@ -728,18 +725,18 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:'Fira Mono';display:inline;fill:#c7a9c0;fill-opacity:1;stroke:none;stroke-width:0.75"
-       x="32.274231"
-       y="369.32547"
+       x="348.57074"
+       y="426.19348"
        id="text92-8-6"
        class="label"><tspan
          sodipodi:role="line"
          id="tspan90-8-2"
-         x="32.274231"
-         y="369.32547"
+         x="348.57074"
+         y="426.19348"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';fill:#c7a9c0;fill-opacity:1;stroke-width:0.75">:fuhrpark</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#c7a9c0;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 164.38786,326.74594 v 7.5 l -80.659211,29.60494"
+       d="m 345.39858,357.08992 v 7.5 l 29.00533,53.18846"
        id="path55-1-9"
        sodipodi:nodetypes="ccc" />
   </g>
@@ -747,42 +744,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="lvl1"
-     style="display:inline">
-    <path
-       d="m 530.4987,216.5274 53.0688,44.9273 -115.9749,45.5923 -49.7431,-53.0571 27.5829,-10.0035 3.9119,3.9885 z"
-       stroke="#000000"
-       stroke-width="0"
-       fill="#d3d3d3"
-       fill-opacity="0.807843"
-       id="nischen-5"
-       class="inside  lvl-1"
-       style="display:inline;fill:#c7a9c0;fill-opacity:0.63177252;stroke:#04c7b7;stroke-width:0.1875;stroke-opacity:1;opacity:1" />
-    <path
-       d="m 488.21852,278.05726 c -0.7144,-1.2762 1.6147,-2.9701 4.1682,-3.0471 2.4595,-0.3378 5.8392,0.8816 6.0661,2.1962 0.7363,1.2706 -1.5775,2.9864 -4.1553,3.0656 -2.4813,0.3435 -5.8762,-0.8978 -6.079,-2.2147 z"
-       stroke="#000000"
-       stroke-width="0"
-       fill="#d3d3d3"
-       fill-opacity="0.807843"
-       id="spot-buero"
-       class="spots"
-       style="display:inline;fill-opacity:0;stroke-width:1" />
-    <path
-       style="display:inline;fill:none;stroke:#c7a9c0;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 494.45282,277.20636 h 7.5 l 60,37.5"
-       id="path63" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:'Fira Mono';display:inline;fill:#c7a9c0;fill-opacity:1;stroke:none;stroke-width:0.75"
-       x="555.2536"
-       y="323.00485"
-       id="text92-9"
-       class="label"><tspan
-         sodipodi:role="line"
-         id="tspan90-0"
-         x="555.2536"
-         y="323.00485"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Fira Mono';-inkscape-font-specification:'Fira Mono';fill:#c7a9c0;fill-opacity:1;stroke-width:0.75">:büro</tspan></text>
-  </g>
+     style="display:inline"
+     sodipodi:insensitive="true" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
