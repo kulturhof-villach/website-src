@@ -1,5 +1,5 @@
 +++
-title = "Der Kulturhof:villach"
+title = "Kulturhof:​villach"
 authors = ["kulturhof"]
 date = "2021-06-08"
 description = "Presseinformationen zum Kulturhof"
