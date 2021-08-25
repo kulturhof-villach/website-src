@@ -30,18 +30,18 @@ Tagesticket: 20 € / Ermäßigt* 12 €
 ## Überblick
 
 
-#### Timeline
+#### Timetabel
 
-- Kerosin95
-- Culk
-- Lukas Lauermann
-- The Base
-- Zinn
-- Fuzzman
-- Møuntain
-- Candie
-- Hansi & the Gretels
-- Midnight Temptation und einige mehr
+
+> ### Tag 1
+> 
+> - 18:30 Moderation: **David Stockenreitner** im *:backyard*
+> - 19:00 **Midnight Temptation** im *:backyard*
+> - 20:00 **Lukas Lauermann** im *:backyard*
+> - 21:00 **Kerosin95** auf der *:mainstage*
+> - 22:00 **Møuntain** auf der *:mainstage*
+>
+> ### Tag 2
 
 #### Moderation:
 David Stockenreitner
