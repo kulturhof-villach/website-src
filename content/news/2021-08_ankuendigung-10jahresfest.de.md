@@ -44,14 +44,18 @@ Tagesticket: 20 € / Ermäßigt* 12 €
 > ### Tag 2
 > 
 > - 18:00 **Niklas Kapeller Lesung + Gitarre** im *:backyard*
-> - 19:00 **Hansi & the Gretels** im *:mainstage*
-> - 20:00 **Culk** im *:mainstage*
+> - 19:00 **Hansi & the Gretels** auf der *:mainstage*
+> - 20:00 **Culk** auf der *:mainstage*
 > - 21:00 **Fuzzman** auf der *:mainstage*
 > - 22:00 **DJ Commander Venus** auf der *:mainstage*
 > 
 > ### Tag 3
 >
-
+> - 17:00 **Warm-up with CAT** im *:backyard*
+> - 19:00 **CanDie** im *:backyard*
+> - 20:00 **ZINN** auf der *:mainstage*
+> - 21:00 **The Base** auf der *:mainstage*
+> - 22:00 **woodstockenboi DJ session** auf der *:mainstage*
 
 
 #### Moderation:
