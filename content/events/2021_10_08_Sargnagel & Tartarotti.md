@@ -30,6 +30,8 @@ draft = false
 **Sargnagel und **Tartarotti im Doppelpack in Villach
 Bereits zum 36. Mal tagt die lustigste Koalition des Landes in Villach. Seit 2014 lädt das Kabarett-Duo **„Gebrüder Moped“ zur **„Kabarett Koalition“ in den Kulturhof. Das Konzept so bestechend einfach wie beliebt: Zwei Kabarett-Acts bestreiten einen gemeinsamen Abend, die brüderlichen Gastgeber geleiten mit eigenen Gustostückerln durch den Abend. Schon zum Auftakt der neuen Spielsaison am Freitag, 08.10.2021 wartet die Koalition mit einem LineUp der Extraklasse auf: **Stefanie Sargnagel und **Guido Tartarotti gastieren in der Draustadt.
 
+![Stefanie Sargnagel]
+
 Stefanie Sargnagel ist im Internet groß geworden, aber auf der Straße aufgewachsen. So die ersten Worte des Klappentextes ihres aktuellen Bestsellers „Dicht. Aufzeichnungen einer Tagediebin“. Die herausragende Autorin ist derzeit auf ausgiebiger Lesereise und “nebenbei” liefert sie mit „Sargnagel – Der Film“ großes Kino ab. Umso größer die Freude, Stefanie Sargnagel zum Saisonauftakt der „Kabarett Koalition“ in Villach zu begrüßen. 
 
 Und das ist noch lange nicht alles. Nur wenige Tage vor seiner Visite im Kulturhof feiert der beliebte und umtriebige Kabarettist, Kolumnist und Journalist Guido Tartarotti in Wien die Premiere seines neuen Kabarettprogramms „Guitar Solo – Der letzte dreht das Licht ab“. In seinem sechsten Soloprogramm geht Guido Tartarotti buchstäblich bis ans Ende der Welt – und schaut, ob danach noch was kommt, für das es sich aufzubleiben lohnt. Im Rahmen der Villacher „Kabarett Koalition“ präsentiert er im Kulturhof exklusiv die Highlights aus seinem Schaffen.
