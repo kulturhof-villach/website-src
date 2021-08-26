@@ -1,11 +1,11 @@
 +++
 title = "The Dead Lecturers 'The Levels of Skindergarten'"
 authors = ["kulturforum-villach"]
-date = 2021-07-29T20:00:00
+date = 2021-09-07T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "with a tribute to Jean-Michel Basquiat (USA)"
-featured = "2021_09_07_THEDEADLECTURERSakamu (002).jpeg"
+featured = "img/events/2021-09-07_deadlecturers.jpeg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""

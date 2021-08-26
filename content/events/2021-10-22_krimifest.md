@@ -2,15 +2,15 @@
 title = "Krimifest Kärnten"
 authors = ["kulturhof"]
 date = 2021-10-22T18:00:00
-publishdate = 2021-10-22
+publishdate = 2021-05-22
 time = "18:00"
 description = ""
-featured = "img/events/2021_10_22_Krimifest.jpg"
+featured = "img/events/2021-10-22_Krimifest.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
 type = "event"
-tags = ["lesung and more"]
+tags = ["lesung"]
 draft = false
 +++
 
@@ -24,14 +24,12 @@ Der Verein kult:villach und die Tapas Bar Sem Je!to laden gemeinsam mit Autor Ho
  
 #### Horst Eckert: Die Stunde der Wut
 
-![Horst Eckert](/img/events/2021_10_22_Horst Eckert (c) Kathie Wewer.jpg)
-© Kathie Wewer
 
 ### Biografie
 
 Horst Eckert, 1959 in Weiden/Oberpfalz geboren, lebt seit vielen Jahren in Düsseldorf. Er arbeitete fünfzehn Jahre als Fernsehjournalist, u.a. für die „Tagesschau“. 1995 erschien sein Debüt „Annas Erbe“. Seine Romane gelten als „im besten Sinne komplexe Polizeithriller, die man nicht nur als spannenden Kriminalstoff lesen kann, sondern auch als einen Kommentar zur Zeit“ (Deutschlandfunk). Sie wurden unter anderem mit dem Marlowe-Preis und dem Friedrich-Glauser-Preis ausgezeichnet und ins Französische, Niederländische und Tschechische übersetzt.
 
-![Die Stunde der Wut](/img/events/2021_10_22_Horst Eckert_Die Stunde der Wut)
+![Die Stunde der Wut](/img/events/2021-10-22_HorstEckert_DieStundeDerWut.jpg)
 
 ### Die Stunde der Wut
 
