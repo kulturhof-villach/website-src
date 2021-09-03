@@ -1,7 +1,7 @@
 +++
 title = "Kurz Ein Regime"
 authors = ["kulturhof"]
-date = 2021-10-22T19:00:00
+date = 2021-09-29T19:00:00
 publishdate = 2021-05-10
 time = "19:00"
 description = "Lesung und Diskussion mit Peter Pilz"
