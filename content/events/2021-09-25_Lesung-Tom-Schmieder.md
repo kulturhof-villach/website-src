@@ -26,19 +26,16 @@ Langzeitstudent Mark nimmt die Leser:innen mit durch verrauchte Kneipenabende, r
 Tom Schmieders Debütroman zeigt eine Welt, in der Wohnen und Taxifahren in Berlin noch billig war und die geteilte Stadt ein großes Abenteuer für die Bewohner:innen. 
 
 
-*Tom Schmieder begeistert sich bereits seit seiner Kindheit in den 1950ern in der norddeutschen Diaspora für das geschriebene Wort. Trotz erheblichen Widerstands der pädagogischen Fachkräfte verließ er die Schule mit einem Abschluss, der es ihm erlaubte, diverse Studien und Ausbildungen zu absolvieren. Schließlich fand er seinen Broterwerb als Bibliothekar.
+*Tom Schmieder* begeistert sich bereits seit seiner Kindheit in den 1950ern in der norddeutschen Diaspora für das geschriebene Wort. Trotz erheblichen Widerstands der pädagogischen Fachkräfte verließ er die Schule mit einem Abschluss, der es ihm erlaubte, diverse Studien und Ausbildungen zu absolvieren. Schließlich fand er seinen Broterwerb als Bibliothekar.
 
-Liesmich ist ein 2013 gegründeter, unabhängiger Verlag aus Leipzig mit belletristischem Schwerpunkt, der bisher sechs Bücher veröffentlicht hat. Der Verlag ist ein Liebhaber:innenprojekt, das von bibliophilen Menschen in der Freizeit realisiert wird.
+*Liesmich* ist ein 2013 gegründeter, unabhängiger Verlag aus Leipzig mit belletristischem Schwerpunkt, der bisher sechs Bücher veröffentlicht hat. Der Verlag ist ein Liebhaber:innenprojekt, das von bibliophilen Menschen in der Freizeit realisiert wird.
 
-Pressekontakt
+*Pressekontakt*
 Christoph Awe
 christoph@liesmich-verlag.de
 0173.69 89 175
 
 Der Roman kann direkt auf www.liesmich-verlag.de bestellt werden.
-
-
-
 
 
 
