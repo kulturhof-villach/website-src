@@ -40,7 +40,7 @@ Stefanie Sargnagel ist im Internet groß geworden, aber auf der Straße aufgewac
 
 Und das ist noch lange nicht alles. Nur wenige Tage vor seiner Visite im Kulturhof feiert der beliebte und umtriebige Kabarettist, Kolumnist und Journalist Guido Tartarotti in Wien die Premiere seines neuen Kabarettprogramms „Guitar Solo – Der letzte dreht das Licht ab“. In seinem sechsten Soloprogramm geht Guido Tartarotti buchstäblich bis ans Ende der Welt – und schaut, ob danach noch was kommt, für das es sich aufzubleiben lohnt. Im Rahmen der Villacher „Kabarett Koalition“ präsentiert er im Kulturhof exklusiv die Highlights aus seinem Schaffen.
 
-![Gebrüder Moped](/img/events/2021_10_08_Gebrüder Moped © Gebrüder Moped.jpg)
+![Gebrüder Moped](/img/events/2021_10_08_Gebrüder_Moped_c_Gebrüder_Moped.jpg)
 © Gebrüder Moped
 
 Durch den Abend führen wie gewohnt die Kabarettisten und Podcaster Gebrüder Moped. Sie sind derzeit mit ihrem brandneuen Best Of „Das Beste aus beiden Welten“ auf Tour, die sie am liebsten für einen Abstecher in ihre geheime Lieblingsstadt Villach unterbrechen – oder wie sie sie selbst nennen: die „Bundeshauptstadt von Kärnten“.
