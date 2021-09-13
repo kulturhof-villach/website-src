@@ -3,7 +3,7 @@ title = "Flowmarkt im Kulturhof"
 authors = ["kulturhof"]
 date = 2021-10-09T12:00:00
 publishdate = 2021-05-10
-time = "19:00"
+time = "12:00"
 description = "2nd Hand | Musik | Design | Kunst | Selbstgemachtes
 Verkauf nur von privat | Keine professionellen Händler
 Musik | Essen | Drinks | Kinderschminken"
