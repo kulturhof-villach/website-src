@@ -20,7 +20,7 @@ draft = false
 >Verkauf nur von privat | Keine professionellen Händler |
 >Musik | Essen | Drinks | Kinderschminken
 
-**Wann? Von 12 - 16 Uhr
+**Wann? Von 12 - 16 Uhr**
 
 Es wird ein bunter Nachmittag mit netten Leuten, Musik, und natürlich tollen Ständen zum Stöbern. Die portugiesische Tapas-Bar Sem Jeito versorgt uns mit leckerem Essen und Getränken.
 Der Eintritt ist kostenlos, es gelten die 3G Regelungen auf dem Gelände.
