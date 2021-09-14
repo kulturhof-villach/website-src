@@ -37,4 +37,8 @@ Neben den erfolgreichen Kärntner Aushängeschildern **RaDeschnig** und **Petuts
 
 ## Covid Informationen
 
+<<<<<<< HEAD
 [Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+=======
+[Wichtige Informationen zum Besuch im Kulturhof.](https://kulturhofvillach.at/covid-info/)
+>>>>>>> cd0b3ebab0fb9d1b30a414c7016a97e740e08562
