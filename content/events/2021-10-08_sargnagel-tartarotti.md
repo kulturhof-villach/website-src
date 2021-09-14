@@ -14,21 +14,21 @@ tags = ["kabarett"]
 draft = false
 +++
 
->**Kabarett Koalition
+>**Kabarett Koalition**
 >Stefanie Sargnagel & Guido Tartarotti
 >Moderation: Gebrüder Moped
 >Fr, 08.10.2021
 >Beginn: 19:00 Uhr
 >Kulturhof:villach
 >Lederergasse 15, 9500 Villach
->**Tickets: https://kabarettkoalition.at/tickets/ 
->**Reservierung über www.kabarettkoalition.at  oder +43 699 15088177
+>**Tickets: https://kabarettkoalition.at/tickets/** 
+>**Reservierung über www.kabarettkoalition.at  oder +43 699 15088177**
 
 
 #### So muss Koalition: 
 
-**Sargnagel und **Tartarotti im Doppelpack in Villach
-Bereits zum 36. Mal tagt die lustigste Koalition des Landes in Villach. Seit 2014 lädt das Kabarett-Duo **„Gebrüder Moped“ zur **„Kabarett Koalition“ in den Kulturhof. Das Konzept so bestechend einfach wie beliebt: Zwei Kabarett-Acts bestreiten einen gemeinsamen Abend, die brüderlichen Gastgeber geleiten mit eigenen Gustostückerln durch den Abend. Schon zum Auftakt der neuen Spielsaison am Freitag, 08.10.2021 wartet die Koalition mit einem LineUp der Extraklasse auf: **Stefanie Sargnagel und **Guido Tartarotti gastieren in der Draustadt.
+**Sargnagel** und **Tartarotti*** im Doppelpack in Villach
+Bereits zum 36. Mal tagt die lustigste Koalition des Landes in Villach. Seit 2014 lädt das Kabarett-Duo **„Gebrüder Moped“ zur **„Kabarett Koalition“** in den Kulturhof. Das Konzept so bestechend einfach wie beliebt: Zwei Kabarett-Acts bestreiten einen gemeinsamen Abend, die brüderlichen Gastgeber geleiten mit eigenen Gustostückerln durch den Abend. Schon zum Auftakt der neuen Spielsaison am Freitag, 08.10.2021 wartet die Koalition mit einem LineUp der Extraklasse auf: **Stefanie Sargnagel** und **Guido Tartarotti** gastieren in der Draustadt.
 
 ![Stefanie Sargnagel](/img/events/2021-10-08_StefanieSargnagel_c_ApolloniaTheresaBitzan-683x1024.jpg)
 © Apollonia Theresa Bitzan
