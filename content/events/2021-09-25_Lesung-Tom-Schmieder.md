@@ -45,4 +45,5 @@ Der Roman kann direkt auf www.liesmich-verlag.de bestellt werden.
 
 ## Covid Informationen
 
-[Wichtige Informationen zum Besuch im Kulturhof.](covid-info)
+[Wichtige Informationen zum Besuch im Kulturhof.](https://kulturhofvillach.at/covid-info/)
+
