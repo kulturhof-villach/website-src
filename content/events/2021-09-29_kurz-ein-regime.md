@@ -32,4 +32,4 @@ Peter Pilz, geboren im obersteirischen Kapfenberg, studierte Volkswirtschaft an 
 
 ## Covid Informationen
 
-[Wichtige Informationen zum Besuch im Kulturhof.](covid-info)
+[Wichtige Informationen zum Besuch im Kulturhof.](https://kulturhofvillach.at/covid-info/)
