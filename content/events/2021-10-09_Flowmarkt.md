@@ -4,7 +4,7 @@ authors = ["kulturhof"]
 date = 2021-10-09T12:00:00
 publishdate = 2021-05-10
 time = "12:00"
-description = "2nd Hand | Musik | Design | Kunst | Selbstgemachtes || Verkauf nur von privat | Keine professionellen Händler || Musik | Essen | Drinks | Kinderschminken"
+description = "2nd Hand | Musik | Design | Kunst | Selbstgemachtes | Verkauf nur von privat | Keine professionellen Händler | Musik | Essen | Drinks | Kinderschminken"
 featured = "img/events/2021-10-09_Flowmarkt.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -17,17 +17,17 @@ draft = false
 #### Es ist endlich soweit! Der Kulturhof Flowmarkt findet zum ersten Mal in unserem neu gestalteten Innenhof statt.
 
 >2nd Hand | Musik | Design | Kunst | Selbstgemachtes
->Verkauf nur von privat | Keine professionellen Händler
+>Verkauf nur von privat | Keine professionellen Händler |
 >Musik | Essen | Drinks | Kinderschminken
 
-*Wann? Von 12 - 16 Uhr
+**Wann? Von 12 - 16 Uhr
 
 Es wird ein bunter Nachmittag mit netten Leuten, Musik, und natürlich tollen Ständen zum Stöbern. Die portugiesische Tapas-Bar Sem Jeito versorgt uns mit leckerem Essen und Getränken.
 Der Eintritt ist kostenlos, es gelten die 3G Regelungen auf dem Gelände.
 
 
 
-**STANDBEWERBUNG
+**STANDBEWERBUNG**
 
 Schriftliche Anmeldung an flowmarkt@kulturhofvillach.at bis 22.09.2021
 Kurze Beschreibung wer ihr seid, was ihr verkaufen wollt, und wie viele Meter Standbreite ihr benötigt.
@@ -37,7 +37,7 @@ Tische und Kleiderstangen müssen selbst mitgebracht werden, aber ihr könnt nat
 
 
 
-**ORGANISATORISCHES
+**ORGANISATORISCHES**
 
 Einlass und Aufbau von 09.00-11.30 Uhr
 Zum Ausladen könnt ihr mit dem Auto in die Lederergasse fahren. Wir teilen euch nach eurer Anmeldung eine Anfahrt- bzw. Aufbauzeit mit.
