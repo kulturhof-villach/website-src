@@ -39,9 +39,13 @@ Als Moderatoren und Kuratoren fungieren einmal mehr die Wiener Satiriker *Gebrü
 **Kabarett Koalition**
 Elli Bauer & Mike Supancic
 >Moderation: Gebrüder Moped
+>
 >Fr, 10.12.2021
+>
 >Beginn: 19:00 Uhr
+>
 >Kulturhof:Villach
+>
 >Lederergasse 15, 9500 Villach
 >
 >**Reservierung über www.kabarettkoalition.at  oder +43 699 15088177
