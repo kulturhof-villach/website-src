@@ -24,3 +24,4 @@ Wir entwickeln ein Theaterstück und lernen dabei so Einges über alles Möglich
 >Für weitere Termine und Infos schreib uns auf unseren Social Media Kanälen an. 
 
 
+[Wichtige Informationen zum Besuch im Kulturhof.](https://kulturhofvillach.at/covid-info/)
