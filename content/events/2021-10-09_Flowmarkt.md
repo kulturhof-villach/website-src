@@ -53,4 +53,4 @@ Abbau und Einladen von 16.00 bis 18.00 Uhr.
 
 ## Covid Informationen
 
-[Wichtige Informationen zum Besuch im Kulturhof.](covid-info)
+[Wichtige Informationen zum Besuch im Kulturhof.](https://kulturhofvillach.at/covid-info/)
