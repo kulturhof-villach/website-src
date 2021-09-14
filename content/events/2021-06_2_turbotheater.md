@@ -18,4 +18,4 @@ Ein Text aus den Theaterwerkstätten des TURBOtheaters 2020, nun als Hörspiel a
 
 ## Covid Informationen
 
-[Wichtige Informationen zum Besuch im Kulturhof.](covid-info)
+[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})

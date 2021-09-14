@@ -18,4 +18,4 @@ Der Kulturhof:villach ist das Kulturzentrum der Stadt, das seit 2011 alternative
 
 ## Covid Informationen
 
-[Wichtige Informationen zum Besuch im Kulturhof.](covid-info)
+[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})

@@ -39,4 +39,4 @@ https://ntry.at/poetryslamkulturhofvillach
 
 ## Covid Informationen
 
-[Wichtige Informationen zum Besuch im Kulturhof.](covid-info)
+[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})

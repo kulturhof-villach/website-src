@@ -35,4 +35,4 @@ Kontakt: [office@tatworttheater.com](mailto:office@tatworttheater.com)
 
 ## Covid Informationen
 
-[Wichtige Informationen zum Besuch im Kulturhof.](covid-info)
+[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})

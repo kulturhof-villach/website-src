@@ -18,4 +18,4 @@ Die Guiteros kennen sich schon ewig und fanden 2017 endlich auch musikalisch zue
 
 ## Covid Informationen
 
-[Wichtige Informationen zum Besuch im Kulturhof.](covid-info)
+[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
