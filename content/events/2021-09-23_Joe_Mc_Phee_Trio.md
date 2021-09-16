@@ -30,16 +30,19 @@ John Edwards beschäftigt sich schon immer mit einer breiten Vielfalt musikalisc
 
 Klaus Kugel, der im Juli 60 Jahre alt wird, spielt die Grenze zwischen in- und outplaying auf besonders schneidende Weise. Immer auf seine Kollegen hörend gestaltet er die musikalisch-rhythmischen Brücken zwischen seinen Bandkollegen. Er ist für sie sehr wichtig, denn er bringt, laut McPhee und Edwards, die Gruppe immer wieder auf die Erde zurück, nachdem sie den Bodenkontakt verloren haben.
  
-Telefonische Kartenreservierung unter 04242 28896 oder 0699 180 825 70 sowie über Homepage www.kulturforumvillach.at
 
-
->#Ticketsinfos
+>#Ticket-Infos
 >
 >Kulturforum Villach
+>
 >Obmann Dr. Hans Jalovetz
+>
 >Postgasse 8, 9500 Villach
+>
 >Tel. 0 42 42 / 288 96
+>
 >Fax 0 42 42 / 288 966
+>
 >kulturforum@jalovetz.at
 >
 >www.kulturforumvillach.at
