@@ -1,11 +1,11 @@
 +++
-title = "JOE MC PHEE mit seinem Trio ( USA,GB,D)'"
+title = "JOE MC PHEE mit seinem Trio (USA, GB, D)"
 authors = ["kulturforum-villach"]
 date = 2021-09-23T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Eine Jazzlegende kommt nach Villach"
-featured = "2021-09-23_McPHEE-EDWARDS-KUGELPhotomusix-C.Marx(002).jpg"
+featured = "img/events/2021-09-23_mcphee.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
