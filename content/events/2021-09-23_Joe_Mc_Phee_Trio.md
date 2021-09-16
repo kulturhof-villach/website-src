@@ -31,7 +31,7 @@ John Edwards beschäftigt sich schon immer mit einer breiten Vielfalt musikalisc
 Klaus Kugel, der im Juli 60 Jahre alt wird, spielt die Grenze zwischen in- und outplaying auf besonders schneidende Weise. Immer auf seine Kollegen hörend gestaltet er die musikalisch-rhythmischen Brücken zwischen seinen Bandkollegen. Er ist für sie sehr wichtig, denn er bringt, laut McPhee und Edwards, die Gruppe immer wieder auf die Erde zurück, nachdem sie den Bodenkontakt verloren haben.
  
 
->#Ticket-Infos
+># Ticket-Infos
 >
 >Kulturforum Villach
 >
