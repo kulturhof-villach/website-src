@@ -14,7 +14,10 @@ tags = ["concert"]
 draft = false
 +++
 
-Anna Anderluh - „Leave me Something Stupid“
+
+![Anna Anderluh](/img/events/2021-11-10_Anna_Anderluh.jpeg)
+
+### Anna Anderluh - „Leave me Something Stupid“
 
 "They say leave me the birds and the bees, and I say yes, but leave me the TV and some fat
 cheese too."
