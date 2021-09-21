@@ -14,41 +14,33 @@ tags = ["concert"]
 draft = false
 +++
 
+>
+> EINTRITT: € 23.-\* / € 15.-\*\* / € 10.-\*\*\*
+>
+> \*Im Vorverkauf online auf [ntry.at/manudelagokulturhof](https://ntry.at/manudelagokulturhof) sowie wochentags von 09 bis 12 Uhr im Kulturhof:Büro, Lederergasse 15.
+> \*\*Ermäßigungen für Studierende und Penstionist\*innen
+> \*\*\*Ermäßigungen für wirtschaftlich schwache Personen
+
 
 ![Anna Anderluh](/img/events/2021-11-10_Anna_Anderluh.jpeg)
 
 ### Anna Anderluh - „Leave me Something Stupid“
 
-"They say leave me the birds and the bees, and I say yes, but leave me the TV and some fat
-cheese too."
-So singt Anna Anderluh von der Notwendigkeit des Sinnlosen, Verwegenen und Blöden.
-Ihre Musik, welche sie selbst als „Pop mit Riss“ bezeichnet, schlägt eine Brücke zwischen
-zarter Poesie und harter Sozialkritik; zwischen zerbrechlichen, simplen Liedern und
-experimenteller Vokalimprovisation.
-Mit Humor und Einfühlsamkeit spürt sie der Magie scheinbar unbedeutender Kleinigkeiten
-nach, welche sie glänzen lässt, ohne ihnen zusätzliche Politur aufzuzwingen.
-Daraus entstehen unkonventionelle Klänge berührender Ehrlichkeit, die sich über Eile und
-Effekthascherei hinwegsetzen, sich jedesmal anders zeigen und nie den Anschein erwecken
-wollen fertig zu sein. Denn fertig ist fad.
+"They say leave me the birds and the bees, and I say yes, but leave me the TV and some fat cheese too." So singt Anna Anderluh von der Notwendigkeit des Sinnlosen, Verwegenen und Blöden. Ihre Musik, welche sie selbst als „Pop mit Riss“ bezeichnet, schlägt eine Brücke zwischen zarter Poesie und harter Sozialkritik; zwischen zerbrechlichen, simplen Liedern und experimenteller Vokalimprovisation. Mit Humor und Einfühlsamkeit spürt sie der Magie scheinbar unbedeutender Kleinigkeiten nach, welche sie glänzen lässt, ohne ihnen zusätzliche Politur aufzuzwingen. Daraus entstehen unkonventionelle Klänge berührender Ehrlichkeit, die sich über Eile und Effekthascherei hinwegsetzen, sich jedesmal anders zeigen und nie den Anschein erwecken wollen fertig zu sein. Denn fertig ist fad.
 
-"Anna Anderluh nimmt sich buchstäblich kein Blatt vor den Mund - dafür schon lieber ein
-Plastiksackerl zwischendurch." (Agnes Heginger)
+"Anna Anderluh nimmt sich buchstäblich kein Blatt vor den Mund - dafür schon lieber ein Plastiksackerl zwischendurch." (Agnes Heginger)
 
 "You never know what happens if you are on stage with Anna Anderluh." (Anna Laszlo)
 
-"Zerbrechlich und fragil steigen ihre Song-Gespinste auf, sie mischt Obertongesang, Text
-und quasi ‘instrumentale’ Vokal-Improvisation." (Helmut Jasbar)
+"Zerbrechlich und fragil steigen ihre Song-Gespinste auf, sie mischt Obertongesang, Text und quasi ‘instrumentale’ Vokal-Improvisation." (Helmut Jasbar)
 
 „Aufrichtig bis an die Schmerzgrenze!“ (Verena Göltl)
 
-"Ultimately, Anderluh is a singer with a beautiful technique and the ability to set emotions
-higher with her vocal mastery. However, her music is not only a show off of technical skills. It
-feels like a genuine, spontaneous and iconic demonstration of her sensibilities as an artist,
-songwriter, and human being." (Jazz Corner)
+"Ultimately, Anderluh is a singer with a beautiful technique and the ability to set emotions higher with her vocal mastery. However, her music is not only a show off of technical skills. It feels like a genuine, spontaneous and iconic demonstration of her sensibilities as an artist, songwriter, and human being." (Jazz Corner)
 
-Anna Anderluh: Gesang, Autoharp, Klavier, Babykeyboard, schöne kleine Dinge
-Martin Pfeiffer: Schlagzeug
-Philipp Kienberger: Bass
+-Anna Anderluh: Gesang, Autoharp, Klavier, Babykeyboard, schöne kleine Dinge
+-Martin Pfeiffer: Schlagzeug
+-Philipp Kienberger: Bass
 
 Website:
 www.annaanderluh.com
@@ -57,18 +49,13 @@ https://youtu.be/qDFU3UbxNk4
 https://youtu.be/8WYInhnBVTw
 https://youtu.be/hFY52abTZUo
 
+![Sir Tralala](/img/events/2021-11-19_SirTralala_c_David_Murobi.jpg)
+© David Murobi
 
+## Sir Tralala - „Echt gute böse Lieder“
 
-Alicia Edelweiss begann mit 19 Jahren, die Welt als Straßenmusikerin mit ihrem Akkordeon zu bereisen und entwickelte dort ihren einzigartigen “Circus Freak Folk”. Die halbe Waliserin hat ihre englischsprachigen Lieder auf ihrem Debut-Studio-Album gemeinsam mit Lukas Lauermann am Cello und Matthias Frey an der Geige aufgenommen. Mit Letzterem ist sie auch bei der “Ansa Panier” von Voodoo Jürgens auf Tour.
+Als David Hebenstreit aka Sir Tralala um die Jahrtausendwende mit seinem Debütalbum „Flying Objects, They Don`t Have a Brain“ in die österreichische Subkultur kracht, schlagen die Wellen bis hinüber nach Deutschland. Während damals im Bayerischen Rundfunk der Geisteszustand des Musikers diskutiert wird, hilft er – von Wien aus – Clubs, Labels und MusikerInnen auf die Sprünge, ist als Produzent und Gastmusiker an der Entstehung von mehr als 30 veröffentlichten Alben beteiligt, komponiert und produziert Musik zu mehreren Kino- und Fernsehfilmen und bereichert als Instrumentalist die Bühnenauftritte von „Der Nino aus Wien“, „Soap & Skin“, „Neigungsgruppe: Sex, Gewalt und Gute Laune“, „Die Buben im Pelz“ und anderen.
 
-Das neue, zweite Album – nach dem 2016er Debüt „Mother, How Could You“ und der 2012 erschienen Ep „ I should have been overproduced “ – der in Wien lebenden und arbeitenden Alicia Edelweiss ist eine durch und durch erstaunliche Angelegenheit.
-9 Songs (8 eigene und „Fare Thee Well“, ein englisches Folk-Traditional), zeigen die poetische Kraft und Klarheit ihrer Musik in einnehmender, an- und berührender Deutlichkeit. Schon ist mensch versucht, das „magic“ aus dem oben zitierten „ The Secret Garden“, für die Musikerin selbst ein Schlüsselstück ihrer jüngsten Arbeit, aufzugreifen, und „Zaubermusik“ als Genre für ihr Schaffen zu assoziieren. In der sich Selbsterlebtes, Übersteigertes, Träume, Splitter von Sagen oder aus Kinderbüchern zu einer so ganz anderen, mal erschütternden, mal erheiternden künstlerischen Reflexion unserer aller Wirklichkeit verbinden. Was diese Musik jenseits solcher Begrifflichkeiten prägt, umfasst inhaltlich und formell ein erstaunliches Spektrum.(Rainer Krispel)
+Live singt Sir Tralala mit einer sich ins Derbe einfühlenden Poesie „Echt gute böse Lieder“ seines letzten gleichnamigen Albums. Mit Hingabe widmet er sich dabei den Abgründen der österreichischen Seele, abstrusen Liebeshymnen, Außenseiter-Oden sowie Liedern über Tod und Teufel. Das eigene Werk ergänzt er durch gefühlvoll interpretierte Coversongs und spontane Anekdoten, mit denen er das Drama in die Knie zwingt. Sein Interagieren mit dem Publikum macht jedes seiner Gastspiele unvergleichlich, frei nach dem Motto: „Wenn ich mein Konzert nicht mit einem metaphorisch geschwollenen, aber fröhlich zwinkernden, von einem Veilchen gekrönten Auge beenden kann, dann war es nicht gut.“ (Sir Tralala)
 
-Besetzung:
-- Alicia Edelweiss (Akkordeon und Gesang)
-- Joana Marialena Karácsonyi (Cello)
-- Matthias Frey (Violine)
-
-### TICKETS:
-
-[Tickets auf ntry kaufen](https://ntry.at/internationaleraliciatag)
+https://www.hebenstreit-david.net/
