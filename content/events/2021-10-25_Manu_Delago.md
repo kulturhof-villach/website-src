@@ -17,7 +17,7 @@ draft = false
 >
 > EINTRITT: € 25.-\* / € 19.-\*\* / € 10.-\*\*\*
 >
-> \*Im Vorverkauf online auf [ntry.at/recycling2021](http://ntry.at/recycling2021) sowie wochentags von 09 bis 12 Uhr im Kulturhof:Büro, Lederergasse 15.
+> \*Im Vorverkauf online auf [ntry.at/manudelagokulturhof](https://ntry.at/manudelagokulturhof) sowie wochentags von 09 bis 12 Uhr im Kulturhof:Büro, Lederergasse 15.
 > \*\*Ermäßigungen für Studierende und Penstionist\*innen
 > \*\*\*Ermäßigungen für wirtschaftlich schwache Personen
 
