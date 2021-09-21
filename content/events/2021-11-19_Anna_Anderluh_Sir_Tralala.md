@@ -17,7 +17,7 @@ draft = false
 >
 > EINTRITT: € 23.-\* / € 15.-\*\* / € 10.-\*\*\*
 >
-> \*Im Vorverkauf online auf [ntry.at/manudelagokulturhof](https://ntry.at/manudelagokulturhof) sowie wochentags von 09 bis 12 Uhr im Kulturhof:Büro, Lederergasse 15.
+> \*Im Vorverkauf online auf [ntry.at/annaanderluhsirtralala](https://ntry.at/annaanderluhsirtralala) sowie wochentags von 09 bis 12 Uhr im Kulturhof:Büro, Lederergasse 15.
 > \*\*Ermäßigungen für Studierende und Penstionist\*innen
 > \*\*\*Ermäßigungen für wirtschaftlich schwache Personen
 
@@ -59,3 +59,11 @@ Als David Hebenstreit aka Sir Tralala um die Jahrtausendwende mit seinem Debüta
 Live singt Sir Tralala mit einer sich ins Derbe einfühlenden Poesie „Echt gute böse Lieder“ seines letzten gleichnamigen Albums. Mit Hingabe widmet er sich dabei den Abgründen der österreichischen Seele, abstrusen Liebeshymnen, Außenseiter-Oden sowie Liedern über Tod und Teufel. Das eigene Werk ergänzt er durch gefühlvoll interpretierte Coversongs und spontane Anekdoten, mit denen er das Drama in die Knie zwingt. Sein Interagieren mit dem Publikum macht jedes seiner Gastspiele unvergleichlich, frei nach dem Motto: „Wenn ich mein Konzert nicht mit einem metaphorisch geschwollenen, aber fröhlich zwinkernden, von einem Veilchen gekrönten Auge beenden kann, dann war es nicht gut.“ (Sir Tralala)
 
 https://www.hebenstreit-david.net/
+
+ 
+- Info Hotline: 0699 15088177 
+- E-Mail: office@kulturhofvillach.at
+
+## Covid Informationen
+
+[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
