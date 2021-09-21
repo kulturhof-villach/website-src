@@ -2,10 +2,10 @@
 title = "Anna Anderluh & Sir Tralala"
 authors = ["kulturhofkeller"]
 date = 2020-11-19
-publishdate = 2021-09-06
-time = "20:00"
-description = "Im Anschluss: DJane Commander Venus"
-featured = "img/events/2020-03_aliciaedelweiss.jpg"
+publishdate = 2021-05-01
+time = "20:30"
+description = "Doppelkonzert"
+featured = "img/events/2021-11-19_Anna_Anderluh_Sir_Tralala.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -13,6 +13,48 @@ type = "event"
 tags = ["concert"]
 draft = false
 +++
+
+Anna Anderluh - „Leave me Something Stupid“
+
+"They say leave me the birds and the bees, and I say yes, but leave me the TV and some fat
+cheese too."
+So singt Anna Anderluh von der Notwendigkeit des Sinnlosen, Verwegenen und Blöden.
+Ihre Musik, welche sie selbst als „Pop mit Riss“ bezeichnet, schlägt eine Brücke zwischen
+zarter Poesie und harter Sozialkritik; zwischen zerbrechlichen, simplen Liedern und
+experimenteller Vokalimprovisation.
+Mit Humor und Einfühlsamkeit spürt sie der Magie scheinbar unbedeutender Kleinigkeiten
+nach, welche sie glänzen lässt, ohne ihnen zusätzliche Politur aufzuzwingen.
+Daraus entstehen unkonventionelle Klänge berührender Ehrlichkeit, die sich über Eile und
+Effekthascherei hinwegsetzen, sich jedesmal anders zeigen und nie den Anschein erwecken
+wollen fertig zu sein. Denn fertig ist fad.
+
+"Anna Anderluh nimmt sich buchstäblich kein Blatt vor den Mund - dafür schon lieber ein
+Plastiksackerl zwischendurch." (Agnes Heginger)
+
+"You never know what happens if you are on stage with Anna Anderluh." (Anna Laszlo)
+
+"Zerbrechlich und fragil steigen ihre Song-Gespinste auf, sie mischt Obertongesang, Text
+und quasi ‘instrumentale’ Vokal-Improvisation." (Helmut Jasbar)
+
+„Aufrichtig bis an die Schmerzgrenze!“ (Verena Göltl)
+
+"Ultimately, Anderluh is a singer with a beautiful technique and the ability to set emotions
+higher with her vocal mastery. However, her music is not only a show off of technical skills. It
+feels like a genuine, spontaneous and iconic demonstration of her sensibilities as an artist,
+songwriter, and human being." (Jazz Corner)
+
+Anna Anderluh: Gesang, Autoharp, Klavier, Babykeyboard, schöne kleine Dinge
+Martin Pfeiffer: Schlagzeug
+Philipp Kienberger: Bass
+
+Website:
+www.annaanderluh.com
+Videolinks:
+https://youtu.be/qDFU3UbxNk4
+https://youtu.be/8WYInhnBVTw
+https://youtu.be/hFY52abTZUo
+
+
 
 Alicia Edelweiss begann mit 19 Jahren, die Welt als Straßenmusikerin mit ihrem Akkordeon zu bereisen und entwickelte dort ihren einzigartigen “Circus Freak Folk”. Die halbe Waliserin hat ihre englischsprachigen Lieder auf ihrem Debut-Studio-Album gemeinsam mit Lukas Lauermann am Cello und Matthias Frey an der Geige aufgenommen. Mit Letzterem ist sie auch bei der “Ansa Panier” von Voodoo Jürgens auf Tour.
 
