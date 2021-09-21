@@ -1,11 +1,11 @@
 +++
 title = "Stefan Ofner"
-authors = ["kulturhof"]
+authors = ["Stefan Ofner"]
 date = 2021-11-25T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "„Wieso“ – ein Kabarettprogramm von und mit Stefan Ofner"
-featured = "img/events/2021-11-25_Stefan_Ofner_c_Julian_Pirkerjpg.jpg"
+featured = "2021-11-25_Stefan_Ofner_c_Julian_Pirkerjpg.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -20,7 +20,8 @@ draft = false
 
 #### „Wieso“ – ein Kabarettprogramm von und mit Stefan Ofner
 
-* Inhalt
+**Inhalt**
+
 Wer bin ich? Woher komme ich? Wohin gehe ich? Diese grundlegenden Fragen stellt sich der im Mittelpunkt stehende junge Protagonist, dessen Lebensreise plötzlich von gewaltigen Turbulenzen auf den Kopf gestellt wird. In dieser Situation erscheint es ihm am besten, erst einmal in Ohnmacht zu fallen.
 Ein wilder Ritt durch das Unterbewusstsein beginnt und dem Protagonisten wird klar, er ist nicht allein. Verschiedene Persönlichkeiten, historisch und fiktiv, gesellen sich zu ihm und begleiten ihn. Existieren die Figuren wirklich oder sind sie nur Einbildung des überforderten Geistes? Zunehmend stellt sich ihm eine Frage in den Weg: Wieso?
 
