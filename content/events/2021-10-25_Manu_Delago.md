@@ -24,7 +24,7 @@ draft = false
 
 Der österreichische Musiker und Komponist Manu Delago präsentiert sein erstes audiovisuelles Soloprogramm mit dem Titel 'Environ Me'.
 
-![Stefanie Sargnagel](/img/events/2021-10-25_manudelago_environme_cover_1500x1500px_DIGITAL.jpg)
+![Manu Delago](/img/events/2021-10-25_manudelago_environme_cover_1500x1500px_DIGITAL.jpg)
 © Simon Rainer
 
 Nach mehreren internationalen Tourneen in den letzten Jahren mit Björk, Olafur Arnalds, Cinematic Orchestra und Anoushka Shankar und seinem mehrfach preisgekrönten Musik- und Bergfilm 'Parasol Peak' verwandelt sich der bereits für einen Grammy nominierte Künstler in ein One-Man-Orchestra.
