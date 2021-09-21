@@ -1,6 +1,6 @@
 +++
 title = "Anna Anderluh & Sir Tralala"
-authors = ["kulturhofkeller"]
+authors = ["kulturhof"]
 date = 2020-11-19
 publishdate = 2021-05-01
 time = "20:30"
