@@ -18,7 +18,7 @@ draft = false
 >
 >0650 808 41 35 / karten.artis@gmx.at
 
-#### „Wieso“ – ein Kabarettprogramm von und mit Stefan Ofner
+#### „WIESO? – ein Kabarettprogramm von und mit Stefan Ofner
 
 **Inhalt**
 
