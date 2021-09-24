@@ -1,11 +1,11 @@
 +++
 title = "Stefan Ofner"
-authors = ["Stefan Ofner"]
+authors = ["kulturhof"]
 date = 2021-11-28T18:00:00
 publishdate = 2021-05-01
 time = "18:00"
 description = "WIESO? – ein Kabarettprogramm von und mit Stefan Ofner"
-featured = "2021-11-25_Stefan_Ofner_c_Julian_Pirkerjpg.jpg"
+featured = "img/events/2021-11-25_Stefan_Ofner_c_Julian_Pirkerjpg.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
