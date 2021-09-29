@@ -1,7 +1,7 @@
 +++
 title = "Anna Anderluh & Sir Tralala"
 authors = ["kulturhof"]
-date = 2020-11-19
+date = 2021-11-19
 publishdate = 2021-05-01
 time = "20:30"
 description = "Doppelkonzert"
