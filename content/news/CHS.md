@@ -1,4 +1,4 @@
-+++ title = "CHS im Kulturhof:villach" authors = ["kulturhof"] date = 2021-09-23T18:30:00 publishdate = 2021-09-23 description = "CHS hat weiche Pläne für den Kulturhof:villach" time = "" featured = "img/news/2021-09-23_CHS_Pölster_1.jpg" type = "news" draft = false +++
++++ title = "CHS im Kulturhof:villach" authors = ["kulturhof"] date = 2021-09-23T18:30:00 publishdate = 2021-09-23 description = "CHS hat weiche Pläne für den Kulturhof:villach" time = "" featured = "img/news/2021-09-23_CHS_c_Karin_Kerschbaumer.jpg" type = "news" draft = false +++
 
 **Gekommen und Maß genommen...
 
