@@ -17,7 +17,7 @@ draft = false
 >
 > EINTRITT: € 23.-\* / € 16.-\*\* / € 8.-\*\*\*
 >
-> \*Im Vorverkauf online auf [ntry.at/schmack](https://ntry.at/schmack) sowie im Kulturhof:büro (Tel.: +43 699 15088177)
+> \*Im Vorverkauf online auf [ntry.at/paulplut_Kulturhofvillach](https://ntry.at/paulplut_Kulturhofvillach) sowie im Kulturhof:büro (Tel.: +43 699 15088177)
 > 
 > \*\*Ermäßigungen für Studierende und Penstionist\*innen
 > 
