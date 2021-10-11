@@ -39,16 +39,17 @@ PAUL PLUT VERDUNKELT UND ERHELLT
 
 Der Ramsauer reißt die geblümten Vorhänge der Gaststuben auf und lässt sich vom gleißenden Weiß der alten Gletscher blenden. Grelles Licht fällt auf die seligen Bauersleut, wenn sie sich als Hotelleristen dekuvriert sehen. Der Ton bleibt aber düs- ter: Paul Plut führt die Hörer:innen durch ein Ritual, das um das Wesen des menschlichen Daseins kreist. Dialekt-Gospel, der die Verflochtenheit von Leben und Tod, Vorbestimmtheit und Widerstand, Verderbnis und Mitgefühl zeigt
 
-
+![Paul_Plut](/img/events/2021-01-22_paul_plut_c_guggi_lierzer3.jpg)
+© Guggi Lierzer
 
 ÜBER DEN KÜNSTLER
 
 Paul Plut ist Musiker, Komponist und Texter, geboren 1988 in Ramsau am Dachstein. Der Autodidakt singt, spielt verschiede- ne Instrumente und macht Studiotechnik. Plut reüssierte bereits mit seinen Indie-Bands Viech und Marta. Auf sein Solo-Debüt „Lieder vom Tanzen und Sterben” (2016) folgten über 100 groß- teils ausverkaufte Konzerte. In einem monatlichen Newsletter teilt Plut Liner Notes, unveröffentlichte Demos und verwandtes Material mit seinen Hörer:innen. Ω
 
 
-
-
 ## Support
+
+Infos folgen in Kürze
 
 
 - Info Hotline: 0699 15088177 
