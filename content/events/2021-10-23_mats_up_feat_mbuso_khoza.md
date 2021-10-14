@@ -1,7 +1,7 @@
 +++
 title = "MATS-UP feat. Mbuso Khoza"
 authors = ["kulturforum-villach"]
-date = 2021-10-12T20:00:00
+date = 2021-10-23T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = ""
