@@ -31,13 +31,18 @@ pauT - „The Unknown Legend der österreichischen Musikszene“ (Wiener Zeitung
 
 Foto © Carina Antl
 
->*TERMINE* 
+>**TERMINE** 
 >
 >-05.02.22 - ARGE, Salzburg (Pauls Jets Support)
+>
 >-10.02.22 - Atelier Theater, Wien
+>
 >-11.02.22 – Schlot, Linz
+>
 >-16.02.22 - MUZClub, Nürnberg
+>
 >-18.02.22 - Kulturhof, Villach
+>
 >-19.02.22 - Orpheum Extra, Graz
 
 
