@@ -1,9 +1,9 @@
 +++
 title = "MANU DELAGO „ENVIRON ME Tour“"
 authors = ["kulturhof"]
-date = 2021-10-25T20:30:00
+date = 2021-10-25T20:00:00
 publishdate = 2021-05-01
-time = "20:30"
+time = "20:00"
 description = "Der österreichische Musiker und Komponist Manu Delago präsentiert sein erstes audiovisuelles Soloprogramm mit dem Titel 'Environ Me'"
 featured = "img/events/Manu_Delago_c_Simon_Rainer.jpg"
 featuredVideo = ""
