@@ -31,12 +31,6 @@ Seit einem Jahr nun hat sich der Kulturhof:villach nun mit den neuen, erfolgreic
 
 ## Zu den Künstler\*innen und Projekten
 
-### Herbie van Tetering
-![Herbie](/img/events/2021-10-29_Herbie_van_Tetering.jpg)
-
-Herbie van Tetering (NL) is a Jazz DJ, Artist, Musician, Composer and Recording Studio owner. When he was young, he studied Jazz Composition at Berklee College of Music and continued studies with renowned musicians in The Netherlands. As a Composer and Musician, Herbie is affiliated with the BMI organisation and an independant label. Herbie plays Resonance Trumpets and exclusively Grand Pianos like Steinway. Herbie's music is a blend of Jazz, Electronica and Ensemble performed in different settings. 
-https://herbievantetering.musicaneo.com
-
 ### Lena Lapschida
 ![Lena Lapschida](/img/events/2021-10-29_Lena_Lapschida.jpg)
 
@@ -78,6 +72,14 @@ Wir sind gewohnt sie auszublenden.
 Doch hört man genauer hin kann es mitunter befremdlich werden. 
 Eine Audioinstallation aus synthetisch nachgebessertem Field-Recording, zwischen Verfremdung, Irritation und trockener Realität. 
 
+## Musik
 
+### Herbie van Tetering
+![Herbie](/img/events/2021-10-29_Herbie_van_Tetering.jpg)
 
+Herbie van Tetering (NL) is a Jazz DJ, Artist, Musician, Composer and Recording Studio owner. When he was young, he studied Jazz Composition at Berklee College of Music and continued studies with renowned musicians in The Netherlands. As a Composer and Musician, Herbie is affiliated with the BMI organisation and an independant label. Herbie plays Resonance Trumpets and exclusively Grand Pianos like Steinway. Herbie's music is a blend of Jazz, Electronica and Ensemble performed in different settings. 
+https://herbievantetering.musicaneo.com
 
+## Drinks
+
+Drinks gibts von Sem Jeito
