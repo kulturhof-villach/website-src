@@ -19,14 +19,17 @@ draft = false
 ## Vernissage am 29.10.2021 - 18:00 Uhr
 
 
->Musik: Jazz Dj Herbie
->
 >Kulturhof:schauraum: Lena Lapschida
 >
 >Kulturhof:klangkorridor: Andreas Thaler
+>
+>Musik: Jazz Dj Herbie
+>
+>Drinks: Sem Jeito
+>
+>Eintritt frei
 
-
-Seit einem Jahr nun hat sich der Kulturhof:villach nun mit den neuen, erfolgreichen Flächen, dem :klangkorridor und dem :schauraum - der kleinsten Gallerie Kärntens, erweitert. Alle zwei bis drei Monate haben hier verschiedenste Künstler*innen die Möglichkeit ihre Werke zu präsentieren. Nächsten Freitag, den 29.10.2021 ist es wieder soweit.
+Seit einem Jahr nun hat sich der Kulturhof:villach nun mit den neuen, erfolgreichen Flächen, dem :klangkorridor und dem :schauraum - der kleinsten Gallerie Kärntens, erweitert. Alle zwei bis drei Monate haben hier verschiedenste Künstler\*innen die Möglichkeit ihre Werke zu präsentieren. Nächsten Freitag, den 29.10.2021 ist es wieder soweit.
 
 
 ## Zu den Künstler\*innen und Projekten
@@ -82,4 +85,4 @@ https://herbievantetering.musicaneo.com
 
 ## Drinks
 
-Drinks gibts von Sem Jeito
+### Drinks gibts von Sem Jeito
