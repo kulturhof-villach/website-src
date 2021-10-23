@@ -86,3 +86,9 @@ https://herbievantetering.musicaneo.com
 ## Drinks
 
 ### Drinks gibts von Sem Jeito
+
+
+
+## Covid Informationen
+
+[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
