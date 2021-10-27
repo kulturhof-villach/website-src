@@ -19,7 +19,7 @@ draft = false
 ## Vernissage am 29.10.2021 - 18:00 Uhr
 
 
->Kulturhof:schauraum: Lena Lapschida
+>Kulturhof:schauraum: Lena Lapschina
 >
 >Kulturhof:klangkorridor: Andreas Thaler
 >
@@ -34,7 +34,7 @@ Seit einem Jahr nun hat sich der Kulturhof:villach nun mit den neuen, erfolgreic
 
 ## Zu den Künstler\*innen und Projekten
 
-### Lena Lapschida
+### Lena Lapschina
 ![Lena Lapschida](/img/events/2021-10-29_Lena_Lapschida.jpg)
 
 Lena Lapschina graduated from State Stroganow University of Fine and Applied Arts in Moscow. She lives and works in Vienna and Lower Austria. She has won the Austrian State Grant for Video and Media Art in 2011, and was awarded several prestigious residencies, including the Djerassi Residence Artists Program (Woodside, California), KuS (Heerlen, Netherlands), ORTung (Strobl, Austria), and Nordens Hus (Reykjavík, Iceland).
