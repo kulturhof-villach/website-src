@@ -1,6 +1,6 @@
 +++
 title = "Neue Kunst im Kulturhof"
-authors = ["Kulturhof"]
+authors = ["kulturhof"]
 date = 2021-10-29T19:00:00
 publishdate = 2021-10-29
 time = "19:00"
