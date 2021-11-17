@@ -1,5 +1,5 @@
 +++
-title = "Anna Anderluh & Sir Tralala"
+title = "ABGESAGT: Anna Anderluh & Sir Tralala"
 authors = ["kulturhof"]
 date = 2021-11-19
 publishdate = 2021-05-01
@@ -13,6 +13,8 @@ type = "event"
 tags = ["concert"]
 draft = false
 +++
+
+> Aufgrund der aktuellen Situation haben wir uns gemeinsam mit den Künstler*innen entschlossen das Konzert abzusagen. [Hier geht es zu unserem Statement zu dieser Entscheidung](/news/2021-11_absage-ansage) 
 
 >
 > EINTRITT: € 23.-\* / € 15.-\*\* / € 10.-\*\*\*
