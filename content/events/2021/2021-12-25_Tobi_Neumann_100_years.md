@@ -1,6 +1,6 @@
 +++
 title = "Tobi Neumann @ 100yrs"
-authors = ["kulturhof & Loco Sound Club"]
+authors = ["kulturhof", "loco"]
 date = 2021-12-25T21:00:00
 publishdate = 2021-05-01
 time = "21:00"
