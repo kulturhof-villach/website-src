@@ -35,6 +35,8 @@ Text und Regie: Stefan Ofner
 Künstlerische Mitarbeit: Robert Grießner
 PR: Johannes Petautschnig
 
+Foto: Julian Pirker
+
 ## Covid Informationen
 
 [Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
