@@ -14,8 +14,11 @@ weight = 2
 
 # Wichtige Covid-19-Hinweise für Besucher\*innen von Veranstaltungen im Kulturhof:villach
 
+# derzeit befinden wir uns im Lockdown - es finden also derzeit keine Veranstaltungen statt - alle Infos zum Thema Covid-Regelungen für kommende Veranstaltungen folgen asap
+
 ### 2G-Regelung: Geimpft, Genesen
 Eintritt nur mit Nachweis über eine geringe epidemiologische Gefahr: genesen oder geimpft
+Bitte beim Einlass Grünen Pass oder original Impfpass in Kombination mit einem amtlichen Lichtbildausweis bereithalten
 
 **Antikörpertests sind nicht mehr als G-Nachweis gültig**
 
