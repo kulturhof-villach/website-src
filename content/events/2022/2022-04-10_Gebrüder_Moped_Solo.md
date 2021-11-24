@@ -1,11 +1,13 @@
 +++
 title = "Gebrüder Moped"
-authors = ["gebrueder-moped"]
+authors = ["kulturhof"]
 date = 2022-04-21T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Das Beste aus beiden Welten"
-featured = "img/events/2021-12-10_Kabarett_Koalition.jpg"
+featured = "img/events/2022-04-10_GebruederMoped_Solo.jpg
+Add files via upload
+"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
