@@ -1,5 +1,5 @@
 +++
-title = "!!VERSCHOBEN!! Elli Bauer und Mike Supancic"
+title = "Elli Bauer und Mike Supancic"
 authors = ["gebrueder-moped"]
 date = 2022-06-10T19:00:00
 publishdate = 2021-05-01
