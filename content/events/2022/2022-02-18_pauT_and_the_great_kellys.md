@@ -25,6 +25,9 @@ draft = false
 
 ## pauT & The greaT kellys
 
+![pauT & The greaT kellys](/img/events/2202-02-18_pauT_quadratisch.png)
+© Guggi Lierzer
+
 ### welTraumkaTzenTour 
 
 pauT - „The Unknown Legend der österreichischen Musikszene“ (Wiener Zeitung) ist dem Publikum durch Auftritte als Bassist mit „Der Nino aus Wien“ und „Claria Luzia“ bereits bestens bekannt. Jetzt bringt pauT mit der welTraumkaTzenTour ein Psychdelic-Spektakel auf die Bühne – eine Zeitreise zwischen den Roaring Sixties und den 2020ern. Gemeinsam mit der all-female Band „the greaT kellys“ und dem aktuellen Album „welTraumkaTzen“ im Gepäck tourt pauT durch Österreich & Deutschland.
