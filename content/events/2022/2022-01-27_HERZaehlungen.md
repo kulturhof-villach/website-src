@@ -5,7 +5,9 @@ date = 2022-01-27T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Spannende, wahre Geschichten über's Herz - von Herzen"
-featured = "img/events/2022-01-27_HERZaehlungen.png"
+featured = "img/events/2022-01-27_Herzerzählungen_Flyer_Villach_Kulturhof.png"
+rebuild site
+g"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
