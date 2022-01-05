@@ -1,7 +1,7 @@
 +++
 title = "HERZählungen"
 authors = ["kulturhof"]
-date = 2022-04-21T19:00:00
+date = 2022-01-27T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Spannende, wahre Geschichten über's Herz - von Herzen"
