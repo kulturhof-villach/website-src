@@ -5,7 +5,9 @@ date = 2022-02-18T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "welTraumkaTzenTour"
-featured = "img/events/2022-02-18_pauT_greaT_kellys_c_Carina_Antl.jpg"
+featured = "img/events/2022-02-18_pauT_FB_Eventbild2.png
+rebuild site
+"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
