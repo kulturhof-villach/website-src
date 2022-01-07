@@ -5,7 +5,9 @@ date = 2022-01-14T19:30:00
 publishdate = 2021-05-01
 time = "19:30"
 description = ""
-featured = "img/events/2022-01-14_Feichtmair.tiff"
+featured = "img/events/2022-01-14_Feichtmair-Glawischnig.jpg
+Add files via upload
+"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
