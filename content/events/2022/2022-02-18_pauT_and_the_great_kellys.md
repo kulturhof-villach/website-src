@@ -5,9 +5,7 @@ date = 2022-02-18T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "welTraumkaTzenTour"
-featured = "img/events/2022-02-18_pauT_FB_Eventbild2.png
-rebuild site
-"
+featured = "img/events/2022-02-18_pauT_FB_Eventbild2.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
