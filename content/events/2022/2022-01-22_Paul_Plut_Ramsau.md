@@ -1,5 +1,5 @@
 +++
-title = "Paul Plut"
+title = "Paul Plut - local support: Little Lakes"
 authors = ["kulturhof"]
 date = 2022-01-22T20:00:00
 publishdate = 2021-05-01
@@ -18,6 +18,8 @@ draft = false
 > EINTRITT: € 23.-\* / € 16.-\*\* / € 8.-\*\*\*
 >
 > \*Im Vorverkauf online auf [ntry.at/paulplut_Kulturhofvillach](https://ntry.at/paulplut_Kulturhofvillach) sowie im Kulturhof:büro (Tel.: +43 699 15088177)
+>
+>Tickets können auch verbindlich reserviert - einfach anrufen oder Email (inklusive Kontaktdaten - Name, Telefonnummer) an office@kulturhofvillach.at
 > 
 > \*\*Ermäßigungen für Studierende und Penstionist\*innen
 > 
@@ -49,7 +51,13 @@ Paul Plut ist Musiker, Komponist und Texter, geboren 1988 in Ramsau am Dachstein
 
 ## Support
 
-Infos folgen in Kürze
+### Little Lakes
+
+![Little Lakes](/img/events/2022-01-22_little_lakes.jpeg)
+© Maren Etta Katharina Foto
+
+"Little Lakes" beweisen dem Puplikum einen unumstößlichen Fakt: Musik ist und bleibt, eine universelle Sprache welche jeder verstehen kann. Das Folk-Pop Duo aus Kärnten zeigt eindrucksvoll, dass es nicht mehr als 2 Menschen mit Instrumenten braucht, um tief zu berühren - Emotionen zu wecken und Stimmungswelten zu erschaffen. 
+Annika und Erich machen schon lange gemeinsam Musik, haben die Lockdown Zeit genutzt um ihre Werke zu perfektionieren und haben endlich eine EP aufgenommen, welche Sie jetzt Live präsentieren wollen. 
 
 
 - Info Hotline: 0699 15088177 
