@@ -3,7 +3,7 @@ title = "Paul Plut - local support: Little Lakes"
 authors = ["kulturhof"]
 date = 2022-01-22T20:00:00
 publishdate = 2021-05-01
-time = "20:00"
+time = "19:30"
 description = "Ramsau am Dachstein nach der Apokalypse"
 featured = "img/events/2022-01-22_paul_plut_c_guggi_lierzer.jpg"
 featuredVideo = ""
@@ -24,6 +24,8 @@ draft = false
 > \*\*Ermäßigungen für Studierende und Penstionist\*innen
 > 
 > \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Besitzer*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard
+
+**ACHTUNG - geänderte Beginnzeit!! Wir starten um 19:30 Uhr und bitten alle Besucher\*innen mindestens eine halbe Stunde vor Beginn zu kommen. Halten Sie bitte beim Einlass ihren 2G-Nachweis und einen amtlichen Lichtbildausweis bereit.
 
 ### Paul Plut
 
