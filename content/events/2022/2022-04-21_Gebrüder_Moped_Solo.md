@@ -23,7 +23,6 @@ Wie seid ihr damals eigentlich ohne Computer ins Internet gekommen? Wo wohnen Om
 Das sei zumindest schon verraten: Sie waren von Anfang an gegen die Abhaltung einer Pandemie. Es ist Zeit. Für eine gründliche Inventur. Conferencen, Gags und Gustostückerln – Alles darf raus! Denn der eine weiß alles. Der andere besser. Der eine versteht die Welt nicht mehr. Der andere versteht die Welt. Und nicht mehr.
 Die Gebrüder rechnen ab. Am liebsten mit sich selbst. Bist du Moped. 
 
-Ticketinfos: 
 
 >Donnerstag, 21.04.2022
 >
@@ -34,6 +33,13 @@ Ticketinfos:
 >Lederergasse 15, 9500 Villach
 >
 >**Reservierung** über https://gebruedermoped.com/reservierung-kabarett-koalition/  oder office@kulturhofvillach.at oder +43 699 15088177
+
+> EINTRITT: € 18.- / € 11.-\* / € 8.-\*\*
+> 
+> \*Ermäßigungen für Studierende und Penstionist\*innen
+> 
+> \*\*Ermäßigungen für wirtschaftlich schwache Personen und Besitzer*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard
+
 
 Foto: Gebrüder Moped
 
