@@ -34,7 +34,7 @@ Die Gebrüder rechnen ab. Am liebsten mit sich selbst. Bist du Moped.
 >
 >**Reservierung** über https://gebruedermoped.com/reservierung-kabarett-koalition/  oder office@kulturhofvillach.at oder +43 699 15088177
 
-
+Foto: Gebrüder Moped
 
 
 
