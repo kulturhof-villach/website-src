@@ -23,6 +23,7 @@ Wie seid ihr damals eigentlich ohne Computer ins Internet gekommen? Wo wohnen Om
 Das sei zumindest schon verraten: Sie waren von Anfang an gegen die Abhaltung einer Pandemie. Es ist Zeit. Für eine gründliche Inventur. Conferencen, Gags und Gustostückerln – Alles darf raus! Denn der eine weiß alles. Der andere besser. Der eine versteht die Welt nicht mehr. Der andere versteht die Welt. Und nicht mehr.
 Die Gebrüder rechnen ab. Am liebsten mit sich selbst. Bist du Moped. 
 
+Ticketinfos: 
 
 >Donnerstag, 21.04.2022
 >
