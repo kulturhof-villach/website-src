@@ -17,7 +17,7 @@ draft = false
 >
 > EINTRITT: € 23.-\* / € 15.-\*\* / € 8.-\*\*\*
 >
-> \*Im Vorverkauf online auf [ntry.at/annaanderluhsirtralala](https://ntry.at/annaanderluhsirtralala) sowie wochentags von 09 bis 12 Uhr im Kulturhof:Büro, Lederergasse 15.
+> \*Im Vorverkauf online auf [ntry.at/annaanderluhsirtralala](https://ntry.at/annaanderluhsirtralala) - Reservierungen und Ticketkauf auch unter +43 699 15088177 oder office@kulturhofvillach.at 
 > \*\*Ermäßigungen für Studierende und Penstionist\*innen
 > \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und unter Vorlage der Jugendcard
 
