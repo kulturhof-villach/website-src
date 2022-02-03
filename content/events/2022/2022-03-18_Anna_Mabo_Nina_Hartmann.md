@@ -23,8 +23,19 @@ draft = false
 
 **So viel Kabarett in nur einer Koalition**
 
+![Gebrüder Moped](/img/events/2022-03-18_GebruederMoped_2021_quer.jpeg)
+Gebrüder Moped © Gebrüder Moped
+
 Eine Koalition ohne Sideletter, Skandale und sonstige Sorgenfalten. Ja, gibt es denn so etwas überhaupt? Ja, das gibt’s – immer dann, wenn die “Kabarett Koalition” in den Villacher Kulturhof bittet. Am Freitag, 18.03.2022 ist es wieder soweit. Die Gebrüder Moped, die Gastgeber und Moderatoren der erfolgreichen Veranstaltungsreihe, laden erneut zwei extravagante Acts in die Draustadt und versprechen einen einzigartigen Abend in der Lederergasse. Mit dabei sind diesmal Anna Mabo und Nina Hartmann.
+
+![Nina Hartmann](/img/events/2022-03-18_Nina_Hartmann_cLuis-Casanova-scaled.jpeg)
+Nina Hartmann © Luis Casanova
+
 Das Leben als selbstständige, selbstbewusste, emanzipierte, alleinverdienende, Zimmerpflanzen-ziehende Frau, Tochter, Freundin, Hop-on Hop-off Single, Schauspielerin, Autorin und Kabarettistin – kurz: für Nina Hartmann – ist hart. So viel verrät die lustigste Tirolerin seit Hansi Hinterseer in ihrem brandneuen Kabarett-Programm „Endlich Hausfrau“, das nur wenige Tage vor ihrem Villach-Gastspiel Premiere feiert. 
+
+![Anna Mabo](/img/events/2022-03-18_annamabo_05_cthomasschrenk.com_-scaled.jpeg)
+Anna Mabo © Thomas Schrenk
+
 Einen ebenfalls elastischen Bogen spannt der aktuelle Tourplan von Anna Mabo. Vom Wiener Konzerthaus direkt in den Villacher Kulturhof? So soll es sein. Anna Mabos Musik ist wie eine „Sammlung an Wienerliedern ohne Wiener – ein Abend beim Heurigen als Vibe, der sich dem Instagram-Blickwinkel verstellt“, schreibt Christoph Benkeser für mica Music Austria. Und Anna Mabos Labelchef Ernst Molden ergänzt trefflich: “Manchmal fällt es einem schwer, sich zu erinnern: Wie war das Leben eigentlich noch mal, bevor es Anna Mabo gab? Wer konnte ahnen, wie viel Kraft, wie viel Gefühl und Witz da auf uns zukommt?” 
 Und da kommt einiges auf uns zu. Im Frühjahr 2022 erfreut uns die „Kabarett Koalition“ gleich mit vier Abenden im Kulturhof. Mit dabei sind in Folge: Florian Scheuba, Sonja Pikart, Gerhard Walter, Michael Großschädl, Mike Supancic und Elli Bauer. Alles ohne Sideletter, Skandale und sonstige Sorgenfalten.
 
