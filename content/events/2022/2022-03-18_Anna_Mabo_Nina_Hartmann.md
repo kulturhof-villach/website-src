@@ -1,5 +1,5 @@
 +++
-title = "Kabarett Koalition - Anna Mabo & Tina Hartmann"
+title = "Kabarett Koalition - Anna Mabo & Nina Hartmann"
 authors = ["kulturhof"]
 date = 2022-03-18T19:00:00
 publishdate = 2021-05-01
