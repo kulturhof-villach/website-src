@@ -15,7 +15,7 @@ weight = 1
 
 
 Der Kulturhof:villach ist das Kulturzentrum der Stadt, das seit 2011 alternativer Kunst und Kultur einen Raum in Villach bietet. Der Kulturhof: versteht sich dabei als eine lebendige Basis für Kulturschaffende mit der Stadt in Beziehung zu treten.
-Die offenen Tore in der Lederergasse 15 laden Jung und Alt ein den von Künstler *Sascha Mikel¹* im Frühjahr 2021 neu gestalteten Kulturhof: zu besuchen, zu verweilen, kreativ zu sein.  Mit der Neugestaltung zeigt sich der Kulturhof:villach noch stärker als etwas Lebendiges, sich ständig Weiterentwickelndes. Wie Rhizome von Pilzen vernetzt sich das System Kulturhof: mit der Stadt und geht mit ihr eine interdependente Beziehung ein - offen nach innen und nach außen. 
+Die offenen Tore in der Lederergasse 15 laden Jung und Alt ein den von Künstler *Sascha Mikel¹* im Frühjahr 2021 neu gestalteten Kulturhof: zu besuchen, zu verweilen, kreativ zu sein.  Mit der Neugestaltung zeigt sich der Kulturhof:villach noch stärker als etwas Lebendiges, sich ständig Weiterentwickelndes. Wie Rhizome von Pilzen vernetzt sich das System Kulturhof mit der Stadt und geht mit ihr eine interdependente Beziehung ein - offen nach innen und nach außen. 
 
 Der Kulturhof:villach bietet diverse Elemente, die es Künstler\*innen ermöglichen solche Beziehungen entstehen zu lassen. 
 
