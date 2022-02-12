@@ -1,7 +1,7 @@
 baseURL = "https://kulturhofvillach.at/"
 languageCode = "de-at"
 theme = "bulma-base"
-publishDir = "kulturhof-villach.github.io"
+publishDir = "public"
 DefaultContentLanguage = "de"
 
 [params]
