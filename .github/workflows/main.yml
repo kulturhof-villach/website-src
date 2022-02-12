@@ -26,7 +26,8 @@ jobs:
         with:
           personal_token: ${{ secrets.GH_ACTIONS_HUGO }}
           external_repository: kulturhof-villach/kulturhof-villach.github.io
-          publish_dir: ./public
+          publish_branch: master
+          publish_dir: ./docs
           #   keep_files: true
           user_name: el-uhu
           user_email: luki@biotop.co
