@@ -31,4 +31,4 @@ jobs:
           user_name: el-uhu
           user_email: luki@biotop.co
           publish_branch: master
-        #   cname: example.com
+          cname: kulturhofvillach.at
