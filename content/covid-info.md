@@ -14,13 +14,11 @@ weight = 2
 
 # Wichtige Covid-19-Hinweise für Besucher\*innen von Veranstaltungen im Kulturhof:villach
 
-### 2G-Regelung: Geimpft, Genesen
-Eintritt nur mit Nachweis über eine geringe epidemiologische Gefahr: genesen oder geimpft
-Bitte beim Einlass Grünen Pass oder original Impfpass in Kombination mit einem amtlichen Lichtbildausweis bereithalten
+### 3G-Regelung: Geimpft, Genesen, Getestet
+Eintritt nur mit Nachweis über eine geringe epidemiologische Gefahr: genesen, geimpft oder getestet
+Bitte beim Einlass Testzertifikat, Grünen Pass oder original Impfpass in Kombination mit einem amtlichen Lichtbildausweis bereithalten
 
-**Antikörpertests sind nicht mehr als G-Nachweis gültig**
-
-**Ausnahme:** Kinder und Jugendliche bis zum vollendeten 12. Lebensjahr sind von der G-Nachweispflicht ausgenommen und müssen somit kein Testergebnis vorweisen. Für Kinder und Jugendliche zwischen 12 und 15 Jahren (schulpflichtiges Alter) gilt: Der Ninja-Pass wird dem 2-G-Nachweis gleichgestellt und gilt daher auch als Zutrittsnachweis. Nach Beendigung des neunten Schuljahres müssen auch Jugendliche über einen 2-G-Nachweis verfügen, um 2-G-Settings betreten zu dürfen.
+**Ausnahme:** Kinder und Jugendliche bis zum vollendeten 12. Lebensjahr sind von der G-Nachweispflicht ausgenommen und müssen somit kein Testergebnis vorweisen. Für Kinder und Jugendliche zwischen 12 und 15 Jahren (schulpflichtiges Alter) gilt: Der Ninja-Pass gilt als 3-G-Nachweis und daher auch als Zutrittsnachweis. Nach Beendigung des neunten Schuljahres müssen auch Jugendliche über einen 3G-Nachweis verfügen, um 3G-Settings betreten zu dürfen.
 
 
 ### Registrierung
