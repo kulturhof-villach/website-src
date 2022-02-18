@@ -12,7 +12,7 @@ tags = []
 weight = 2
 +++
 
-# Wichtige Covid-19-Hinweise für Besucher\*innen von Veranstaltungen im Kulturhof:villach
+# Wichtige Covid-19-Hinweise für Besucher\*innen von Veranstaltungen im Kulturhof:villach - gültig bis 4.3.2022
 
 ### 3G-Regelung: Geimpft, Genesen, Getestet
 Eintritt nur mit Nachweis über eine geringe epidemiologische Gefahr: genesen, geimpft oder getestet
