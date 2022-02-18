@@ -1,7 +1,7 @@
 +++
 title = "Christian Hölbling"
 authors = ["kulturhof"]
-date = 2022-03-04T19:00:00
+date = 2022-03-05T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Deppendiplom"
@@ -13,6 +13,8 @@ type = "event"
 tags = ["kabarett"]
 draft = false
 +++
+
+#### !!! Achtung - Terminänderung - Veranstaltung findet nicht am 4.03.2022 statt sondern am **5.03.2022** !!!
 
 #### Christian Hölbling kommt in den Kulturhof:villach und vergiebt das Deppendiplom
 
@@ -29,7 +31,7 @@ Ist Christian Hölbling ein Intellektueller oder ein Clown? Vom frühen „Graze
 Vorgeschmack: https://www.youtube.com/watch?v=R4q1U2EIDWQ
 
 
->Freitag, 04.03.2022
+>Samstagt, 05.03.2022
 >
 >Beginn: 19:00 Uhr
 >
