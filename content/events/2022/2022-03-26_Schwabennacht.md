@@ -34,8 +34,7 @@ Dabei sind angeborene Schwäbisch-Kenntnisse hilfreich, aber nicht wirklich notw
 >Kulturhof:Villach / Weinkeller
 >
 >Lederergasse 15, 9500 Villach
->
->**Reservierung** über https://gebruedermoped.com/reservierung-kabarett-koalition/  oder office@kulturhofvillach.at oder +43 699 15088177
+
 
 > Preise: 
 >
