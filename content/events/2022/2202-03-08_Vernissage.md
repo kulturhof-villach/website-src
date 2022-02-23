@@ -1,9 +1,9 @@
 +++
 title = "Vernissage"
 authors = ["kulturhof"]
-date = 2022-05-01T20:00:00
+date = 2022-03-08T18:00:00
 publishdate = 2021-05-01
-time = "20:00"
+time = "18:00"
 description = "zum internationalen Frauentag"
 featured = "img/events/2022-03-08_Vernissasch_kulturhof.jpg"
 featuredVideo = ""
@@ -13,18 +13,6 @@ type = "event"
 tags = ["vernissage"]
 draft = false
 +++
-
->
-> EINTRITT: € 21.-\* / € 15.-\*\* / € 8.-\*\*\*
->
-> \*Im Vorverkauf online auf [ntry.at/gewalt_Kulturhofvillach](https://ntry.at/gewalt_Kulturhofvillach) sowie im Kulturhof:büro (Tel.: +43 699 15088177)
->
->Tickets können auch verbindlich reserviert - einfach anrufen oder Email (inklusive Kontaktdaten - Name, Telefonnummer) an office@kulturhofvillach.at
-> 
-> \*\*Ermäßigungen für Studierende und Penstionist\*innen
-> 
-> \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Besitzer*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard
-
 
 ### Vernissage zum internationalen Frauentag
 
