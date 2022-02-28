@@ -16,7 +16,7 @@ draft = false
 
 #### !!! Achtung - Terminänderung - Veranstaltung findet nicht am 4.03.2022 statt sondern am **5.03.2022** !!!
 
-#### Christian Hölbling kommt in den Kulturhof:villach und vergiebt das Deppendiplom
+#### Christian Hölbling kommt in den Kulturhof:villach und vergibt das Deppendiplom
 
 Bist du verunsichert, was die Zukunft bringt? Ist deine Branche im Umbruch? Oder ist auch der Umbruch schon von einem amerikanischen Hedgefonds aufgekauft worden? Dann ist diese Ausbildung genau das Richtige für dich, denn eines steht fest: Deppen werden immer gebraucht. Egal ob im Inland oder im Ausland, wir haben da überhaupt keine dings. Das stimmt sicher, weil das steht im Internet!
 Man kann schneller ein Depp werden, als man glaubt. Wenn du diesen Kurs besuchst, dann bist du ein Depp! Spätestens am Ende des Kurses, mit Diplom. Wir holen dich auf deinem Niveau ab. Der Kurs eignet sich für Anfänger genauso wie für Fortgeschrittene. Ebenso für Wiedereinsteiger, etwa wenn du in jungen Jahren deppert warst und nun wieder auffrischen willst. Der Vortragende garantiert dir, dass du seine Fortbildung auf jeden Fall als Depp verlassen wirst!
