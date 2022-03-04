@@ -1,7 +1,7 @@
 +++
 title = "Insomnia Brass Band"
 authors = ["kulturforum-villach"]
-date = 2022-03-10T20:00:00
+date = 2022-03-11T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = ""
@@ -14,7 +14,7 @@ tags = ["konzert"]
 draft = false
 +++
 
-
+### !! Achtung - Verschoben vom 10. auf 11.3.2022 
 
 #### INSOMNIA BRASS BAND
 
