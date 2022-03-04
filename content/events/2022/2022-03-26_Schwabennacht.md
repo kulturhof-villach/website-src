@@ -34,7 +34,8 @@ Dabei sind angeborene Schwäbisch-Kenntnisse hilfreich, aber nicht wirklich notw
 >Kulturhof:Villach / Weinkeller
 >
 >Lederergasse 15, 9500 Villach
-
+>
+>Tickets: https://ntry.at/wolfgangselje 
 
 > Preise: 
 >
