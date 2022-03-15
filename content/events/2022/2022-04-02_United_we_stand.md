@@ -1,7 +1,7 @@
 +++
 title = "UNITED WE STAND"
 authors = ["kulturhof"]
-date = 2022-03-25T20:00:00
+date = 2022-04-02T20:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Benefiz Veranstaltung für die Ukraine"
