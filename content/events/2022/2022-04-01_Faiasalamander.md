@@ -34,6 +34,7 @@ so vermischt er auch alte Kärntner Lieder Texte mit modernen Beats und Rhythmen
 
 2010 erschien sein Debüt Album „Carinthia“ auf dem er seine ersten Eigenkompositionen veröffentlichte. 2012 folgte sein zweites Album „Hausmusi“ doch auch die letzten Jahre war es nicht still um den FAIA: Livekonzerte mit Band, Unplugged oder auch Solo begeistert jung und alt. Er selbst sagt: „Ich mache Musik für alle Menschen die mir gerne zuhören und meine Lieder spüren auch wenn sie mich nicht immer verstehen.“
 
+Foto © Mek Photography
 
 ### Im Anschluss geht die Party weiter - im Kultclub: 
 
