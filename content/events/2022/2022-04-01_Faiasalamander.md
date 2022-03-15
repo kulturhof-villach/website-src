@@ -1,5 +1,5 @@
 +++
-title = "Faiasalamander"
+title = "Faiasalamanda"
 authors = ["kulturhof"]
 date = 2022-04-01T20:00:00
 publishdate = 2021-05-01
