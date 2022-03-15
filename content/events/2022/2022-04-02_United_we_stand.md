@@ -27,7 +27,7 @@ Auf der Bühne:
 
 **Violetta Parisini**
 
-![Violetta Parisini](2022-04-02_Vio1PressephotoAllesBleibt.jpg)
+![Violetta Parisini](img/events/2022-04-02_Vio1PressephotoAllesBleibt.jpg)
 ©Anita Schmid
 
 Nichts ist schöner, als sich in einem Kunstwerk wiederzufinden, sich verstanden zu fühlen. Die Lieder von Violetta Parisini machen genau das. Die hörbare Verletzlichkeit und gleichzeitige Lebensfreude erzeugen Resonanz, auch bei ihren Konzerten, die von einer unaufgeregten Emotionalität geprägt sind. Violetta Parisini teilt sowohl ihre Zweifel, als auch ihre Zuversicht mit uns, und wir erkennen uns darin wieder.
@@ -43,7 +43,7 @@ Onk Lou alias Lukas Weiser stammt aus Ollersdorf und begann seine musikalische K
 
 **Watch his Love**
 
-![Watch his Love](2022-04-02_watch_his_love.jpg)
+![Watch his Love](img/events/2022-04-02_watch_his_love.jpg)
 
 *"I’m Weiss Adamson, I play my music for good people, everywhere. My music is strong, like my Icelandic father, and kind, like my Ukrainian mom. I hope you feel the music with your whole body…"*
 
