@@ -69,7 +69,7 @@ Unter dem Pseudonym DJane Commander Venus legt Simone Dueller seit 2003 vorzugsw
 >
 >\(das 100 € - Ticket beinhaltet ein kleines Kulturhof: goodie bag :\)
 >
->Im Vorverkauf online auf [ntry.at/dse_kulturhofvillach](https://ntry.at/dse_kulturhofvillach) sowie im Kulturhof:büro (Tel.: +43 699 15088177)
+>Im Vorverkauf online auf [ntry.at/unitedwestand](https://ntry.at/unitedwestand) sowie im Kulturhof:büro (Tel.: +43 699 15088177)
 >
 >Tickets können auch verbindlich reserviert werden - einfach anrufen oder Email (inklusive Kontaktdaten - Name, Telefonnummer) 
 
