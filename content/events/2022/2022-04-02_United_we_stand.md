@@ -56,7 +56,7 @@ Onk Lou alias Lukas Weiser stammt aus Ollersdorf und begann seine musikalische K
 Unter dem Pseudonym DJane Commander Venus legt Simone Dueller seit 2003 vorzugsweise Indie-Musik und Alternative auf, u. a. Rote Bar/Volkstheater Wien, Burgtheater Kasino, beim Wiener Popfest, im Rahmen der Tage der deutschsprachigen Literatur (Bachmannpreis) und im Kulturhofkeller Villach.
 
 
-#### !!!Während der Veranstaltung gibt Spandendes zu ersteigern - Künstler\*innen stellen ausgewählte Werke zur Versteigerung zur Verfügung. Lasst euch überraschen !!!
+#### !!!Während der Veranstaltung gibt es Spannendes zu ersteigern - Künstler\*innen stellen ausgewählte Werke zur Versteigerung zur Verfügung. Lasst euch überraschen !!!
 
 ### Moderation und Versteigerung: **Philipp Otter**
 
