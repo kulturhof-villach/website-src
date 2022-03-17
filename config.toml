@@ -80,3 +80,7 @@ icon = "fab fa-instagram fa-lg"
     stadt = "img/logos/stadt.jpg"
     land = "img/logos/land.png"
     bund = "img/logos/bund.jpg"
+
+#Enable inline html
+[markup.goldmark.renderer]
+unsafe= true

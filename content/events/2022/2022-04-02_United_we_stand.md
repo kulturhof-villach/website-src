@@ -65,7 +65,7 @@ Unter dem Pseudonym DJane Commander Venus legt Simone Dueller seit 2003 vorzugsw
 
 >Eintritt: **Wie viel du für dein Ticket ausgeben möchtest, entscheidest du selbst!!!**
 >
->Alle Ticketeinnahmen und die Erlöse aus den Versteigerungen werden an [Care](https://www.care.at/newsbeitrag/ukraine-der-konflikt-ist-unmenschlich-der-bedarf-an-hilfe-enorm/) gespendet und kommen direkt den Menschen zugute, die unmittelbar vom Ukraine-Krieg betroffen sind.
+>Alle Ticketeinnahmen und die Erlöse aus den Versteigerungen werden an <a href="https://www.care.at/newsbeitrag/ukraine-der-konflikt-ist-unmenschlich-der-bedarf-an-hilfe-enorm/"><img src="/img/care-logo.png" width="60px"></a> gespendet und kommen direkt den Menschen zugute, die unmittelbar vom Ukraine-Krieg betroffen sind.
 >
 >\(das 100 € - Ticket beinhaltet ein kleines Kulturhof: goodie bag :\)
 >
