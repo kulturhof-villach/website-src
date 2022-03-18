@@ -58,7 +58,7 @@ Unter dem Pseudonym DJane Commander Venus legt Simone Dueller seit 2003 vorzugsw
 
 **Während der Veranstaltung gibt es Spannendes zu ersteigern - Künstler\*innen stellen ausgewählte Werke zur Versteigerung zur Verfügung. Lasst euch überraschen**
 
-#### Moderation und Versteigerung: **Philipp Otter**
+**Moderation und Versteigerung: Philipp Otter**
 
 ![Philipp Otter](/img/events/2022-04-02_Philipp_Otter_2022.jpg)
 
