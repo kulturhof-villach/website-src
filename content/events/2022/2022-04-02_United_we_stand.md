@@ -56,12 +56,14 @@ Onk Lou alias Lukas Weiser stammt aus Ollersdorf und begann seine musikalische K
 Unter dem Pseudonym DJane Commander Venus legt Simone Dueller seit 2003 vorzugsweise Indie-Musik und Alternative auf, u. a. Rote Bar/Volkstheater Wien, Burgtheater Kasino, beim Wiener Popfest, im Rahmen der Tage der deutschsprachigen Literatur (Bachmannpreis) und im Kulturhofkeller Villach.
 
 
-#### !!!Während der Veranstaltung gibt es Spannendes zu ersteigern - Künstler\*innen stellen ausgewählte Werke zur Versteigerung zur Verfügung. Lasst euch überraschen !!!
+**Während der Veranstaltung gibt es Spannendes zu ersteigern - Künstler\*innen stellen ausgewählte Werke zur Versteigerung zur Verfügung. Lasst euch überraschen**
 
-### Moderation und Versteigerung: **Philipp Otter**
+#### Moderation und Versteigerung: **Philipp Otter**
 
+![Philipp Otter](/img/events/2022-04-02_Philipp_Otter_2022.jpg)
 
-
+Philipp Schinnerl-Otte ist als gebürtigem Villacher nicht viel erspart geblieben. 
+Zeit seines Lebens ist er im musikalischen Untergrund der Stadt unterwegs und gräbt seine Gräben unter seinem Kunstnamen "Der Otter" - Seine offene und charmante Art trifft regelmäßig auf seinen trockenen Sarkasmus und verwandelt seine Anwesenheit somit in Segen und Fluch zugleich. Sein spaßiges Alter-Ego wird er allerdings zuhause lassen, um mit euch gemeinsam für eine gute Sache einzustehen.
 
 >Eintritt: **Wie viel du für dein Ticket ausgeben möchtest, entscheidest du selbst!!!**
 >
