@@ -39,6 +39,8 @@ Im Laufe der Jahre auf der Bühne hat Violetta Parisini ihre Stärken geschärft
 
 **Onk Lou**
 
+![Onk Lou](/img/events/2022-04-02_Onk_Lou.jpg)
+
 Onk Lou alias Lukas Weiser stammt aus Ollersdorf und begann seine musikalische Karriere mit 9 Jahren. Er spielte in verschiedenen Bands, ehe er als Onk Lou eine Straßenmusik-Tour, die ihn durch Europe führte begann und später sein erstes Album „Bogus“ aufnahm.
 
 **Watch his Love**
