@@ -1,5 +1,5 @@
 +++
-title = "Faiasalamanda"
+title = "!! ACHTUNG - VERSCHOBEN !! Faiasalamanda"
 authors = ["kulturhof"]
 date = 2022-04-01T20:00:00
 publishdate = 2021-05-01
@@ -13,6 +13,8 @@ type = "event"
 tags = ["konzert"]
 draft = false
 +++
+
+### Achtung - Diese Veranstaltung wird verschoben. Neuer Termin wird bekannt gegeben. Bereits gekaufte Tickets behalten ihre Gültigkeit, können aber auch zurückerstattet werden.
 
 >
 > EINTRITT: € 15.-\* / € 8.-\*\*
