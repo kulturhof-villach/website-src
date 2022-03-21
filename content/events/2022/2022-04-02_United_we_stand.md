@@ -37,6 +37,8 @@ Seit ihrem Philosophie-Studium in den 00er-Jahren schreibt und singt Violetta Pa
 
 Im Laufe der Jahre auf der Bühne hat Violetta Parisini ihre Stärken geschärft: der authentische Ausdruck von allzu menschlichen, manchmal widersprüchlich scheinenden Gefühlen und Gedanken, Mut zur Verletzlichkeit und Texte, mit denen viele sich identifizieren können, weil sie der verwirrenden Komplexität des Lebens Rechnung tragen. Ihr im Februar 2020 veröffentlichtes Album „Alles Bleibt“ ist erstmals in ihrer Muttersprache getextet. Das hängt auch damit zusammen, dass Violetta Parisini seit ihrem zweiten Album zwei mal Mutter geworden ist. Das Eltern-Werden stellt so manches Leben auf den Kopf, und bringt ganz neue Themen und Erfahrungen mit sich: das Hadern mit gesellschaftlichen Erwartungen an Mütter, die alles in den Schatten stellende Liebe zu einem Kind, der Schmerz, den große Veränderungen manchmal mit sich bringen. Violetta Parisini thematisiert diese scheinbar widersprüchlichen Gefühle, sie haben nebeneinander gut Platz in einem Leben, das vielleicht verwirrend, aber ganz und gar lebenswert ist. Das wird in ihren Liedern manifest, mit liebevoller Selbstironie, und wir singen fröhlich mit, ein paar Tränen im Augenwinkel.
 
+Ein herzliches Danke an dieser Stelle an Herrn Walter Schneider und das Klavierstudio, das uns für diesen Abend ein Klavier zur Verfügung stellt. 
+
 **Onk Lou**
 
 ![Onk Lou](/img/events/2022-04-02_Onk_Lou.jpg)
