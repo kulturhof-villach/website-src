@@ -14,12 +14,13 @@ weight = 2
 
 # Wichtige Covid-19-Hinweise für Besucher\*innen von Veranstaltungen im Kulturhof:villach
 
-### Alle Covid-Beschränkungen aufgehoben
+### Maskenpflicht
+Ab 24.3.2022 gilt wieder die FFP2-Maskenpflicht, auch während der Veranstaltungen. Ausgenommen sind Kinder unter 14 Jahren (hier reicht ein Mund-Nasen-Schutz bzw. unter 6 Jahren gar keine Maske) und Schwangere.
 
-### Registrierung & Maske
-Es besteht keine Registrierungs- und Maskenpflicht mehr. Wenn Sie sich wohler oder sicherer bei Ihrem Besuch im Kulturhof:villach fühlen, tragen Sie bitte gerne weiterhin eine Maske. Dasselbe gilt für die Registrierung. Wenn Sie sich freiwillig registrieren wollen, ist das nach wie vor möglich. Ihre Daten werden ausschließlich (keine Einsicht durch Dritte, keine Verarbeitung der Daten zu anderen Zwecken) für etwaiges Contact-Tracing für 28 Tage aufbewahrt. 
+### Registrierung
+Es besteht keine Registrierungspflicht mehr. Wenn Sie sich freiwillig registrieren wollen, ist das nach wie vor möglich. Ihre Daten werden ausschließlich (keine Einsicht durch Dritte, keine Verarbeitung der Daten zu anderen Zwecken) für etwaiges Contact-Tracing für 28 Tage aufbewahrt. 
 
 
-Dem Kulturhof:villach ist es wichtig, den Veranstaltungsbetrieb sicher für alle Besucher\*innen am Laufen zu halten. Wir freuen uns auf Ihr kommen.
+Dem Kulturhof:villach ist es wichtig, den Veranstaltungsbetrieb sicher für alle Besucher\*innen am Laufen zu halten. Wir bitten um Verständnis und freuen uns schon auf Ihr Kommen!
 
 
