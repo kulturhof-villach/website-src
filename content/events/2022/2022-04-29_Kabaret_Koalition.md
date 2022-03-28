@@ -1,11 +1,11 @@
 +++
-title = "Kabarett Koalition - Florian Scheuba & Sonja Pikart"
+title = "Kabarett Koalition - Sonja Pikart & Aida Loos"
 authors = ["kulturhof"]
 date = 2022-04-29T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Moderation: Gebrüder Moped"
-featured = "img/events/2022-04-29_Kabarett_Koalition.jpg"
+featured = "img/events/2022-04-29_KK.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -16,15 +16,14 @@ draft = false
 
 #### Kabarett Koalition
 
-### Florian Scheuba & Sonja Pikart
+### Sonja Pikart & Aida Loos
 
 ### Moderation: Gebrüder Moped
 
 
-**Florian Scheuba und Sonja Pikart vor der Wahl:**
+**Sonja Pikart & Aida Loos vor der Wahl:**
 
 **Kabarett oder Koalition?**
-
 
 
 Sind Realität und Satire überhaupt noch eindeutig unterscheidbar? Die erfolgreiche Veranstaltungsreihe „Kabarett Koalition“ im Villacher Kulturhof will es wissen. Schon am Freitag, 29.04.22 geht es in die nächste Verhandlungsrunde.
@@ -32,19 +31,17 @@ Sind Realität und Satire überhaupt noch eindeutig unterscheidbar? Die erfolgre
 ![Gebrüder Moped](/img/events/2022-03-18_GebruederMoped_2021_quer.jpeg)
 Gebrüder Moped © Gebrüder Moped
 
-Als Gastgeber und Moderatoren des unterhaltsamen Abends fungieren wie gewohnt die Satiriker „Gebrüder Moped“, die mit ihrem wöchentlichen „Bist du Moped! Podcast“ derzeit für Furore sorgen. Exklusiv für Villach haben die Mopeds einmal mehr ein einzigartiges Lineup zusammengestellt. 
-
-![Florian Scheuba](/img/events/2022-04-29_FlorianScheuba_Foto_JanFrankl.jpg)
-Florian Scheuba © Jan Frankl
-
-Florian Scheuba kommt in den Kulturhof. Seit Jahrzehnten punktgenau am Zahn der Zeit tourt Österreichs meistbeschäftigter Investigativ-Kabarettist derzeit mit Falter-Chefredakteur Florian Klenk im Duo („Sag du, Florian …“) durch die Lande. Scheuba ist Teil von „Wir Staatskünstler“ und bringt ganz nebenbei dieser Tage auch noch sein neues Buch „Wenn das in die Hose geht, sind wir hin“ heraus. Um so schöner, ihn für ein exklusives Solo-Gastspiel in der Draustadt gewonnen zu haben. 
+Als Gastgeber und Moderatoren des unterhaltsamen Abends fungieren wie gewohnt die Satiriker „Gebrüder Moped“, die mit ihrem wöchentlichen „Bist du Moped! Podcast“ derzeit die Ohren der Republik erfreuen. Exklusiv für Villach haben die Mopeds einmal mehr ein einzigartiges Lineup zusammengestellt: Sonja Pikart und Aida Loos.
 
 ![Sonja Pikart](/img/events/2022-04-29_SonjaPikart.jpg)
-Sonja Pikart
+Sonja Pikart © Sonjapikart.com
 
 „Wenn es nicht deine Familie ist, die deine Psyche kaputt macht, dann wird der Rest der Welt das schon erledigen“, heißt es im neuen und umjubelten Solo von Sonja Pikart. Im Zuge der Kabarett Koalition darf sich das Villacher Publikum auf die Highlights aus „Ein Spatz, ein Wunsch, ein Volksaufstand“ der aktuellen Preisträgerin des Klagenfurter Kleinkunstpreises „Herkules“ und Gewinnerin des Österreichischen Kabarettpreises 2019 (Förderpreis) freuen. 
 
+![Aida Loos](/img/events/2022-04-29_Aida_Loos.jpg)
+Aida Loos © Studio Mischa Nawrata
 
+Aida Loos ist derzeit mit ihrem Programm-Neuling „Arbeitsloos“ auf Reisen und wird dafür von Presse und Publikum gleichermaßen gefeiert.  Die liebenswert boshafte Kabarettistin und unangefochtene Meisterin der frechen Parodie erzählt ihre Geschichte, die sie kurz vor dem großen Durchbruch als eine vom AMS vermittelte Servierkraft in der Konditorei Aida landen lässt.  Aida Loos‘ tiefgründiger Witz gleicht einer Melange aus dem, was war, was ist und was sein könnte, wenn man die Dinge durch die zuckerlrosane Brille sehen würde.
 
 >Freitag, 29.04.2022
 >
