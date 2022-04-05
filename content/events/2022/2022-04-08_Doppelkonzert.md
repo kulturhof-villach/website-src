@@ -1,11 +1,11 @@
 +++
-title = "Anna Anderluh & Sir Tralala"
+title = "Sir Tralala leider ohne Anna Anderluh"
 authors = ["kulturhof"]
 date = 2022-04-08
 publishdate = 2021-05-01
 time = "20:00"
-description = "Doppelkonzert"
-featured = "img/events/2021-11-19_Anna_Anderluh_Sir_Tralala.jpg"
+description = "Konzert"
+featured = "img/events/2021-11-19_SirTralala_c_David_Murobi.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -15,42 +15,14 @@ draft = false
 +++
 
 >
-> EINTRITT: € 23.-\* / € 15.-\*\* / € 8.-\*\*\*
+> EINTRITT: € 16.-\* / € 12.-\*\* / € 8.-\*\*\*
 >
 > \*Im Vorverkauf online auf [ntry.at/annaanderluhsirtralala](https://ntry.at/annaanderluhsirtralala) - Reservierungen und Ticketkauf auch unter +43 699 15088177 oder office@kulturhofvillach.at 
 > \*\*Ermäßigungen für Studierende und Penstionist\*innen
 > \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und unter Vorlage der Jugendcard
 
-
-![Anna Anderluh](/img/events/2021-11-10_Anna_Anderluh.jpeg)
-
-### Anna Anderluh - „Leave me Something Stupid“
-
-"They say leave me the birds and the bees, and I say yes, but leave me the TV and some fat cheese too." So singt Anna Anderluh von der Notwendigkeit des Sinnlosen, Verwegenen und Blöden. Ihre Musik, welche sie selbst als „Pop mit Riss“ bezeichnet, schlägt eine Brücke zwischen zarter Poesie und harter Sozialkritik; zwischen zerbrechlichen, simplen Liedern und experimenteller Vokalimprovisation. Mit Humor und Einfühlsamkeit spürt sie der Magie scheinbar unbedeutender Kleinigkeiten nach, welche sie glänzen lässt, ohne ihnen zusätzliche Politur aufzuzwingen. Daraus entstehen unkonventionelle Klänge berührender Ehrlichkeit, die sich über Eile und Effekthascherei hinwegsetzen, sich jedesmal anders zeigen und nie den Anschein erwecken wollen fertig zu sein. Denn fertig ist fad.
-
-"Anna Anderluh nimmt sich buchstäblich kein Blatt vor den Mund - dafür schon lieber ein Plastiksackerl zwischendurch." (Agnes Heginger)
-
-"You never know what happens if you are on stage with Anna Anderluh." (Anna Laszlo)
-
-"Zerbrechlich und fragil steigen ihre Song-Gespinste auf, sie mischt Obertongesang, Text und quasi ‘instrumentale’ Vokal-Improvisation." (Helmut Jasbar)
-
-„Aufrichtig bis an die Schmerzgrenze!“ (Verena Göltl)
-
-"Ultimately, Anderluh is a singer with a beautiful technique and the ability to set emotions higher with her vocal mastery. However, her music is not only a show off of technical skills. It feels like a genuine, spontaneous and iconic demonstration of her sensibilities as an artist, songwriter, and human being." (Jazz Corner)
-
--Anna Anderluh: Gesang, Autoharp, Klavier, Babykeyboard, schöne kleine Dinge
--Martin Pfeiffer: Schlagzeug
--Philipp Kienberger: Bass
-
-Website:
-www.annaanderluh.com
-Videolinks:
-https://youtu.be/qDFU3UbxNk4
-https://youtu.be/8WYInhnBVTw
-https://youtu.be/hFY52abTZUo
-
-![Sir Tralala](/img/events/2021-11-19_SirTralala_c_David_Murobi.jpg)
-© David Murobi
+Leider musste Anna Anderluh für kommenden Freitag absagen. Aber der Sir kommt, Sir Tralala live on stage. Er hat den Keller schon länger nicht mehr beehrt. 
+Und wir haben die Tickets günstiger gemacht, tröstet auch nicht darüber hinweg, dass Anna Anderluh nicht auf der Bühne stehen wird, aber .... Der SIR!
 
 ## Sir Tralala - „Echt gute böse Lieder“
 
