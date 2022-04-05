@@ -1,5 +1,5 @@
 +++
-title = "Sir Tralala leider ohne Anna Anderluh"
+title = "Sir Tralala"
 authors = ["kulturhof"]
 date = 2022-04-08
 publishdate = 2021-05-01
