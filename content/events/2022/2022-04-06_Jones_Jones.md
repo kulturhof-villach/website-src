@@ -1,5 +1,5 @@
 +++
-title = "Jones Jones"
+title = "!! ABGESAGT !! Jones Jones"
 authors = ["kulturforum-villach"]
 date = 2022-04-06T20:00:00
 publishdate = 2021-05-01
@@ -14,6 +14,7 @@ tags = ["konzert"]
 draft = false
 +++
 
+Bedauerlicherweise müssen wir bekanntgeben, dass das nächste Konzert des Kulturforum Villach am 06.04.2022 mit Jones Jones abgesagt werden muss. Zwei der drei Musiker wurden während der Tournee positiv auf Corona getestet und befinden sich derzeit in Quarantäne. Die restliche Tour und somit auch das Konzert in Villach muss abgesagt werden.
 
 #### Jones Jones
  
