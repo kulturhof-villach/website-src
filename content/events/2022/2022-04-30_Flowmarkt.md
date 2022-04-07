@@ -14,7 +14,7 @@ tags = ["Flowmarkt"]
 draft = false
 +++
 
-#### Es ist endlich wieder soweit! Es ist Frühling. Es ist Ausmist-Zeit. Die Kulturhof:flowmark Zeit ist eröffnet. 
+#### Es ist endlich wieder soweit! Es ist Frühling. Es ist Ausmist-Zeit. Die Kulturhof:flowmark Saison ist eröffnet. 
 **Kommt Stöbern, entrümpelt eure Kleiderschränke, befreit euch von nicht-gebrauchten Gegenständen und macht anderen damit eine Freude**
 
 >2nd Hand | Musik | Design | Kunst | Selbstgemachtes
