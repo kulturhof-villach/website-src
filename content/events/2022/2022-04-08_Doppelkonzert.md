@@ -1,5 +1,5 @@
 +++
-title = "Sir Tralala"
+title = "ABGESAGT - Sir Tralala"
 authors = ["kulturhof"]
 date = 2022-04-08
 publishdate = 2021-05-01
@@ -14,15 +14,8 @@ tags = ["concert"]
 draft = false
 +++
 
->
-> EINTRITT: € 16.-\* / € 12.-\*\* / € 8.-\*\*\*
->
-> \*Im Vorverkauf online auf [ntry.at/annaanderluhsirtralala](https://ntry.at/annaanderluhsirtralala) - Reservierungen und Ticketkauf auch unter +43 699 15088177 oder office@kulturhofvillach.at 
-> \*\*Ermäßigungen für Studierende und Penstionist\*innen
-> \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und unter Vorlage der Jugendcard
+Nachdem Anna Anderluh uns leider absagen musste, das Doppel- zu einem Solokonzert geworden ist, müssen wir nun das morgige Konzert mit Sir Tralala unsererseits absagen bzw erneut verschieben. Es tut uns sehr leid.
 
-Leider musste Anna Anderluh für kommenden Freitag absagen. Aber der Sir kommt, Sir Tralala live on stage. Er hat den Keller schon länger nicht mehr beehrt. 
-Und wir haben die Tickets günstiger gemacht, tröstet auch nicht darüber hinweg, dass Anna Anderluh nicht auf der Bühne stehen wird, aber .... Der SIR!
 
 ## Sir Tralala - „Echt gute böse Lieder“
 
