@@ -31,6 +31,8 @@ draft = false
 ![You do right](/img/events/2022-05-30_Yoo_Doo_Right_c_Stacy_Lee.jpg)
  © Stacy Lee
 
+Inspiriert von den stampfenden rhythmischen Improvisationen des Krautrocks, verband das experimentelle Trio YDR laute, melodische Gitarrenparts, effektlastige Synthesizer-Klanglandschaften, nonchalante Bass-Grooves und patentierte perkussive Furien zu einer buchstäblichen Klangwand. Feierliche, von Kinn zu Brust reichende Vocals tanzen in und aus dem ursprünglichen Klangspektrum und schaffen ein warmes Kissen, auf dem ein müder Kopf ruhen kann.
+
 Inspired by the pounding rhythmic improvisations found in krautrock, experimental trio YDR wed noisy, melodic guitar parts, effect-heavy synthesizer soundscapes, nonchalant bass grooves and patented percussive furies into a literal wall of sound. Solemn, chin-to-chest vocals dance in and out of the primordial sonic spectrum, creating a warm pillow to rest a weary head upon.
  
 
