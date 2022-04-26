@@ -1,11 +1,11 @@
 +++
-title = "You doo right"
+title = "GWENDYDD"
 authors = ["kulturhof"]
-date = 2022-05-30T20:00:00
+date = 2022-06-19T19:00:00
 publishdate = 2021-05-01
-time = "20:00"
-description = "Villacher Support - Møuntain"
-featured = "img/events/2022-05-30_Yoo_Doo_Right_c_Stacy_Lee.jpg"
+time = "19:00"
+description = "Svartalfar & Cryptal Echoes"
+featured = "img/events/2022-06-19_GWENDYDD.jpeg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -17,32 +17,28 @@ draft = false
 >
 > EINTRITT: € 15.-\* / € 8.-\**
 >
-> \*Im Vorverkauf online auf [ntry.at/youdooright](https://ntry.at/youdooright) sowie im Kulturhof:büro (Tel.: +43 699 15088177)
+> \*Im Vorverkauf online auf [ntry.at/gwendydd_kulturhofvillach](https://ntry.at/gwendydd_kulturhofvillach) sowie im Kulturhof:büro (Tel.: +43 699 15088177)
 >
 >Tickets können auch verbindlich reserviert - einfach anrufen oder Email (inklusive Kontaktdaten - Name, Telefonnummer) an office@kulturhofvillach.at
 > 
 > \*\*Ermäßigung für Studierende / Pensionist\*innen / wirtschaftliche schwache Personen und gegen Vorlage der Jugendcard
 
+###GWENDYDD
 
-### YOU DOO RIGHT Montréal (CA) ist auf Tour und macht im Kulturhof:villach Zwischenstopp
+Stellen Sie sich eine Castingshow zur besten Sendezeit auf einem großen nationalen Fernsehsender vor. Popstarlet nach Popstarlet geben ihr Bestes, um das Publikum mit ihrem Lieblings-Tränenreißer einzulullen. Und dann ist da noch diese unschuldige Mädchenstimme, die TAYLOR SWIFTS „Look what you made me do“ performt. Publikum und Jury fühlen sich sicher und gesund. Bis das Lied den ersten Refrain erreicht. Was dann geschah, schockierte und elektrisierte das Studiopublikum und ein ganzes Land vor ihren Fernsehern. Mit ihren brutalen und angsteinflößenden Death Metal Growls scheint sie den ursprünglichen US-Popstar zu zerfleischen und spuckt ihre Reste im ganzen Studio-Interieur aus. Schock und Freude, Neugier und Angst verschmelzen zu ekstatischem Jubel und einem Orkan aus Applaus. Der Name dieses Mädchens ist VICTORIA STOICHKOVA und ihre Leistung erreichte schnell mehr als 3,5 Millionen Views auf You Tube mit einem prall gefüllten Kommentarbereich voller Enthusiasmus und Zuspruch. Das war der Startschuss für eine Karriere. Nachdem sie sich mit Produzent, Songwriter und Freund Nikifor „Bambi“ Nikiforov zusammengetan hat, sperren sie sich in dessen Studio ein. Verstärkt von ihren Underground-Musikern Tina Zhelyazova (gtr), Reni Angelova (gtr) und Sonya Radeva (bs) arbeiten sie Tag und Nacht und erschaffen, was schließlich zu GWENDYDD wird. Benannt und inspiriert von der mystischen und historischen mittelalterlichen Figur, sind sie heute die erste von Frauen dominierte Metal-Band in Bulgarien. Nur Monate später veröffentlichen Vicky und mit ihrem Partner und Partnerinnen in Crime ihr erstes Full-Length-Album „Human Nature“.
+Ein echter und brutaler Soundtrack zur Disparität von Realität, Hoffnungen und Träumen. Nicht aus einer Gated Community in Hollywood, sondern direkt aus den Straßen von Sofia, der Hauptstadt des ärmsten Landes der Europäischen Union. Angetrieben von einer modernen Produktion baut sich dieser Hybrid aus zerstörerischen Gitarrenriffs und adrenalingeladenen Drums zu einer Extrem-Metal-Lawine auf. Der perfekte Träger für diese brachiale Death Metal-Stimme, die tief in das Fleisch der modernen Gesellschaft eindringt – nicht nur mit Worten, sondern mit einer Botschaft. Das Album enthält 10 Songs, die auf den meisten digitalen Streaming-Plattformen zu finden sind, einschließlich Apple Music, Spotify und Deezer. Gegründet in Sofia / Bulgarien im Jahr 2018 gehören GWENDYDD zu den sich am schnellsten entwickelnden Bands der Szene. Obwohl die Pandemie Tourpläne für die Veröffentlichung ihres Debütalbums im Jahr 2020 unmöglich machte, hörten sie nie auf zu arbeiten. Und nachdem sie die Zeit für die Produktion mehrerer hochkarätiger Musikvideos, Streaming-Konzerte und Dokumentationen genutzt haben, zahlt sich ihr Einsatz aus. Die nationalen und internationalen Medien wurden schnell auf dieses energiegeladene Metal-Kraftpaket aufmerksam. Beiträge in  TV, Radio und/oder Zeitschriften in und außerhalb Bulgariens und Festival-/Tournee-Angebote in ganz Europa weisen nur eine Richtung: Vorwärts! GWENDYDD arbeiten derzeit an neuem Material für ihr zweites Album und bereiten sich darauf vor, die Konzertwelt nach der Pandemie wieder in Brand zu setzen.
 
-**You doo right, Montréal (CA)**
+**Außerdem dabei:**
+
+### Svartalfar
  
-![You do right](/img/events/2022-05-30_Yoo_Doo_Right_c_Stacy_Lee.jpg)
- © Stacy Lee
+![Svartalfar](/img/events/2022-06-10_svart.jpg)
 
-Inspiriert von den stampfenden rhythmischen Improvisationen des Krautrocks, verband das experimentelle Trio YDR laute, melodische Gitarrenparts, effektlastige Synthesizer-Klanglandschaften, nonchalante Bass-Grooves und patentierte perkussive Furien zu einer buchstäblichen Klangwand. Feierliche, von Kinn zu Brust reichende Vocals tanzen in und aus dem ursprünglichen Klangspektrum und schaffen ein warmes Kissen, auf dem ein müder Kopf ruhen kann.
 
-Inspired by the pounding rhythmic improvisations found in krautrock, experimental trio YDR wed noisy, melodic guitar parts, effect-heavy synthesizer soundscapes, nonchalant bass grooves and patented percussive furies into a literal wall of sound. Solemn, chin-to-chest vocals dance in and out of the primordial sonic spectrum, creating a warm pillow to rest a weary head upon.
+
+### Cryptal Echoes
  
-
-**Villacher Support - Møuntain**
- 
-![Møuntain](/img/events/2022-05-30_Møuntain.jpg)
-
-Üppige Klangbilder, satte Basslinien und strenge Rhythmen; Filamente - zu Klangteppichen verwoben, zu Handlungssträngen verknüpft. 
-
-Erzählend geben Moutain ihrer Musik Gestalt: Mal stoßen sie ihren Hörern schroffe Brocken entgegen, mal wird man von ihnen an der Hand genommen und auf Zehenspitzen durch ein Kuriositätenkabinett begleitet. 
+![Cryptal Echoes](/img/events/2022-06-19_Cryptal_Echoes.jpg)
 
 
 
