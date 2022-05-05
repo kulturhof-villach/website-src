@@ -325,3 +325,19 @@
   slideshare = ""
   xing = ""
   linkedin = ""
+
+[ musikschule-villach ]
+  name = "Musikschule Villach"
+  featured = "/img/avatar-placeholder.png"
+  [ musikschule-villach.bio ]
+    en = ""
+    de = ""
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""

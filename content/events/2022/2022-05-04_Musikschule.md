@@ -1,6 +1,6 @@
 +++
 title = "Konzert der Musikschule Villach"
-authors = ["Musikschule Villach"]
+authors = ["musikschule-villach"]
 date = 2022-05-04T18:00:00
 publishdate = 2021-05-01
 time = "18:00"
