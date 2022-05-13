@@ -79,7 +79,7 @@ icon = "fab fa-instagram fa-lg"
     heroImg = "img/kulturhof-map.svg"
     stadt = "img/logos/stadt.jpg"
     land = "img/logos/land.png"
-    bund = "img/logos/bund.jpg"
+    bund = "img/logos/bund.png"
 
 #Enable inline html
 [markup.goldmark.renderer]
