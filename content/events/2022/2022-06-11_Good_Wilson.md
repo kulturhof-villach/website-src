@@ -14,7 +14,6 @@ tags = ["konzert"]
 draft = false
 +++
 
->
 > EINTRITT: € 19.-\* / € 13.-\*\* / € 8.-\*\*\* 
 >
 > \*Im Vorverkauf online auf [ntry.at/good_wilson](https://ntry.at/good_wilson) sowie im Kulturhof:büro (Tel.: +43 699 15088177) Tickets können auch verbindlich reserviert - einfach anrufen oder Email an office@kulturhofvillach.at
