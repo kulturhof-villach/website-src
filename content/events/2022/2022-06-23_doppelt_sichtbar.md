@@ -2,7 +2,7 @@
 title = "doppelt sichtbar"
 authors = ["kulturhof"]
 date = 2022-06-23T20:00:00
-publishdate = 2021-05-01
+publishdate = 2021-05-02
 time = "20:00"
 description = "Tage der deutschsprachigen Literatur im Kulturhof:villach"
 featured = "img/events/2022-06-23_doppelt_sichtbar_c_Patrick_Isopp.jpg"
