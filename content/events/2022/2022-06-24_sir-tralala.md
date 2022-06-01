@@ -32,7 +32,7 @@ Am 24. Juni startet das Abendprogramm mit der Mini-Version der Tage der deutschs
 ![Bachmanntage2021](/img/events/2022-06-24_Bachmanntage2021.jpg)
 © Kulturhof:villach
 
-## 20 Uhr: SSir Tralala - „Echt gute böse Lieder“ ##
+## 20 Uhr: Sir Tralala - „Echt gute böse Lieder“ ##
 
 Als David Hebenstreit aka Sir Tralala um die Jahrtausendwende mit seinem Debütalbum
 „Flying Objects, They Don`t Have a Brain“ in die österreichische Subkultur kracht,
