@@ -54,7 +54,7 @@ Beim Rahmenprogramm zum Bachmannpreis im Kulturhof:villach werden sie genau dies
 
 >Infos unter office@kulturhofvillach.at bzw. +43 699 15088177
 >
->Alle Infos zu den Bachmanntagen im Kulturhof:villach
+>[Alle Infos zu den Bachmanntagen im Kulturhof:villach](https://kulturhofvillach.at/events/2022/2022-06-23_bachmann/)
 
 Covid Informationen
 [Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
