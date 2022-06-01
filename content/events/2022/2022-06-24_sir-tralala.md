@@ -53,7 +53,9 @@ Interagieren mit dem Publikum macht jedes seiner Gastspiele unvergleichlich, fre
 dem Motto: „Wenn ich mein Konzert nicht mit einem metaphorisch geschwollenen, aber
 fröhlich zwinkernden, von einem Veilchen gekrönten Auge beenden kann, dann war es
 nicht gut.“ (Sir Tralala)
+
 Sir Tralala - vox, git
+
 [www.hebenstreit-david.net](https://www.hebenstreit-david.net/)
 
 
