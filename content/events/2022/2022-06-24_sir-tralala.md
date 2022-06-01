@@ -69,7 +69,7 @@ Ab 21 Uhr gibt’s Musik aus der Konserve zusammengestellt vom Kulturhof: DJ Tea
 
 >Infos unter office@kulturhofvillach.at bzw. +43 699 15088177
 >
->Alle Infos zu den Bachmanntagen im Kulturhof:villach
+>[Alle Infos zu den Bachmanntagen im Kulturhof:villach](https://kulturhofvillach.at/events/2022/2022-06-23_bachmann/)
 
 Covid Informationen
 [Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
