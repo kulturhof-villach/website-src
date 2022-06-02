@@ -18,7 +18,7 @@ draft = false
 
 ### Steirischer Humor goes Villach
 
-Wenn ausgerechnet zwei Wiener gemeinsam mit zwei Publikumslieblingen des gepflegten, steirischen Humors in der Draustadt Halt machen, dann wissen gelernte Villacherinnen und Villacher, was es auf sich hat: Die **„Kabarett Koalition“** bittet in den **Kulturhof** zur unterhaltsamsten Regierungsklausur des Landes. Am Freitag, 10.12.2021 ist es wieder so weit. Es gastieren Elli Bauer und Mike Supancic. Durch den Abend führen die Gastgeber der beliebten Veranstaltungsreihe, die Gebrüder Moped.
+Wenn ausgerechnet zwei Wiener gemeinsam mit zwei Publikumslieblingen des gepflegten, steirischen Humors in der Draustadt Halt machen, dann wissen gelernte Villacherinnen und Villacher, was es auf sich hat: Die **„Kabarett Koalition“** bittet in den **Kulturhof** zur unterhaltsamsten Regierungsklausur des Landes. Am Freitag, 10.06.2022 ist es wieder so weit. Es gastieren Elli Bauer und Mike Supancic. Durch den Abend führen die Gastgeber der beliebten Veranstaltungsreihe, die Gebrüder Moped.
 
 ![Elli Bauer](/img/events/2021-12-10_Elli-Bauer_c_Martin_Schneider-768x513.jpeg)
 © Martin Schneider
