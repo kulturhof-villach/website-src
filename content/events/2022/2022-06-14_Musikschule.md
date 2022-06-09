@@ -17,21 +17,17 @@ draft = false
 
 #### Konzert der Musikschule Villach
 
-*Dienstag, 14.06.2022, 19.00 Uhr*
+**Dienstag, 14.06.2022, 19.00 Uhr**
 
->Summer Specials mit mit den
+>Summer Specials mit den
 >
->JAZZ
+>JAZZ-
 >
->POP
+>POP-
 >
->ROCK
+>ROCK-ENSEMBLES
 >
->ENSEMBLES
->
->der
->
->MUSIKSCHULE
+>der MUSIKSCHULE
 
 Eintritt = freiwillige Spende                            
 
