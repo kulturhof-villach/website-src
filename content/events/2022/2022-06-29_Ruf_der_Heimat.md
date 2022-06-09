@@ -1,7 +1,7 @@
 +++
 title = "Ruf der Heimat"
 authors = ["kulturforum-villach"]
-date = 2022-06-21T20:00:00
+date = 2022-06-29T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = ""
