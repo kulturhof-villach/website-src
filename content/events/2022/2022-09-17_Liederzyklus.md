@@ -29,6 +29,9 @@ draft = false
 
 ### Premiere im Kulturhof:villach
 
+![Mariana](/img/events/2022-09-17_Foto_Mariana_c_Stefan_Grauf-Sixt.jpg)
+Fotos © Stefan Grauf-Sixt
+
 **Mariana** -
 
 Ein Liederzyklus wegen Maria
