@@ -341,3 +341,19 @@
   slideshare = ""
   xing = ""
   linkedin = ""
+
+[ tatworttheater ]
+  name = "TatWortTheater"
+  featured = "/img/organiser/tatworttheaterg"
+  [ tatworttheater.bio ]
+    en = ""
+    de = ""
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
