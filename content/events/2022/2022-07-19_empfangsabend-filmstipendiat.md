@@ -29,7 +29,7 @@ draft = false
 
 ### Markus Maicher
 
-![Filmstipendiat](/img/events/2022-07-19_empfangsabend-filmstipendiat)
+![Filmstipendiat](/img/events/2022-07-19_empfangsabend-filmstipendiat.jpg)
 
 In einer Kooperation des Landes Kärnten Kultur, der Stadt Villach Kultur und mit Unterstützung des K3 Film Festivals wird zum nunmehr siebten Mal ein dreimonatiges Arbeitsstipendium für Filmschaffende abgehalten. Die SUMMER FILM RESIDENCY ist international ausgeschrieben und bietet von Juli bis September 2022 die Künstlerwohnung des Kulturhof:villach, einen Arbeitsplatz im Otelo und darüber hinaus eine monatliche finanzielle Unterstützung in der Höhe von € 1.200,- an.
 Unter vielen, auch internationalen, Bewerbungen konnte schließlich MARKUS MAICHER die Jury überzeugen. Sein Filmprojekt „Objects in the rear mirror appear closer than they really are“ wird sich selbstreflexiv mit dem Verhältnis zwischen Autobiografischem und Medialem auseinandersetzen. Die Geschichte soll sich über 4 Generation spannen – die seiner Großmutter, seines Vaters, seiner eigenen, und seines Neffen. Sie will dabei der Frage nachgehen, durch welche Bilder diese Generationen repräsentiert werden, mit welchen Bildern sie aufgewachsen sind und welche Bilder sie jeweils selber erzeugen.
