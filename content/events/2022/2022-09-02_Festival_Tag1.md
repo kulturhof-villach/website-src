@@ -70,7 +70,7 @@ Ab 22 Uhr geht’s mit Manic Youth ab in den Keller zum „Funland“, dem zweit
 ## 23 Uhr: Bicycle Terror ##
 
 Und dann wird’s richtig laut… Seit 2014 schlägt, reißt und schreit die der südösterreichischen Düsternis entsprungene Band Bicycle Terror sperrig-spielerisch gegen inneräußere Zwänge an. Die nächste Runde dieses Kampfes wird am Kulturhof-Festival eingeläutet, wo es neben dem aktuellen Album "Pedal Jazz, Flourishing" auch einige unveröffentlichte Songs zu hören geben wird, mit denen wiederum neue, vom Punk der 1980er inspirierte energies freigewürgt werden. Die Konzerte der vier Fahrradterrorist\*innen gleichen so einer Sprintfahrt zwischen Black Flag und Detestation, nach der man sich weichgeklopft vom Rad ins Nirvana fallen lassen kann.
-![Bicycle Terror](/img/events/2022-09-02_BicycleTerror.jpg)
+![Bicycle Terror](/img/events/2022-09-02_BicycleTerror.JPG)
 
 ## ab 24 Uhr: DJs aus dem Kulturhof Dunstkreis ##
 
