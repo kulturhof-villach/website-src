@@ -5,7 +5,7 @@ date = 2022-09-22T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: Ilija Ludvig"
-featured = "img/events/2022-08-13_SarahBernhardt.png"
+featured = "img/events/2022-09-22_JelenaPoprzan_c_RaniaMoslam.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -32,7 +32,7 @@ draft = false
 
 ### Jelena Popržan Quartett
 
-![Jelena Popržan Quartett](/img/events/2022-08-13_SarahBernhardt_cDaniela_Matejschek.jpg)
+![Jelena Popržan Quartett](/img/events/2022-09-22_JelenaPoprzan_c_RaniaMoslam.jpg)
 Foto © Rania Moslam
 
 Jelena Popržan erfindet sich wieder einmal neu – und bleibt sich trotzdem treu. Die charismatische und vokal nuancenreiche Violaspielerin, Sängerin und Soundkünstlerin aus der Vojvodina (Serbien), die mit Ensembles wie Catch-Pop String-Strong, Sormeh und Madame Baheux der hiesigen Musikszene einige Vitalität injiziert hat, stellt nun nach ihrem vielbeachteten Soloprogramm „La Folia“ ein neues Projekt und dafür ein neues Team auf die Beine.
@@ -51,7 +51,7 @@ Ihr setzt Jelena Popržan mit einem Liederzyklus ein musikalisches Denkmal. Den 
 
 ### Ilija Ludvig
 
-![Ilija Ludvig](/img/events/2022-08-13_Manjana.png)
+![Ilija Ludvig](/img/events/2022-09-22_IlijaLudvig.jpg)
 
 Ilija Ludvig was born in 1976 in Belgrade.
 He emerged from musical anonymity in 2007, appearing on the compilation Jutro će promeniti sve? (Morning Will Change Everything?).
