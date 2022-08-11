@@ -27,8 +27,7 @@ draft = false
 >
 
 
-## Jelena Popržan Quartett
-## Support: Ilija Ludvig
+## Jelena Popržan Quartett I Support: Ilija Ludvig
 
 ### Jelena Popržan Quartett
 
