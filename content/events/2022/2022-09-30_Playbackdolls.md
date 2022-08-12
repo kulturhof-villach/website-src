@@ -4,7 +4,7 @@ authors = ["kulturhof"]
 date = 2022-09-30T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "„Chansons 2084"
+description = "Chansons 2084"
 featured = "img/events/2022-09-30_Playbackdolls_c_StefanKnittel.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -71,12 +71,19 @@ Distanz, um Reflexion und Rebellion, um Fernweh und Isolation, um Räume, Orte,
 Welten.
 
 >**Besetzung:**
+>
 >Tini Trampler: Gesang
+>
 >Stephan Sperlich: Klavier, Theremin, Gesang
+>
 >Tino Klissenbauer: Akkordeon
+>
 >Lina Neuner: Kontrabass
+>
 >Alexander Lausch: Gitarre
+>
 >Bernhard Rabitsch: Trompete, Gesang
+>
 >David S. Strobl: Schlagzeug, Percussion
 
 
