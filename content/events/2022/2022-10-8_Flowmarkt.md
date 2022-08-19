@@ -14,7 +14,7 @@ tags = ["Flowmarkt"]
 draft = false
 +++
 
-#### Passend zum Wechsel der Jahreszeiten. Es ist Ausmist-Zeit. Es ist Flowmarktzeit. 
+#### Passend zum Wechsel der Jahreszeiten. Ausmist-Zeit ist Flowmarktzeit. 
 **Kommt Stöbern, entrümpelt eure Kleiderschränke, befreit euch von nicht-gebrauchten Gegenständen und macht anderen damit eine Freude**
 
 >2nd Hand | Musik | Design | Kunst | Selbstgemachtes
