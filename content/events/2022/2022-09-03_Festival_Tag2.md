@@ -4,7 +4,7 @@ authors = ["kulturhof"]
 date = 2022-09-03T20:00:00
 publishdate = 2021-05-02
 time = "20:00"
-description = "Brüder im Wind - Das Schottische Prinzip - Bernhard Eder Trio - MISSSTAND"
+description = "Brüder im Wind - Das Schottische Prinzip - Bernhard Eder - MISSSTAND"
 featured = "img/events/2022-09-03_Festival_Tag2.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -35,7 +35,7 @@ draft = false
 >
 >•	21 Uhr: Das Schottische Prinzip
 >
->•	22 Uhr: Bernhard Eder Trio
+>•	22 Uhr: Bernhard Eder 
 >
 >•	23 Uhr: MISSSTAND
 >
@@ -53,7 +53,7 @@ Diese vielversprechende Band, bestehend aus den vier Wienerinnen Julia Reißner 
 ![Das Schottische Prinzip](/img/events/2022-09-03_DasSchottischePrinzip_c_DanielaMatejschek.jpg)
 © Daniela Matejschek
 
-## 22 Uhr: Bernhard Eder Trio ##
+## 22 Uhr: Bernhard Eder ##
 
 Ab 22 Uhr präsentieren Bernhard Eder und seine Band das im harten Lockdown des letzten Jahres entstandene Album „Subterranean Echoes“ – ein Werk, das intimer nicht sein könnte. Die Echos der musikalischen Vergangenheit von Bernhard Eder treffen auf die gegenwärtige Gefühlslage einer Gesellschaft, deren Welt auf den Kopf gestellt wurde. Im Untergrund brodelt es an Gefühlen, an unerfüllten Bedürfnissen und einer allgemeinen Verunsicherung, in welche Richtung wir uns als Menschheit weiterentwickeln werden. Es ist ein Album, das zwar die Isolation thematisiert, uns allerdings durch seine Intimität, Zartheit und Direktheit miteinander zu verbinden und zu trösten weiß.
 ![Bernhard Eder Trio](/img/events/2022-09-03_BernhardEder_c_NadineKeilhofer.jpg)
