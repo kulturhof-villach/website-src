@@ -87,6 +87,15 @@ Welten.
 >David S. Strobl: Schlagzeug, Percussion
 
 
+„Flamingos" 
+https://www.youtube.com/watch?v=SaHHandqIOc
+
+„Träumende Vögel"
+https://www.youtube.com/watch?v=RtvvcHpGhCI
+
+Website: [Playbackdolls | tinitrampler](https://www.tinitrampler.com/playbackdolls)
+
+
 - Info Hotline: 0699 15088177 
 - E-Mail: office@kulturhofvillach.at
 
