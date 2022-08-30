@@ -38,9 +38,9 @@ Ein Liederzyklus wegen Maria
 
 Maria liegt am Ende ihres Lebens.
 Ihr Geist rührt im trostlosen Teil der Vergangenheit.
-Ihr K rper rührt sich nicht mehr.
+Ihr Körper rührt sich nicht mehr.
 Eine musikalische Momentaufnahme gegen die lange Tradition
-der Verschwiegenheit und für das bessere Verst ndnis einer
+der Verschwiegenheit und für das bessere Verständnis einer
 Verhaltensweise, die vom Verschwiegenen bestimmt wird.
 "Mariana" ist ein Besuch in Marias Lage.
 Ein Versuch in mehreren Liedern.
@@ -53,12 +53,12 @@ Ein Versuch in mehreren Liedern.
 
 Birgit Radeschnig ist Kabarettistin (Duo RaDeschnig), Musikerin
 (Klakradl), Autorin, sowie FM4 Radiokolumnistin. In ihrem ersten
-Liederzyklus "Mariana" begibt sich die gebürtige K rntnerin mit
+Liederzyklus "Mariana" begibt sich die gebürtige Kärntnerin mit
 Hilfe von Musikstücken in Mundarttexten auf die Spuren einer
-traumatisierten Gro elterngeneration.
+traumatisierten Großelterngeneration.
 Der Kontrabassist Mathias Krispin Bucher studierte Jazzbass am
 Konservatorium Klagenfurt und bereichert als Komponist und
-Schauspieler die K rntner Theaterszene (Klagenfurter
+Schauspieler die Kärntner Theaterszene (Klagenfurter
 Stadttheater, Theater WalTzwerk, KuKuKK ...).
 Der Multiinstrumentalist schreibt eigene Stücke, Bücher, sowie
 Geschichten, die in Gedichtform als „Liederatur“ bekannt sind.
