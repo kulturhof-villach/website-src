@@ -66,6 +66,12 @@ Und ab 23 Uhr hauen die Punks aus Graz auf die Pauke. In neuer Besetzung legen s
 
 ## ab 24 Uhr: DJs aus dem Kulturhof Dunstkreis ##
 
+Während des Festivals wird der Kulturhof: mit einer Projektion von Filmen des Filmemachers und Medienkünstlers Markus Maicher bespielt. Am 3.9. werden I AM NOT THERE, CONCRETE GHOSTS und MEMORY SERIES zu sehen sein. Auch der Kulturhof:keller wird mit einer Super8 Installation unsicher gemacht. SUPER8(CC)TV will be watching you!
+
+![Markus Maicher](/img/events/2022_09_02_Markus_Maicher.png)
+
+Markus Maicher ist derzeit als Filmstipendiant des Landes Kärnten in Villach tätig. Er lebt in Wien und arbeitet als Filmemacher, Projektionist im österreichischen Filmmuseum und ist Teil des artist-run filmlabs filmkoop wien. Seine Arbeit beschäftigt sich mit dem kinematographischen Dispositiv, analoger Materialität und darin eingeschriebener Erinnerung.
+
 
 Covid Informationen
 [Wichtige Informationen zum Besuch im Kulturhof]({{< ref "/covid-info" >}})
