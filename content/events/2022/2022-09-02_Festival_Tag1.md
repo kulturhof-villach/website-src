@@ -74,6 +74,11 @@ Und dann wird’s richtig laut… Seit 2014 schlägt, reißt und schreit die der
 
 ## ab 24 Uhr: DJs aus dem Kulturhof Dunstkreis ##
 
+Während des Festivals wird der Kulturhof: mit einer Projektion von Filmen des Filmemachers und Medienkünstlers Markus Maicher bespielt. Am 2.9 werden seine Filme INTO THE WILD, MOUNTAIN VIEW und BLÄTTER IM HERBST die Arkaden des Hofs bestrahlen. Auch der Kulturhof:keller wird mit einer Super8 Installation unsicher gemacht. SUPER8(CC)TV will be watching you!
+
+![Markus Maicher](/img/events/2022_09_02_Markus_Maicher.png)
+
+Markus Maicher ist derzeit als Filmstipendiant des Landes Kärnten in Villach tätig. Er lebt in Wien und arbeitet als Filmemacher, Projektionist im österreichischen Filmmuseum und ist Teil des artist-run filmlabs filmkoop wien. Seine Arbeit beschäftigt sich mit dem kinematographischen Dispositiv, analoger Materialität und darin eingeschriebener Erinnerung.
 
 Covid Informationen
 [Wichtige Informationen zum Besuch im Kulturhof]({{< ref "/covid-info" >}})
