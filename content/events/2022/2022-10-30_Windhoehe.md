@@ -1,6 +1,6 @@
 +++
 title = "Windhöhe"
-authors = ["kulturhof"]
+authors = ["tatworttheater"]
 date = 2022-10-30T18:00:00
 publishdate = 2021-05-01
 time = "20:00"
