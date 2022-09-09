@@ -18,7 +18,7 @@ draft = false
 
 **Theater Artis**
 
-### „Venus im Pelz“ von David Ives
+### „Venus im Pelz“ von David Ives | PREMIERE
 *Deutsch von Michael Raab*
 
 Der junge Schriftsteller Thomas Novachek hat Leopold von Sacher-Masochs Novelle "Venus im Pelz" für die Bühne adaptiert und sucht in einem Vorsprechen die passende Besetzung der weiblichen Hauptrolle. Keine der Schauspielerinnen scheint der Darstellung der anmutigen Wanda gewachsen zu sein, bis plötzlich eine junge Frau die Bühne betritt, die nicht nur so heißt wie die Hauptfigur im Stück, sondern auch über eine raffinierte Garderobe und ein erstaunliches Hintergrundwissen verfügt. Es beginnt ein aufgeladenes Katz- und Mausspiel, das die Grenzen zwischen Liebe und Abhängigkeit, Unterwerfung und Hingabe, Verführung und Macht verschwimmen lässt. Was wollte Thomas mit seinem Stück erreichen? Und wer ist die geheimnisvolle Wanda wirklich?
