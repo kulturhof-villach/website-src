@@ -14,6 +14,7 @@ tags = ["theater"]
 draft = false
 +++
 
+![Venus](/img/events/2022-10-22_Venus_Flyer.jpg)
 
 **Theater Artis**
 
@@ -34,7 +35,7 @@ THEATER ARTIS bringt mit „Venus im Pelz“ eine Kärntner Erstaufführung auf 
 
 **Reservierungen: karten.artis@gmx.at oder 0650 808 41 35/ Ticketpreis: €24,-
 
-www.theater-artis.at 
+[www.theater-artis.at](https://www.theater-artis.at)
 
 
 Aufführungsrechte bei Felix Bloch Erben GmbH & Co. KG, Berlin | www.felix-bloch-erben.de
@@ -43,9 +44,6 @@ Mit: Valerie Anna Gruber, Stefan Ofner
 Regie: Karl Baratta
 Veranstalter: Theater Artis
 
-
-
-![Venus](/img/events/2022-10-22_Venus_Flyer.jpg)
 
 
 
