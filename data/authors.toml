@@ -357,3 +357,19 @@
   slideshare = ""
   xing = ""
   linkedin = ""
+
+[ theater-artis ]
+  name = "Theater Artis"
+  featured = "/img/organiser/theater-artis"
+  [ theater-artis.bio ]
+    en = ""
+    de = ""
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
