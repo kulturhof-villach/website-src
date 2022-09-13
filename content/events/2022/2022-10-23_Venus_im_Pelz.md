@@ -1,6 +1,6 @@
 +++
 title = "„Venus im Pelz“"
-authors = ["kulturhof"]
+authors = ["theater-artis"]
 date = 2022-10-23T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
