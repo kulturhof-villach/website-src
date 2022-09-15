@@ -69,15 +69,19 @@ Ihr setzt Jelena Popržan mit einem Liederzyklus ein musikalisches Denkmal. Den 
 
 ![Ilija Ludvig](/img/events/2022-09-22_IlijaLudvig.jpg)
 
-Ilija Ludvig was born in 1976 in Belgrade.
-He emerged from musical anonymity in 2007, appearing on the compilation Jutro će promeniti sve? (Morning Will Change Everything?).
+Ilija Ludvig wurde 1976 in Belgrad geboren. 2007 tauchte er aus der musikalischen Anonymität auf und erschien auf der Compilation “Jutro će promeniti sve?” (“Das Morgen wird alles ändern?”).
 
-Ivan Loncarevic from popdepression.com notices: “Ilija plays guitar and sings, has a stand-up performance during the concert, expressing himself through songs and visually. Is involved in the fight against all injustices of this world and loves to show how much he cares about everyone in the audience. Ilija is a poet, an artist, a performer, a musician. Is Woody Guthrie and Screamin’ Jay Hawkins; is Billy Bragg and Lou Reed; Ilija is Ludvig.”
+Ivan Loncarevic von popdepression.com schreibt: „Ilija spielt Gitarre und singt und engagiert sich dabei im Kampf gegen alle Ungerechtigkeiten dieser Welt. Ilija ist Dichter, Künstler, Performer, Musiker; ist Woody Guthrie und Screamin’ Jay Hawkins; ist Billy Bragg und Lou Reed; Ilija ist Ludwig.“
 
-As for his official releases, Ilija is represented on the popular compilations Pesme ispod pokrivača(Songs From Under The Covers) (2013) and Jason Molina Tribute: Just Be Simple (2014), Tapi: LJUBAVNA TEOREMA. (2018) i Piano Sky (2018).
+Was seine offiziellen Veröffentlichungen betrifft, ist Ilija u.a. auf den serbischen Compilations Pesme Ispod Pokrivača (Songs From Under The Covers) (2013), Jason Molina Tribute: Just Be Simple (2014), Tapi: LJUBAVNA TEOREMA (2018) und Piano Sly (2018) vertreten.
 
-He lives the music he creates as an upcoming, unfulfilled friendship, a document of that anticipation, as a Ulysses’s trace of the one true love. The lyrics are never well articulated. They are either sung, murmured or mumbled. Their meaning resonates creating Ambivalens  - the spatial equivalent of the scene  - and within that space a new closeness is achieved. This achievement  depends primarily on the need to keep the air alive, the invisible one. And, of course, on the courage to do so. Oh yes, the courage!
+Ilija Ludvig lebt die Musik, die er kreiert als bevorstehende, unerfüllte Freundschaft, in Erwartung einer solchen. Die Texte werden meist schlampig artikuliert, eher gemurmelt. Ihre Bedeutung schwingt eher, als dass sie akustisch verstanden wird und schafft damit einen neuen Raum, innerhalb dessen eine neue Nähe erzeugt wird.
 
+>**Hörbeispiele:**
+>
+>["Remains of the summer"](https://www.youtube.com/watch?v=A-3Leit6W6k&t=6s)
+>
+>["Fragile na Školjiću"](https://www.youtube.com/watch?v=UmFKj4P7RL0)
 
 
 - Info Hotline: 0699 15088177 
