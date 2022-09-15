@@ -36,18 +36,35 @@ Foto © Rania Moslam
 
 Jelena Popržan erfindet sich wieder einmal neu – und bleibt sich trotzdem treu. Die charismatische und vokal nuancenreiche Violaspielerin, Sängerin und Soundkünstlerin aus der Vojvodina (Serbien), die mit Ensembles wie Catch-Pop String-Strong, Sormeh und Madame Baheux der hiesigen Musikszene einige Vitalität injiziert hat, stellt nun nach ihrem vielbeachteten Soloprogramm „La Folia“ ein neues Projekt und dafür ein neues Team auf die Beine.
 
-In einem Büchlein der Theodor Kramer Gesellschaft fand sie die Gedichte der polnisch-wienerischen Poetin Tamar Radzyner (1932–1991) und war tief beeindruckt. Die polnische Jüdin, die im bewaffneten Widerstand war und die Shoah überlebte, fand in Wien und in der deutschen Sprache eine neue Heimat, arbeitete mit Georg Kreisler und Topsy Küppers zusammen, und schrieb Gedichte voll heiterem Pessimismus und bitterem Witz.
+In einem Büchlein der Theodor Kramer Gesellschaft fand sie die Gedichte der polnisch-wienerischen Poetin Tamar Radzyner (1927–1991) und war tief beeindruckt. Die polnische Jüdin, die im bewaffneten Widerstand war und die Shoah überlebte, fand in Wien und in der deutschen Sprache eine neue Heimat, arbeitete mit Georg Kreisler und Topsy Küppers zusammen, und schrieb Gedichte voll heiterem Pessimismus und bitterem Witz.
 
 Ihr setzt Jelena Popržan mit einem Liederzyklus ein musikalisches Denkmal. Den größeren Teil des Programms aber nehmen ihre brandneuen Instrumentalkompositionen ein, Stücke voll imaginativer Klangbilder und melodischer Geschichten, wobei ihr drei begnadete Fixgrößen der heimischen Jazzszene zur Hand gehen: Christoph Pepe Auer, Clemens Sainitzer sowie ihre Kollegin von Madame Baheux: Lina Neuner.
 
 >**Besetzung:**
+>
 >Jelena Popržan | Quinton (5-saitige Viola), Stimme, Komposition
+>
 >Christoph Pepe Auer | Klarinette, Alt-Saxophon
+>
 >Clemens Sainitzer | Violoncello
+>
 >Lina Neuner | Kontrabass
 
+>**Website:**
+>
+>[www.jelenapoprzan.com](https://www.jelenapoprzan.com/)
 
-
+>**Hörbeispiele:**
+>
+>["Have an Apple"](https://www.youtube.com/watch?v=VhOP75qt9EY)
+>
+>["Tanc banatskih Andraka"](https://youtu.be/JEQzYIYGDIw)
+>
+>["Ameisen"](https://youtu.be/TI5HXD8WVf0)
+>
+>["Restbestände"](https://youtu.be/qxUIojm9ze4)
+>
+>
 ### Ilija Ludvig
 
 ![Ilija Ludvig](/img/events/2022-09-22_IlijaLudvig.jpg)
