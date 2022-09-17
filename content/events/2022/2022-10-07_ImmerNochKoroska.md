@@ -22,6 +22,8 @@ draft = false
 ### Immer noch Koroška (2021)
 #### Ein Film von Katharina Brunner & Nils Kaltschmidt
 
+###### Nach der Filmvorführung moderiert die Filmemacherin Katharina Brunner eine offene Diskussion mit Gästen aus den Bereichen Minderheitenpolitik & -forschung und Erinnerungskultur.
+
 Immer noch ist Kärnten/Koroška zweisprachig. Immer noch muss die slowenische Sprache um Platz kämpfen. Jedes Jahr feiert das Land den 10. Oktober als Tag der Volksabstimmung. Immer wieder kommt Kritik dazu auf, wie erinnert wird. Immer noch Koroška spannt den Bogen zwischen persönlichen Perspektiven und öffentlichen Ereignissen aus dem Jubiläumsjahr 2020. Den Feierlichkeiten am 10. Oktober stehen Demonstrationen in Klagenfurt gegenüber, die genau diesen Tag als Feiertag abschaffen wollen. Heimatlied trifft Protestrufe, Kärntner Anzug trifft antifaschistische Plakate - Szenen, mit denen Immer noch Koroška die Absurdität dieses ewigen Konflikts im Süden Österreichs einfängt.
 
 Seit jeher stehen die, die sich zur slowenischen Sprache in Kärnten bekennen, unter politischem und sozialem Druck. Anstatt aber die Geschichte der slowenischen Minderheit in Österreich historisch aufzurollen, erforschen die Filmemacher:innen für den Film verschiedene kärntner-slowenische Identitäten der Gegenwart. Einsprachig in Kärnten aufgewachsen hat Katharina mit diesem Film ihre eigenen Wissenslücken über die Vergangenheit & Gegenwart der Heimatregion ins Auge gesehen und reflektiert.
@@ -30,8 +32,6 @@ Alle Protagonist:innen des Films sind auf ihre eigene Art und Weise Teil der Min
 
 Festivals/Screenings bisher:
 SHORT to the point (2021), Social World Film Festival (2021), Honorable Mention Awareness Festival (2021), CinemaNext Graz (2021), BlackCat Film Festival (2021), Klub Kärntner Slowenischer Studierender Wien (Screening 2022), Manchester Lift-Off Film Festival (2022), SHOTS Film Festival (2022), Autonomy Experience Südtirol (Screening 2022), Mohorjeva- Konferenz gemeinsam skupno (2022)
-
-#### Nach der Filmvorführung moderiert die Filmemacherin Katharina Brunner eine offene Diskussion mit Gästen aus den Bereichen Minderheitenpolitik & -forschung und Erinnerungskultur.
 
 Foto: Theresa Maria Dirtl
 
