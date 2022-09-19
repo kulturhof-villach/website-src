@@ -5,7 +5,7 @@ date = 2022-10-27T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Vorstellung"
-featured = "img/events/2022-10-14_Tatwort1.jpg"
+featured = "img/events/2022-10-14_windhoehe_final.jpeg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -16,7 +16,7 @@ draft = false
 
 ### TatWortTheater: „Windhöhe"
 
-![Windhöhe](/img/events/2022-10-14_WH_Plakat.jpg)
+![Windhöhe](/img/events/2022-10-14_Windhoehe_Plakat_final.jpeg)
 Fotos © TatWortTheater
 
 **Spieltermine:**
@@ -39,6 +39,7 @@ Fotos © TatWortTheater
 Der Klagenfurter Theaterverein TatWortTheater präsentiert die Stückentwicklung „Windhöhe" von Katharina Köller in Zusammenarbeit mit Sandra Pascal. Die Geschichte spielt auf der Windhöhe mitten im Herzen der Karawanken, wo die Eremitin Johanna fernab der Zivilisation friedlich im Einklang mit der Natur lebt, bis plötzlich Marie verzweifelt in ihr Leben stürmt. Sie ist auf der Flucht und bittet um Asyl. Können die Höhe und Weite sie heilen? Kann Johanna, die sonst mit der sie umgebenden Natur spricht, auch mit einem Menschen kommunizieren?
 
 Regie: **Susanne Draxler**
+Regieassistenz: **Anna Kainz**
 
 Mit: **Sandra Pascal** und **Katharina Köller**
 
