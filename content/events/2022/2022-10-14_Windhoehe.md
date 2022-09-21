@@ -66,9 +66,8 @@ Teaser:
 
 https://youtu.be/JYyAHbVaLtE 
 
-Unterstützt vom **Frauenreferat Land Kärnten**
-
-
+Unterstützt vom
+{{< rel-figure src="img/logos/land_frauenreferat.png" >}}
 
 ## Covid Informationen
 
