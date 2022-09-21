@@ -18,7 +18,8 @@ draft = false
 Eine Tat Wort Theater Produktion nach dem Stück von Katharina Köller
 
 ![Windhöhe](/img/events/2022-10-14_Windhoehe_Plakat_final.jpeg)
-Fotos © TatWortTheater
+Foto: © Andreas Gattringer
+Installation: Matthias Mollner
 
 **Spieltermine:**
 
@@ -62,9 +63,7 @@ Info:
 
 www.tatworttheater.com
 
-Teaser:
 
-https://youtu.be/JYyAHbVaLtE 
 
 
 
