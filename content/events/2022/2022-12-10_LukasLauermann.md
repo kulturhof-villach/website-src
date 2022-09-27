@@ -16,6 +16,7 @@ draft = false
 
 >
 > EINTRITT: € 18.-\* / € 14.- *\*\ € 8.-\*\*\*
+> 
 >**Es besteht die Möglichkeit vor dem Konzert den Dokumentarfilm Alpenland von Robert Schabus zu besuchen, dessen Filmmusik die Basis für das neue Album von Lukas Lauermann ist. Infos dazu gibt es [hier](https://kulturhofvillach.at/events/2022/2022-12-10_lukaslauermann_alpenland/)**
 >
 > \* An der Abendkassa oder im Vorverkauf auf [ntry.at/lukaslauermann](https://ntry.at/lukaslauermann) sowie im Kulturhof:büro (Tel.: +43 699 15088177)
