@@ -46,7 +46,7 @@ Robert Schabus begibt sich in seinem Kinodokumentarfilm „Alpenland“ mit gro�
 [Trailer](https://www.alpenland-film.at/de/trailer)
 
 #### LUKAS LAUERMANN
-![Lukas Lauermann](/img/events/2022-12-10_Lukas Lauermann.jpg)
+![Lukas Lauermann](/img/events/2022-12-10_LukasLauermann_c_LL.jpg)
 Foto © Lukas Lauermann
 
 Lukas Lauermann über sein neues Album und die Verknüpfung zu „Alpenland“:
