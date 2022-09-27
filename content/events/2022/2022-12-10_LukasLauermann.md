@@ -31,7 +31,7 @@ draft = false
 ## LUKAS LAUERMANN
 Lukas Lauermann präsentiert sein neues Album „Interploitation“, dessen Ausgangsmaterial die Kompositionen für „Alpenland“ waren. Es sind eigenständige, neue Instrumentalstücke entstanden, deren musikalische Ebenen interagieren. So wie es die Silben der drei Wörter tun, die inhaltliches Grundgerüst und titelgebend sind: INTERFERENCE – INTERVENTION – EXPLOITATION
 
-![Lukas Lauermann](/img/events/2022-12-10_LukasLauermann_c_LL.jpg)
+![Lukas Lauermann](/img/events/2022-12-10_LukasLauermann_Blumen_c_LL.jpg)
 Foto © Lukas Lauermann
 
 Wer sich für Musik made in Austria interessiert, hat den "wohl vielseitigsten und produktivsten
