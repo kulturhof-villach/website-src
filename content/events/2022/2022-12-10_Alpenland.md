@@ -33,7 +33,7 @@ draft = false
 
 Der Kulturhof:villach zeigt den Dokumentarfilm „Alpenland“ von Robert Schabus, unter Anwesenheit des Regisseurs. Im Anschluss besteht die Möglichkeit mit dem Regisseur über den Film und die damit zusammenhängenden Themen zu diskutieren.
 
-####ALPENLAND
+#### ALPENLAND
 ![Alpenland](/img/events/2022-12-10_ALPENLAND_Still_c_NGF.jpg)
 Foto © NGF
 Die Alpen sind nicht nur spektakuläre Naturlandschaft im Herzen Europas, sondern Lebensraum für 13 Millionen Menschen in acht Ländern, deren Vielzahl an Sprachen, Dialekten und Lebensweisen die kulturelle Vielfalt dieser einzigartigen Region widerspiegeln. Robert Schabus begibt sich in seinem Kinodokumentarfilm „Alpenland“ mit großer Empathie und genauem Blick auf eine Reise zu Bergbauernhöfen in Österreich, kleinen Manufakturen im Dorf Premana in Italien oder in bekannte Wintersportzentren wie Méribel in Frankreich und Garmisch-Partenkirchen in Bayern. Die Idylle trägt den Keim zu ihrer Zerstörung in sich. Der Tourismus schafft Arbeitsplätze und frisst die Natur auf, der Verkehr durchschneidet die Alpentäler, und der Klimawandel macht sich in den Alpen besonders bemerkbar. Gleichzeitig gibt es Menschen, die von der Tradition geprägt sind, einer rauen Natur seit Jahrhunderten zu trotzen, und die ihren Lebensraum nicht preisgeben wollen. „Alpenland“ erzählt von Menschen, deren Lebensperspektiven zwischen Ökonomie und Ökologie gegensätzlicher nicht sein könnten – und die trotz schwieriger Bedingungen eine tiefe Beziehung zu ihrer Heimat haben.
