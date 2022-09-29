@@ -17,12 +17,20 @@ draft = false
 >
 > Freier Eintritt
 >
-> Die Regiseur\*innen freuen sich über eine freiwillige Spende.
+> Die Regiseur\*innen freuen sich über eine freiwillige finanzielle Anerkennung.
 
 ### Immer noch Koroška (2021)
 #### Ein Film von Katharina Brunner & Nils Kaltschmidt
 
 ###### Nach der Filmvorführung moderiert die Filmemacherin Katharina Brunner eine offene Diskussion mit Gästen aus den Bereichen Minderheitenpolitik & -forschung und Erinnerungskultur.
+
+Podiumsgäste: 
+
+Dr. Ute Holfelder, Senior Scientist am Institut für Kulturanalyse an der Alpe Adria Universität und eine der Autorinnen von "KOROŠKA/KÄRNTEN Wege zu einer befreienden Erinnerungskultur" 
+
+Gitka Opetnik, klinische Gesundheitspsychologin und Psychotherapeutin, Buchautorin von  "Das Gestern im Heute begreifen. Traumaweitergabe in verfolgten slowenischen Familien"
+
+Filmbeschreibung:
 
 Immer noch ist Kärnten/Koroška zweisprachig. Immer noch muss die slowenische Sprache um Platz kämpfen. Jedes Jahr feiert das Land den 10. Oktober als Tag der Volksabstimmung. Immer wieder kommt Kritik dazu auf, wie erinnert wird. Immer noch Koroška spannt den Bogen zwischen persönlichen Perspektiven und öffentlichen Ereignissen aus dem Jubiläumsjahr 2020. Den Feierlichkeiten am 10. Oktober stehen Demonstrationen in Klagenfurt gegenüber, die genau diesen Tag als Feiertag abschaffen wollen. Heimatlied trifft Protestrufe, Kärntner Anzug trifft antifaschistische Plakate - Szenen, mit denen Immer noch Koroška die Absurdität dieses ewigen Konflikts im Süden Österreichs einfängt.
 
