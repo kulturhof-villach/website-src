@@ -14,7 +14,7 @@ tags = ["konzert"]
 draft = false
 +++
 
-**Dienstag, 18.10.2022, 20.00 Uhr, Kulturhofkeller, Lederergasse 15, Villach**
+**Dienstag, 18.10.2022, 20.00 Uhr, Kulturhof:keller, Lederergasse 15, Villach**
 
 ### JOE MORRIS / WILL GREENE / RAF VERTESSEN
 
