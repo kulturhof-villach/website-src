@@ -38,7 +38,7 @@ pauT - „The Unknown Legend der österreichischen Musikszene“ (Wiener Zeitung
 
 ### local support
 
-## 10 cent für deine Wäsche
+
 
 
 
