@@ -1,10 +1,10 @@
 +++
-title = "pauT & The greaT kellys"
+title = "pauT & The greaT kellys: welTraumkaTzenTour"
 authors = ["kulturhof"]
 date = 2022-10-21T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "welTraumkaTzenTour"
+description = "Support: Another Vision"
 featured = "img/events/2022-10-21_pauT_greaT_kellys_C_Carina Antl_quer_1920x1080.png"
 featuredVideo = ""
 featuredVimeo = ""
@@ -36,8 +36,11 @@ pauT - „The Unknown Legend der österreichischen Musikszene“ (Wiener Zeitung
 
 
 
-### local support
+### Support: Another Vision
 
+![Another Vision](/img/events/2022-10-21_AnotherVision_c_GabrielHyden.jpg)
+
+Another Vision sind Moritz Kristmann und Michael Schmücking. Die beiden Musiker aus Innsbruck und Wien kreieren seit 2015 elektrisierende Klangwolken. Live entwickeln sie sich mit Patrick Huter am Schlagzeug zum Wetterleuchten. Ihre erste Langspielplatte Inbetween (VÖ 08.04.2022, soda. mit himbeer records) beweist ihr Gefühl für musikalische Atmosphäre. Produziert in Wien gemeinsam mit Mario Fartacek (Mynth) und Alexander Lausch (Listen Careful Studio), fanden mehrere Songs des ersten Albums Eingang in die Radiostationen (FM4-Rotation für Head in the Clouds, Mon Amour & Rieger). Lisa Schneider (FM4) erkennt in Head in the Clouds etwa Parallelen zu "Leyya zu „Sauna"-Zeiten: Another Vision schreiben das Lied der Woche für alle Tagträumer". Zu den Highlights des kommenden zweiten Teils der Album Release Tour im Herbst 2022 zählen Auftritte am Waves Vienna und Reeperbahn Festival in Hamburg.
 
 
 
