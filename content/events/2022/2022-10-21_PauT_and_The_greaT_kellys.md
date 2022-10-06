@@ -35,10 +35,10 @@ pauT - „The Unknown Legend der österreichischen Musikszene“ (Wiener Zeitung
 
 
 
-
 ### Support: Another Vision
 
 ![Another Vision](/img/events/2022-10-21_AnotherVision_c_GabrielHyden.jpg)
+Foto: © Gabriel Hyden
 
 Another Vision sind Moritz Kristmann und Michael Schmücking. Die beiden Musiker aus Innsbruck und Wien kreieren seit 2015 elektrisierende Klangwolken. Live entwickeln sie sich mit Patrick Huter am Schlagzeug zum Wetterleuchten. Ihre erste Langspielplatte Inbetween (VÖ 08.04.2022, soda. mit himbeer records) beweist ihr Gefühl für musikalische Atmosphäre. Produziert in Wien gemeinsam mit Mario Fartacek (Mynth) und Alexander Lausch (Listen Careful Studio), fanden mehrere Songs des ersten Albums Eingang in die Radiostationen (FM4-Rotation für Head in the Clouds, Mon Amour & Rieger). Lisa Schneider (FM4) erkennt in Head in the Clouds etwa Parallelen zu "Leyya zu „Sauna"-Zeiten: Another Vision schreiben das Lied der Woche für alle Tagträumer". Zu den Highlights des kommenden zweiten Teils der Album Release Tour im Herbst 2022 zählen Auftritte am Waves Vienna und Reeperbahn Festival in Hamburg.
 
