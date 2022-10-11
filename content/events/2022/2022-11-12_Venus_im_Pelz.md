@@ -1,5 +1,5 @@
 +++
-title = "ABGESAGT „Venus im Pelz“"
+title = "„ABGESAGT Venus im Pelz“"
 authors = ["theater-artis"]
 date = 2022-11-12T20:00:00
 publishdate = 2021-05-01
