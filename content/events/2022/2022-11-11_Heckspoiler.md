@@ -1,11 +1,11 @@
 +++
-title = "Heckspoiler"
+title = "Heckspoiler | Tokyo Drift"
 authors = ["kulturhof"]
 date = 2022-11-11T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "Tokyo Drift"
-featured = "img/events/thumb_2022-11-11_Heckspoiler_PR_analog_Himmelbauer_008.jpg"
+description = "support: Opium Masala"
+featured = "img/events/2022-11-11_Heckspoiler_PR_023.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -34,13 +34,12 @@ So entstehen elf charakteristische Rock/Punk-Songs, immer auf den Punkt gebracht
 Vieles mit einem gewissen Augenzwinkern versehen, mutiert dies dennoch nicht zur reinen Spaßangelegenheit. Auf platte Beschimpfungen und Machogehabe wird freilich verzichtet. Das schon etablierte Konzept von Heckspoiler, Musik für die Straße in Ton und Bild zu schaffen, wird auf „Tokyo Drift“ konsequent weitergeführt.
 
 
+### support act - OPIUM MASALA
 
 
-### local support
+![Opium Masala](/img/events/2022-11-11_OM.png)
 
-Infos folgen asap
-
-
+Aus dem bizarren Gemenge, strukturierten Lärms, tiefen Gitarrensounds und Schlagzeugrhythmen zwischen doomigen Laid-Back und trashigen D Beat entsteht ein Masala, das mit Vorsicht zu genießen ist, denn es handelt sich um OPIUM MASALA. Das Duo ist der neueste Stoff aus Leningraz bestehend aus Rama Finsta und Shanti Lebi. Ihr kennt die beiden aus anderen Projekten wie z. B. Lesson To Be Learned, Baguette oder A Great River In The Sky.
 
 
 
