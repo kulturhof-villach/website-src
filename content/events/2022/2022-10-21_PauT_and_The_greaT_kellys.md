@@ -1,10 +1,10 @@
 +++
-title = "pauT & The greaT kellys: welTraumkaTzenTour"
+title = "pauT & The greaT kellys, welTraumkaTzenTour"
 authors = ["kulturhof"]
 date = 2022-10-21T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "Support: Another Vision"
+description = "Support, Another Vision"
 featured = "img/events/2022-10-21_pauT_greaT_kellys_C_Carina Antl_quer_1920x1080.png"
 featuredVideo = ""
 featuredVimeo = ""
