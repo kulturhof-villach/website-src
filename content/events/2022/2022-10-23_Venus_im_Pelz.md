@@ -1,5 +1,5 @@
 +++
-title = "„Venus im Pelz“"
+title = "ABGESAGT „Venus im Pelz“"
 authors = ["theater-artis"]
 date = 2022-10-23T20:00:00
 publishdate = 2021-05-01
@@ -13,6 +13,9 @@ type = "event"
 tags = ["theater"]
 draft = false
 +++
+
+### Jetzt ist es leider fix, die Produktion von "Venus im Pelz" musste krankheitsbedingt leider auf das Frühjahr 2023 verschoben werden.
+
 
 ![Venus](/img/events/2022-10-22_Venus_Flyer.jpg)
 
