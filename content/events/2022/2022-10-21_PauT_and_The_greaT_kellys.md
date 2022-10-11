@@ -31,8 +31,19 @@ Nach dem wir pauT & The greaT kellys im Frühjahr leider verschieben mussten, fr
 
 ### welTraumkaTzenTour 
 
-pauT - „The Unknown Legend der österreichischen Musikszene“ (Wiener Zeitung) ist dem Publikum durch Auftritte als Bassist mit „Der Nino aus Wien“ und „Claria Luzia“ bereits bestens bekannt. Jetzt bringt pauT mit der welTraumkaTzenTour ein Psychdelic-Spektakel auf die Bühne – eine Zeitreise zwischen den Roaring Sixties und den 2020ern. Gemeinsam mit der all-female Band „the greaT kellys“ und dem aktuellen Album „welTraumkaTzen“ im Gepäck tourt pauT durch Österreich & Deutschland.
+pauT – Paul Schreier – ist ein österreichischer Singer-Songwriter.
+Am 24. April 2020 veröffentlichte ‚pauT‘ sein neues Album ‚welTraumkaTzen‘. Ein Konzept-Album ganz im Stil der 60ies/70ies mit musikalischen Hommagen an The Beatles, David Bowie und das Space-Age of Pop. Der ‚bayrische Rundfunk‘ präsentierte das Album unter dem Slogan ‚So klingt ein kosmisches Genie‘, die ‚Wiener Zeitung‘ bezeichnete pauT als ‚Unknown Legend der österreichischen Musikszene‘.
+Als Unterstützung bei den Live-Shows (wie auch am Album) ist die charmante Ladies-Band ‚the greaT kellys‘ mit an Board!Gemeinsam bringen ‚pauT & the greaT kellys‘ ein Psychedelic-Spektakel auf die Bühne,die Konzerte werden zur Zeitreise zwischen den Roaring Sixties und den 2020ern.
 
+„Er reimt den unmöglichen Reim“, wo andere Poeten hilflos im Trapez zappeln, schaukelt sich pauT spielerisch von Zeile zu Zeile. Am Höhepunkt der Dichtkunst angekommen, widerspricht er sich selbst, um im nächsten Moment sich selbst zu widersprechen. pauT ist und bleibt ein gnadenloser Optimist, sein Glas ist immer halbvoll, selbst wenn es dem neutralen Betrachter bereits leer erscheinen mag. 2010 erreichte er mit seinem Song „Sepp hat gesagt, wir müssen alles anzünden“ den 1. Platz beim FM4 Protestsongcontest. Es folgte ein 3-monatiges Engagement als Musiker auf der World-Expo in Shanghai im Österreich-Pavillon.
+
+>Christina Zauner – Keyboards, Gesang
+>
+>Julia Hofer – Bass, Cello, Gesang
+>
+>Raphaela Fries – Schlagzeug, Gesang
+>
+>pauT – Gitarre, Klarinette, Gesang
 
 
 ### Support: Another Vision
