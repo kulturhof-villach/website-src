@@ -23,6 +23,8 @@ draft = false
 ### „Venus im Pelz“ von David Ives
 *Deutsch von Michael Raab*
 
+![Wieso](/img/events/2022-11-12_Wieso.jpg)
+
 Der junge Schriftsteller Thomas Novachek hat Leopold von Sacher-Masochs Novelle "Venus im Pelz" für die Bühne adaptiert und sucht in einem Vorsprechen die passende Besetzung der weiblichen Hauptrolle. Keine der Schauspielerinnen scheint der Darstellung der anmutigen Wanda gewachsen zu sein, bis plötzlich eine junge Frau die Bühne betritt, die nicht nur so heißt wie die Hauptfigur im Stück, sondern auch über eine raffinierte Garderobe und ein erstaunliches Hintergrundwissen verfügt. Es beginnt ein aufgeladenes Katz- und Mausspiel, das die Grenzen zwischen Liebe und Abhängigkeit, Unterwerfung und Hingabe, Verführung und Macht verschwimmen lässt. Was wollte Thomas mit seinem Stück erreichen? Und wer ist die geheimnisvolle Wanda wirklich?
 Venus im Pelz ist lust- und humorvoll, intelligent und subtil, voller Wortwitz und Situationskomik. Ein Theaterstück über Machtverhältnisse zwischen Mann und Frau, Abhängigkeit und Freiheit, Liebe und Erotik und die Würdigung eines bedeutsamen Stücks österreichischer Literatur.
 THEATER ARTIS bringt mit „Venus im Pelz“ eine Kärntner Erstaufführung auf die heimischen Bühnen.
