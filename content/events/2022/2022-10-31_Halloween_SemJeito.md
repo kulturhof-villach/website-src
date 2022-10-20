@@ -17,6 +17,8 @@ draft = false
 ### Dia de los Muertos
 **Salsa Night mit Live Band Noche Latina und im Anschluss Latino Beats mit Dj Ramon MX**  
 
+![SemJeito Halloween](/img/events/2022-10-31_SemJeito_Halloween.pdf)
+
 Feiert mit uns den Tag der Toten die ganze Nacht.  Tanzt zu lateinamerikanischen Klängen und genießt Rhythmus und Bewegung. 
 
 
