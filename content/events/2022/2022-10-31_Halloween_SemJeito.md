@@ -10,7 +10,7 @@ featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
 type = "event"
-tags = ["kabarett und dinner"]
+tags = ["Konzert und Tanz"]
 draft = false
 +++
 
