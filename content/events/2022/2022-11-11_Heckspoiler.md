@@ -33,6 +33,7 @@ Ausgeklügelte Riffs und Arrangements verleihen dieser Produktion den einzigarte
 So entstehen elf charakteristische Rock/Punk-Songs, immer auf den Punkt gebracht. Herzblut und Bodenst ndigkeit, Selbstironie und Schmäh, gepaart mit extravaganter Ehrlichkeit sind die Grundzutaten der meist in Mundart vorgetragenen Texte. Kritisch thematisiert werden u.a. das unabkömmliche Auto am Land und deren Verbauung, die Unfähigkeit sich (für andere) zu freuen, engstirniges Denken, Empathielosigkeit und Selbstgeilheit der Gesellschaft. Sehnsucht, Liebe, Schmerz und Sucht wird anhand realitätsnaher Erfahrungen verarbeitet.
 Vieles mit einem gewissen Augenzwinkern versehen, mutiert dies dennoch nicht zur reinen Spaßangelegenheit. Auf platte Beschimpfungen und Machogehabe wird freilich verzichtet. Das schon etablierte Konzept von Heckspoiler, Musik für die Straße in Ton und Bild zu schaffen, wird auf „Tokyo Drift“ konsequent weitergeführt.
 
+Foto © Himmelbauer
 
 ### support act - OPIUM MASALA
 
