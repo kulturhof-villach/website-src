@@ -45,7 +45,6 @@ draft = false
 ## 20 Uhr: Brüder im Wind ##
 
 Die Kärntner Pop/Rock-Konstellation Brüder im Wind eröffnet den 2. Tag des Festivals. Die drei jungen Musiker hat die Liebe zur Musik zueinander geführt. Der Leadsänger und Gitarrist Andreas Jechtl schreibt Songs über Freiheit, Liebe und geladenen Kanonen. Am Bass wird er von Thomas Steinwender und auf dem Schlagzeug von Thomas Kargl unterstützt. Ihr Motto lautet „macht Musik wieder zu dem was es einmal war".
-![Brüder im Wind](/img/events/2022-09-03_BrüderImWind.jpeg)
 
 ## 21 Uhr: Das Schottische Prinzip ##
 
