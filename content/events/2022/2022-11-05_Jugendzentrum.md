@@ -34,8 +34,6 @@ draft = false
 
 
 
->Infos unter office@kulturhofvillach.at bzw. +43 699 15088177
->
-
 Covid Informationen
+
 [Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
