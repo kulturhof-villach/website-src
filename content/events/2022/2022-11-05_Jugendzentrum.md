@@ -18,9 +18,11 @@ draft = false
 >**ab 14 Jahren**
 >
 >**freier Eintritt**
+>
+>**19 bis 24 Uhr**
 
 
-## Das Jugendzentrum Villach veranstaltet ##
+## Das Jugendzentrum Villach veranstaltet: ##
 >
 >•	Disco mit Musikwünschen
 >
