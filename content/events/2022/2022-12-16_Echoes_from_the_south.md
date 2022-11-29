@@ -1,7 +1,7 @@
 +++
 title = "Echoes from the South"
 authors = ["kulturforum-villach"]
-date = 2022-12-17T20:00:00
+date = 2022-12-16T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Jazz aus Kärnten"
