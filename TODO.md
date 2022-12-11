@@ -1,18 +1,18 @@
 # TODO
 
 ## Content
-- [ ] About
-- [ ] Veranstalter Info
-- [ ] Fremdveranstaltungen
-- [ ] Sponsors
-- [ ] Participate and Support
+- [x] About
+- [x] Veranstalter Info
+- [x] Fremdveranstaltungen
+- [x] Sponsors
+- [x] Participate and Support
 
 ## Layouts / Style
-- [ ] Veranstalter Info
+- [x] Veranstalter Info
 - [x] Link styling: lighter
-- [ ] List styling
+- [x] List styling
 
 ## Functionality
-- [ ] Newsletter Subscription
-- [ ] Past Events Section
-- [ ] Expire Events
+- [x] Newsletter Subscription
+- [x] Past Events Section
+- [x] Expire Events
