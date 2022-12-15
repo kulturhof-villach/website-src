@@ -1,7 +1,7 @@
 +++
 title = "Charity-Konzert"
 authors = ["sem-jeito"]
-date = 2022-12-16T19:00:00
+date = 2022-12-22T21:30:00
 publishdate = 2021-05-01
 time = "21:30"
 description = "Benefizveranstaltung für das Tierheim Villach"
