@@ -33,7 +33,7 @@ draft = false
 
 Am 18. März wandelt sich der Kulturhof:keller in ein Progressive Rock / Metal-Imperium und wartet gleich mit drei Größen der österreichisch-slowenischen Szene auf.
 
-### The Last Cell
+### THE LAST CELL
 
 Der in Wien ansässige Gitarren-Zauberer Jean-Marc Perc veröffentlicht seit 2018
 unter dem Pseudonym „The Last Cell“ instrumentale progressive Musik.
@@ -49,14 +49,14 @@ Die 4. EP wird derzeit aufgenommen und erscheint Anfang 2023.
 ![The Last Cell](/img/events/2023-03-18_TheLastCell.jpg)
 
 
-### Hei'An
+### HEI'AN
 
 Hei'An ist eine Post-Progressive-Metal-Band aus Slowenien, die Elemente aus einer Vielzahl verschiedener Genres und Subgenres in ihrer Musik verbindet, darunter Progressive-Metal-ähnliche Beats und Rhythmen, Post-Metal-ähnliche Akkordfolgen und Ambient-Parts, Black Metal-Esque Tremoli und Blast Beats, Metalcore-ähnliche Refrains und Riffs usw., während sie ihre eigene einzigartige Klangrichtung kreieren und kultivieren, die sowohl mit Intimität als auch mit gewaltig klingenden Segmenten gefüllt ist und den emotionalen Wert und die Wirkung ihrer Musik über alles stellt. Der Name Hei'An ist ein Pseudonym für ihren Frontmann, Bandleader und Songwriter Matic Blagonič und repräsentiert gleichzeitig die Band als Ganzes, die aus Matevž Počič (Gitarre), Peter Smrdel (Bass) und Gaj Bostič (Schlagzeug) besteht.
 
 ![Hei'An](/img/events/2023-03-18_HeiAn.jpg)
 
 
-### Calaverhine
+### CALVERHINE
 
 CALVERHINE vereinen diverse Stilrichtungen zu einer eigenen Mixtur aus schmetternden Riffs mit melodischen Parts und treibenden Beats. Tiefe, aggressive Growls im Wechselspiel mit cleanem Gesang. Leidenschaft und Hingabe zur Musik sind die treibenden Kräfte hinter CALVERHINE.
 Das beweisen die fünf Villacher auch bei ihren mitreißenden Liveshows.
