@@ -48,6 +48,20 @@ Besetzung:
 ![ORGES & THE OCKUS-ROCKUS BAND](/img/events/2023-02-18_OckusRockusBand_c_AstridKnie.jpg)
 Fotos © Astrid Knie
 
+Nach dem Konzert geht's im Weinkeller noch weiter mit der Sem Je!to "Balkan Beats" Faschingsfete. 
+Bis 4 Uhr Morgens gibt's Party mit DJ Coso aus Slovenien
+
+>Start: nach dem Konzert ca. 22 Uhr 
+>
+>Eintritt für Konzertbesucher\*innen frei
+>
+>Eintritt Balkan Beats Party 5 €
+
+
+![DJ Coso](/img/events/2023-02-18_Balkan_Beats.jpg)
+Grafik © Sem Je!to
+
+
 
 - Info Hotline: 0699 15088177 
 - E-Mail: office@kulturhofvillach.at
