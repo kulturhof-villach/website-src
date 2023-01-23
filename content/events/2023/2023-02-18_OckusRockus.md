@@ -58,7 +58,7 @@ Bis 4 Uhr Morgens gibt's Party mit DJ Coso aus Slovenien
 >Eintritt Balkan Beats Party 5 €
 
 
-![DJ Coso](/img/events/2023-02-18_Balkan_Beats.jpg)
+![DJ Coso](/img/events/2023-02-18_Balkan_Beats1.jpg)
 Grafik © Sem Je!to
 
 
