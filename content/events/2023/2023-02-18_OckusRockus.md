@@ -4,7 +4,7 @@ authors = ["kulturhof"]
 date = 2023-02-18T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "Balkanbilly"
+description = "danach BALKAN BEATS mit DJ Coso"
 featured = "img/events/2023-02-18_OckusRockusBand_Pfeife_c_AstridKnie.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -49,7 +49,7 @@ Besetzung:
 Fotos © Astrid Knie
 
 Nach dem Konzert geht's im Weinkeller noch weiter mit der Sem Je!to "Balkan Beats" Faschingsfete. 
-Bis 4 Uhr Morgens gibt's Party mit DJ Coso aus Slovenien
+Bis 4 Uhr Morgens gibt's Party mit DJ Coso aus Slowenien.
 
 >Start: nach dem Konzert ca. 22 Uhr 
 >
