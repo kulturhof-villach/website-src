@@ -24,7 +24,7 @@ Gewalt gegen Frauen, exemplarisch gezeigt an verschiedenen Monologen, mit einer 
 
 >Termine:
 >
-> 9\. März 2023, 19:30 Uhr, Premiere
+> 9\. März 2023, 19:30 Uhr - Premiere
 >
 > 10\. Mäzz 2023, 19:30 Uhr
 >
