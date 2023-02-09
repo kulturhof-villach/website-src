@@ -20,7 +20,7 @@ draft = false
 
 ### "Nur Kinder, Küche, Kirche" von Dario Fo und Franka Rame
 
-Gewalt gegen Frauen, exemplarisch gezeigt an verschiedenen Monologen, mit einer gleichen Grundthematik: Es geht immer um die Rolle der Frau in der Gesellschaft. Sie kämpfen mit den Herausforderungen, die perfekte Mutter, Ehefrau, Hausfrau und gute Arbeiterin, um die rollenspezifischen und gesellschaftlichen Erwartungen zu erfüllen. Auch müssen sie sich gegen häusliche Gewalt, Vergewaltigung und Einsamkeit wehren.
+Gewalt gegen Frauen, exemplarisch gezeigt an verschiedenen Monologen, mit einer gleichen Grundthematik: Es geht immer um die Rolle der Frau in der Gesellschaft. Sie kämpfen mit den Herausforderungen, die perfekte Mutter, Ehefrau, Hausfrau und gute Arbeiterin zu sein, um die rollenspezifischen und gesellschaftlichen Erwartungen zu erfüllen. Auch müssen sie sich gegen häusliche Gewalt, Vergewaltigung und Einsamkeit wehren.
 
 >Termine:
 >
