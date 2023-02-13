@@ -1,7 +1,7 @@
 +++
 title = "TURBOkids Theaterwerkstatt"
 authors = ["turbotheater"]
-date = 2023-02-16T10:00:00
+date = 2023-02-17T10:00:00
 publishdate = 2021-05-01
 time = "10:00"
 description = "Unsere Reise in die Zukunft"
@@ -20,7 +20,7 @@ draft = false
 **ACHTUNG - DATUMSÄNDERUNG - VON 15.2.-17.2. + 18.2. Werkschau**
 
 
-### "Reise durch meine Gefühlswelten"
+### "Unsere Reise in die Zukunft"
 
 **Eine kostenlose, offene Theaterwerkstatt der TURBOkids für Kinder von 7 bis 10 Jahre**
 
