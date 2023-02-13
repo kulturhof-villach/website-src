@@ -30,8 +30,6 @@ Gewalt gegen Frauen, exemplarisch gezeigt an verschiedenen Monologen, mit einer 
 >
 > 12\. März 2023, 15:00 Uhr
 > 
-> 12\. März 2023, 19:30 Uhr
-> 
 > 16\. März 2023, 19:30 Uhr
 > 
 > 17\. März 2023, 19:30 Uhr
