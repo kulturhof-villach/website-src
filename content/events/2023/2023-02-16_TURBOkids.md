@@ -20,7 +20,7 @@ draft = false
 **ACHTUNG - DATUMSÄNDERUNG - VON 15.2.-17.2. + 18.2. Werkschau**
 
 
-### "Reise durch meine Gefühlswelten"
+### "Unsere Reise in die Zukunft"
 
 **Eine kostenlose, offene Theaterwerkstatt der TURBOkids für Kinder von 7 bis 10 Jahre**
 
