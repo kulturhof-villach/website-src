@@ -1,7 +1,7 @@
 +++
 title = "TURBOkids Werkschau"
 authors = ["turbotheater"]
-date = 2023-02-18T12:00:00
+date = 2023-02-17T14:00:00
 publishdate = 2021-05-01
 time = "10:00"
 description = "Unsere Reise in die Zukunft"
@@ -16,8 +16,10 @@ draft = false
 
 #### TURBOkids
 
+**ACHTUNG - TERMINÄNDERUNG!!! Werkschau von 18.2. auf 17.2. 14 Uhr vorverschoben**
+
 ![TURBOkids](/img/events/2023-02-15_TURBOkids_Zukunft.jpg)
-**ACHTUNG - DATUMSÄNDERUNG - VON 15.2.-17.2. + 18.2. Werkschau**
+
 
 
 ### "Unsere Reise in die Zukunft"
@@ -37,8 +39,8 @@ Mittwoch 15.02. bis Freitag 17.02.
 jeweils 10:00 -14:00 Uhr
 
 Werkschau:
-18.02.
-12:00 Uhr
+17.02.
+14:00 Uhr
 
 Ort:
 Kulturhof:villach
