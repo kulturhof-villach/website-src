@@ -5,7 +5,7 @@ date = 2023-03-29T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: The Winston Brothers"
-featured = "img/events/2023-03-29_KendraMorris_c_KendraMorris.jpg"
+featured = "img/events/2023-03-29_KendraMorris_c_KendraMorris.JPG"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -42,7 +42,7 @@ Das hat sich mehr als ausgezahlt. Es ist an der Zeit, dass Kendra Morris uns all
  
 Ihr neues Album „Nine Lives“ ist ein hörbares, und gleichzeitig irgendwie auch filmisches Unterfangen, ihre eigene Geschichte zu erzählen. In den Album-Infos  könne wir folgenden Text lesen: “Tatsächlich enthält das Leben dieser multidisziplinären Künstlerin eine Vielzahl von Zeiteinheiten und Geschichten, durch die wir uns alle mit universellen Themen wie Liebe, Verlust und der Überwindung der eigenen Ängste identifizieren können, und wir können uns davon inspirieren lassen, dass Kendra nie aufhört, ihrer spirituellen Berufung zu folgen und weiterhin Musik und Kunst zu schaffen, egal was passiert. Sei sagt von sich selbst: „Ich glaube, wenn ich keine Musik machen oder etwas Künstlerisches tun würde, würde ich ein bisschen verrückt werden“. 
 
-![Albumcover_KendraMorris](/img/events/2023-03-29_Albumcover_KendraMorris_c_KendraMorris.jpg)
+![Albumcover_KendraMorris](/img/events/2023-03-29_Albumcover_KendraMorris_c_KendraMorris.jpeg)
 
 Mehr Infos zu Kendra Morris und “Nine Lives” findet ihr [hier](https://drive.google.com/file/d/12IhY9pFYjII5PexFrWN36rYGXfzmWfmn/view?usp=sharing)
 
