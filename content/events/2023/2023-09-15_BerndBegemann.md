@@ -16,7 +16,7 @@ draft = false
 
 > EINTRITT: 
 > 
-> Vorverkauf / verbindliche Reservierung: € 18.-\* / € 16.-\*\* / € 8.-\*\*\* [ntry.at/berndbegemann](https://ntry.at/berndbegemann) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
+> Vorverkauf / verbindliche Reservierung: € 18.-\* / € 16.-\*\* / € 8.-\*\*\* [ntry.at/berndbegemann_kulturhofvillach](https://ntry.at/berndbegemann_kulturhofvillach) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
 >
 > Abendkasse: € 21.-\* / € 16.-\*\* / € 8.-\*\*\*
 > 
