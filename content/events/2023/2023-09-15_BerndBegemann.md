@@ -35,9 +35,9 @@ Bernd Begemann, Mit-Erfinder der Hamburger Schule, stilbewusstester Musik-Connai
 Ohne Metronom, weil es nur im Weg gestanden hätte.
 Ohne Autotune, weil es nicht nötig war.
 Das große Lob was Bernd für sein neues Album erhält lässt sich eins-zu-eins auf seine Konzerte übertragen. Zwei bis drei Stunden spielt er immer. Singt. Erzählt. Begeistert.
-Das Booking läuft immer und ganzjährig.  Bernd spielt im Theater, im Club, Open Air in der Bar nebenann oder auch gern auf Deiner Hochzeit.
+Das Booking läuft immer und ganzjährig.  Bernd spielt im Theater, im Club, Open Air in der Bar nebenan oder auch gern auf Deiner Hochzeit.
 
-Foto: © Bernd Begemann
+Foto: © Svenja Blobel
 
 
 - Info Hotline: 0699 15088177 
