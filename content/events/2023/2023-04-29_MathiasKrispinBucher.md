@@ -16,7 +16,7 @@ draft = false
 
 > EINTRITT: 
 > 
-> Vorverkauf / verbindliche Reservierung: € 18.-\* / € 16.-\*\* / € 8.-\*\*\* [ntry.at/kendramorris](https://ntry.at/kendramorris) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
+> Vorverkauf / verbindliche Reservierung: € 18.-\* / € 16.-\*\* / € 8.-\*\*\* [ntry.at/mathiaskrispinbucher](https://ntry.at/mathiaskrispinbucher) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
 >
 > Abendkasse: € 21.-\* / € 16.-\*\* / € 8.-\*\*\*
 > 
