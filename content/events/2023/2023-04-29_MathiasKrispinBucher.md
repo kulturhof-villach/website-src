@@ -60,8 +60,6 @@ geht und wie man jede Emotion am besten transportieren kann.
 >Philipp Bernsteiner: Klavier, Orgel, Synthesizer
 >
 >Danny Rico: Schlagzeug, Synthesizer
->
->Romed Hopfgartner: Saxophon
 
 Foto: © Robert Maria Rainer
 
