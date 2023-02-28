@@ -11,7 +11,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["konzert"]
-draft = true
+draft = false
 +++
 
 > EINTRITT: 
@@ -29,19 +29,15 @@ draft = true
 
 
 ## Jack Botts
-### Album presentation "Sucker For Sunsets"
+### Albumpräsentation "Sucker For Sunsets"
 
-From its creator himself, Sucker For Sunsets is “Jack Botts with a twist”.
-
-Stringing together all the right elements for a stunning debut record – the warm embrace of Jack’s familial acoustic goodness, the stirring introduction of new writing styles into the mix, and his most grippingly personal lyrics to date – Sucker For Sunsets is an all-round elevated Jack Botts experience.
-
-Nearing breaking point in a pressure-cooker handful of years, the album was Jack’s vessel for self reflection and discovery. Moments of pain and doubt are cleverly peppered between songs of summer days, long drives and loved ones, and it’s this straddling between the easy-going and the difficult elements of life that makes the record as poignant as it is.
-
-Overall, Sucker For Sunsets is a reminder that life isn’t always sunsets and perfect surf, but when we are given those moments we should be grateful. While nothing is guaranteed to us, Jack prompts his listener to truly soak in and appreciate the sunny days. 
-
-Jack Botts will support Vance Joy’s North American tour in early 2023 before launching into his Australian headline album tour, playing some of his biggest rooms to date.
-
-Sucker For Sunsets is out in full March 31 2023.
+„Sucker For Sunsets“ vereint alle Elemente für ein atemberaubendes Debütalbum – es ist wie eine warme Umarmung von Jacks akustischer Güte, eine mitreißende Einführung neuer Stile und versammelt seine bis dato ergreifendsten persönlichen Texte. Einfach ein rundum gelungenes Jack-Botts-Erlebnis. Und es wird am 31.03.2023 veröffentlicht. 
+ 
+Das Album war Jacks Mittel zur Selbstreflexion und -entdeckung, nachdem er in den letzten Jahren gleichzeitig unter großem Druck und kurz vor dem Durchbruch stand. Momente des Schmerzes und des Zweifels sind geschickt zwischen Songs über laue Sommertage, lange Autofahrten und geliebte Menschen eingebettet. Es ist genau dieser Spagat zwischen den unbeschwerten und den schwierigen Elementen des Lebens, der das Album so ergreifend und nahbar macht.  
+ 
+Insgesamt ist „Sucker For Sunsets“ eine Erinnerung daran, dass das Leben nicht immer aus Sonnenuntergängen und perfekter Brandung bestehen kann. Aber es ist gleichzeitig ein Reminder: wenn uns diese Momente gegeben werden, sollten wir dankbar sein. Und sie nutzen. Die sonnigen Tage wirklich genießen und schätzen.   
+ 
+Jack Botts wird Anfang 2023 die Nordamerika-Tournee von Vance Joy unterstützen, bevor er in Australien seine Headline-Album-Tournee beginnt, bei der er in einigen seiner bisher größten Konzertsäle spielen wird. Und dann geht’s weiter über den großen Teich – Anfang Juni dann auch in Wien, im B72 und nach Villach, in den Kulturhof!
 
 Foto: © Jack Botts
 
