@@ -11,7 +11,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["theater"]
-draft = false
+draft = true
 +++
 
 ### Jetzt ist es leider fix, die Produktion von "Venus im Pelz" musste krankheitsbedingt leider auf das Frühjahr 2023 verschoben werden.
