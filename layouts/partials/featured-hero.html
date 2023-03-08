@@ -3,7 +3,7 @@
   <img class="hero-background" src="{{ .Params.featured | relURL }}"  alt="">
   <div class="hero-body">
     <div class="container hero-container has-text-right">
-
+      
       {{/*  Show TAGS - events  */}}
       {{ if (eq .Type "event") }}
         <h1 class="is-6 has-margin-bottom-08">
@@ -55,6 +55,14 @@
           </mark>
         </h1>
       {{ end }}
+            {{/*  Show speech bubble  */}}
+            {{ if and (eq .Type "event") (in .Params.authors "kulturhof")}}
+            <div class="is-1">
+              <figure class="">
+                <img src="{{ .Site.Params.logo.jugendcard | relURL  }}" width="200px">
+              </figure>
+            </div>
+            {{ end }}
 
     </div>
   </div>

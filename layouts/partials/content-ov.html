@@ -31,6 +31,13 @@
                   <img src="{{ $thumb | relURL}}">
                 </div>
               </a>
+              {{ if (in .authors "kulturhof")}}
+              <div class="is-1">
+                <figure style="position:relative;top:-140px; right:-100px">
+                  <img src="{{ "/img/logos/jugendcard-bubble.png" | relURL  }}" width="50px">
+                </figure>
+              </div>
+              {{ end }}
             </figure>
             <div class="media-content has-margin-top is-mobile-wide">
               <a href="{{ .link }}">
