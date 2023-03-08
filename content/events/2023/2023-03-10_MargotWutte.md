@@ -1,6 +1,6 @@
 +++
 title = "Nur Kinder, Küche, Kirche"
-authors = ["kulturhof"]
+authors = ["margot-wutte"]
 date = 2023-03-10T19:30:00
 publishdate = 2021-05-01
 time = "19:30"
