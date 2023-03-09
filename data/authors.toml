@@ -374,7 +374,7 @@
   xing = ""
   linkedin = ""
 
-  [ margot-wutte ]
+[ margot-wutte ]
   name = "Margot Wutte"
   featured = "/img/avatar-placeholder.png"
   [ margot-wutte.bio ]
