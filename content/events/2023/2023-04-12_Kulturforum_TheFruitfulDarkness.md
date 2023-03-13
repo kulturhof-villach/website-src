@@ -18,7 +18,8 @@ draft = false
 
 
 ### The Fruitful Darkness
-#### Gianni Gebbia / Tony Buck
+#### Gianni Gebbia, Sax
+#### Tony Buck, Drums
 
 
 #### Telefonische Kartenreservierung unter 0699 180 825 70 oder 04242 28896  sowie über Homepage www.kulturforumvillach.at                             
