@@ -1,10 +1,10 @@
 +++
-title = "AS WE WALK (BEL, USA)"
+title = "AS WE WALK"
 authors = ["kulturforum-villach"]
 date = 2023-03-21T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "Film und Konzert"
+description = "JAZZ - Film und Konzert"
 featured = "img/events/2023-03-21_Kulturforum_AsWeWalk.jpg"
 featuredVideo = ""
 featuredVimeo = ""
