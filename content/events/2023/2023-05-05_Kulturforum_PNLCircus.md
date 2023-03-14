@@ -1,10 +1,10 @@
 +++
-title = "Paal Nilssen Love"
+title = "Paal Nilssen-Love: CIRCUS"
 authors = ["kulturforum-villach"]
 date = 2023-05-05T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "CIRCUS"
+description = "JAZZ"
 featured = "img/events/2023-05-05_PNLCircus_c_Malwina Witkowska.jpg"
 featuredVideo = ""
 featuredVimeo = ""
