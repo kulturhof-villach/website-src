@@ -21,7 +21,7 @@ draft = false
 Neben den festen und langfristigen Ensembles wie dem ICP Orchestra, seinem eigenen Ab Baars Trio und dem Duo Baars-Henneman entwickelt Ab Baars immer wieder neue, kleinere Initiativen.
 Mit dem Posaunisten Joost Buis verbindet ihn seit langem eine enge musikalische Beziehung, die auf ein Ellington-Projekt des Ab Baars Trios im Jahr 2005 zurückgeht (Kinda Dukish). Die beiden sind bis heute als spezielles Duo miteinander verbunden und haben sich nunmehr mit der belgischen Tuba-Spielerin Berlinde Deman zu einem Trio erweitert.
 Deman kennt man vor allem vom belgischen Bigband-Ensemble Flat Earth Society, aber auch bei Projekten wie Secular Psalms des amerikanischen Trompeters Dave Douglas hat sie nachhaltigen Eindruck hinterlassen zu hören ist sie ebendort auch auf dem Serpent, einem mittelalterlichen Vorgänger der Tuba.
-Mit beiden Instrumenten bietet sie in vorliegender neuer Trioformation eine wunderbare Ergänzung der Klangpalette für Ab Baars Kompositionen  seit Gedenken skurril, lyrisch, verrückt, widerspenstig sowie spontane offene Improvisationen.
+Mit beiden Instrumenten bietet sie in vorliegender neuer Trioformation eine wunderbare Ergänzung der Klangpalette für Ab Baars Kompositionen seit Gedenken skurril, lyrisch, verrückt, widerspenstig sowie spontane offene Improvisationen.
 
 **Besetzung:**
 
