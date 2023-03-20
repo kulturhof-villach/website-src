@@ -5,7 +5,7 @@ date = 2023-04-29T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "SOMNIOSUS - i kärnt narrisch werdn"
-featured = "img/events/2023-04-29_MathiasKrispinBucher.jpeg"
+featured = "img/events/2023-04-29_MathiasKrispinBucher_Somniosus.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -56,7 +56,6 @@ Die Grundlage beruht auf Chansons, Liedermacher, Soul, Jazz, Groove und Hip Hop 
 klassischer minimal music angereichert. 
 
 **Besetzung:**
-
 >Mathias Krispin Bucher: Gesang, Erzähler
 >
 >Raphael Wagner: Klavier, Keys, Gesang
