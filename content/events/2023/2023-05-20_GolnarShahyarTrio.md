@@ -1,5 +1,5 @@
 +++
-title = "Golnar Shahyar Trio"
+title = "Golnar Shahyar"
 authors = ["kulturhof"]
 date = 2023-05-20T20:00:00
 publishdate = 2021-05-01
@@ -28,7 +28,7 @@ draft = false
 
 
 
-## Golnar Shahyar Trio
+## Golnar Shahyar Duo
 ### "The Voice Poet"
 
 Im Jahr 2008 ließ sich die iranisch-kanadische Sängerin, Komponistin und Multiinstrumentalistin Golnar Shahyar in Wien nieder und begann an der Universität für Musik und darstellende Kunst Gesang und Gitarre zu studieren. Ihr Timing war günstig: In der Musikszene vollzog sich gerade ein Generationswechsel. Die jahrzehntelang vorherrschende traditionalistische Denkweise begann zu bröckeln und wich allmählich einem verstärkten Interesse an Experimenten und der Überwindung alter Grenzen, sowohl ästhetischer als auch kultureller Art. Viele Musiker hinterfragten zunehmend die künstlichen Unterscheidungen zwischen „ernster“ und „populärer“ Musik sowie die von früheren Generationen übernommene Eurozentrik. 
