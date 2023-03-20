@@ -4,7 +4,7 @@ authors = ["kulturhof"]
 date = 2023-04-29T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "ASPERITAS - Ein Stück in 12 Liedern"
+description = "SOMNIOSUS - i kärnt narrisch werdn"
 featured = "img/events/2023-04-29_MathiasKrispinBucher.jpeg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -24,42 +24,42 @@ draft = false
 > 
 > \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Schüler\*innen
 > 
-> GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard
+> **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
 
 
 ## Mathias Krispin Bucher
-### ASPERITAS - Ein Stück in 12 Liedern
+### SOMNIOSUS - i kärnt narrisch werdn
 
-Asperitas ist ein Wetterphänomen, das aus vielen kleinen Wolken einen riesigen Ozean bildet, der
-wunderschön und dennoch furchteinflösend den Himmel flutet.
+Dieses Stück, das in 13 Liedern durch Kärntner Mundart in Kombination mit schriftdeutscher Lyrik 
+eine wahre Geschichte erzählt, wird von Mathias Krispin Bucher gesungen und moderietz. 
+Unterstützt wird er von Rafael Wagner an Klavier, Keyboard und backing vocals. 
+Eindrucksvoll zerlegen die beiden diese vergessene Beziehung auf künstlerische Art in Einzelteile 
+und beleuchten diese aus heutiger Sicht. 
+Durch die poetische Erzählform zwischen den Liedern werden auch die Menschen nicht 
+zurückgelassen, die dem Kärntner Dialekt nicht mächtig sind.
 
-Das MusikTheaterstück „ASPERITAS - ein Stück in 12 Liedern“ erzählt auf diese Weise die
-Geschichte einer jungen Liebe, die sich auf einem wackeligen Floß den hohen Wellen des Ozeans
-stellt, sich durch all die Wogen tragen lässt, bis sie an einer unüberbrückbaren Felswand zerbirst.
-
-Durch eine feinfühlige Mischung aus Folk, Jazz, Groove, Soul und Bossa Nova, gespickt von
-vorgetragenen Briefen, Tagebucheinträgen, Postkarten und Monologen, erzählt der Liederat,
-Musiker und Komponist Mathias Krispin Bucher, eine aufwühlende Liebesgeschichte.
-Was nicht mehr gesprochen werden kann, wird gesungen.
-
-Unterstützt wird er von Philipp Bernsteiner, Danny Rico und Romed Hopfgartner, die auf
-kunstvolle Art und Weise diese filigrane Geschichte mit Kraft und Emotion transportieren.
+Gekonnt füllte Mathias Krispin Bucher eine illustre Menge an Kärntner Worten in die Form von 13 
+Liedern, die fulminant und aberwitzig durch diese, seine Vergangenheit führen. 
+Durch die poetische Erzählform zwischen den Liedern, lässt er auch die Leute die dem kärntnerisch 
+nicht mächtig sind, daran teilhaben und erzählt und singt auf lyrische und poetische Art und Weise, 
+das Filigrane, das Wüste, das Harte, das Weiche, das Erlebte. 
+Unterstützt wird er von dem einmaligen Pianisten, Kabarettisten und Schauspieler Rafael Wagner, 
+der all die impulsiven Liedern mit seiner fulminanten Vielschichtigkeit zum Leben erweckt. 
+Somit treten beim Zuhören Gefühle, Gedanken, Erinnerungen nach vorne und lassen Niemanden 
+unberührt zurück.
 
 **Musik**
-Verschiedene Musikstile wie der erzählende Folk, der tanzende Groove, der kraftvolle Soul, der
-vielseitige Jazz sowie die berührende Ballade, fließen in diesem Stück kunstvoll zusammen, lassen
-keine Füße stehen und keine Herzen leer zurück.
-Gespielt wird es ausschließlich live von einer Band aus studierten Musikern die verstehen worum es
-geht und wie man jede Emotion am besten transportieren kann.
+Die Musik für dieses Stück wurde von Mathias Krispin Bucher komponiert und mit 
+Zwischenspielen von Rafael Wagner angereichert. 
+Die Grundlage beruht auf Chansons, Liedermacher, Soul, Jazz, Groove und Hip Hop und wird mit 
+klassischer minimal music angereichert. 
 
 **Besetzung:**
 
->Mathias Krispin Bucher: Protagonist, Gesang, Kontrabass, Harmonium
+>Mathias Krispin Bucher: Gesang, Erzähler
 >
->Philipp Bernsteiner: Klavier, Orgel, Synthesizer
->
->Danny Rico: Schlagzeug, Synthesizer
+>Raphael Wagner: Klavier, Keys, Gesang
 
 Foto: © Robert Maria Rainer
 
