@@ -1,7 +1,7 @@
 +++
 title = "Salsa Night"
 authors = ["sem-jeito"]
-date = 2023-04-15T19:00:00
+date = 2023-04-15T21:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Noche Latina und Dj Ramon MX"
