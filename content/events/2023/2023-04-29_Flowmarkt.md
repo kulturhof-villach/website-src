@@ -40,7 +40,7 @@ Der Eintritt ist kostenlos.
 Schriftliche Anmeldung an flowmarkt@kulturhofvillach.at bis 22.04.2023.
 Kurze Beschreibung wer ihr seid, was ihr verkaufen wollt, und wie viele Meter Standbreite ihr benötigt.
 Standgebühr 10€, zahlbar bei Bestätigung.
-Wir werden erst einmal alle Anmeldungen sammeln, und euch dann spätestens zum 23.03.2023 Bescheid geben, ob es klappt. Sollten wir mehr Anmeldungen erhalten, als Platz im Hof ist, behalten wir uns vor, eine Auswahl auf Grund eures Sortiments zu treffen.
+Wir werden erst einmal alle Anmeldungen sammeln, und euch dann spätestens zum 23.04.2023 Bescheid geben, ob es klappt. Sollten wir mehr Anmeldungen erhalten, als Platz im Hof ist, behalten wir uns vor, eine Auswahl auf Grund eures Sortiments zu treffen.
 Tische und Kleiderstangen müssen selbst mitgebracht werden, aber ihr könnt natürlich eure Sachen auch auf einer Decke o.Ä. präsentieren. Stühle könnt ihr bei uns leihen. 
 
 
