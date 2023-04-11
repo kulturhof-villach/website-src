@@ -16,9 +16,9 @@ draft = false
 
 > EINTRITT: 
 > 
-> Vorverkauf / verbindliche Reservierung: € 18.-\* / € 16.-\*\* / € 8.-\*\*\* [ntry.at/golnarshahyar](https://ntry.at/golnarshahyar) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
+> Vorverkauf: € 18.-\* / € 16.-\*\* / € 8.-\*\*\* [ntry.at/golnarshahyar](https://ntry.at/golnarshahyar) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
 >
-> Abendkasse: € 21.-\* / € 16.-\*\* / € 8.-\*\*\*
+> Abendkasse / Reservierung: € 21.-\* / € 16.-\*\* / € 8.-\*\*\*
 > 
 > \*\*Ermäßigungen für Studierende und Penstionist\*innen
 > 
