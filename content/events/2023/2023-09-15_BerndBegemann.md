@@ -16,9 +16,9 @@ draft = false
 
 > EINTRITT: 
 > 
-> Vorverkauf / verbindliche Reservierung: € 18.-\* / € 16.-\*\* / € 8.-\*\*\* [ntry.at/berndbegemann_kulturhofvillach](https://ntry.at/berndbegemann_kulturhofvillach) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
+> Vorverkauf: € 18.-\* / € 16.-\*\* / € 8.-\*\*\* [ntry.at/berndbegemann_kulturhofvillach](https://ntry.at/berndbegemann_kulturhofvillach) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
 >
-> Abendkasse: € 21.-\* / € 16.-\*\* / € 8.-\*\*\*
+> Abendkasse / Reservierung: € 21.-\* / € 16.-\*\* / € 8.-\*\*\*
 > 
 > \*\*Ermäßigungen für Studierende und Penstionist\*innen
 > 
@@ -30,10 +30,10 @@ draft = false
 
 ### Bernd Begemann
 
-Bernd Begemann, Mit-Erfinder der Hamburger Schule, stilbewusstester Musik-Connaisseur der Hansestadt, unterschätzter Gitarrist und unerreichter Bühnen-Entertainer, ist zurückgekehrt. Um das einzufordern, was ihm rechtmäßig zusteht…
-… „Eine kurze Liste mit Forderungen“ zelebriert Pop als Ereignis: Große Songs, mit einem großen Ensemble im großen Saal des geschichtsträchtigen Bremer Studio Nord direkt auf klassisches Tonband.
-Ohne Metronom, weil es nur im Weg gestanden hätte.
-Ohne Autotune, weil es nicht nötig war.
+Bernd Begemann, Mit-Erfinder der Hamburger Schule, stilbewusstester Musik-Connaisseur der Hansestadt, unterschätzter Gitarrist und unerreichter Bühnen-Entertainer, ist zurückgekehrt. Um das einzufordern, was ihm rechtmäßig zusteht…
+… „Eine kurze Liste mit Forderungen“ zelebriert Pop als Ereignis: Große Songs, mit einem großen Ensemble im großen Saal des geschichtsträchtigen Bremer Studio Nord direkt auf klassisches Tonband.
+Ohne Metronom, weil es nur im Weg gestanden hätte.
+Ohne Autotune, weil es nicht nötig war.
 Das große Lob was Bernd für sein neues Album erhält lässt sich eins-zu-eins auf seine Konzerte übertragen. Zwei bis drei Stunden spielt er immer. Singt. Erzählt. Begeistert.
 Das Booking läuft immer und ganzjährig.  Bernd spielt im Theater, im Club, Open Air in der Bar nebenan oder auch gern auf Deiner Hochzeit.
 
