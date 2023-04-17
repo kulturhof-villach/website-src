@@ -16,9 +16,9 @@ draft = false
 
 > EINTRITT: 
 > 
-> Vorverkauf / verbindliche Reservierung: € 18.-\* / € 11.-\*\* / € 8.-\*\*\* [ntry.at/davidstockenreitner](https://ntry.at/davidstockenreitner) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
+> Vorverkauf € 18.-\* / € 11.-\*\* / € 8.-\*\*\* [ntry.at/davidstockenreitner](https://ntry.at/davidstockenreitner) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
 >
-> Abendkasse: € 20.-\* / € 11.-\*\* / € 8.-\*\*\*
+> Abendkasse / Reservierung: € 20.-\* / € 11.-\*\* / € 8.-\*\*\*
 > 
 > \*\*Ermäßigungen für Studierende und Penstionist\*innen
 > 
