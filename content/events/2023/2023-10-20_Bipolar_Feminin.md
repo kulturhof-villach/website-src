@@ -1,5 +1,5 @@
 +++
-title = "Bipolar Feminin"
+title = "Bipolar Feminin / Support CADÛ"
 authors = ["kulturhof"]
 date = 2023-06-03T20:00:00
 publishdate = 2021-05-01
@@ -46,9 +46,19 @@ Mit „Herr Arne“ gönnen sie sich sogar einen ironiefreien Tribut an den Trom
 
 „In der eigenen Jugend“, bekennt die Band, „waren die frühen Tocotronic-Alben von großer Bedeutung für uns.“ Eines davon, Digital ist besser, sprach von der Sehnsucht, „Teil einer Jugendbewegung“ zu sein. Bipolar Feminin sind folgerichtig Zentrum ihrer selbst aufgebauten Bewegung geworden. Diese zehn Songs sind der Soundtrack dazu, von der Entfremdung („In deinem Wertesystem hab ich keinen Platz“) bis zum Alternativentwurf („Leben für lau“). Ein Album auf deiner Seite.
 
+![Cadu](/img/events/2023-10-20_Cadu.png)
+Foto © CADÛ
 
+**Support**
 
-**Support Infos folgen asap**
+##CADÛ## 
+
+CADÛ ist eine Heavy-Trip-Rock-Formation aus Wien, wo der Kult der Magie zelebriert und mit ekstatischen Tänzen belebt wird. Dynamische Rhythmen, harte Riffs und sinnliche Schreie, kombiniert mit improvisierten Jams, bei dem die volle Wucht der synthetischen Energie wie eine Welle undefinierbarer Emotionen in sich zusammenfließen und zusammenbrechen lassen. Normen aufbrechen, das ist die Magie von CADÛ! Zwischen tiefen progressiven Klängen bis hin zu sphärischen psychedelischen Welten setzen CADÛ verschiedene Instrumente und Gesangstechniken ein, um eine Vielzahl von Soundlandschaften zu schaffen, bei dem die klassische Rockformation aus E-Gitarre, E-Bass, Schlagzeug und Gesang um diverse Rhythmus-, Blas-, Tasten- und elektronische Instrumente erweitert wird. Seit Oktober 2016 schaffen Clemens Hackmack und Scharmien Zandi mit Musik und Performance-Kunst ein Universum, bei dem sie die Grenzen herkömmlicher Kompositions- und Aufführungstechniken überschreiten und mit Elementen des Rock experimentieren.
+
+Mit neuen Songs im Gepäck haben sie mit Florian Lukas (Bass) und Martin Pöchmüller (Schlagzeug) ihr vielseitiges Live-Programm erweitert, das einen kompromisslosen künstlerischen Ausdruck mit Tanz- und Headbang-Faktor verspricht.
+
+https://caduofficial.com/
+
 
 
 - Info Hotline: 0699 15088177 
