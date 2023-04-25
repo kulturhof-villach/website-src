@@ -34,13 +34,12 @@ Doch im Verlauf ihrer gemeinsamen Arbeit ändert sich die Beziehung der beiden z
 
 >**Termine:**
 >
-> 25\. Mai 2023
+> 25\. Mai 2023, 20:15 Uhr
 >
-> 26\. Mai 2023
+> 26\. Mai 2023, 20:00 Uhr
 >
-> 1\. Juni 2023
->
-> Beginn jeweils 20 Uhr
+> 1\. Juni 2023, 20:00 Uhr
+
 
 **Reservierungen: karten.artis@gmx.at oder 0650 808 41 35**
 
