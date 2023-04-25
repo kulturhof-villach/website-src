@@ -1,9 +1,9 @@
 +++
 title = "INDIEN"
 authors = ["theater-artis"]
-date = 2023-05-25T20:00:00
+date = 2023-05-25T20:15:00
 publishdate = 2021-05-01
-time = "20:00"
+time = "20:15"
 description = "von Josef Hader & Alfred Dorfer"
 featured = "img/events/2023-05-25_StefanOfner_Indien.jpg"
 featuredVideo = ""
@@ -34,13 +34,11 @@ Doch im Verlauf ihrer gemeinsamen Arbeit ändert sich die Beziehung der beiden z
 
 >**Termine:**
 >
-> 25\. Mai 2023
+> 25\. Mai 2023, Beginn 20:15 Uhr
 >
-> 26\. Mai 2023
+> 26\. Mai 2023, Beginn 20:00 Uhr
 >
-> 1\. Juni 2023
->
-> Beginn jeweils 20 Uhr
+> 1\. Juni 2023, Beginn 20:00 Uhr
 
 **Reservierungen: karten.artis@gmx.at oder 0650 808 41 35**
 
