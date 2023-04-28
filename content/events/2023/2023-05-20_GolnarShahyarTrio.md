@@ -20,9 +20,9 @@ draft = false
 >
 > Abendkasse / Reservierung: € 21.-\* / € 16.-\*\* / € 8.-\*\*\*
 > 
-> \*\*Ermäßigungen für Studierende und Penstionist\*innen
+> \*\*Ermäßigungen für Studierende und Mindestpenstionist\*innen
 > 
-> \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Schüler\*innen
+> \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Jugendliche bis 19 Jahre
 > 
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
