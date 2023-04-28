@@ -17,12 +17,12 @@ draft = false
 > EINTRITT: 
 > 
 > Vorverkauf € 27.-\* / € 18.-\*\*  [ntry.at/buntspecht_kuho](https://ntry.at/buntspecht_kuho) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
->
-> Abendkasse / Reservierungen : € 34.-\* / € 23.-\*\* 
 > 
-> \*\*Ermäßigungen für Studierende und Penstionist\*innen
+> Abendkasse / Reservierung: € 34.-\* / € 23.-\*\* 
 > 
-> **NEU NEU NEU** - GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard
+> \*\*Ermäßigungen für Studierende und Mindestpensionist\*innen
+> 
+> **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
 
 
