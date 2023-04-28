@@ -20,7 +20,7 @@ draft = false
 >
 > Abendkasse / Reservierung: € 21.-\* / € 16.-\*\* / € 8.-\*\*\*
 > 
-> \*\*Ermäßigungen für Studierende und Mindestpenstionist\*innen
+> \*\*Ermäßigungen für Studierende und Mindestpensionist\*innen
 > 
 > \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Jugendliche bis 19 Jahre
 > 
