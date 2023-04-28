@@ -23,11 +23,11 @@ draft = false
 >
 >Ticketreservierung über office@kulturhofvillach.at oder +43 699 15088177 (bitte um Angabe von Name und Telefonnummer) 
 > 
-> \*\* Ermäßigung für Studierende und Pensionist\*innen
->
-> \*\*\* Ermäßigung für Personen in wirtschaftlich prekärer Situation / Schüler\*innen
->
->GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard
+> \*\*Ermäßigungen für Studierende und Mindestpenstionist\*innen
+> 
+> \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Jugendliche bis 19 Jahre
+> 
+> **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
 
 ## FRANZ FUEXE
