@@ -18,11 +18,11 @@ draft = false
 > 
 > Vorverkauf € 18.-\* / € 16.-\*\* / € 8.-\*\*\* [ntry.at/mathiaskrispinbucher](https://ntry.at/mathiaskrispinbucher) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
 >
-> Abendkasse / Reservierung : € 21.-\* / € 16.-\*\* / € 8.-\*\*\*
+> Abendkasse / Reservierung: € 21.-\* / € 16.-\*\* / € 8.-\*\*\*
 > 
-> \*\*Ermäßigungen für Studierende und Penstionist\*innen
+> \*\*Ermäßigungen für Studierende und Mindestpenstionist\*innen
 > 
-> \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Schüler\*innen
+> \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Jugendliche bis 19 Jahre
 > 
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
