@@ -1,6 +1,6 @@
 +++
 title = "Kulturpolitischer Jour fixe"
-authors = [""]
+authors = ["kulturhof"]
 date = 2023-11-23T17:00:00
 publishdate = 2021-05-01
 time = "17:00"
