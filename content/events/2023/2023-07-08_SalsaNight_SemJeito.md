@@ -21,9 +21,11 @@ Endlich ist es wieder so weit. Unsere Salsa Night geht in die nächste Runde. Wi
 
 >**Start: 21 Uhr
 >
->Eintritt 10 Euro
+>Eintritt 10 Euro, Vorverkauf 8 Euro im Sem Jeito
 >
->Vorverkauf 8 Euro im Sem Jeito**
+>Lederergasse 15, 9500 Villach
+>
+>Infos: 0677 / 64405403 semjeito.tapasbar@gmail.com**
 
-Das Sem Je!to Team freut sich auf euer Kommen!
-Grafik © Sem Je!to
+Das Sem Jeito Team freut sich auf euer Kommen!
+Grafik © Sem Jeito
