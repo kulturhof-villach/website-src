@@ -28,4 +28,5 @@ Endlich ist es wieder so weit. Unsere Salsa Night geht in die nächste Runde. Wi
 >Infos: 0677 / 64405403 semjeito.tapasbar@gmail.com
 
 Das Sem Jeito Team freut sich auf euer Kommen!
+
 Grafik © Sem Jeito
