@@ -55,6 +55,6 @@ Manuel Brunner ist ein echtes Multitalent. Mit einem unglaublichen Repertoire be
 
 Infos: 0677/64405403, semjeito.tapasbar@gmail.com
 
-Das Sem Jeito Team freut sich auf euer Kommen!
+Das Sem Jeito Team freut sich auf euer Kommen.
 
 Foto © Manuel Brunner
