@@ -19,7 +19,7 @@ draft = false
 
 Endlich ist es wieder so weit. Unsere Salsa Night geht in die nächste Runde. Wie auch letztes mal werden wir mit der Live Musik von Noche Latina starten. Mit viel Leidenschaft werden uns Carlos Arriagada, Klaus Lippitsch und Franz Steiner 3h zum Tanzen bringen. Im Anschluss wird DJ Ramon MX Latin Beats vom Feinsten spielen und die Nacht zum Tag machen. Lasst euch begeistern und mitreißen. Paartanz ist übrigens nicht notwendig. Jeder kann tanzen wie er mag. Alleine, zu zweit oder in der Gruppe.
 
->**Start: 21 Uhr
+>Start: 21 Uhr
 >
 >Eintritt: 10 Euro, Vorverkauf im Sem Jeito: 8 Euro
 >
