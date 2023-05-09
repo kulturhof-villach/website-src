@@ -55,6 +55,6 @@ Mit ihrer Musik möchte sie Verbundenheit und Liebe in die Welt bringen. Jeder M
 
 Infos: 0677/64405403, semjeito.tapasbar@gmail.com
 
-Das Sem Jeito Team freut sich auf euer Kommen!
+Das Sem Jeito Team freut sich auf euer Kommen.
 
 Foto © Stefan Nützel
