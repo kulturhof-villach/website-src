@@ -15,7 +15,7 @@ draft = false
 +++
 
 
-#### Salsa Night im Sem Jeito
+#### Salsa Night im Kulturhof:villach
 
 Endlich ist es wieder so weit. Unsere Salsa Night geht in die nächste Runde. Wie auch letztes mal werden wir mit der Live Musik von Noche Latina starten. Mit viel Leidenschaft werden uns Carlos Arriagada, Klaus Lippitsch und Franz Steiner 3h zum Tanzen bringen. Im Anschluss wird DJ Ramon MX Latin Beats vom Feinsten spielen und die Nacht zum Tag machen. Lasst euch begeistern und mitreißen. Paartanz ist übrigens nicht notwendig. Jeder kann tanzen wie er mag. Alleine, zu zweit oder in der Gruppe.
 
