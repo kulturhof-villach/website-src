@@ -21,7 +21,7 @@ Endlich ist es wieder so weit. Unsere Salsa Night geht in die nächste Runde. Wi
 
 >**Start: 21 Uhr
 >
->Eintritt: 10 Euro, Vorverkauf 8 Euro im Sem Jeito
+>Eintritt: 10 Euro, Vorverkauf im Sem Jeito: 8 Euro
 >
 >Location: Kulturhof:keller, Lederergasse 15, 9500 Villach
 >
