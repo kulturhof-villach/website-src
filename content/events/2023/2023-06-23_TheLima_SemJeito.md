@@ -24,7 +24,7 @@ Von Juni bis September veranstaltet das Sem Jeito jeden Freitag ein Sommerkonzer
 
 Am 23. Juni, ab 19 Uhr spielen The Lima im Kulturhof.
 
-The Lima" – Das sind Martin, Ibro und Leon.  Mit Gitarre, Schlagzeug und Bass erzeugen die 3 ihren ganz eigenen Stil. Mit Reggae, RnB, Afro Rhythm und schottischer Leidenschaft entsteht einzigartige Musik. 
+The Lima – Das sind Martin, Ibro und Leon.  Mit Gitarre, Schlagzeug und Bass erzeugen die 3 ihren ganz eigenen Stil. Mit Reggae, RnB, Afro Rhythm und schottischer Leidenschaft entsteht einzigartige Musik. 
 „Der Fokus liegt im Rhythmus. Der Groove ist tight. Aber wir lassen uns trotzdem Freiheit. Unsere Musik ist sehr durchmischt und man muss uns einfach erleben."
 
 >Weitere Sommerkonzerte:
