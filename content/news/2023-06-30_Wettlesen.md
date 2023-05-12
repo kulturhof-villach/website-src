@@ -11,7 +11,7 @@ draft = false
 +++
 
 ## Bachmanntage im Kulturhof:villach
-### Einladung zum Schüler*\innen-Wettlesen
+### Einladung zum Schüler\*innen-Wettlesen
 
 Die Tage der deutschsprachigen Literatur - kurz Bachmanntage - werden auch heuer wieder im Innenhof des Kulturhof:villach live übertragen.
 Literaturfans und vor allem Schüler\*innen sind herzlich eingeladen am **29. und 30. Juni, sowie am 1. Juli** ab 10 Uhr den Lesungen zu lauschen.
