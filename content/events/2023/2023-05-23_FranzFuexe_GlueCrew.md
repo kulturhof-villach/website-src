@@ -1,5 +1,5 @@
 +++
-title = "Franz Fuexe"
+title = "ABSAGE KONZERT Franz Fuexe"
 authors = ["kulturhof"]
 date = 2023-05-13T20:00:00
 publishdate = 2021-05-01
@@ -29,6 +29,7 @@ draft = false
 > 
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
+**Das Konzert von Franz Fuexe und Glue Crew muss leider wegen Erkrankung eines Musikers abgesagt werden. Wir bemühen uns im Moment um einen Ersatztermin. Das Geld von gekauften Tickets wird zurückerstattet bzw. können die Tickets für den Ersatztermin verwendet werden.**
 
 ## FRANZ FUEXE
 Das österreichische Punk Quartet Franz Fuexe feiert 10 Jahre und präsentiert sein neues Album!
