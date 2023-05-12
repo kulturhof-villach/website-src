@@ -1,5 +1,5 @@
 +++ 
-title = "Schüler*\innen-Wettlesen" 
+title = "Schüler*innen-Wettlesen" 
 authors = ["kulturhof"]
 date = 2023-06-30T18:00:00 
 publishdate = 2021-09-23 
