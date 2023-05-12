@@ -1,10 +1,10 @@
 +++
-title = "ABSAGE KONZERT Franz Fuexe"
+title = "ABSAGE"
 authors = ["kulturhof"]
 date = 2023-05-13T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "Support: Glue Crew"
+description = "Franz Fuexe / Glue Crew"
 featured = "img/events/2023-05-13_FranzFuexe_c_JakobWallner.jpg"
 featuredVideo = ""
 featuredVimeo = ""
