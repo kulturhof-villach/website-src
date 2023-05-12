@@ -29,7 +29,7 @@ draft = false
 > 
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
-**Das Konzert von Franz Fuexe und Glue Crew muss leider wegen Erkrankung eines Musikers abgesagt werden. Wir bemühen uns im Moment um einen Ersatztermin. Das Geld von gekauften Tickets wird zurückerstattet bzw. können die Tickets für den Ersatztermin verwendet werden.**
+**Das Konzert von Franz Fuexe und Glue Crew muss leider wegen Erkrankung eines Musikers abgesagt werden. Der Ersatztermin ist der 2. Dezember. Das Geld von gekauften Tickets wird zurückerstattet bzw. können die Tickets für den Ersatztermin verwendet werden.**
 
 ## FRANZ FUEXE
 Das österreichische Punk Quartet Franz Fuexe feiert 10 Jahre und präsentiert sein neues Album!
