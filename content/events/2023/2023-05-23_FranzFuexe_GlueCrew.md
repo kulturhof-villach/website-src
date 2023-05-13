@@ -1,5 +1,5 @@
 +++
-title = "ABSAGE"
+title = "VERSCHOBEN"
 authors = ["kulturhof"]
 date = 2023-05-13T20:00:00
 publishdate = 2021-05-01
@@ -17,19 +17,19 @@ draft = false
 >
 > EINTRITT: Vorverkauf € 18.-\* / € 16.- *\*\ € 8.-\*\*\*
 > 
-> EINTRITT: Abendkassa € 21.-\* / € 16.- *\*\ € 8.-\*\*\*
+> EINTRITT: Abendkassa € 21.- / € 16.- *\*\ € 8.-\*\*\*
 >
-> \*Im Vorverkauf auf [ntry.at/franzfuexe_kulturhof](https://ntry.at/franzfuexe_kulturhof) sowie im Kulturhof:büro (Tel.: +43 699 15088177)
+> \*Im Vorverkauf auf [ntry.at/franzfuexe_kulturhof](https://ntry.at/franzfuexe_kulturhof)
 >
->Ticketreservierung über office@kulturhofvillach.at oder +43 699 15088177 (bitte um Angabe von Name und Telefonnummer) 
+>Ticketreservierung zum Abendkassapreis über office@kulturhofvillach.at oder +43699/15088177 (bitte um Angabe von Name und Telefonnummer) 
 > 
 > \*\*Ermäßigungen für Studierende und Mindestpensionist\*innen
 > 
-> \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Jugendliche bis 19 Jahre
+> \*\*\*Ermäßigungen für Jugendliche bis 19 Jahre und wirtschaftlich schwache Personen 
 > 
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
-**Das Konzert von Franz Fuexe und Glue Crew muss leider wegen Erkrankung eines Musikers abgesagt werden. Der Ersatztermin ist der 2. Dezember. Das Geld von gekauften Tickets wird zurückerstattet bzw. können die Tickets für den Ersatztermin verwendet werden.**
+**Das Konzert von Franz Fuexe und Glue Crew muss leider wegen Erkrankung eines Musikers verschoben werden. Der neue Termin ist der 2. Dezember. Das Geld von gekauften Tickets wird zurückerstattet bzw. können die Tickets für den Ersatztermin verwendet werden.**
 
 ## FRANZ FUEXE
 Das österreichische Punk Quartet Franz Fuexe feiert 10 Jahre und präsentiert sein neues Album!
