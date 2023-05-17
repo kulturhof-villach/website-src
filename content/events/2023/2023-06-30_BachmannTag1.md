@@ -34,6 +34,7 @@ draft = false
 Die musikalische Eröffnung der diesjährigen Bachmanntage im Kulturhof:villach übernehmen das umtriebige Villacher Duo **doppelt sichtbar**, gefolgt von der großartigen **Gina Disobey**.
 
 Davor gibt's mit dem **Schüler\*innen-Wettlesen** die Chance für junge Menschen ihre Texte vor Publikum zu präsentieren. Es winken zahlreiche Preise und Feedback zu den Texten von der Schriftstellerin Sarah Schönfelder.
+
 [Infos zum Wettlesen](https://kulturhofvillach.at/news/2023-06-30_wettlesen/)
 
 Im Anschluss an das Wettlesen eröffnen doppelt sichtbar ihr **open mic** und laden alle Schüler\*innen sowie das gesamte Publikum ein, die Bühne zu probieren, bevor sie ihr eigenes Programm zum Besten geben.
