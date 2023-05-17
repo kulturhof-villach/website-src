@@ -15,6 +15,7 @@ draft = false
 +++
 
 >Programm am Freitag, 30. Juni:
+>
 >•	18:00 Uhr - Schüler\*innen Wettlesen
 >
 >•	19:30 Uhr - open mic (hosted by doppelt sichtbar)
