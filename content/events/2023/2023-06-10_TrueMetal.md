@@ -15,18 +15,16 @@ draft = false
 +++
 
 >
-> EINTRITT: Vorverkauf € 18.-\* / € 16.- \*\* € 8.-\*\*\*
+> EINTRITT: Vorverkauf € 13.-\* / € 8.-\*\*\
 > 
-> EINTRITT: Abendkassa € 21.-\* / € 16.- \*\* € 8.-\*\*\*
+> EINTRITT: Abendkassa € 15.-\* / € 8.-\*\*\
 >
 > \*Im Vorverkauf auf [ntry.at/truemetal](https://ntry.at/truemetal)
 sowie im Kulturhof:büro (Tel.: +43 699 15088177)
 >
 >Ticketreservierung über office@kulturhofvillach.at oder +43 699 15088177 (bitte um Angabe von Name und Telefonnummer) 
-> 
-> \*\* Ermäßigung für Studierende und Mindestpensionist\*innen
 >
-> \*\*\* Ermäßigung für Personen in wirtschaftlich prekärer Situation / Schüler\*innen / gegen Vorlage der Jugendcard
+> \*\* Ermäßigung für Personen in wirtschaftlich prekärer Situation / Schüler\*innen / gegen Vorlage der Jugendcard
 
 
 ## TRUE METAL IM KULTURHOF:VILLACH mit Varulv | Schänder | AGAN | Cryptal Echoes
