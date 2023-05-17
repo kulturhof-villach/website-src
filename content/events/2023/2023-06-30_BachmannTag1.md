@@ -24,7 +24,7 @@ draft = false
 >
 >•	21:00 Uhr - Gina Disobey
 >
->•	22:00 Uhr: Kulturhof: DJ Team
+>•	22:00 Uhr - Kulturhof: DJ Team
 >
 >**Eintritt frei**
 >
