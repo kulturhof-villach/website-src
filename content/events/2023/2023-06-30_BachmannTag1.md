@@ -31,7 +31,7 @@ draft = false
 >Infos zu den Lesungen und dem gesamten Bachmann-Programm im Kulturhof:villach
 
 
-Die musikalische Eröffnung der diesjährigen Bachmanntage im kulturhof:villach übernehmen das umtriebige Villacher Duo **doppelt sichtbar**, gefolgt von der großartigen **Gina Disobey**.
+Die musikalische Eröffnung der diesjährigen Bachmanntage im Kulturhof:villach übernehmen das umtriebige Villacher Duo **doppelt sichtbar**, gefolgt von der großartigen **Gina Disobey**.
 
 Davor gibt's mit dem **Schüler\*innen-Wettlesen** die Chance für junge Menschen ihre Texte vor Publikum zu präsentieren. Es winken zahlreiche Preise und Feedback zu den Texten von der Schriftstellerin Sarah Schönfelder.
 [Infos zum Wettlesen](https://kulturhofvillach.at/news/2023-06-30_wettlesen/)
