@@ -55,7 +55,13 @@ Text von Robert Rotifer
 © Gina Disobey
 
 
->Infos unter kulturhofvillach.at / office@kulturhofvillach.at / +43 699 15088177
+>Infos unter
+>
+>[kulturhofvillach.at](https://www.kulturhofvillach.at/)
+>
+>office@kulturhofvillach.at
+>
+>+43 699 15088177
 
-Covid Informationen
+##### Covid Informationen
 [Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
