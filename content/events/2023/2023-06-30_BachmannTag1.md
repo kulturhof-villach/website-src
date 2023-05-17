@@ -43,12 +43,15 @@ Im Anschluss an das Wettlesen eröffnen doppelt sichtbar ihr **open mic** und la
 
 doppelt sichtbar sind die Villacher Zwillingsbrüder Mart und Kassabrot. Seit 2005 sind sie auf Bühnen und in Kellern unterwegs und bestechen vor allem durch ihre Improvisationskunst.
 Beim Rahmenprogramm zum Bachmannpreis im Kulturhof:villach werden sie genau diese literarische Karte ziehen. Das Publikum wird mit eingebunden. Wortspenden vom Publikum werden dann in den Freestyle übernommen und in guter Stegreif-Manier in Reime gepackt.
+
 © Patrick Isopp
 
 ## Gina Disobey ##
 Seit ihrem Sieg beim FM4-Protestsoncontest 2021 hat Gina Disobeys „Seeking Asylum is not a Crime" ein Eigenleben als inoffizielle Hymne der Solidarität mit Geflüchteten entwickelt. Gerade in einem Jahr, da das omnipräsente Thema Flucht und Asyl wieder einmal auf toxische Art den Diskurs dominiert, kommen institutionell wie individuell rassistische Unterscheidungen in der Behandlung von Menschen in Not besonders offensichtlich zum Vorschein.
 Der Song der Künstlerin und Aktivistin über die Lage der im sogenannten „Rückkehrzentrum" Bürglkopf in Tirol mit negativen Asylbescheiden verwahrten, dementsprechend verzweifelten Menschen war schon letztes Jahr bei ihrem Popfest-Auftritt im Karlsgarten zu hören, hat seither aber (leider) nichts an Relevanz verloren. Gina Disobey, die das Schreiben jenes Protestlieds ursprünglich bloß zweckgebunden als Vehikel zur Verbreitung ihrer Botschaft betrachtete, hat seither den Geschmack am Songwriting gefunden und ihr musikalisches Repertoire, wie man liest, „um einige neue Songs erweitert. Es geht nach wie vor um Politik und Liebe, gesungen wird auf Englisch, Deutsch und Italienisch."
+
 Text von Robert Rotifer
+
 © Gina Disobey
 
 
