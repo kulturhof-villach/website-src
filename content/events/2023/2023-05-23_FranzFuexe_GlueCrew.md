@@ -1,10 +1,10 @@
 +++
-title = "VERSCHOBEN"
+title = "Franz Fuexe"
 authors = ["kulturhof"]
-date = 2023-05-13T20:00:00
+date = 2023-12-02T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "Franz Fuexe / Glue Crew"
+description = "Support: Glue Crew"
 featured = "img/events/2023-05-13_FranzFuexe_c_JakobWallner.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -29,7 +29,7 @@ draft = false
 > 
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
-**Das Konzert von Franz Fuexe und Glue Crew muss leider wegen Erkrankung eines Musikers verschoben werden. Der neue Termin ist der 2. Dezember. Das Geld von gekauften Tickets wird zurückerstattet bzw. können die Tickets für den Ersatztermin verwendet werden.**
+**Das Konzert von Franz Fuexe und Glue Crew wurde vom 13. Mai auf den 2. Dezember 2023 verlegt. Die für den 13.5. gekauften Tickets behalten ihre Gültigkeit für den 2.12.**
 
 ## FRANZ FUEXE
 Das österreichische Punk Quartet Franz Fuexe feiert 10 Jahre und präsentiert sein neues Album!
