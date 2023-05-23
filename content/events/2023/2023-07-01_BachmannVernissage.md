@@ -80,9 +80,9 @@ Schüler\*innen der 4AHK der HLA für Kunst und Gestaltung am CHS Villach zeigen
 
 **Bilder im Uhrzeigersinn links beginnend**:
 
-Elena Wallner: Das Gehirn
-
 Elena Wallner: Facing The Fear
+
+Elena Wallner: Das Gehirn
 
 Leonie Tomaschitz: Eintauchen
 
