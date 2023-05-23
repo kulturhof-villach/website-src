@@ -62,6 +62,11 @@ auf dem Wiener Label Strizzico.
 
 © Petra Weixelbraun
 
+## a.c.m.e,- Radiolab & Philipp Otter  ##
+**a.c.m.e,-** arbeitet kollektiv. Das heißt alles wird als Kollektiv unter geteilter Verantwortung erarbeitet. Entscheidungen fallen als Kollektiv. Die Grenzen zwischen den Arbeitsbereichen verschwimmen, Hierarchien werden aufgebrochen. Gegründet wurde das a.c.m.e,-Kollektiv 2010 von Martin Dueller, Andreas Thaler, Simone Dueller, Paula Perschke und Peter Spall – die 3 erstgenannten sind bis heute im Verein aktiv. Dazu gesellen sich bei jeder Produktion weitere KünstlerInnen, die sich ankoppeln – und immer wieder auch abkoppeln.
+
+**Philipp Schinnerl-Otte** ist als gebürtigem Villacher nicht viel erspart geblieben. Zeit seines Lebens ist er im musikalischen Untergrund der Stadt unterwegs und gräbt seine Gräben unter seinem Kunstnamen “Der Otter”. Seine offene und charmante Art trifft regelmäßig auf seinen trockenen Sarkasmus und verwandelt seine Anwesenheit somit in Segen und Fluch zugleich.
+
 
 >Infos unter
 >
