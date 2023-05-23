@@ -26,6 +26,7 @@ Als Preise winken Freikarten für Veranstaltungen im Kulturhof und in der neuenb
 
 Im Anschluss an das Wettlesen sind alle Schüler\*innen eingeladen sich am open mic zu versuchen, hosted bei den Villacher Rappern doppelt sichtbar.
 
+
 #### Kriterien für die Teilnahme am Wettlesen:
 > - persönlich verfasster Text
 > - in Prosa
