@@ -34,6 +34,7 @@ Das Abendprogramm am Samstag startet mit einer umfassenden **Vernissage im Kultu
 Die Musik auf der Innenhof-Bühne eröffnen die gestrandeten Typen von **Kroko Flanell**. Danach wagen sich **Ein Gespenst** mit Elias Hirschl, dem Publikumspreis-Gewinner der Bachmanntage 2022, mit "Bei Tageslicht" ins Rampenlicht.
 
 Im Anschluss an die Konzerte gibt es noch eine Live-Sendung des legendären **a.c.m.e,- Radiolab** mit Special Guests.
+
 [Infos zum Musikprogramm](https://kulturhofvillach.at/news/2023-07-01_bachmanntag2/)
 
 ## Anna Kohlweis ##
