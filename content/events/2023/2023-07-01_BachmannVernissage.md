@@ -1,9 +1,9 @@
 +++
 title = "Anna Kohlweis | Eszter Drienyovszki | CHS Villach"
 authors = ["kulturhof"]
-date = 2023-07-01T20:00:00
+date = 2023-07-01T19:00:00
 publishdate = 2021-05-02
-time = "20:00"
+time = "19:00"
 description = "Bachmanntage im Kulturhof | Eintritt frei"
 featured = "img/events/2023-07-01_Vernissage.png"
 featuredVideo = ""
