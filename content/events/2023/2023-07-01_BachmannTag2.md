@@ -26,7 +26,7 @@ draft = false
 >
 >**Eintritt frei**
 >
->Infos zu den Lesungen und dem gesamten Bachmann-Programm im Kulturhof:villach
+>[Infos zu den Lesungen und dem gesamten Bachmann-Programm im Kulturhof:villach](https://kulturhofvillach.at/events/2023/2023-06-30_bachmann/)
 
 
 Das Abendprogramm am Samstag startet mit einer umfassenden **Vernissage im Kulturhof:villach**. Mit dabei sind Anna Kohlweis, Eszter Drienyovszki und die Schüler\*innen des CHS Villach.
