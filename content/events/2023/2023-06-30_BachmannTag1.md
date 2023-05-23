@@ -28,7 +28,7 @@ draft = false
 >
 >**Eintritt frei**
 >
->Infos zu den Lesungen und dem gesamten Bachmann-Programm im Kulturhof:villach
+>[Infos zu den Lesungen und dem gesamten Bachmann-Programm im Kulturhof:villach](https://kulturhofvillach.at/events/2023/2023-06-30_bachmann/)
 
 
 Die musikalische Eröffnung der diesjährigen Bachmanntage im Kulturhof:villach übernehmen das umtriebige Villacher Duo **doppelt sichtbar**, gefolgt von der großartigen **Gina Disobey**.
