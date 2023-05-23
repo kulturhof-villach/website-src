@@ -54,6 +54,8 @@ Text von Robert Rotifer
 
 © Gina Disobey
 
+## Kulturhof DJ TEam ##
+Ab 22 Uhr gibt’s Tanzbares aus der Konserve zusammengestellt vom legendären Kulturhof DJ Team.
 
 >Infos unter
 >
