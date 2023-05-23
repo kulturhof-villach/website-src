@@ -30,7 +30,7 @@ draft = false
 
 
 Das Abendprogramm am Samstag startet mit einer umfassenden **Vernissage im Kulturhof:villach**. Mit dabei sind Anna Kohlweis, Eszter Drienyovszki und die Schüler\*innen des CHS Villach.
-[Infos zur Vernissage](https://kulturhofvillach.at/news/2023-07-01_vernissage/)
+[Infos zur Vernissage](https://kulturhofvillach.at/news/2023-07-01_bachmannvernissage/)
 
 Die Musik auf der Innenhof-Bühne eröffnen die gestrandeten Typen von **Kroko Flanell**. Danach wagen sich **Ein Gespenst** mit Elias Hirschl, dem Publikumspreis-Gewinner der Bachmanntage 2022, mit "Bei Tageslicht" ins Rampenlicht.
 
