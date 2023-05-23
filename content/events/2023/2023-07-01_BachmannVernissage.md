@@ -78,7 +78,7 @@ Schüler\*innen der 4AHK der HLA für Kunst und Gestaltung am CHS Villach zeigen
 
 ![VernissageCHS](/img/events/2023-07-01_VernissageCHS.png)
 
-**Bilder im Uhrzeigersinn links beginnend**:
+**Bilder im Uhrzeigersinn, links beginnend**:
 
 Elena Wallner: Facing The Fear
 
