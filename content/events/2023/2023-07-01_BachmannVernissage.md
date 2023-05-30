@@ -35,7 +35,7 @@ Die Musik auf der Innenhof-Bühne eröffnen die gestrandeten Typen von **Kroko F
 
 Im Anschluss an die Konzerte gibt es noch eine Live-Sendung des legendären **a.c.m.e,- Radiolab** mit Special Guests.
 
-[Infos zum Musikprogramm](https://kulturhofvillach.at/news/2023-07-01_bachmanntag2/)
+[Infos zum Musikprogramm](https://kulturhofvillach.at/events/2023/2023-07-01_bachmanntag2/)
 
 ## Anna Kohlweis ##
 
