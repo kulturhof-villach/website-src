@@ -32,7 +32,7 @@ sowie im Kulturhof:büro (Tel.: +43 699 15088177)
 ### Varulv
 
 ![Varulv](/img/events/2023-06-10_Varulv.jpg)
-©Varluv
+©Varulv
 
 Die Herrschaften von Varulv treiben seit geraumer Zeit ihr Unwesen und ziehen den Pestkarren nach Jahren der Abstinenz wieder für eine extendet Headliner Show nach Kärnten!
 Mit im Gepäck sind Songs der letzten 3 Alben : Sagenlieder, Unterweltmysterien sowie Kerker, Todt und Teyfl - lassen wir die Hobagoaß tanzen!
