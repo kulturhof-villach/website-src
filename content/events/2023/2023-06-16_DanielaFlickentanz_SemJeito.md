@@ -48,9 +48,9 @@ Mit ihrer Musik möchte sie Verbundenheit und Liebe in die Welt bringen. Jeder M
 >
 > - 01. September: Die Guiteros
 >
-> - 08. September: The Lima
+> - 08. September: Christoph Soyer und Martin Judt
 >
-> - 15. September: Christoph Soyer und Martin Judt
+> - 15. September: Manuel Brunner
 
 
 Infos: 0677/64405403, semjeito.tapasbar@gmail.com
