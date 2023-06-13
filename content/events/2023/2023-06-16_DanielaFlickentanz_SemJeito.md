@@ -30,7 +30,7 @@ Mit ihrer Musik möchte sie Verbundenheit und Liebe in die Welt bringen. Jeder M
 
 >Weitere Sommerkonzerte:
 >
-> - 23. Juni: The Lima
+> - 23. Juni: ECht!
 >
 > - 07.Juli: Manuel Brunner
 > 
