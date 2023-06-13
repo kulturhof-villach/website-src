@@ -40,7 +40,7 @@ Mit ihrer Musik möchte sie Verbundenheit und Liebe in die Welt bringen. Jeder M
 >
 > - 28. Juli: Herodin
 >
-> - 11. August: The Lima
+> - 11. August: Martin Judt
 >
 > - 18. August: Manuel Brunner
 >
@@ -50,7 +50,7 @@ Mit ihrer Musik möchte sie Verbundenheit und Liebe in die Welt bringen. Jeder M
 >
 > - 08. September: The Lima
 >
-> - 15. September: Manuel Brunner
+> - 15. September: Christoph Soyer und Martin Judt
 
 
 Infos: 0677/64405403, semjeito.tapasbar@gmail.com
