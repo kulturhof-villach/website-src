@@ -20,7 +20,7 @@ draft = false
 
 **Freitag ist Kulturhof-Time**
 
-Von Juni bis September veranstaltet das Sem Jeito jeden Freitag ein Sommerkonzert unter freiem Himmel.
+Von Juni bis September veranstaltet das Sem Jeito jeden Freitag ein Sommerkonzert unter freiem Himmel!
 
 Am 28. Juli, ab 19 Uhr spielt Herodin im Kulturhof - dieses Mal veranstaltet in Kooperation mit dem Kulturhof:villach.
 
