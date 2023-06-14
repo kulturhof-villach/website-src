@@ -20,7 +20,7 @@ draft = false
 
 **Freitag ist Kulturhof-Time**
 
-Von Juni bis September veranstaltet das Sem Jeito jeden Freitag ein Sommerkonzert unter freiem Himmel.
+Von Juni bis September veranstaltet das Sem Jeito jeden Freitag ein Sommerkonzert unter freiem Himmel!
 
 Am 11. August, ab 19 Uhr spielt Martin Judt im Kulturhof.
 
