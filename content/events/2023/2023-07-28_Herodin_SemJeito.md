@@ -1,6 +1,6 @@
 +++
 title = "Sommerkonzerte im Kulturhof"
-authors = ["sem-jeito" "kulturhof"]
+authors = ["sem-jeito", "kulturhof"]
 date = 2023-07-28T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
