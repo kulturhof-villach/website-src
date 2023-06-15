@@ -30,7 +30,7 @@ Manuel Brunner ist ein echtes Multitalent. Mit einem unglaublichen Repertoire be
 >
 > - 16. Juni: Daniela Flickentanz
 >
-> - 23. Juni: The Lima
+> - 23. Juni: ECht!
 >
 > - 07.Juli: Manuel Brunner
 > 
@@ -40,7 +40,7 @@ Manuel Brunner ist ein echtes Multitalent. Mit einem unglaublichen Repertoire be
 >
 > - 28. Juli: Herodin
 >
-> - 11. August: The Lima
+> - 11. August: Martin Judt
 >
 > - 18. August: Manuel Brunner
 >
@@ -48,7 +48,7 @@ Manuel Brunner ist ein echtes Multitalent. Mit einem unglaublichen Repertoire be
 >
 > - 01. September: Die Guiteros
 >
-> - 08. September: The Lima
+> - 08. September: Christoph Soyer und Martin Judt
 >
 > - 15. September: Manuel Brunner
 

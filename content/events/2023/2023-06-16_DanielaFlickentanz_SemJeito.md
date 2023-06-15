@@ -30,7 +30,7 @@ Mit ihrer Musik möchte sie Verbundenheit und Liebe in die Welt bringen. Jeder M
 
 >Weitere Sommerkonzerte:
 >
-> - 23. Juni: The Lima
+> - 23. Juni: ECht!
 >
 > - 07.Juli: Manuel Brunner
 > 
@@ -40,7 +40,7 @@ Mit ihrer Musik möchte sie Verbundenheit und Liebe in die Welt bringen. Jeder M
 >
 > - 28. Juli: Herodin
 >
-> - 11. August: The Lima
+> - 11. August: Martin Judt
 >
 > - 18. August: Manuel Brunner
 >
@@ -48,7 +48,7 @@ Mit ihrer Musik möchte sie Verbundenheit und Liebe in die Welt bringen. Jeder M
 >
 > - 01. September: Die Guiteros
 >
-> - 08. September: The Lima
+> - 08. September: Christoph Soyer und Martin Judt
 >
 > - 15. September: Manuel Brunner
 

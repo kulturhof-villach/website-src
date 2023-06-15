@@ -1,7 +1,7 @@
 +++
 title = "Franz Fuexe"
 authors = ["kulturhof"]
-date = 2023-05-13T20:00:00
+date = 2023-12-02T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: Glue Crew"
@@ -17,18 +17,19 @@ draft = false
 >
 > EINTRITT: Vorverkauf € 18.-\* / € 16.- *\*\ € 8.-\*\*\*
 > 
-> EINTRITT: Abendkassa € 21.-\* / € 16.- *\*\ € 8.-\*\*\*
+> EINTRITT: Abendkassa € 21.- / € 16.- *\*\ € 8.-\*\*\*
 >
-> \*Im Vorverkauf auf [ntry.at/franzfuexe_kulturhof](https://ntry.at/franzfuexe_kulturhof) sowie im Kulturhof:büro (Tel.: +43 699 15088177)
+> \*Im Vorverkauf auf [ntry.at/franzfuexe_kulturhof](https://ntry.at/franzfuexe_kulturhof)
 >
->Ticketreservierung über office@kulturhofvillach.at oder +43 699 15088177 (bitte um Angabe von Name und Telefonnummer) 
+>Ticketreservierung zum Abendkassapreis über office@kulturhofvillach.at oder +43699/15088177 (bitte um Angabe von Name und Telefonnummer) 
 > 
 > \*\*Ermäßigungen für Studierende und Mindestpensionist\*innen
 > 
-> \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Jugendliche bis 19 Jahre
+> \*\*\*Ermäßigungen für Jugendliche bis 19 Jahre und wirtschaftlich schwache Personen 
 > 
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
+**Das Konzert von Franz Fuexe und Glue Crew wurde vom 13. Mai auf den 2. Dezember 2023 verlegt. Die für den 13.5. gekauften Tickets behalten ihre Gültigkeit für den 2.12.**
 
 ## FRANZ FUEXE
 Das österreichische Punk Quartet Franz Fuexe feiert 10 Jahre und präsentiert sein neues Album!
