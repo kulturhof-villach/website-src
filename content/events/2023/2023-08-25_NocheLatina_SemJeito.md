@@ -1,10 +1,10 @@
 +++
-title = "Salsa Night"
+title = "Sommerkonzerte im Kulturhof"
 authors = ["sem-jeito"]
-date = 2023-08-25T21:00:00
+date = 2023-08-25T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
-description = "Noche Latina unter freiem Himmel"
+description = "Noche Latina"
 featured = "img/events/2023-07-08_SalsaNight_SemJeito.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -14,18 +14,27 @@ tags = ["konzert"]
 draft = false
 +++
 
+#### Sommerkonzerte im Kulturhof
+## Noche Latina - Salsa Night im Hinterhof
 
-#### Noche Latina - Salsa Night im Hinterhof
+**Freitag ist Kulturhof-Time**
+
+Von Juni bis September veranstaltet das Sem Jeito jeden Freitag ein Sommerkonzert unter freiem Himmel.
+
+Am 25. August, ab 19 Uhr spielen Noche Latina im Kulturhof.
 
 Endlich ist es wieder so weit. Unsere Salsa Night geht in die nächste Runde. Wie auch letztes mal werden wir mit der Live Musik von Noche Latina starten. Mit viel Leidenschaft werden uns Carlos Arriagada, Klaus Lippitsch und Franz Steiner 3h zum Tanzen bringen. Lasst euch begeistern und mitreißen. Paartanz ist übrigens nicht notwendig. Jeder kann tanzen wie er mag. Alleine, zu zweit oder in der Gruppe.
 
->Start: 19 Uhr
+>Weitere Sommerkonzerte:
 >
->Eintritt: 10 Euro, Vorverkauf im Sem Jeito: 8 Euro
+> - 01. September: Die Guiteros
 >
->Location: Kulturhof:villach - Hinterhof, Lederergasse 15, 9500 Villach
+> - 08. September: Christoph Soyer und Martin Judt
 >
->Infos: 0677/64405403, semjeito.tapasbar@gmail.com
+> - 15. September: Manuel Brunner
+
+
+Infos: 0677/64405403, semjeito.tapasbar@gmail.com
 
 Das Sem Jeito Team freut sich auf euer Kommen!
 
