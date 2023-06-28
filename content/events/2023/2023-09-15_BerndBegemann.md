@@ -3,7 +3,7 @@ title = "Bernd Begemann"
 authors = ["kulturhof"]
 date = 2023-09-15T20:00:00
 publishdate = 2021-05-01
-time = "19:00"
+time = "20:00"
 description = "Vernissage Cosma Grosser"
 featured = "img/events/2023-09-15_BerndBegemann_c_BerndBegemann.jpg"
 featuredVideo = ""
@@ -16,13 +16,11 @@ draft = false
 
 > EINTRITT: 
 > 
-> Vorverkauf: € 18.-\* / € 16.-\*\* / € 8.-\*\*\* [ntry.at/berndbegemann_kulturhofvillach](https://ntry.at/berndbegemann_kulturhofvillach) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
+> Vorverkauf: € 18.-\* / € 16.-\*\* [ntry.at/berndbegemann_kulturhofvillach](https://ntry.at/berndbegemann_kulturhofvillach) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
 >
-> Abendkasse / Reservierung: € 21.-\* / € 16.-\*\* / € 8.-\*\*\*
+> Abendkasse / Reservierung: € 21.-\* / € 16.-\*\*
 > 
 > \*\*Ermäßigungen für Studierende und Mindestpensionist\*innen
-> 
-> \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Jugendliche bis 19 Jahre
 > 
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
