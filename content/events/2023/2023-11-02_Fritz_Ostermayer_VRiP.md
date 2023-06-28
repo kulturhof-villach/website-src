@@ -5,7 +5,7 @@ date = 2023-11-23T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Das Letzte – Abschiedstour 2023"
-featured = "img/events/2023-11-02_Fritz_Ostermayer_Vienna_Rest_in_Peace_c_Ursula_Röck.jpg"
+featured = "img/events/2023-11-03_Fritz_Ostermayer&VRiP_Ursula Röck.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -16,13 +16,13 @@ draft = false
 
 > EINTRITT: 
 > 
-> Vorverkauf: € 18.-\* / € 16.-\*\* / € 8.-\*\*\* **Vorverkauf startet demnächst** sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
+> Vorverkauf: € 18.-\* / € 16.-\*\* / € 8.-\*\*\* [kupfticket.com/events/fritz-ostermayer](https://kupfticket.com/events/fritz-ostermayer) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
 >
 > Abendkasse / Reservierung: € 21.-\* / € 16.-\*\* / € 8.-\*\*\*
 > 
 > \*\*Ermäßigungen für Studierende und Mindestpensionist\*innen
 > 
-> \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Jugendliche bis 19 Jahre
+> \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Jugendliche bis 19 Jahre / Ticketkontingent liegt an der Abendkasse auf
 > 
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
