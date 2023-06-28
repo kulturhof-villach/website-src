@@ -18,9 +18,11 @@ draft = false
 > 
 > Vorverkauf: € 18.-\* / € 16.-\*\* [ntry.at/berndbegemann_kulturhofvillach](https://ntry.at/berndbegemann_kulturhofvillach) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
 >
-> Abendkasse / Reservierung: € 21.-\* / € 16.-\*\*
+> Abendkasse / Reservierung: € 21.-\* / € 16.-\*\*/ € 8.-\*\*\*
 > 
 > \*\*Ermäßigungen für Studierende und Mindestpensionist\*innen
+> 
+> \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Jugendliche bis 19 Jahre / Ticketkontingent liegt an der Abendkasse auf
 > 
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
