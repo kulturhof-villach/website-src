@@ -1,7 +1,7 @@
 +++
 title = "Fritz Ostermayer & Vienna Rest in Peace"
 authors = ["kulturhof"]
-date = 2023-11-23T20:00:00
+date = 2023-11-02T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Das Letzte – Abschiedstour 2023"
