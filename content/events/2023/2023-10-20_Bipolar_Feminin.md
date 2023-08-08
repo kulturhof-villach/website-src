@@ -51,7 +51,7 @@ Foto © CADÛ
 
 **Support**
 
-##CADÛ## 
+## CADÛ
 
 CADÛ ist eine Heavy-Trip-Rock-Formation aus Wien, wo der Kult der Magie zelebriert und mit ekstatischen Tänzen belebt wird. Dynamische Rhythmen, harte Riffs und sinnliche Schreie, kombiniert mit improvisierten Jams, bei dem die volle Wucht der synthetischen Energie wie eine Welle undefinierbarer Emotionen in sich zusammenfließen und zusammenbrechen lassen. Normen aufbrechen, das ist die Magie von CADÛ! Zwischen tiefen progressiven Klängen bis hin zu sphärischen psychedelischen Welten setzen CADÛ verschiedene Instrumente und Gesangstechniken ein, um eine Vielzahl von Soundlandschaften zu schaffen, bei dem die klassische Rockformation aus E-Gitarre, E-Bass, Schlagzeug und Gesang um diverse Rhythmus-, Blas-, Tasten- und elektronische Instrumente erweitert wird. Seit Oktober 2016 schaffen Clemens Hackmack und Scharmien Zandi mit Musik und Performance-Kunst ein Universum, bei dem sie die Grenzen herkömmlicher Kompositions- und Aufführungstechniken überschreiten und mit Elementen des Rock experimentieren.
 
