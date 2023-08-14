@@ -1,9 +1,9 @@
 +++
 title = "Bernd Begemann"
 authors = ["kulturhof"]
-date = 2023-09-15T20:00:00
+date = 2023-09-15T19:00:00
 publishdate = 2021-05-01
-time = "20:00"
+time = "19:00"
 description = "Vernissage Cosma Grosser"
 featured = "img/events/2023-09-15_BerndBegemann_c_BerndBegemann.jpg"
 featuredVideo = ""
@@ -25,7 +25,10 @@ draft = false
 > \*\*\*Ermäßigungen für wirtschaftlich schwache Personen und Jugendliche bis 19 Jahre / Ticketkontingent liegt an der Abendkasse auf
 > 
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
-
+>
+> 20 Uhr Vernissage / Eintritt frei
+>
+> 21 Uhr Konzert Bernd Begemann
 
 
 ### Bernd Begemann
