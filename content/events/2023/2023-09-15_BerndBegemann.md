@@ -52,6 +52,19 @@ Foto © Markus Guschelbauer
 
 Cosma Grosser, 1993, is a filmmaker, architect and video artist. After completing her architecture degree, she began studying at the Academy of Fine Arts Vienna. She is part of the artist run filmlab filmkoop wien and Künstlerhaus and teaches at the Faculty of Architecture and Design at the Technical University of Vienna.
 
+projection on bricks
+8mm digitized
+sound
+2022
+
+Visiting a brick factory, looking for noise and
+movement as well as a story. All that was to
+be found was motionless and silent.
+
+Besuch einer Ziegelei, auf der Suche nach Lärm
+und Bewegung sowie nach einer Geschichte. Alles,
+was zu finden war, war regungslos und still.
+
 
 
 - Info Hotline: 0699 15088177 
