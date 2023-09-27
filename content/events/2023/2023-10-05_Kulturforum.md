@@ -11,7 +11,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["konzert"]
-draft = false
+draft = true
 +++
 
 **Donnerstag, 5. Oktober 2023, 20:00 Uhr, Kulturhof:keller, Lederergasse 15, Villach**
