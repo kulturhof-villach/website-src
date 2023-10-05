@@ -37,7 +37,19 @@ Buntspecht ist eine sechsköpfige Band aus Wien. Gegründet 2016 und seither in 
 
 Ab November 2023 geht die Band auf ausgiebige Clubtour durch den gesamten deutschsprachigen Raum.
 
-**Support Infos folgen asap**
+### Support Act
+## Endless Wellness
+
+![Endless Wellness](/img/events/2023-11-24_Endless_Wellness_c_Franziska_Barcsay.jpg)
+Fotos © Franziska Barcsay
+
+Da ist eine schrammelnde Westerngitarre zu hören, die übersteuert. Eine Orgel bietet Fläche, manchmal legt sich auch ein düsterer Synthesizer dazu. Es könnte »Fuzz-Folk« genannt oder schlicht dem allumfassenden Indie zugeordnet werden; sie könnten als die »Big Thief, nur auf deutsch«, die »frühen Tocotronic, aber später« oder als »Isolation Berlin aus Wien« bezeichnet werden – aber ganz so einfach ist das mit dem Vergleichen nicht. Die obskur-poetischen, deutschsprachigen Texte sind eine laute Konfrontation mit Depression und schlagen zuletzt immer die Brücke zur Gesellschaft, vom Mikro- zum Makrokosmos. Es sind alternative Liebeslieder, für eine Achtsamkeit, für eine Zuversicht, für: Endless Wellness.
+
+Wenn die Band auf der Bühne steht, will mensch am liebsten auch rauf und mitmachen, Spaß haben. Ihre Lieder sind ein Versuch, das Gefühl kollektiver Erschöpfung umzuleiten in ein gemeinsames, lautes Aufbegehren – gegen ein dysfunktionales System, das durchwachsen ist von gescheiterter Klimapolitik und einem erneut erstarkenden Faschismus. Es sind Lieder zum alleine Hören oder zum gemeinsam Tanzen, das Gewicht von den Schultern schüttelnd. Es ist eine ambivalente Spannung, die zwischen der drängenden Musik und den Texten über existenzielle Ängste schwebt. Damit schaffen es Endless Wellness, unsere Zeit und ihre Geister einzufangen und in melancholische, aber tröstende Wärme umzuwandeln. Das darf mit Humor passieren, mit Harmonien und auf jeden Fall mit Verzerrung.
+
+Vielleicht ist es Musik, die euch genauso überraschend überkommen wird, wie sie uns überkommen hat. Bis gleich! 
+
+
 
 
 - Info Hotline: 0699 15088177 
