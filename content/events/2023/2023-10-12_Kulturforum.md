@@ -18,15 +18,25 @@ draft = false
 
 ### Hirsute
 
->•	Anne Quillier: piano, composition
+Es handelt sich dabei um eine neue Band von der französischen Ausnahmepianisten Anne Quillier.
+
+HIRSUTE ist ein Mikrokosmos, eine innere musikalische Reise, die von den Abenteuern eines unruhigen Alltags zeugt und gleichzeitig die Füße in den Sternen hält. Eine Welt, die auf neuen musikalischen, akustischen und unveröffentlichten Wegen erkundet wird, um ihre Erschütterungen zu enthüllen.
+
+Jede Komposition ist eine kleine Geschichte, in die man sich flüchten kann, um das zu tun, was man will. Man muss sich keine Gedanken darüber machen, was das bedeutet, es ist nur ein kleiner Schrei nach Freiheit.
+
+Mit filmischen Melodien und einer wunderbaren Arbeit mit Klangfarben spielt Hirsute und verwirrt uns. Hier ist das Solo Teil einer Geschichte und nie nur ein Vorwand.
+
+Die Musik ist hell, wild, persönlich und süchtig machend.
+
+>•	Anne Quillier: Klavier
 >
->•	Damien Sabatier: baritone saxophone
+>•	Damien Sabatier: Baritonsaxophon
 >
->•	Pierre Horckmans: bass clarinet
+>•	Pierre Horckmans: Bb-Klarinette, Bass
 >
->•	Vincent Girard: double bass
+>•	Michel Molines: Kontrabass
 >
->•	Guillaume Bertrand: drums
+>•	Guillaume Bertrand: Schlagzeug
 
 
 #### Telefonische Kartenreservierung unter 0699 180 825 70 oder 04242 28896  sowie über Homepage www.kulturforumvillach.at                             
