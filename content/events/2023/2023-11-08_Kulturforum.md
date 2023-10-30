@@ -1,12 +1,12 @@
 +++
 title = "+++
 title = "+++
-title = "El Infierno Musical 'A Tribute to Alejandra Pizarnik' (A/USA)"
+title = "El Infierno Musical"
 authors = ["kulturforum-villach"]
 date = 2023-11-09T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "JAZZ"
+description = "A Tribute to Alejandra Pizarnik (A/USA)"
 featured = "img/events/2023-11-09_el-infierno-1200x500.png"
 featuredVideo = ""
 featuredVimeo = ""
@@ -18,7 +18,7 @@ draft = false
 
 **Mittwoch, 8. November 2023, 20:00 Uhr, Kulturhof:keller, Lederergasse 15, Villach**
 
-### El Infierno Musical 'A Tribute to Alejandra Pizarnik' (A/USA
+### El Infierno Musical 'A Tribute to Alejandra Pizarnik' (A/USA)
 
 Christof Kurzmann: vocals, lloopp, compositions
 Dave Rempis: alto, baritone saxophone
