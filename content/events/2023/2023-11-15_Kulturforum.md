@@ -1,12 +1,12 @@
 +++
 title = "+++
 title = "+++
-title = "Mc Mc Phee/Gartmayer/Edwards/Portugal (USA / AT / UK / BR)"
+title = "Mc Mc Phee/Gartmayer/Edwards/Portugal"
 authors = ["kulturforum-villach"]
 date = 2023-11-15T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "Jazz"
+description = "USA, AT, UK, BR"
 featured = "img/events/2023-11-15_mc-phee-gartmayer-edwards-portugal-1200x500.jpg"
 featuredVideo = ""
 featuredVimeo = ""
