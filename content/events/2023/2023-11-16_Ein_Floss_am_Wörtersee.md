@@ -12,7 +12,7 @@ featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
 type = "event"
-tags = ["konzert"]
+tags = ["theater"]
 draft = false
 +++
 
