@@ -1,6 +1,4 @@
 +++
-title = "+++
-title = "+++
 title = "EIN FLOSS AM WÖRTERSEE"
 authors = ["acme"]
 date = 2023-11-16T20:00:00
@@ -16,11 +14,11 @@ tags = ["theater"]
 draft = false
 +++
 
+
 ### Ein Floss am Wörtersee
 
-**Eine szenische Lesung mit Schauspiel und Live-Musik
-Koproduktion von a.c.m.e,- und Theater KuKuKK**
- 
+**Eine szenische Lesung mit Schauspiel und Live-Musik Koproduktion von a.c.m.e,- und Theater KuKuKK**
+
 Zum 80. Geburtstag von Hauptdarsteller und Publikumsliebling Roy Black zeigt die Koproduktion von a.c.m.e,- und Theater KuKuKK eine ganz besondere Hommage an den bekannten Kärntner See und bringt damit, im Zusammenspiel mit den wunderbaren Live-Songs von Hans Wagner (Kopf der Band NEUSCHNEE) den See, das Schloss und den Superstar mit viel Augenzwinkern zum Glänzen.
  
 Freuen Sie sich nach „Dreckig Tanzen“, einer satirischen Liebeserklärung an „Dirty Dancing“, auf dieses zweite Kapitel dieser selbstironischen Zusammenarbeit von a.c.m.e., und KuKuKK und seien Sie mit dabei, wenn die 90er ihre trashige Wiederauferstehung feiern und die Geschichte des Wörthersee -Schlosses weitergeschrieben wird, denn:

@@ -1,6 +1,4 @@
 +++
-title = "+++
-title = "+++
 title = "EIN FLOSS AM WÖRTERSEE"
 authors = ["acme"]
 date = 2023-11-17T20:00:00

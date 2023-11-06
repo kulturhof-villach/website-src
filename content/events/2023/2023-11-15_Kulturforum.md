@@ -1,6 +1,4 @@
 +++
-title = "+++
-title = "+++
 title = "Mc Mc Phee/Gartmayer/Edwards/Portugal"
 authors = ["kulturforum-villach"]
 date = 2023-11-15T20:00:00

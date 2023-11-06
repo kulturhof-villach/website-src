@@ -1,6 +1,4 @@
 +++
-title = "+++
-title = "+++
 title = "The Electrics"
 authors = ["kulturforum-villach"]
 date = 2023-11-29T20:00:00

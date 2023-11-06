@@ -1,6 +1,4 @@
 +++
-title = "+++
-title = "+++
 title = "El Infierno Musical"
 authors = ["kulturforum-villach"]
 date = 2023-11-09T20:00:00
