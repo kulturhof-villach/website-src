@@ -5,7 +5,7 @@ date = 2023-07-01T20:00:00
 publishdate = 2021-05-02
 time = "20:00"
 description = "Bachmanntage im Kulturhof | Eintritt frei"
-featured = "img/events/2023-07-01_KrokoFlanell_c_GertPerauer_EinGespenst_PetraWeixelbraun_small.png"
+featured = "img/events/2023-07-01_KrokoFlanell_c_GertPerauer_EinGespenst_PetraWeixelbraun.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -16,7 +16,7 @@ draft = false
 
 >Programm am Samstag, 1. Juli:
 >
->•	19 Uhr - Vernissage mit Anna Kohlweis / Eszter Drienyovszki / Schüler\*innen des CHS Villach
+>•	19 Uhr - Vernissage mit Anna Kohlweis / Eszter Drienyovszki / CHS-Schüler\*innen
 >
 >•	20 Uhr - Kroko Flanell
 >
@@ -26,11 +26,11 @@ draft = false
 >
 >**Eintritt frei**
 >
->[Infos zu den Lesungen und dem gesamten Bachmann-Programm im Kulturhof:villach](https://kulturhofvillach.at/events/2023/2023-06-30_bachmann/)
+>Infos zu den Lesungen und dem gesamten Bachmann-Programm im Kulturhof:villach
 
 
 Das Abendprogramm am Samstag startet mit einer umfassenden **Vernissage im Kulturhof:villach**. Mit dabei sind Anna Kohlweis, Eszter Drienyovszki und die Schüler\*innen des CHS Villach.
-[Infos zur Vernissage](https://kulturhofvillach.at/events/2023/2023-07-01_bachmannvernissage/)
+[Infos zur Vernissage](https://kulturhofvillach.at/news/2023-07-01_vernissage/)
 
 Die Musik auf der Innenhof-Bühne eröffnen die gestrandeten Typen von **Kroko Flanell**. Danach wagen sich **Ein Gespenst** mit Elias Hirschl, dem Publikumspreis-Gewinner der Bachmanntage 2022, mit "Bei Tageslicht" ins Rampenlicht.
 
@@ -50,22 +50,16 @@ Gestrandete Typen, die die Ärmel des Flanellhemdes hochkrempeln und neben ihrer
 ## Ein Gespenst ##
 Ein Gespenst geht um in Europa, oder zumindest in Wien und Kärnten. Auf seinem Debütalbum “Bei
 Tageslicht” präsentiert das poetische Post-Punk-Duo in zwölf Songs einen Blick auf die Welt,
-als hätte jemand zwei Löcher in ein Bettlaken geschnitten. Die Band entstieg dem
-Frühjahrsnebel des Jahres 2020 und besteht aus Autor Elias Hirschl und Rapper Christopher
+als hätte jemand zwei Löcher in ein Bettlaken geschnitten.
+Die Band entstieg dem Frühjahrsnebel des Jahres 2020 und besteht aus Autor Elias Hirschl und Rapper Christopher
 Hütmannsberger. Post-Punk-Riffs und New-Wave-Synthies kombiniert mit elektronischen
-Klängen und Textzeilen, die lange im Kopf herumspuken. Inhaltlich oszillieren sie zwischen
-Melancholie und Entfremdungsgefühl mit einigen satirischen Ausfallschritten. Als würde Joy
+Klängen und Textzeilen, die lange im Kopf herumspuken.
+Inhaltlich oszillieren sie zwischen Melancholie und Entfremdungsgefühl mit einigen satirischen Ausfallschritten. Als würde Joy
 Division auf einer Séance von Spoken Word Poet:innen beschworen werden. Ein Gespenst,
-das versucht anderen wieder Leben einzuhauchen und die Welt ein wenig erträglicher zu
-machen. Das Album “Bei Tageslicht” erschien im Oktober 2022 als Vinyl LP und digital
-auf dem Wiener Label Strizzico.
+das versucht anderen wieder Leben einzuhauchen und die Welt ein wenig erträglicher zu machen.
+Das Album “Bei Tageslicht” erschien im Oktober 2022 als Vinyl LP und digital auf dem Wiener Label Strizzico.
 
 © Petra Weixelbraun
-
-## a.c.m.e,- Radiolab & Philipp Otter  ##
-**a.c.m.e,-** arbeitet kollektiv. Das heißt alles wird als Kollektiv unter geteilter Verantwortung erarbeitet. Entscheidungen fallen als Kollektiv. Die Grenzen zwischen den Arbeitsbereichen verschwimmen, Hierarchien werden aufgebrochen. Gegründet wurde das a.c.m.e,-Kollektiv 2010 von Martin Dueller, Andreas Thaler, Simone Dueller, Paula Perschke und Peter Spall – die 3 erstgenannten sind bis heute im Verein aktiv. Dazu gesellen sich bei jeder Produktion weitere KünstlerInnen, die sich ankoppeln – und immer wieder auch abkoppeln.
-
-**Philipp Schinnerl-Otte** ist als gebürtigem Villacher nicht viel erspart geblieben. Zeit seines Lebens ist er im musikalischen Untergrund der Stadt unterwegs und gräbt seine Gräben unter seinem Kunstnamen “Der Otter”. Seine offene und charmante Art trifft regelmäßig auf seinen trockenen Sarkasmus und verwandelt seine Anwesenheit somit in Segen und Fluch zugleich.
 
 
 >Infos unter

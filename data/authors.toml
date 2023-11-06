@@ -389,3 +389,19 @@
   slideshare = ""
   xing = ""
   linkedin = ""
+
+  [ noi ]
+  name = "NOI"
+  featured = "/img/noi.jpg"
+  [ noi.bio ]
+    en = ""
+    de = ""
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
