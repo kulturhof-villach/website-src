@@ -4,7 +4,7 @@ authors = ["acme"]
 date = 2023-11-18T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "(a.c.m.e,- und Theater KuKuKK)"
+description = "PREMIERE (a.c.m.e,- und Theater KuKuKK)"
 featured = "img/events/2023-11-16_schloss_fb_hoch.png"
 featuredVideo = ""
 featuredVimeo = ""
@@ -13,6 +13,8 @@ type = "event"
 tags = ["theater"]
 draft = false
 +++
+
+> Tickets: https://kupfticket.com/shops/acme 
 
 ### Ein Floss am Wörtersee
 
