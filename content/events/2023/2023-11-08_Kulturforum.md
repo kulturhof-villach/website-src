@@ -1,7 +1,7 @@
 +++
 title = "El Infierno Musical"
 authors = ["kulturforum-villach"]
-date = 2023-11-09T20:00:00
+date = 2023-11-08T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "A Tribute to Alejandra Pizarnik, A, USA"
