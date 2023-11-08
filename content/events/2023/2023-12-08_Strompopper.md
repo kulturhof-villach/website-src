@@ -29,7 +29,9 @@ GOGA MASON konzipierte und animierte das Musikvideo zum Strompopper-Song „Kill
 
 > #### Besetzung:
 > Gergely Nagy - guitars, lead vocals
+> 
 > Péter Futó - bass, vocals, piano
+> 
 > Ambrus Nagy - drums, percussion, vocals, guitars
 
 Foto: © Strompopper & Goga Mason
