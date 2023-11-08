@@ -15,8 +15,8 @@ draft = false
 +++
 
 > EINTRITT: 
-> Infos folgen
-> 
+> Freier Eintritt mit K3 Festivalpass
+> Regulärer Eintritt: 12 Euro / 10 Euro ermäßigt
 
 
 
