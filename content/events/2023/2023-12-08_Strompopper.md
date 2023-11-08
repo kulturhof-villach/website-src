@@ -16,7 +16,7 @@ draft = false
 
 > EINTRITT: 
 > Freier Eintritt mit K3 Festivalpass
-> Regulärer Eintritt: 12 Euro / 10 Euro ermäßigt
+> Tickets: 12 Euro / 10 Euro ermäßigt
 
 
 
@@ -37,8 +37,8 @@ GOGA MASON konzipierte und animierte das Musikvideo zum Strompopper-Song „Kill
 Foto: © Strompopper & Goga Mason
 
 
-- Info Hotline: +43 650 920 40 35
-- E-Mail: fritz.hock@k3festival.com
+Kontakt:
+- E-Mail: info@k3festival.com
 
 ## Covid Informationen 
 
