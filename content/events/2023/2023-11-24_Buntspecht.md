@@ -5,7 +5,7 @@ date = 2023-11-24T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = ""
-featured = "img/events/2023-11-24_Buntspecht2023_Jonas Höschl.jpg"
+featured = "img/events/2023-11-24_Buntspecht_c_MichelleRassnitzer.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -30,12 +30,11 @@ draft = false
 
 ## Buntspecht
 
-![Buntspecht](/img/events/2023-11-24_Buntspecht2023_Jonas Höschl.jpg)
-Fotos © Jonas Höschl
-
-Buntspecht ist eine sechsköpfige Band aus Wien. Gegründet 2016 und seither in einem stetigen Prozess, der immer wieder neue musikalische Seiten zelebriert. Film-Musik für Filme, die es nicht gibt, oder Kinderlieder für Entwachsene, Atmosphäre und Ballade. Alles darf. Alles soll. Alles muss! Die Stücke bewegen sich zwischen Ekstase und Melancholie, Trauer und schelmischem Grinsen, Perspektivenlosigkeit und Utopie, Lebensbejahung und immer wieder nagenden Zweifeln. Die Gruppe ist vor allem für die ausgelassene Energie ihrer Shows bekannt. Beschwingt und brachial, traumwandlerisch und staunend, spöttisch und verträumt kreierte sich die Band in den letzten Jahren immer wieder aufs Neue ihren eigenen Sound - und mit ‚Unter den Masken‘ zufällig auch einen Pandemie-Hit. Zur Zeit arbeiten Buntspecht an ihrem 4. Studioalbum, die erste Single daraus - Majorelika -erschien am 11.11.2022. 
+Buntspecht ist eine sechsköpfige Band aus Wien. Gegründet 2016 und seither in einem stetigen Prozess, der immer wieder neue musikalische Seiten zelebriert. Film-Musik für Filme, die es nicht gibt, oder Kinderlieder für Entwachsene, Atmosphäre und Ballade. Alles darf. Alles soll. Alles muss! Die Stücke bewegen sich zwischen Ekstase und Melancholie, Trauer und schelmischem Grinsen, Perspektivenlosigkeit und Utopie, Lebensbejahung und immer wieder nagenden Zweifeln. Die Gruppe ist vor allem für die ausgelassene Energie ihrer Shows bekannt. Beschwingt und brachial, traumwandlerisch und staunend, spöttisch und verträumt kreierte sich die Band in den letzten Jahren immer wieder aufs Neue ihren eigenen Sound - und mit ‚Unter den Masken‘ zufällig auch einen Pandemie-Hit. Zur Zeit arbeiten Buntspecht an ihrem 4. Studioalbum, die erste Single daraus - Majorelika - erschien am 11.11.2022. 
 
 Ab November 2023 geht die Band auf ausgiebige Clubtour durch den gesamten deutschsprachigen Raum.
+
+Foto © Jonas Höschl
 
 ### Support Act
 ## Endless Wellness
