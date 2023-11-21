@@ -25,7 +25,7 @@ draft = false
 > 
 > \*\*Ermäßigungen für Studierende und Mindestpensionist\*innen
 > 
-> \*\*\*Ermäßigungen für Jugendliche bis 19 Jahre und wirtschaftlich schwache Personen 
+> \*\*\*Ermäßigungen für Jugendliche bis 19 Jahre und wirtschaftlich schwache Personen / Kontingent liegt an der Abendkasse auf
 > 
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
