@@ -14,6 +14,9 @@ tags = ["konzert"]
 draft = false
 +++
 
+### WIR SIND AUSVERKAUFT ###
+
+
 > EINTRITT: 
 > 
 > Vorverkauf € 27.-\* / € 18.-\*\*  [ntry.at/buntspecht_kuho](https://ntry.at/buntspecht_kuho) sowie im Kulturhof:büro (Tel.: +43 699 15088177) / office@kulturhofvillach.at
