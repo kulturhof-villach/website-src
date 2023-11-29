@@ -1,10 +1,10 @@
 +++
-title = "Franz Fuexe"
+title = "Franz Fuexe / Glue Crew"
 authors = ["kulturhof"]
 date = 2023-12-02T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "Support: Glue Crew"
+description = "19:00 Vernissage des CHS Villach"
 featured = "img/events/2023-05-13_FranzFuexe_c_JakobWallner.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -14,6 +14,7 @@ tags = ["konzert"]
 draft = false
 +++
 
+> EINTRITT VERNISSAGE: frei + gratis Prosecco & Orangensaft
 >
 > EINTRITT: Vorverkauf € 18.-\* / € 16.- *\*\ € 8.-\*\*\*
 > 
@@ -30,6 +31,10 @@ draft = false
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
 **Das Konzert von Franz Fuexe und Glue Crew wurde vom 13. Mai auf den 2. Dezember 2023 verlegt. Die für den 13.5. gekauften Tickets behalten ihre Gültigkeit für den 2.12.**
+
+## VERNISSAGE DES CHS VILLACH
+Der Kulturhof:villach und die Schüler\*innen des CHS Villach laden zur Vernissage der Künstler*innen Diana Egger, Hanna Kootz und Sophie Lindner in den :schauraum des Kulturhofs. Freier Eintritt. Beginn 19 Uhr.
+
 
 ## FRANZ FUEXE
 Das österreichische Punk Quartet Franz Fuexe feiert 10 Jahre und präsentiert sein neues Album!
