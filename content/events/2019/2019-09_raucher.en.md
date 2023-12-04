@@ -1,0 +1,18 @@
++++
+title = "Der letzte Raucher"
+authors = ["kulturhofkeller"]
+date = 2019-09-20
+publishdate = 2019-09-07
+time = "20:00"
+description = "Satirisches Einpersonenstück im Hier und Jetzt."
+featured = "img/events/2019-09_raucher1.jpg"
+featuredVideo = ""
+featuredVimeo = ""
+linktitle = ""
+type = "event"
+tags = ["theater"]
+draft = false
+
++++
+
+„Der letzte Raucher“ is a satirical one-person-play set in the here and now. Our main protagonist is equal parts hero and tragic-comical clown. In the course of a party, the smoking outsider is banished onto the prison-linke balcony. Even outside there's a "war" raging: all non-smokers are conspiring against him. He, the last smoker, fights the rest of the world. Locked out, forgotten, lonely and freezing, yet humorous, he lives through a rapid sequence of visions and dreams.

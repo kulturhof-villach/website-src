@@ -1,0 +1,88 @@
+
+<section class="hero is-large has-background feature-hero top-hero">
+  <img class="hero-background" src="{{ .Params.featured | relURL }}"  alt="">
+  <div class="hero-body">
+    <div class="container hero-container has-text-right">
+      
+      {{/*  Show TAGS - events  */}}
+      {{ if (eq .Type "event") }}
+        <h1 class="is-6 has-margin-bottom-08">
+          <mark class="mark-bg-success">
+            {{ range $key := .Param "tags"}}
+            <a href="{{ $.Site.BaseURL}}/{{ $.Site.LanguagePrefix }}/tags/{{ $key}}/">
+              <span class="has-text-black">
+                #{{ $key }}
+              </span>
+            </a>
+            {{ end }}
+          </mark>
+        </h1>
+      {{ end }}
+       
+      {{/*  Show DATE - events and news  */}}
+      {{ if or (eq .Type "event") (eq .Type "news") }}
+        <h1 class="is-6 subtitle has-margin-bottom-08">
+          <mark class="mark-bg-warning has-text-black">
+            {{ .Params.date  | dateFormat "02.01.2006"}}
+            {{/*  Show TIME only if not empty  */}}
+            {{ if ne "" .Params.time }}
+              - {{ .Params.time }}
+            {{ end }}
+          </mark>
+        </h1>
+      {{ end }}
+
+      {{/*  Show TITLE - events and news and info  */}}
+      <h1 class="title is-1 has-margin-bottom-08"><mark class="mark-bg-primary">{{ .Title }}</mark></h1>
+
+      {{/*  Show SUBTITLE - events and news  */}}
+      {{ if or (eq .Type "event") (eq .Type "news") }}
+        <h1 class="title is-3"><mark class="mark-bg-link has-text-info">{{ .Params.description }}</mark></h1>
+      {{ end }}
+
+      {{/*  Show AUTHOR - events  */}}
+      {{ if or (eq .Type "event") }}
+        <h1 class="is-6 subtitle has-margin-bottom-08">
+          <mark class="mark-bg-info has-text-black">
+            hosted by
+            {{ range $key := .Param "authors"}}
+            <a href="{{ $.Site.BaseURL}}/{{ $.Site.LanguagePrefix }}organisers/{{ $key}}/">
+              <span class="has-text-black">
+                {{ $key }} |
+              </span>
+            </a>
+            {{ end }}
+          </mark>
+        </h1>
+      {{ end }}
+            {{/*  Show speech bubble  */}}
+            {{ if and (eq .Type "event") (in .Params.authors "kulturhof")}}
+            <div class="is-1">
+              <figure class="">
+                <img src="{{ .Site.Params.logo.jugendcard | relURL  }}" width="200px">
+              </figure>
+            </div>
+            {{ end }}
+
+    </div>
+  </div>
+  <div class="hero-foot has-padding">
+    <div class="next-prev">
+      <div class="next">
+      {{ with .NextInSection }}
+        <a class="button is-info" href="{{ .Permalink }}">
+          <i class="fas fa-chevron-left fa-lg"></i>
+        </a>
+      {{ end }}
+    </div>
+    <div class="prev">
+      {{ with .PrevInSection }}
+        <a class="button is-info" href="{{ .Permalink }}">
+          <i class="fas fa-chevron-right fa-lg"></i>
+        </a>
+      {{ end }}
+    </div>
+    </div>
+    <!-- {{ partial "hero-header.html" . }} -->
+  </div>
+</section>

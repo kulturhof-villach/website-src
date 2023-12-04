@@ -1,0 +1,87 @@
+baseURL = "https://kulturhofvillach.at/"
+languageCode = "de-at"
+theme = "bulma-base"
+publishDir = "public"
+DefaultContentLanguage = "de"
+
+[params]
+name = "Verein kult:villach"
+address = "Lederergasse 15, 9500 Villach"
+email = "office@kulturhofvillach.at"
+phone = "+43 699 15088177"
+[params.social]
+[params.social.instagram]
+name = "instagram"
+link = "https://www.instagram.com/kulturhofkeller/"
+icon = "fab fa-instagram fa-lg"
+[params.social.facebook]
+  name = "facebook"
+  link = "http://www.facebook.com/kulturhofkeller"
+  icon = "fab fa-facebook-square fa-lg"
+[params.social.youtube]
+  name = "youtube"
+  link = "https://www.youtube.com/channel/UCgnVBE8INeLEh50VaZlSZZg"
+  icon = "fab fa-youtube fa-lg"
+
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Kulturhof:Villach"
+    description = "Cultural Centre | Villach"
+    about = "Das Kulturzentrum Kulturhof:Villach bringt seit 2011 verschiedenste Veranstaltungen und KünstlerInnen in die Villacher Innenstadt. Neben Eigenveranstaltungen mit Konzerten (inter)nationaler KünstlerInnen (Tiger Lillies, Peterlicht Nino aus Wien, Voodoo Jürgens,...) gibt es auch Theater, Kabarett, Lesungen, Workshops, Vorträge in Kooperation mit diversen Vereinen. Damit bietet der Kulturhof ein sehr breites Spektrum an Kulturprogramm, mit dem Anspruch auch all dem eine Bühne zu bieten, das sonst nirgends seinen Platz findet. Schreiben Sie dafür ein Email an [office@kulturhofvillach.at](mailto:office@kulturhofvillach.at)"
+    weight = 1
+    announcement = "Test Announcement"
+
+
+    [language.en.newsletter]
+      title = "Subscribe"
+
+
+    [[languages.en.menu.main]]
+    name = "Events"
+    pre = "fa fa-calendar-alt"
+    url = "events/"
+    weight = 4
+
+    [[languages.en.menu.main]]
+    name = "Blog"
+    pre = "far fa-newspaper"
+    url = "blog/"
+    weight = 5
+
+
+  [languages.de]
+    languageName = "Deutsch"
+    title = "Kulturhof:Villach"
+    description = "Kulturzentrum | Villach"
+    about = "Das Kulturzentrum Kulturhof:Villach bringt seit 2011 verschiedenste Veranstaltungen und KünstlerInnen in die Villacher Innenstadt. Neben Eigenveranstaltungen mit Konzerten (inter)nationaler KünstlerInnen (Tiger Lillies, Peterlicht Nino aus Wien, Voodoo Jürgens,...) gibt es auch Theater, Kabarett, Lesungen, Workshops, Vorträge in Kooperation mit diversen Vereinen. Damit bietet der Kulturhof ein sehr breites Spektrum an Kulturprogramm, mit dem Anspruch auch all dem eine Bühne zu bieten, das sonst nirgends seinen Platz findet. Schreiben Sie dafür ein Email an [office@kulturhofvillach.at](mailto:office@kulturhofvillach.at)"
+    weight = 2
+    announcement = "Test Announcement"
+
+    [[languages.de.menu.main]]
+    name = "Veranstaltungen"
+    pre = "fas fa-theater-masks"
+    url = "events/"
+    weight = 4
+
+    [[languages.de.menu.main]]
+    name = "Blog"
+    pre = "far fa-newspaper"
+    url = "blog/"
+    weight = 5
+
+
+[params.logo]
+    mobile = "/logo_white.svg"
+    standard  = "/logo_white.svg"
+    notext = "/logo_white.svg"
+    heroImg = "img/kulturhof-map.svg"
+    stadt = "img/logos/stadt.jpg"
+    land = "img/logos/land.png"
+    bund = "img/logos/bund.png"
+    jugendcard = "img/logos/jugendcard-bubble.png"
+
+#Enable inline html
+[markup.goldmark.renderer]
+unsafe= true

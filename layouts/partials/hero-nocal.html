@@ -1,0 +1,20 @@
+<div id="hero">
+<section class="hero has-navbar">
+  {{/*  <img class="is-fullwidth" src="{{ .Site.Params.logo.heroImg | relURL }}" alt="">  */}}
+  <object data="{{ .Site.Params.logo.heroImg | relURL }}" type="image/svg+xml" id="mySVG"></object>
+ 
+  <!-- Hero footer: will stick at the bottom -->
+</section>
+</div>
+
+<section class="hero is-small has-background-link">
+  <div class="hero-body has-text-centered center">
+    {{ range $key, $taxonomy := .Site.Taxonomies.tags }}
+      <div class="">
+        <a href="{{ $.Site.BaseURL }}/{{ $.Site.LanguagePrefix }}/tags/{{ $key}}/">
+          <span class="hero-quote has-text-primary">#{{ $key }} </span><p> </p>
+        </a>
+      </div>
+    {{ end }}
+  </div>
+</section>

@@ -1,0 +1,62 @@
+{{ define "header-title" }}
+<h1>{{ .Name }}</h1>
+{{ end }}
+
+{{ define "header" }}
+  {{ partial "header.html" . }}
+{{ end }}
+
+{{ define "aside" }}
+{{ end }}
+
+{{ define "main" }}
+<div class="column is-half has-navbar-fixed-top">
+  <div class="content" style="padding-top:55px">
+    <div id="contents">
+        {{ $persondata := (index $.Site.Data.authors .Params.id)}}
+        {{ $pdict := (dict "data" $persondata "picsize" "is-256x256" "imgclass" "is-rounded" "content" "true" "namesize" "is-size-5" "subsize" "is-size-6")}}
+            <section class="section has-no-padding">
+              <div class="columns is-centered">
+                <div class="column has-no-padding">
+                  {{ partial "org-info.html" $pdict }}
+                </div>
+              </div>
+            </section>
+    </div>
+  </div>
+  {{ $futureevents := where .Page.Site.Pages.Reverse ".Date" "ge" (now.AddDate 0 0 -1) }}
+  {{ $pastevents := where .Page.Site.Pages ".Date" "lt" (now.AddDate 0 0 -1) }}
+  <section class="section has-no-padding has-margin-top">
+    <div class="content">
+      <h1 class="title">Upcoming events by {{ $persondata.name }}</h1>
+    </div>
+    {{ $id := .Params.id}}
+    {{ range $futureevents }}
+    {{ if in .Params.authors $id }}
+    {{ $p := (dict "title" .Title "text" .Params.description "link" .Permalink "image" .Params.featured "imgclass" "is-square is-128x128 ov-img" "date" .Params.date "tags" .Params.tags "authors" .Params.authors )}}
+
+    {{ partial "content-ov.html" $p }}
+    {{ end }}
+    {{ end }}
+  </section>
+  <section class="section has-no-padding has-margin-top">
+    <div class="content">
+      <h1 class="title">Past events by {{ $persondata.name }}</h1>
+    </div>
+    {{ $id := .Params.id}}
+    {{ range $pastevents }}
+    {{ if in .Params.authors $id }}
+    {{ $p := (dict "title" .Title "text" .Params.description "link" .Permalink "image" .Params.featured "imgclass" "is-square is-128x128 ov-img" "date" .Params.date "tags" .Params.tags "authors" .Params.authors )}}
+
+    {{ partial "content-ov.html" $p }}
+    {{ end }}
+    {{ end }}
+  </section>
+</div>
+<div class="">
+    {{ partial "references.html" .}}
+</div>
+{{ end }}
+
+{{ define "custom-js" }}
+{{ end }}
