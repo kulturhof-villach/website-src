@@ -30,5 +30,4 @@ Die Electrics sind eine Band mit geradezu klassischer Instrumentierung: Trompete
 
 Axel Dörner, Berlin, ist ein mit vielen Preisen ausgezeichneter Jazztrompeter der seinem Instrument eine komplett eigene Ausdruckweise erschlossen hat. — Sture Ericson, Kopenhagen, startete einst als Mitglied der schwedischen Band "Position Alpha" und arbeitet inzwischen in vielen Improvisationsgruppen mit Musikern wie Rhodri Davis, Chris Burn oder Fred Lonberg Holm. — Joe Williamson, Stockholm, arbeitet in Gruppen wie Trapist oder Booklet. In Ulrichsberg war er zuletzt mit Ab Baars und Kaja Draksler zu Gast. — Raymond Strid lebt in Schweden, ist Mitglied im Trio "Gush" mit Mats Gustafsson und Sten Sandell, kooperiert aber auch mit Musikern wie Barry Guy und Marilyn Crispell.
 
-#### Telefonische Kartenreservierung unter 0699 180 825 70 oder 04242 28896  sowie über Homepage www.kulturforumvillach.at                             
-
+> Telefonische Kartenreservierung unter 0699 180 825 70 oder 04242 28896  sowie über Homepage [www.kulturforumvillach.at](www.kulturforumvillach.at)
