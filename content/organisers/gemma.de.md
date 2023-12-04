@@ -1,4 +1,0 @@
-+++
-title = "Gemma"
-id = "gemma"
-+++

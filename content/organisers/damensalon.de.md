@@ -1,4 +1,0 @@
-+++
-title = "Damensalon"
-id = "damensalon"
-+++

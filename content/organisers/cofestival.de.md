@@ -1,4 +1,0 @@
-+++
-title = "Cofestival"
-id = "cofestival"
-+++
