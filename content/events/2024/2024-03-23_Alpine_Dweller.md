@@ -5,7 +5,7 @@ date = 2024-03-23T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: Mikk"
-featured = "img/events/2024-03-24_Alpine_Dweller_c_Andrea Lehsiak.JPG"
+featured = "img/events/2024-03-23_Alpine_Dweller_c_Andrea_Lehsiak.JPG"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -30,7 +30,7 @@ draft = false
 
 ## Alpine Dweller
 
-![Alpine Dweller](/img/events/2024-03-24_Alpine_Dweller_c_Andrea Lehsiak.JPG)
+![Alpine Dweller](/img/events/2024-03-23_Alpine_Dweller_c_Andrea_Lehsiak.JPG)
 Foto © Andrea Lehsiak
 
 ALPINE DWELLER bringen freakigen Folk auf die Bühne: Mit einem Stil, den man so eigentlich nur von drüben kennt, besetzt die oberösterreichisch-steirische Kombo ALPINE DWELLER ein flockiges Sub-Genre des Singer-Songwriter- Bereichs. Mit einem Hauch von Melancholie, aber auch unglaublicher Leichtigkeit - kindlich und verspielt - machen ALPINE DWELLER die Bühne zu einem wolkigen Trampolin. Ummalt mit schüchternem und andere Male entrücktem Folk, treiben sie klassischen Pop über die Grenzen der Kuscheligkeit. Ihr letzt erschienenes Album „Native Fluorescence" ist ein musikalisches Reisetagebuch in verschiedene imaginäre aber auch reale Orte. 
