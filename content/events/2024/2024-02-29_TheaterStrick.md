@@ -44,6 +44,7 @@ Koncert? Gledališče? Musetta je samozavestna zapeljivka, Adele vesela ter naiv
 Fotocredit: Patrick Connor Klopf
 
 **Reservierungen / Rezervacije: teater.strik@gmail.com oder 0699 / 120 88770**
+**Eintritt: 18 Euro / ermäßigt 14 Euro**
 
 [www.strick.page]((https://strick.page/)
 
