@@ -405,3 +405,19 @@
   slideshare = ""
   xing = ""
   linkedin = ""
+
+  [ teater-strik ]
+  name = "Teater  Štrik / Theater Strick"
+  featured = "/img/organiser/teater-strick.png"
+  [ teater-strik.bio ]
+    en = ""
+    de = ""
+  website = ""
+  email = "https://stick.page"
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""

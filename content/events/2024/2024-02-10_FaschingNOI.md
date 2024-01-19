@@ -1,6 +1,6 @@
 +++
 title = "Faschingsparty im Kulturhof:villach"
-authors = ["NOI"]
+authors = ["noi"]
 date = 2024-02-10T21:00:00
 publishdate = 2021-05-01
 time = "21:00"

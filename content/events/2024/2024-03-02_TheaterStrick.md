@@ -1,6 +1,6 @@
 +++
 title = "Hoppala Opera"
-authors = ["kulturhofkeller"]
+authors = ["teater-strik"]
 date = 2024-03-02T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
