@@ -64,7 +64,7 @@ Foto © Francesca De Franceschi Manzoni
 ### support act - OPIUM MASALA
 
 
-![Opium Masala](/img/events/2022-11-11_OM.png)
+![Opium Masala](/img/events/2024-06-07_Opium_Masala.jpg)
 
 Aus dem bizarren Gemenge, strukturierten Lärms, tiefen Gitarrensounds und Schlagzeugrhythmen zwischen doomigen Laid-Back und trashigen D Beat entsteht ein Masala, das mit Vorsicht zu genießen ist, denn es handelt sich um OPIUM MASALA. Das Duo ist der neueste Stoff aus Leningraz bestehend aus Rama Finsta und Shanti Lebi. Ihr kennt die beiden aus anderen Projekten wie z. B. Lesson To Be Learned, Baguette oder A Great River In The Sky.
 
