@@ -42,6 +42,7 @@ Foto © Pamela Russmann
 ## Support: Little Lakes
 
 ![LittleLakes](/img/events/2024-04-13_LittleLakes_c_LittleLakes.jpg)
+
 Foto © Little Lakes
 
 Mit einer Kombination aus gefühlvollen Texten und melodischen Klängen schafft Little Lakes eine Atmosphäre, in der man sich auf schöne Weise eine Weile verlieren kann. Nach fast einem Jahr der Stille präsentiert das Folk-Pop Trio nicht nur neue Melodien, sondern auch ein paar alte Lieder, die bisher im Verborgenen schlummerten.
