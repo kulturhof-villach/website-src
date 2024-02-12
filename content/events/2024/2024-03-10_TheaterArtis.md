@@ -43,7 +43,7 @@ Angesichts aktueller politischer Tendenzen und Strömungen stellt „Dollfuß �
 
 **Kartenverkauf online: https://www.kaernten.live/gastgeber/theater-artis**
 ##### Weitere Infos:
-[www.theater-artis.at]((https://www.theater-artis.at/dollfus-2024/)
+[www.theater-artis.at](https://www.theater-artis.at/dollfus-2024/)
 
 
 
