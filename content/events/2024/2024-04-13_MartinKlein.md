@@ -41,7 +41,7 @@ Foto © Pamela Russmann
 
 ## Support: Little Lakes
 
-![LittleLakes](/img/events/2024-04-13_LittleLakes_c_LittleLakes.jpg)
+![LittleLakes](/img/events/2024-04-13_LittleLakes_c_LittleLakes.JPG)
 
 Foto © Little Lakes
 
