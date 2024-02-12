@@ -37,6 +37,7 @@ Der Wiener Singer-Songwriter und Pianist Martin Klein scheint sich nicht wirklic
 Mittlerweile hat er schon drei deutschsprachige, ein englischsprachiges, ein experimentell, elektronisches Album sowie eine englischsprachige EP veröffentlicht. Die Presse schreibt nur gutes über den eigenwilligen Künstler, so bezeichnete ihn etwa der Falter als "Thom Yorke ohne Kunstrucksack", der Standard seine Kunst als "sensibel und obsessiv", das deutsche Fachmagazin Jazzthetik ortete "traumverlorene Meisterwerke", Bayern 2 eine Art "neuzeitlichen Franz Schubert" und Radio Fm4 ein "musikalisch beeindruckendes Werk". Die Tageszeitung die Presse schrieb: "Sein Utopia versucht nichts weniger, als die Entzauberung der Welt rückgängig zu machen."
 
 Über die Jahre hat Martin Klein – getreu dem Titel eines seiner Songs – dem puristischen Prinzip »Keine Overdubs« gefrönt. Die neuen Lieder des Singer-Songwriters verbinden nun sowohl minimale Klavier- als auch episch breite Gesangsarrangements.
+
 Foto © Pamela Russmann
 
 ## Support: Little Lakes
