@@ -4,7 +4,7 @@ authors = ["kulturhofkeller"]
 date = 2024-05-14T18:00:00
 publishdate = 2021-05-01
 time = "18:00"
-description = "Bühne frei für den ersten internationalen Science Slam in Villach"
+description = "Bühne frei für die Wissenschaft"
 featured = "img/events/2024-05-14_ScienceSlam.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -23,7 +23,7 @@ draft = false
 > Ticketreservierung über office@kulturhofvillach.at oder +43699/15088177 (bitte um Angabe von Name und Telefonnummer) 
 
 
-## 1ST INTERNATIONAL SCIENCE SLAM IN VILLACH
+## Bühne frei für den ersten internationalen Science Slam in Villach!
 
 Findest du Wissenschaft spannend? Willst du aktuelle Forschung in leicht verdaulichen Häppchen serviert bekommen? Dann bist du bei uns genau richtig!
 
@@ -31,6 +31,4 @@ Am 14. Mai um 18 Uhr verlassen Wissenschaftler*innen der Fachhochschule Kärnten
 
 Sei dabei, lach mit und stimm ab!
 
-- Die Veranstaltung ist eine Kooperation zwischen der FH Kärnten und dem Kulturhof:villach.
-- Info Hotline: 0699 15088177 
-- E-Mail: office@kulturhofvillach.at
+Die Veranstaltung findet als Kooperation zwischen der FH Kärnten und dem Kulturhof:villach statt.
