@@ -32,3 +32,6 @@ Am 14. Mai um 18 Uhr verlassen Wissenschaftler*innen der Fachhochschule Kärnten
 Sei dabei, lach mit und stimm ab!
 
 Die Veranstaltung findet als Kooperation zwischen der FH Kärnten und dem Kulturhof:villach statt.
+
+- Kontakt: +43 (0) 5 90500 7107
+- E-Mail: j.marinaccio@fh-kaernten.at
