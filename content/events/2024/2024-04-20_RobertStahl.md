@@ -1,5 +1,5 @@
 +++
-title = "WIR FÖHNEN: TECHNO MUSIC ALL NIGHT LONG"
+title = "WIR FÖHNEN - TECHNO MUSIC ALL NIGHT LONG"
 authors = ["noi"]
 date = 2024-04-06T22:00:00
 publishdate = 2021-05-01
