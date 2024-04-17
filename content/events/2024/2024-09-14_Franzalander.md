@@ -48,10 +48,10 @@ Hier gehts zur [Reservierung](https://forms.gle/qCrfrswKmT6shuAU7) oder Mail an 
 >
 >Lederergasse 15, 9500 Villach
 >
->**Reservierung** über [Reservierung](https://forms.gle/qCrfrswKmT6shuAU7) oder office@kulturhofvillach.at oder +43 699 15088177
+>**[Reservierung](https://forms.gle/qCrfrswKmT6shuAU7)** oder Mail an **office@kulturhofvillach.at** oder eifach anrufen: **+43 699 15088177**
 
 
-> EINTRITT: € 20.- / € 11.-\* / € 8.-\*\* oder **Exklusives Kombiticket € 35**
+> EINTRITT: Franzalander € 20.- / € 11.-\* / € 8.-\*\* oder **Exklusives Kombiticket € 35**
 > 
 > \*Ermäßigungen für Studierende, Arbeitssuchende, Zivildienende, Präsenzdienende, Mindestpensionist\*innen
 > 
@@ -59,4 +59,4 @@ Hier gehts zur [Reservierung](https://forms.gle/qCrfrswKmT6shuAU7) oder Mail an 
 > 
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
-Fotocredits: Christof Wagner, Grafik: FA“
+Fotocredits: Christof Wagner, Grafik: FA
