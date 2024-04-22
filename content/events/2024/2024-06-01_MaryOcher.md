@@ -33,24 +33,23 @@ draft = false
 ![Mary Ocher](/img/events/2024-06-01_MaryOcher_c_BorisEldagsen.jpg)
 Foto © Boris Eladagsen, Titelfoto © Pietro Pontieri
 
-Born in the wake of George Orwell's dystopian masterpiece, 1984, in the capital of the world's largest country, upon which the novel was modelled, Mary Ocher emerges as a powerhouse artist of Jewish/Ukrainian heritage. At the tender age of 4, fate brought her to Tel Aviv during the turbulent Gulf War, where she absorbed the raw currents of xenophobia and nationalism, leaving a distinct mark on her creative output – a persistent pursuit of challenging authority and deconstructing the myth of nationhood.
+Experimental political pop artist Mary Ocher returns to European stages with her two drummers Your Government, armed with two new records released only months apart: "Approaching Singularity: Music for The End of Time" (Nov 3) and "Your Guide to Revolution" (June 14).
 
-At the age of 20, Mary commenced a transformative odyssey in the adopted city of Berlin, a city known for its cultural crucible and its welcoming of outsiders from all walks of life.
+"Approaching Singularity" is accompanied by an essay that explores authoritarianism, unruly technology, and the diverse political and ethical implications of the impending changes for humankind. While "Your Guide to Revolution" is released with "A Guide to Radical Living: A no nonsense guide to living comfortably with just enough: Why wealth needs poverty and how not to play along" - a survival guide for artists and other non-conformists.
 
-Shortly after she embarked on a whirlwind global tour, gracing stages in 40 countries, leaving audiences spellbound with her genre-defying soundscapes. Collaborating with luminaries like H.J. Irmler of Krautrock pioneers Faust, Canadian psych-guru King Khan, avant garde-legends Die Tödliche Doris, Julia Kent and Felix Kubin, Barry Burns (Mogwai), Red Axes, composer Roberto Cacciapaglia, Chicks on Speed and more, Mary's sonic universe knows no bounds.
+The new recordings feature collaborations with Mogwai, Red Axes, composer Roberto Cacciapaglia, pieces by Dorothy Ashby/Omar Khayyam, a homage to electronic music pioneer Delia Derbyshirem and much more, and range from cumbia, post-punk and field recordings, to cosmic synth compositions and deconstructed techno.
 
-With a repertoire ranging from traditional folk to raw '60s garage, from ambient soundscapes with ethereal vocals to experimental pop infused with African and South American rhythms, Mary Ocher orchestrates a sonic tapestry like no other.
+Mary toured in 40 countries with previous releases, recorded and produced with Canadian Psych guru King Khan and Hans Joachim Irmler of Krautrock pioneers Faust, and feature collaborations with avant-garde legends Felix Kubin, Die Tödliche Doris and Julia Kent, among others. 
 
-Over the past decade, she's unleashed five studio albums on six labels, along with a double anthology of raw home recordings, two captivating EPs, and two spellbinding collections of remixes. Each new release is a testament to her fearless exploration of musical frontiers.
+- The full "Approaching Singularity" essay (a short version of which is available in print with the album):
+[www.maryocher.com/essay-approaching-singularity-music-for-the-end-of-time](www.maryocher.com/essay-approaching-singularity-music-for-the-end-of-time)
 
-But Mary Ocher is more than just a sonic explorer; she's a force of nature in a world grappling with authoritarianism, future technology, and politics. Her relentless dedication to creating passionate, uncompromising art serves as a rallying cry for those who yearn to push against the current, challenging the status quo with every note and lyric.
+- "A Guide to Radical Living: A no nonsense guide to living comfortably with just enough: Why wealth needs poverty and how not to play along" (the text accompanying "Your Guide to Revolution").
+[http://maryocher.com/G2RL](http://maryocher.com/G2RL)
 
-In the face of a global pandemic, Mary's artistic spirit remained indomitable. She was personally invited by the visionary Animal Collective to grace the stage at the esteemed Le Guess Who? Festival.
-Amidst it all, she released an autobiographical comic book, a Ukraine charity EP dedicated to rebuilding shattered homes, curated a three-day festival, and compiled an album in support of girls' education in Afghanistan featuring artists Gudrun Gut, Xiu Xiu, Ana da Silva and others.
-
-As we step into the future, Mary Ocher stands at the forefront of a sonic revolution, with three exhilarating releases poised to redefine the musical landscape in 2023-2024.
-
-Her work remains as enchanting as it is polarizing, sparking conversations on authority, identity, and conflict. In a world yearning for change, Mary Ocher is the artist we've been waiting for – a fearless trailblazer in sound, a fierce challenger of authority, and an unapologetic visionary pushing the boundaries of music and meaning.
+- New video out now (19 April):
+Sympathize - with Your Government
+[https://www.youtube.com/watch?v=ihnOAa1H4As] (https://www.youtube.com/watch?v=ihnOAa1H4As)
 
 ## Support: fridolin_schneck
 
