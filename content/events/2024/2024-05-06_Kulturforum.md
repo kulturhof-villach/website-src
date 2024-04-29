@@ -1,5 +1,5 @@
 +++
-title = "Alexander Hawkins & Sofia Jernberg " Musho""
+title = "Alexander Hawkins & Sofia Jernberg - Musho"
 authors = ["kulturforum-villach"]
 date = 2024-05-06T20:00:00
 publishdate = 2021-05-01
