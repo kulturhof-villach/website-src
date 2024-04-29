@@ -1,7 +1,7 @@
 +++
 title = "Du möchtest den Kulturhof mieten?"
 authors = ["kulturhof"]
-date = "2024-03-00"
+date = "2024-03-09"
 description = ""
 featured = "img/kulturhof/Kulturhofvillach_entry_hoch.jpg"
 featuredVideo = ""
