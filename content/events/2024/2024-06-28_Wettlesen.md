@@ -5,8 +5,8 @@ date = 2024-06-28T18:00:00
 publishdate = 2021-09-23 
 description = "Tage der deutschsprachigen Literatur im Kulturhof:villach" 
 time = "18:00" 
-featured = "img/news/2023-05-10_DieSummeDerEinzelnenTeile.JPG" 
-type = "news"
+featured = "img/events/2024-06-28_DieSummeDerEinzelnenTeile.JPG" 
+type = "event"
 draft = false
 +++
 
