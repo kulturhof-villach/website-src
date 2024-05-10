@@ -7,6 +7,7 @@ description = "Tage der deutschsprachigen Literatur im Kulturhof:villach"
 time = "18:00" 
 featured = "img/events/2024-06-28_DieSummeDerEinzelnenTeile.JPG" 
 type = "event"
+tags = ["lesung"]
 draft = false
 +++
 
