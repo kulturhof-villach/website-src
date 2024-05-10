@@ -1,5 +1,5 @@
 +++
-title = "Heym (Robert Stadlober) | doppelfinger & Lukas Lauermann"
+title = "Robert Stadlober | doppelfinger & Lukas Lauermann"
 authors = ["kulturhof"]
 date = 2024-06-29T20:00:00
 publishdate = 2021-05-02
@@ -18,7 +18,7 @@ draft = false
 >
 >•	18:00 Uhr - Lesung
 >
->•	20:00 Uhr - Heym (Robert Stadlober)
+>•	20:00 Uhr - Robert Stadlober: Eine Reise durch die Zeit mit Kurt Tucholsky
 >
 >•	21:00 Uhr - doppelfinger & Lukas Lauermann
 >
@@ -30,16 +30,22 @@ draft = false
 
 
 
-## Heym (Robert Stadlober) ##
+## Robert Stadlober: Eine Reise durch die Zeit mit Kurt Tucholsky ##
 
-![Heym](/img/events/2024-06-29_Heym_c_RobertStadlober.jpeg)
+![Robert Stadlober](/img/events/2024-06-29_TucholskyStadlober_c_Stadlober.jpeg)
 © Robert Stadlober
 
-„Ich aber ging über die Grenze“, so schrieb der junge Helmut Flieg im Frühjahr 1933, kurz nachdem er genau das getan hatte, nämlich über die Grenze gegangen war. Geflohen aus Deutschland, vor der sich anbahnenden Barbarei, nach Prag. Kurz bevor er sich den Namen gab, unter dem er weltberühmt werden sollte: Stefan Heym. Über die Grenze gegangen, geflohen, war er wegen eines Gedichtes. Eines von über 300, die er bis in den Sommer 1936 schrieb. Da war er
-schon wieder über einige Grenzen gegangen und würde noch über etliche gehen, auf seinem Weg durch dieses von Grenzen durchzogene 20. Jahrhundert.
+### „Wenn wir einmal nicht grausam sind, dann glauben wir gleich, wir seien gut.“
+#### Eine Reise durch die Zeit mit Kurt Tucholsky
+#### Gesungen, gesprochen und gespielt von Robert Stadlober
 
-Anfang 2020 fanden sich Klara Deutschmann, Daniel Moheit und Robert Stadlober ebenfalls an einer Grenze wieder, im Dreiländereck zwischen der Slowakei, Ungarn und Österreich, direkt am ehemaligen eisernen Vorhang. Und dort legten sich plötzlich Melodien über diese beinahe ein Jahrhundert alten Texte und es entstanden Lieder, die über all die Jahre und die Grenzen hinweg in unser Heute hinein sprechen. Lieder von Liebe und Tod, von den Vergessenen und den
-Verschwiegenen, von der Trauer und dem freudigen Überschwang der Geschichte. Von Deutschland und vom Antifaschismus. Von der Hoffnung der Zukunft und der Zukunft der Hoffnung. Im Sinne Stefan Heyms: Vom Aufstoßen der Fenster.
+Es wird alles immer schlimmer, es ist schlimmer als jemals zuvor, solch schlimme Zeiten, das ist ja kaum noch auszuhalten. So oder so ähnlich tönt es aus allen Ecken und Winkeln. Und schlimm sind die Zeiten, keine Frage, aber waren sie denn je irgendwann einmal wirklich besser? Ist es nicht vielmehr so, dass sich der ganze Schlamassel immer und immer wiederholt? In schnelleren Kreisen vielleicht, aber grundsätzlich doch immer gleich? Und fehlt uns möglicherweise einfach nur die weite Perspektive, um diese ständig um uns wirbelnden Schlamassel, Kreise als solche zu erkennen und dann möglicherweise ihre Laufbahn endlich einmal zu ändern oder ihr Gekreisel gar zu unterbrechen?
+
+Hier kann oft die Literatur helfen und noch öfter die Musik. In unserem speziellen Falle Kurt Tucholskys Gedanken zum Zeitenlauf und Melodien, die sich Robert Stadlober aus dem Chaos Gekreisel gefangen hat und über Tucholskys bereits über hundert Jahre alte Überlegungen legt.
+
+Es geht um die Unmöglichkeiten des menschlichen Umgangs. In Liebesdingen wie in Dingen des Hasses, um die Sinnlosigkeit von Gewalt und die Hoffnungslosigkeit von Politik die sich über Gewalt zu vermitteln sucht. Es geht um die Sehnsucht nach einer Art richtigem Leben und um den immerwährenden Kampf der Vielen um ein kleines Stück vom Ganzen.
+
+Und Robert Stadlober singt, spricht und ruft uns ins Gedächtnis, dass sich eben so viel nicht verändert hat seit Kurt Tucholsky sagte: »Wenn wir einmal nicht grausam sind, dann glauben wir gleich, wir seien gut.« Bestimmt sind unsere Zeiten nicht wirklich schlimmer, aber besser sind sie mit Sicherheit auch nicht.
 
 
 ## doppelfinger & Lukas Lauermann ##
