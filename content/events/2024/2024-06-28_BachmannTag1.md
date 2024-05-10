@@ -53,7 +53,7 @@ Mit dem Anliegen, die Lücke der Repräsentation in der Musikindustrie zu fülle
 
 ## Skofi ##
 
-![Skofi](/img/events/2024-06-28_Skofi_c_Skofi.jpg)
+![Skofi](/img/events/2024-06-28_Skofi_c_Skofi.JPG)
 © Skofi
 
 Skofi ist Rapperin, Multi-Instrumentalistin, DJ und Produzentin aus Wien. Wenn sie nicht gerade mit Featureparts überzeugt, arbeitet sie vor allem mit dem Klosterneuburger Produzenten Skyfarmer zusammen. Gemeinsam releast das Duo regelmäßig Hits, die sich musikalisch zwischen Oldschool, House, Garage oder Trap bewegen und kann auf den Streamingplattformen bereits mehrere Millionen Streams weltweit vorweisen.
