@@ -57,6 +57,7 @@ In Österreich wird doppelfinger nicht nur deshalb bereits jetzt als »einer der
 
 
 ![Lukas Lauermann](/img/events/2024-06-29_LukasLauermann_c_JuliaHaimburger.jpg)
+
 © Julia Haimburger
 
 Das vielfältige musikalische Schaffen von Lukas Lauermann (\*1985 in Wien) zeichnet sich durch Experimentierfreude, Offenheit und ein Ohr fürs Wesentliche aus. Auf der Konzertbühne wie im Studio, für Theater, Performance und Film ist er gefragt als Komponist, Mitmusiker und Solist, geschätzt als kreativer Kopf und Cellist der es versteht das Klangspektrum seines Instruments mit Elektronik zu erweitern.
