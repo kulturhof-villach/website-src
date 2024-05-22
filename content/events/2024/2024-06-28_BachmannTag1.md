@@ -1,5 +1,5 @@
 +++
-title = "Dexpleen | Skofi"
+title = "Dexpleen | Skofi | DJane Commander Venus"
 authors = ["kulturhof"]
 date = 2024-06-28T20:00:00
 publishdate = 2021-05-02
@@ -65,8 +65,10 @@ Im Juni 2022 erscheint dann Skofi & Skyfarmer’s lang ersehnte EP „9to5“, d
 Egal ob im Duo oder Solo, Skofi’s Performances funktionieren im Club genauso wie auf großen Bühnen, was das Allroundtalent bereits bei Auftritten auf dem Wiener Popfest, Impulstanz Festival oder in verschiedenen Clubs in Berlin und Wien bewiesen hat. Auf dem im Herbst 2023 erschienenen Debütalbum "Lass Mich Los" hat sich Skofi nicht nur mit Skyfarmer, sondern auch mit wink182 (Wien) oder HARDY X (Berlin) zusammengetan und verspricht somit eine Genre diverse LP.
 
 
-## Kulturhof: DJ Team ##
-Ab 22 Uhr gibt’s Tanzbares aus der Konserve zusammengestellt vom legendären Kulturhof: DJ Team.
+## DJane Commander Venus ##
+![DJane Commander Venus](/img/events/2024-06-28_CommanderVenus_c_VitaDueller.jpg)
+© Vita Dueller
+Ab 22 Uhr gibt’s Tanzbares aus der Konserve zusammengestellt von der legendären DJane Commander Venus. Unter dem Pseudonym DJane Commander Venus legt Simone Dueller seit 2003 vorzugsweise Indie-Musik und Alternative auf, u. a. Rote Bar/Volkstheater Wien, Burgtheater Kasino, beim Wiener Popfest, im Rahmen der Tage der deutschsprachigen Literatur (Bachmannpreis) und im Kulturhofkeller Villach.
 
 
 >Infos unter
