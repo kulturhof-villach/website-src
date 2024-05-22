@@ -74,6 +74,10 @@ In seinem Soloprojekt fließen all diese künstlerischen und persönlichen Erfah
 
 
 ## a.c.m.e,- radiolab ##
+
+![acme radiolab](/img/events/2024-06-29_acme_radiolab.jpg)
+© a.c.m.e,- radiolab
+
 Ab 22 Uhr gibt’s eine Live-Session des a.c.m.e,- radiolab mit special guest.
 
 
