@@ -66,8 +66,10 @@ Egal ob im Duo oder Solo, Skofi’s Performances funktionieren im Club genauso w
 
 
 ## DJane Commander Venus ##
+
 ![DJane Commander Venus](/img/events/2024-06-28_CommanderVenus_c_VitaDueller.jpg)
 © Vita Dueller
+
 Ab 22 Uhr gibt’s Tanzbares aus der Konserve zusammengestellt von der legendären DJane Commander Venus. Unter dem Pseudonym DJane Commander Venus legt Simone Dueller seit 2003 vorzugsweise Indie-Musik und Alternative auf, u. a. Rote Bar/Volkstheater Wien, Burgtheater Kasino, beim Wiener Popfest, im Rahmen der Tage der deutschsprachigen Literatur (Bachmannpreis) und im Kulturhofkeller Villach.
 
 
