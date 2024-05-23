@@ -22,7 +22,7 @@ draft = false
 >
 >•	21:00 Uhr - Skofi
 >
->•	22:00 Uhr - Kulturhof: DJ Team
+>•	22:00 Uhr - DJane Commander Venus
 >
 >**Eintritt frei**
 >
