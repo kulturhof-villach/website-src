@@ -11,7 +11,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["konzert"]
-draft = false
+draft = true
 +++
 
 **Freitag, 14. Juni 2024, 20:00 Uhr, Kulturhof:keller, Lederergasse 15, Villach**
