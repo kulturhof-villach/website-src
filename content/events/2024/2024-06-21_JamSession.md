@@ -1,5 +1,5 @@
 +++
-title = "Jam Session im Kulturhof:keller"
+title = "ABGESAGT Jam Session im Kulturhof:keller"
 authors = ["noi"]
 date = 2024-06-21T20:00:00
 publishdate = 2021-05-01
