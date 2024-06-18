@@ -14,6 +14,7 @@ tags = ["konzert"]
 draft = false
 +++
 
+**ABGESAGT**
 
 ## Jam Session im Kulturhof:keller
 ### Open Music Session
