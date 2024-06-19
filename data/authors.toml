@@ -344,7 +344,7 @@
 
 [ tatworttheater ]
   name = "TatWortTheater"
-  featured = "/img/organiser/tatworttheaterg"
+  featured = "/img/organiser/tatworttheater.png"
   [ tatworttheater.bio ]
     en = ""
     de = ""
@@ -414,6 +414,54 @@
     de = ""
   website = ""
   email = "https://stick.page"
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
+  [ festival-spectrum ]
+  name = "Festival Spectrum"
+  featured = "/img/organiser/festival-spectrum.png"
+  [ festival-spectrum.bio ]
+    en = ""
+    de = ""
+  website = ""
+  email = "https://www.festivalspectrum.com"
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
+  [ obndgluat ]
+  name = "Obndgluat"
+  featured = "/img/avatar-placeholder.png"
+  [ obndgluat.bio ]
+    en = ""
+    de = ""
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
+  [ what-is-a-human ]
+  name = "what is a human"
+  featured = "/img/avatar-placeholder.png"
+  [ what-is-a-human.bio ]
+    en = ""
+    de = ""
+  website = ""
+  email = ""
   github = ""
   twitter = ""
   facebook = ""

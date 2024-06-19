@@ -1,6 +1,6 @@
 +++
 title = "lilith erian // AUSHALTEN – ZDRŽATI"
-authors = ["kulturhof"]
+authors = ["festival-spectrum"]
 date = 2024-07-05T18:30:00
 publishdate = 2021-05-01
 time = "18:30 Vernissage"
