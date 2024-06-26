@@ -15,7 +15,7 @@ draft = false
 +++
 
 
-![Tickets](https://www.eventbrite.com/e/what-is-a-human-kulturhof-villach-tickets-931931761987?aff=oddtdtcreator)
+[Tickets](https://www.eventbrite.com/e/what-is-a-human-kulturhof-villach-tickets-931931761987?aff=oddtdtcreator)
 
 BAND INFOS
 
@@ -53,7 +53,7 @@ last three years, are stylistically eclectic and one better comes up with one’
 influence of New Wave, Indie Rock, Synth Pop and the aesthetics of some free
 improvisation recordings of the 70s cannot be denied however.
 
-![ALBUM PRE-ORDER SIGN UP](https://felicianmusic.com/)
+[ALBUM PRE-ORDER SIGN UP](https://felicianmusic.com/)
 
 
 Du kannst den Kulturhof:villach auch mieten.
