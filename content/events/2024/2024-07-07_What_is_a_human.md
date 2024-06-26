@@ -1,7 +1,7 @@
 +++
 title = "What is a human"
 authors = ["kulturhof"]
-date = 2024-10-04T20:00:00
+date = 2024-07-07T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = ""
