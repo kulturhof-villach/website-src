@@ -11,7 +11,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["konzert"]
-draft = false
+draft = true
 +++
 
 **Sonntag, 28. Juli 2024, 1:15 Uhr, Kulturhof:villach, Lederergasse 15, Villach**
