@@ -1,6 +1,6 @@
 +++
 title = "Obendgluat"
-authors = ["obndgluat"]
+authors = ["obendgluat"]
 date = 2024-11-15T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
