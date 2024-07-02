@@ -1,4 +1,4 @@
 +++
-title = "Obndgluat"
-id = "obndgluat"
+title = "Obendgluat"
+id = "obendgluat"
 +++
