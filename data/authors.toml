@@ -413,7 +413,7 @@
     en = ""
     de = ""
   website = ""
-  email = "https://stick.page"
+  email = "https://strick.page"
   github = ""
   twitter = ""
   facebook = ""
@@ -438,10 +438,10 @@
   xing = ""
   linkedin = ""
 
-  [ obndgluat ]
+  [ obendgluat ]
   name = "Obndgluat"
   featured = "/img/avatar-placeholder.png"
-  [ obndgluat.bio ]
+  [ obendgluat.bio ]
     en = ""
     de = ""
   website = ""
@@ -455,7 +455,7 @@
   linkedin = ""
 
   [ what-is-a-human ]
-  name = "what is a human"
+  name = "What is a human"
   featured = "/img/avatar-placeholder.png"
   [ what-is-a-human.bio ]
     en = ""
