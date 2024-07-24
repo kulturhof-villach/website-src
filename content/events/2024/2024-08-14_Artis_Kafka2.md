@@ -1,7 +1,7 @@
 +++
 title = "Das Bin Ich Also"
 authors = ["theater-artis"]
-date = 2024-08-08T20:00:00
+date = 2024-08-14T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Auszüge aus Franz Kafkas Tagebüchern"
