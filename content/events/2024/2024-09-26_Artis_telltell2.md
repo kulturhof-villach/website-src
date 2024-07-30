@@ -1,7 +1,7 @@
 +++
 title = "tell Tell"
 authors = ["theater-artis"]
-date = 2024-09-25T20:00:00
+date = 2024-09-26T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Ein Lustspiel von Albert Franz nach Friedrich Schiller"
