@@ -1,5 +1,5 @@
 +++
-title = "Lurch"
+title = "Endless Wellness"
 authors = ["kulturhof"]
 date = 2024-10-31T20:00:00
 publishdate = 2021-05-01
