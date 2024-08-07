@@ -32,7 +32,7 @@ draft = false
 
 [Euroteuro](/img/events/2024-11-30_EUROTEURO2023_c_Jan_Hasenauer.png)
 Foto © Jan Hasenauer
-Foto Banner © Florian Lehner
+Foto Banner © Florian Lehner 
 
 Die Wiener Pop Gruppe EUROTEURO um Mastermind Peter T. präsentiert ihr neues Album „VOLUME III“. 
 
