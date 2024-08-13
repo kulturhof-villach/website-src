@@ -30,7 +30,7 @@ draft = false
 
 ## Endless Wellness
 
-[Endless Wellness](/img/events/2024-10-31_Endless_Wellness_c_Rea_von_Vić.jpg)
+![Endless Wellness](/img/events/2024-10-31_Endless_Wellness_c_Rea_von_Vić.jpg)
 Foto © Rea von Vić
 
 Da ist eine schrammelnde Westerngitarre zu hören, die übersteuert. Eine Orgel bietet Fläche, manchmal legt sich auch ein düsterer Synthesizer dazu. Es könnte »Fuzz-Folk« genannt oder schlicht dem allumfassenden Indie zugeordnet werden; sie könnten als die »Big Thief, nur auf deutsch«, die »frühen Tocotronic, aber später« oder als »Isolation Berlin aus Wien« bezeichnet werden – aber ganz so einfach ist das mit dem Vergleichen nicht. Die obskur-poetischen, deutschsprachigen Texte sind eine laute Konfrontation mit Depression und schlagen zuletzt immer die Brücke zur Gesellschaft, vom Mikro- zum Makrokosmos. Es sind alternative Liebeslieder, für eine Achtsamkeit, für eine Zuversicht, für: Endless Wellness.
@@ -43,7 +43,7 @@ Vielleicht ist es Musik, die euch genauso überraschend überkommen wird, wie si
 
 ## Ischia
 
-[Ischia](/img/events/2024-10-31_ischia_c_Franziska_Barcsay..jpg)
+![Ischia](/img/events/2024-10-31_ischia_c_Franziska_Barcsay..jpg)
 Foto © Franziska Barscay
 
 *"Ischia ist eine Wiener Band, die sich in diversen Winkeln des Indie-Rocks herumtreibt. Mal erzeugen Soundflächen Stimmungen und Bilder, mal wird man von einem treibenden Beat und lauten Gitarren mitgerissen - nur den eingängigen Melodien kommt man nicht aus. "Ist es nicht ein Glitzern? Man muss ja nur zwei Dinge im Leben mögen, Gitarren und Refrains, und wenn das alles noch cool und verpackt in sanftes Slackertum daherkommt, klingt's wie die Musik von ischia."* (Lisa Schneider, FM4)
