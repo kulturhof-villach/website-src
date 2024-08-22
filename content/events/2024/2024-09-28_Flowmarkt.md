@@ -29,7 +29,7 @@ draft = false
 >
 >Bei Schlechtwetter wird auf 5. Oktober verschoben
 
-**Wann? Von 10 - 16 Uhr**
+**Wann? 28. September von 10 - 16 Uhr**
 
 Es wird ein bunter Nachmittag mit netten Leuten, Musik, und natürlich tollen Ständen zum Stöbern. Das Noi im Kulturhof versorgt uns mit leckerem Essen und Getränken.
 Der Eintritt ist kostenlos.
