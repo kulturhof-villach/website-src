@@ -4,7 +4,7 @@ authors = ["kulturhof"]
 date = 2024-09-13T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "mit musikalischer Begleitung"
+description = "musikalisch umrahmt vom Jazz Gitarren Duo Matti & Olsacher"
 featured = "img/events/2024-09-13_Nachgelesen_c_MartaGillner.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -32,6 +32,11 @@ Die „MORGENKONZERTE" des diesjährigen Carinthischen Sommers haben auch Platz 
 
 Foto © Marta Gillner
 
+Musikalisch begleitet wird der Abend vom Jazz Gitarren Duo Johannes Matti & Florian Olsacher.
+
+![Jazz Gitarren Duo](/img/events/2024-09-13_JazzGitarrenDuo_c_JohannesMatti.JPG)
+
+© Johannes Matti
 
 
 
