@@ -1,5 +1,5 @@
 +++
-title = "Carithischer Sommer nachgelesen"
+title = "Carinthischer Sommer nachgelesen"
 authors = ["kulturhof"]
 date = 2024-09-13T20:00:00
 publishdate = 2021-05-01
