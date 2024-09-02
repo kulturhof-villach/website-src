@@ -14,7 +14,6 @@ tags = ["Lesung"]
 draft = false
 +++
 
-> **Das Konzert wurde von Oktober 2024 auf März 2025 verschoben. Gekaufte Tickets behalten ihre Gültigkeit. Falls ein Konzertbesuch am 28. März 2025 nicht möglich ist, können die Tickets zurückgegeben werden. Bitte um Kontaktaufnahme via office@kulturhofvillach.at.**
 >
 >EINTRITT: Vorverkauf € 8.-\* 
 > 
