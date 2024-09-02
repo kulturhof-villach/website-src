@@ -43,7 +43,8 @@ Hessenthalers Buch "Nach Ibiza. Der lange Schatten eines Skandalvideos – Warum
 
 ### Franz Miklautz
 
-![Franz Miklautz](/img/events/2024-10-17_Franz Miklautz_c_Karlheinz_Fessl.png)
+![Franz Miklautz](/img/events/2024-10-17_FranzMiklautz_c_KarlheinzFessl.png)
+
 © Karlheinz Fessl
 
 Investigativjournalist, 53 Jahre, lebt mit Familie in Klagenfurt.
