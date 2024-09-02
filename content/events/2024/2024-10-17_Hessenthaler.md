@@ -38,9 +38,12 @@ Foto © Oliver Jiszda
 
 Julian Hessenthaler, geboren 1980, ist ein ehemaliger Sicherheitsberater. 2017 filmte er den damaligen FPÖ-Chef Heinz Christian Strache beim Machtfantasieren in Ibiza. Die Veröffentlichung dieses Videos zwei Jahre später löste Korruptionsermittlungen aus, die auch Sebastian Kurz‘ politische Karriere beendeten und bis heute andauern.
 
+Hessenthalers Buch "Nach Ibiza. Der lange Schatten eines Skandalvideos – Warum unsere Demokratie in Gefahr ist" erschien soeben im Goldegg Verlag:
+[www.goldegg-verlag.com/titel/nach-ibiza/](https://www.goldegg-verlag.com/titel/nach-ibiza/)
+
 ### Franz Miklautz
 
-![Franz Miklautz](/img/events/2024-10-19_Franz Miklautz_c_Karlheinz_Fessl.png)
+![Franz Miklautz](/img/events/2024-10-17_Franz Miklautz_c_Karlheinz_Fessl.png)
 © Karlheinz Fessl
 
 Investigativjournalist, 53 Jahre, lebt mit Familie in Klagenfurt.
