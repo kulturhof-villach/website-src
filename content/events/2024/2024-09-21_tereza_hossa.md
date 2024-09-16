@@ -39,7 +39,7 @@ Darum bieten dir ganz exklusiv ein Kombi-Ticket um 35 € für die geballte Ladu
 
 Hier gehts zur [Reservierung](https://forms.gle/qCrfrswKmT6shuAU7) oder Mail an office@kulturhofvillach.at oder +43 699 15088177
 
->Samstag, 14. September 2024
+>Samstag, 21. September 2024
 >
 >Beginn: 19:00 Uhr
 >
