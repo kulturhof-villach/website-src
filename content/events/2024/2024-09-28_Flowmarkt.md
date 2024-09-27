@@ -1,7 +1,7 @@
 +++
-title = "Flowmarkt im Kulturhof"
+title = "VERSCHOBEN AUF 5. OKTOBER: Flowmarkt im Kulturhof"
 authors = ["kulturhof"]
-date = 2024-09-28T10:00:00
+date = 2024-10-05T10:00:00
 publishdate = 2021-05-01
 time = "10:00"
 description = "2nd Hand | Musik | Design | Kunst | Selbstgemachtes | Verkauf nur von privat | Keine professionellen Händler | Musik | Essen | Drinks | Kinderschminken"
@@ -13,6 +13,8 @@ type = "event"
 tags = ["Flowmarkt"]
 draft = false
 +++
+
+**AUFGRUND DER WETTERLAGE WIRD DER FLOWMARKT VOM 28. SEPTEMBER AUF 5. OKTOBER VERSCHOBEN**
 
 #### Endlich wieder Flowmarkt !!!  
 **Kommt Stöbern, entrümpelt eure Kleiderschränke, befreit euch von nicht-gebrauchten Gegenständen und macht anderen damit eine Freude**
@@ -29,7 +31,7 @@ draft = false
 >
 >Bei Schlechtwetter wird auf 5. Oktober verschoben
 
-**Wann? 28. September von 10 - 16 Uhr**
+**Wann? 5. Oktober von 10 - 16 Uhr**
 
 Es wird ein bunter Nachmittag mit netten Leuten, Musik, und natürlich tollen Ständen zum Stöbern. Das Noi im Kulturhof versorgt uns mit leckerem Essen und Getränken.
 Der Eintritt ist kostenlos.
