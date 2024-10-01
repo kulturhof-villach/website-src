@@ -30,7 +30,7 @@ draft = false
 
 ## EUROTEURO
 
-[Euroteuro](/img/events/2024-11-30_EUROTEURO2023_c_Jan_Hasenauer.png)
+![Euroteuro](/img/events/2024-11-30_EUROTEURO2023_c_Jan_Hasenauer.png)
 Foto © Jan Hasenauer
 Foto Banner © Florian Lehner 
 
