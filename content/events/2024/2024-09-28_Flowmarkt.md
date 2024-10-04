@@ -1,5 +1,5 @@
 +++
-title = "VERSCHOBEN AUF 5. OKTOBER: Flowmarkt im Kulturhof"
+title = "UPDATE: ABGESAGT"
 authors = ["kulturhof"]
 date = 2024-10-05T10:00:00
 publishdate = 2021-05-01
@@ -14,7 +14,7 @@ tags = ["Flowmarkt"]
 draft = false
 +++
 
-**AUFGRUND DER WETTERLAGE WIRD DER FLOWMARKT VOM 28. SEPTEMBER AUF 5. OKTOBER VERSCHOBEN**
+**AUFGRUND DER UNSICHEREN WETTER-VORHERSAGE WIRD DER FLOWMARKT ABGESAGT - WIR SIND SEHR TRAURIG, FREUEN UNS ABER AUF EIN WIEDERSEHEN SPÄTESTENS IM FRÜHJAHR**
 
 #### Endlich wieder Flowmarkt !!!  
 **Kommt Stöbern, entrümpelt eure Kleiderschränke, befreit euch von nicht-gebrauchten Gegenständen und macht anderen damit eine Freude**
