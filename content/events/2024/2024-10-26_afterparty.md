@@ -30,7 +30,7 @@ Egal, ob du tief in der Hip-Hop-Kultur verwurzelt bist oder einfach eine gute Ze
 
 **Afterparty**
 
-## Warm up mit DJ Thrill a Scene
+## DJ Mischa Van Green
 
 ![DJ Mischa Van Green](/img/events/2024-10-26_Mischa.jpg)
 Foto © DJ Mischa Van Green
