@@ -56,12 +56,6 @@ Thomy Schupfer Live: Eine musikalische Reise durch Höhen und Tiefen des Lebens
 *"Tauche ein in meine Welt der Klänge, geformt durch 16 Jahre leidenschaftliches Gitarrenspiel. Mein musikalischer Weg begann im Metal und Grunge fand dann jedoch mit den Jahren eine vielfältige Ausdehnung in Genres wie Blues, Rock, Reggae, Jazz und schließlich dem Austropop. Musik war schon immer ein Teil meiner Seele, und während ich in verschiedenen Projekten und mit Einzigarten Musikern und Freunden spielte, weckte jedoch der Austropop immer schon so ein Besonderes Gefühl von zu Hause in mir. Im Jahr 2023 begann ich, die Gedichte die mein Leben schrieb zu vertonen. Diese Lieder, Ehrlich, Kritisch und von persönlicher Bedeutung, präsentiere ich nun live. Seid dabei, wenn ich meine musikalische Reise mit euch teile."* Tommy Schupfer
 
 
-## Im Anschluss gibt's eine Auflegerei mit Dj Commander Venus & Martin Dueller
-
-![Commander Venus](/img/events/2024-06-28_CommanderVenus_c_VitaDueller.jpg)
-© Vita Dueller
-
-
 
 - Info Hotline: 0699 15088177 
 - E-Mail: office@kulturhofvillach.at
