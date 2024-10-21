@@ -1,5 +1,5 @@
 +++
-title = "Hip Hop und Drum and Bass Night"
+title = "Hip Hop, Techno und Drum and Bass Night"
 authors = ["essence"]
 date = 2024-10-26T23:55:00
 publishdate = 2021-05-01
@@ -14,7 +14,7 @@ tags = ["konzert"]
 draft = false
 +++
 
-## Hip-Hop und Drum and Bass Night
+## Hip-Hop, Techno und Drum and Bass Night
 
 ### Afterparty
 
