@@ -326,6 +326,22 @@
   xing = ""
   linkedin = ""
 
+[ cft-freeride ]
+  name = "cft freeride"
+  featured = "/img/avatar-placeholder.jpg"
+  [ cft-freerid.bio ]
+    en = ""
+    de = ""
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
 [ musikschule-villach ]
   name = "Musikschule Villach"
   featured = "/img/avatar-placeholder.png"
