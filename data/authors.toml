@@ -329,7 +329,7 @@
 [ cft-freeride ]
   name = "cft-freeride"
   featured = "/img/avatar-placeholder.png"
-  [ cft-freerid.bio ]
+  [ cft-freeride.bio ]
     en = ""
     de = ""
   website = ""
