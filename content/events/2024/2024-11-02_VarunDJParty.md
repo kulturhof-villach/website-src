@@ -16,7 +16,8 @@ draft = false
 
 ## RESONATE
 ### AN ALL-NIGHT JOURNEY THROUGH GOA
-### FREE ENTRY
+### mit dem DJs Varun und Agrawal
+#### FREE ENTRY
 
 ![RESONATE](/img/events/2024-11-02_VarunDJParty.jpg)
 Grafik © Eszter Drienyovszki
