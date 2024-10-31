@@ -49,7 +49,16 @@ https://www.siluh.com/artists/euroteuro/
 KONTAKT:
 bernhard@siluh.com
 
-## Support Infos folgen
+## Support: Heimwerker
+
+![Heimwerker](/img/events/2024-11-30_Heimwerker.jpg)
+Grafik © Heimwerker
+
+Heimwerker ist ein Musik-Organ, welches sich durch die Tiefen des Geschehens und die Weiten des Vergehens gezwängt hat, um aus einem bösen Parallel-Universum, dem Perversum, auf die Erde zu kommen und die hier lebenden Homo Sapiens Sapiens mit einem schrecklichen Sound aus Metal, Psychedelischen Landschaften, Post-Apokalyptischem Provinz Punk (PAPP) und Generationen Punk zu verstören.
+
+Ihre Lieder sind gefüllt mit ungesundem Gesang, oftmals Synthesizer-Sünden und Texten, die von Selbsthass über die Fehler der Welt, vorbei an unnötiger Verrücktheit und vielen anderen eher "ungesunden" Themen, bis hin zum Ende des Marsianischen Kalenders gehen. Die Band wurde 2021 von Aki Streeter gegründet. Letzteres ist das einzig verbleibende Gründungsmitglied. 
+
+Über die Äonen wechselten sich die Werker immer wieder durch, da niemand den Schmerz der Band aushielt. Heimwerker haben einige Shows, viele Streitigkeiten und viel zu viele Songs hinter sich. Um sich diese Gruppe aus Verrückten anzusehen, sollte man das nächste Konzert aufsuchen! Nach Möglichkeit einen Baustellenhelm und eine Kotztüte mitnehmen.
 
 
 - Info Hotline: 0699 15088177 
