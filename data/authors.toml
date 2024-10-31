@@ -54,7 +54,7 @@
 
 [ peterwood ]
   name = "Peter Brian Wood"
-  featured = "/img/events/2021-07_peterwood.jpg"
+  featured = "/img/avatar-placeholder.png"
   [ peterwood.bio ]
     en = ""
     de = ""
@@ -342,6 +342,22 @@
   xing = ""
   linkedin = ""
 
+[ eschenauer ]
+  name = "Gerald Eschenauer"
+  featured = "/img/avatar-placeholder.png"
+  [ eschenauer.bio ]
+    en = ""
+    de = ""
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
 [ musikschule-villach ]
   name = "Musikschule Villach"
   featured = "/img/avatar-placeholder.png"
@@ -488,7 +504,7 @@
 
   [ urban-playground ]
   name = "Urban Playground"
-  featured = "/img/urban-playground.jpg"
+  featured = "/img/organiser/urban-playground.jpg"
   [ urban-playground.bio ]
     en = ""
     de = ""
@@ -504,7 +520,7 @@
 
   [ essence ]
   name = "Essence"
-  featured = "/img/essence.jpg"
+  featured = "/img/organiser/essence.png"
   [ essence.bio ]
     en = ""
     de = ""

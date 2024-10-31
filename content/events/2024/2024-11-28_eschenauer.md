@@ -1,6 +1,6 @@
 +++
 title = "Ein ungustiöser Abend"
-authors = ["kulturhofkeller"]
+authors = ["eschenauer"]
 date = 2024-11-28T19:30:00
 publishdate = 2021-05-01
 time = "19:30"
