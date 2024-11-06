@@ -21,7 +21,7 @@ WISH TO WONDER steht für musikalische Freiheit ohne Genre-Grenzen. Ob Rock, Alt
 
 Ihre Musik verbindet kraftvolle Energie mit unkonventionellen Ideen, die jedes Stück einzigartig machen.
 
-*DJ-Party im Anschluss im Weinkeller
+**DJ-Party im Anschluss im Weinkeller**
 
 _________________________________________
 Du kannst den Kulturhof:villach mieten
