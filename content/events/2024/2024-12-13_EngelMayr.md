@@ -18,7 +18,7 @@ draft = false
 > 
 > EINTRITT: Abendkassa € 21.- / € 16.- *\*\ € 8.-\*\*\*
 >
-> \*Im Vorverkauf auf [kupfticket.com/events/endless-wellness](https://kupfticket.com/events/engel-mayr-support-von-dannen)
+> \*Im Vorverkauf auf [kupfticket.com/events/engel-mayr-support-von-dannen](https://kupfticket.com/events/engel-mayr-support-von-dannen)
 >
 > \*\*Ermäßigungen für Studierende und Mindestpensionist\*innen
 > 
