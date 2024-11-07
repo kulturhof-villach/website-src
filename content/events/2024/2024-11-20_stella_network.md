@@ -19,7 +19,7 @@ draft = false
 ### NEKUDAK, ASSITEJ & IG MUSIKVERMITTLUNG
 
 
-Welche Themen bewegen uns Vermittler*/innen? Welche Herausforderungen gilt es zu bewältigen? Welche Schritte können NEKUDAK, ASSITEJ, die IG Musikver­mittlung & weitere Kulturvermittler*/innen gemeinsam tun? Was sind verbindende Agenden und Zielsetzungen?
+Welche Themen bewegen uns Vermittler\*innen? Welche Herausforderungen gilt es zu bewältigen? Welche Schritte können NEKUDAK, ASSITEJ, die IG Musikver­mittlung & weitere Kulturvermittler\*innen gemeinsam tun? Was sind verbindende Agenden und Zielsetzungen?
 
 Get in touch and socialise: Nach einem Speeddating aller Mitglieder wird mittels verschiedener Methoden an den diversen Fragestellungen geforscht, die aktuell unter den Nägeln brennen.
 
