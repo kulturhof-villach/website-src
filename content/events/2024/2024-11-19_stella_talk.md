@@ -17,7 +17,7 @@ draft = false
 ##  STELLA-Darstellender.Kunst.Preis
 ### Künstler*/innentalk 1
 
-Feedback ist wertvoll und wichtig und unterstützt die künstlerische (Weiter-) Entwicklung. Bei den Künstler*/innengesprächen gehen wir in verschiedene mitunter auch ungewöhnliche Perspektiven, beispielsweise eine Figur aus dem Stück, die verwendete Musik, die Position einer Intendanz oder der Kulturpo­litik, vielleicht auch ein im Stück benutztes Requisit, eine Ästhetik oder eine feministische Perspektive und beschreiben aus verschiedenen Blickwinkeln ge­meinsam das Gesehene und geben dadurch ganz unterschiedliche Feedbacks den Künstler*/innen. Das Fachpublikum und alle Interessierten  sind herzlich eingeladen, in einen gemeinsamen wertschätzenden Diskurs zu gehen. 
+Feedback ist wertvoll und wichtig und unterstützt die künstlerische (Weiter-) Entwicklung. Bei den Künstler*/innengesprächen gehen wir in verschiedene mitunter auch ungewöhnliche Perspektiven, beispielsweise eine Figur aus dem Stück, die verwendete Musik, die Position einer Intendanz oder der Kulturpo­litik, vielleicht auch ein im Stück benutztes Requisit, eine Ästhetik oder eine feministische Perspektive und beschreiben aus verschiedenen Blickwinkeln ge­meinsam das Gesehene und geben dadurch ganz unterschiedliche Feedbacks den Künstler/*innen. Das Fachpublikum und alle Interessierten  sind herzlich eingeladen, in einen gemeinsamen wertschätzenden Diskurs zu gehen. 
 
 **Gespräche zu den Stücken : "Unisono" und  "Konferenz der Tiere"**
 
