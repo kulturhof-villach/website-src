@@ -1,10 +1,10 @@
 +++
 title = "STELLA-Darstellender.Kunst.Preis"
 authors = ["kulturhofkeller"]
-date = 2024-11-19T20:00:00
+date = 2024-11-19T11:30:00
 publishdate = 2021-05-01
 time = "11:30"
-description = "Künstler/*innentalk 1"
+description = "Künstler\*innentalk 1"
 featured = "img/events/2024-11-19_stella_gespraech.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -15,9 +15,9 @@ draft = false
 +++
 
 ##  STELLA-Darstellender.Kunst.Preis
-### Künstler*innentalk 1
+### Künstler\*innentalk 1
 
-Feedback ist wertvoll und wichtig und unterstützt die künstlerische (Weiter-) Entwicklung. Bei den Künstler*innengesprächen gehen wir in verschiedene mitunter auch ungewöhnliche Perspektiven, beispielsweise eine Figur aus dem Stück, die verwendete Musik, die Position einer Intendanz oder der Kulturpo­litik, vielleicht auch ein im Stück benutztes Requisit, eine Ästhetik oder eine feministische Perspektive und beschreiben aus verschiedenen Blickwinkeln ge­meinsam das Gesehene und geben dadurch ganz unterschiedliche Feedbacks den Künstler*innen. Das Fachpublikum und alle Interessierten  sind herzlich eingeladen, in einen gemeinsamen wertschätzenden Diskurs zu gehen. 
+Feedback ist wertvoll und wichtig und unterstützt die künstlerische (Weiter-) Entwicklung. Bei den Künstler\*innengesprächen gehen wir in verschiedene mitunter auch ungewöhnliche Perspektiven, beispielsweise eine Figur aus dem Stück, die verwendete Musik, die Position einer Intendanz oder der Kulturpo­litik, vielleicht auch ein im Stück benutztes Requisit, eine Ästhetik oder eine feministische Perspektive und beschreiben aus verschiedenen Blickwinkeln ge­meinsam das Gesehene und geben dadurch ganz unterschiedliche Feedbacks den Künstler\*innen. Das Fachpublikum und alle Interessierten  sind herzlich eingeladen, in einen gemeinsamen wertschätzenden Diskurs zu gehen. 
 
 **Gespräche zu den Stücken : "Unisono" und  "Konferenz der Tiere"**
 
