@@ -24,7 +24,7 @@ Feedback ist wertvoll und wichtig und unterstützt die künstlerische (Weiter-) 
 
 > Datum: Dienstag, 19. November
 >
-> Beginn: 11:30-12:30 Uhr
+> Dauer: 11:30-12:30 Uhr
 >
 > Veranstaltet von ASITTEJ Austria
 > 
