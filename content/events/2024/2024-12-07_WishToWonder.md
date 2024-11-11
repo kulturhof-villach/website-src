@@ -15,7 +15,9 @@ draft = false
 +++
 
 
->EINTRITT: Abendkasse € 10.- 
+>EINTRITT: Abendkasse € 10.-
+>
+>KARTENRESERVIERUNG unter office@kulturhofvillach.at
 
 WISH TO WONDER steht für musikalische Freiheit ohne Genre-Grenzen. Ob Rock, Alternative oder andere Einflüsse - die Band schafft Songs, die genau das ausdrücken, worauf sie gerade Lust hat.
 
