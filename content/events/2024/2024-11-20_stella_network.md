@@ -1,5 +1,5 @@
 +++
-title = "STELLA-Darstellender.Kunst.Preis"
+title = "STELLA24 Darstellender.Kunst.Preis für junges Publikum"
 authors = ["kulturhofkeller"]
 date = 2024-11-20T17:15:00
 publishdate = 2021-05-01
@@ -14,8 +14,11 @@ tags = ["gespräch"]
 draft = false
 +++
 
-##  STELLA-Darstellender.Kunst.Preis
-### GET TOGETHER: LET'S NETWORK!
+##  STELLA*24 Darstellender.Kunst.Preis für junges Publikum
+
+Der STELLA ist der erste nationale Preis für außergewöhnliche Leistungen auf dem Gebiet der darstellenden Kunst für junges Publikum in Österreich und wurde 2007 von der ASSITEJ Austria ins Leben gerufen. Seitdem werden jedes Jahr im Rahmen des STELLA-Festivals die herausragenden Produktionen für Kinder und Jugendliche der vergangenen Saison präsentiert. Der STELLA soll das Potenzial, die Kreativität und die Professionalität der österreichischen Szene ins öffentliche Bewusstsein rufen und den Diskurs über Anspruch und Qualität in der darstellenden Kunst für junges Publikum weiterführen. Über die Festivals in Wien, Graz, Linz, St. Pölten, Vorarlberg/Liechtenstein, der Steiermark, Tirol und Salzburg entwickelte er sich dabei zu einer festen Größe und ist auch über die Grenzen Österreichs hinaus bekannt. 2024 findet der STELLA das zweite Mal nach 2019 in Kärnten statt!
+
+## GET TOGETHER: LET'S NETWORK!
 ### NEKUDAK, ASSITEJ & IG MUSIKVERMITTLUNG
 
 
