@@ -15,8 +15,7 @@ draft = false
 +++
 
 ##  Party! 
-### DJ Amina Handke w
-### Live Visuals by Goga Mason
+### DJ Amina Handke w / Live Visuals by Goga Mason
 
 
 **DE**
