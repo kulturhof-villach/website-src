@@ -30,6 +30,8 @@ Feedback ist wertvoll und wichtig und unterstützt die künstlerische (Weiter-) 
 > Dauer: 11:30-12:30 Uhr
 >
 > Veranstaltet von ASITTEJ Austria
+>
+> Eintritt frei
 > 
 > Kontakt und Anmeldung: office@assitej.at 
 >
