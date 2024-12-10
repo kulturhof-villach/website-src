@@ -12,3 +12,6 @@ tags = []
 +++
 
 
+{{< rel-figure src="img/Slider_Fairness_Codex.png" >}}
+
+[Fairness Codex](https://www.bmkoes.gv.at/dam/jcr:0dc7a56f-a1bb-43d2-a5c4-9e065af6ce72/fairness-codex-en.pdf)
