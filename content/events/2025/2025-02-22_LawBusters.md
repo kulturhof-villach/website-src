@@ -10,23 +10,25 @@ featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
 type = "event"
-tags = ["konzert"]
-draft = true
+tags = ["discussion"]
+draft = false
 +++
 
-> EINTRITT: Vorverkauf € 18.-\* / € 16.- *\*\
+> EINTRITT: Vorverkauf € 13.-\* / € 8.- \*\*
 > 
-> EINTRITT: Abendkassa € 21.- / € 18.- *\*\ € 8.-\*\*\*
+> EINTRITT: Abendkassa € 15.- / € 8.- \*\* € 8.-\*\*\*
 >
-> \*Im Vorverkauf auf [kupfticket.com/events/euroteuro](https://kupfticket.com/events/euroteuro)
+> \*Im Vorverkauf auf [kupfticket.com/events/law-busters](https://kupfticket.com/events/law-busters)
 >
-> \*\*Ermäßigungen für Studierende und Mindestpensionist\*innen
+> \*\*Ermäßigungen für Studierende, Lehrlinge und Mindestpensionist\*innen
 > 
-> \*\*\*Ermäßigungen für Jugendliche bis 19 Jahre und wirtschaftlich schwache Personen / Kontingent liegt an der Abendkasse auf
+> \*\*\*Ermäßigungen für Schüler\*innen, Menschen mit Behinderungen und wirtschaftlich schwache Personen / Kontingent liegt an der Abendkasse auf; für Einlassgarantie bitten wir um Reservierung
 >
-> Ticketreservierung zum Abendkassapreis über office@kulturhofvillach.at oder +43699/15088177 (bitte um Angabe von Name und Telefonnummer) 
+> Ticketreservierung zum Abendkassapreis über office@kulturhofvillach.at oder +43699/15088177 (bitte um Angabe von Name und Telefonnummer)
 >
-> **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard** - für Einlassgarantie - bitten wir um Reservierung
+> **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard in Kombination mit einem gültigen Lichtbildausweis;** für Einlassgarantie bitten wir um Reservierung
+>
+> **GRATIS EINTRITT für Personen bis zum vollendeten 14. Lebensjahr;** für Einlassgarantie bitten wir um Reservierung
 
 ## LAW BUSTERS IM KULTURHOF:VILLACH
 ### Wie geht Recht? ... in Echt!
