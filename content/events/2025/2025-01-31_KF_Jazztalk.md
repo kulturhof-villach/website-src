@@ -24,4 +24,4 @@ eine Bestandaufnahme mit Musikern, Veranstaltern und Fördergeber
 
 **Telefonische Kartenreservierung unter Tel: 0664 3568904, E-Mail: kulturforum@jalovetz.at sowie über Homepage www.kulturforumvillach.at**
 
-Veranstaltet von **Kulturforum Villach**, Völkendorferstraße 52/5, A-9500 Villach
+Veranstaltet von **Kulturforum Villach**
