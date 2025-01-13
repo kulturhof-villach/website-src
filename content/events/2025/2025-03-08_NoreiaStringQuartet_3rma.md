@@ -45,7 +45,18 @@ Das Noreia String Quartet besteht aus vier jungen Musikerinnen, die an der Gusta
 
 Foto © Ira & John
 
-#### Infos zu 3:rma folgen in Kürze
+#### 3:rma
+
+![3rma](/img/events/2025-03-08_3rma_IraJohn.jpg)
+Foto © Ira & John
+
+3:rma is a Slovenian dark folk duo led by vocalist Maša But and guitarist Urška Supej, that is known for their unique way of mixing poetry with music, as well as addressing social issues through their pieces.
+
+The duo has been performing on Slovenian and foreign stages (SAMC (BG), Athens Jazz (GR), Waves Vienna (AT), Kino Šiška, Kamfest (SI), Festival Lent (SI), DonnerSzenen (AT), StadtMacher (AT), Cankarjev Dom (SI)...) for the last three years and in last year released their debut album 'A Well-paved Road', that was recorded in collaboration with London-based guitarist and producer Femi Temowo. 
+
+As well as performing, the duo has successfully participated in contests and competitions (Festival Treks, Popevka Tedna, Mladi Zmaji, International Songwriting Competition, Slovenia Sounds Great...). 
+
+In January 2024 3:rma released a new record 'The Garden of Edna', a homage to the poet Edna St. Vincent Millay, which was completed in October at the Art Residence in London, organized by the Ministry of Culture.
 
 
 - Info Hotline: 0699 15088177 
