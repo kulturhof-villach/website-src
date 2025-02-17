@@ -1,5 +1,5 @@
 +++
-title = "Law Busters"
+title = "ABSAGE: Law Busters"
 authors = ["kulturhof"]
 date = 2025-02-22T20:00:00
 publishdate = 2021-05-01
@@ -29,6 +29,8 @@ draft = false
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard in Kombination mit einem gültigen Lichtbildausweis;** für Einlassgarantie bitten wir um Reservierung
 >
 > **GRATIS EINTRITT für Personen bis zum vollendeten 14. Lebensjahr;** für Einlassgarantie bitten wir um Reservierung
+
+## DER KULTURHOF:VILLACH SCHLIESST SICH DER TRAUERWOCHE DER STADT VILLACH AN. EIN STATEMENT DER TRAUER UND DES MITGEFÜHLS FÜR DIE OPFER, IHREN ANGEHÖRIGEN UND ALLEN BETROFFENEN. DIE VERANSTALTUNG WIRD ABGESAGT, TICKETPREISE WERDEN RETOURNIERT.
 
 ## LAW BUSTERS IM KULTURHOF:VILLACH
 ### Wie geht Recht? ... in Echt!
