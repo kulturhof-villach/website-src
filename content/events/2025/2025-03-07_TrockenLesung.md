@@ -14,7 +14,7 @@ tags = ["Lesung"]
 draft = false
 +++
 
-> EINTRITT: Abendkasse € 13.- / € 8.-\*
+> EINTRITT: Abendkasse € 12.- / € 8.-\*
 >
 > \*Ermäßigungen für Studierende, Lehrlinge und Mindestpensionist\*innen, Schüler\*innen, Menschen mit Behinderungen und wirtschaftlich schwache Personen / Kontingent liegt an der Abendkasse auf; für Einlassgarantie bitten wir um Reservierung
 >
