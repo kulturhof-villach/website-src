@@ -40,7 +40,8 @@ Nachdem das Konzert im Herbst 2024 abgesagt werden musste, bringen Lurch nun als
 ![Lurch](/img/events/2024-10-19_Lurch1.jpg)
 Fotos © Lurch
 
-Lurch sind laut, heavy und psychedelic. Mit verzerrten Gitarren, groovigen Basslines und harten Beats erschaffen sie einen Sound, der an die 70s erinnert und sowohl zum Tanzen als auch Headbangen einlädt. Die 4 Wienerinnen haben im März 2023 ihr Demo veröffentlicht und bringen nun ihr brandneues erstes Album nach Villach.
+Es wummert, dampft und jault durch die Gehörgänge, wenn Lurch auf der Bühne stehen. Sie
+machen psychedelische Musik für Metalfans, funky Garage Punk mit Doomgeschmack, ein bissl heavy, ein bissl frech und immer ein bissl aufs Maul. Und sie haben Spaß. Das zeigt auch ihr erstes Album, das am 14. März 2025 über StoneFree Records erscheinen wird – selftitled, auf Vinyl und digital. Einen kleinen Vorgeschmack auf das Debutalbum der vier Wienerinnen gibt’s am 28. Februar mit der Single CASCADE inkl. Musikvideo. Offiziell gefeiert wird der Release im März, April und Mai bei sechs Shows in Österreich – die erste davon am 15. März im Kulturhof:villach.
 
 
 ### Laser Eyes
