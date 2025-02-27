@@ -1,10 +1,10 @@
 +++
-title = "Daniel Wagner"
+title = "Daniel Wagner liest aus seinem Buch Trocken"
 authors = ["kulturhof"]
 date = 2025-03-07T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "Trocken"
+description = "Moderation Esther Csapo"
 featured = "img/events/2025-03-07_Wagner_Trocken.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -24,7 +24,8 @@ draft = false
 >
 > **GRATIS EINTRITT für Personen bis zum vollendeten 14. Lebensjahr;** für Einlassgarantie bitten wir um Reservierung
 
-## Daniel Wagner
+## Daniel Wagner | Moderation: Esther Csapo
+
 ### Lesung | Trocken
 
 **DER EWIGE KATER**
@@ -44,6 +45,17 @@ Foto © Esther Varga
 
 **Daniel Wagner**
 1989 in Villach geboren und aufgewachsen. Mit 20 zog er nach Wien, um Kommunikation zu studieren und im Anschluss als Werbetexter zu arbeiten. Diverse Kreativ-Awards und zu viel Wein später lieferte seine Alkoholkrankheit den Stoff für sein erstes Buch. Heute ist er seit fünf Jahren trocken und lebt wieder in Villach, wo er schreibt, atmet und gedeiht.
+
+## Moderation
+
+![Esther Csapo](/img/events/2025-03-07_Esther_Csapo_orf.jpg)
+Foto © ORF
+
+## Esther Csapo
+
+Esther Csapo war 20 Jahre lang Moderatorin und Redakteurin bei Radio FM4. 2019 wechselte die gebürtige Kärntnerin zum Fernsehen. Derzeit ist sie bei ORF Kids beschäftigt. Dort ist sie Moderatorin und Redakteurin der Kindernachrichten Zib Zack Mini, sowie der beiden Wissensformate für Kinder - Ganz Ohr und Hack Check. 
+Vor ihrer Zeit beim ORF hat sie an der FH St. Pölten Telekommunikation und Medien studiert, beim Privatradio PL1  gearbeitet und eine Schauspielausbildung 
+
 
 - Info Hotline: 0699 15088177 
 - E-Mail: office@kulturhofvillach.at
