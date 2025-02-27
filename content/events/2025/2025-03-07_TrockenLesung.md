@@ -54,7 +54,7 @@ Foto © ORF
 ## Esther Csapo
 
 Esther Csapo war 20 Jahre lang Moderatorin und Redakteurin bei Radio FM4. 2019 wechselte die gebürtige Kärntnerin zum Fernsehen. Derzeit ist sie bei ORF Kids beschäftigt. Dort ist sie Moderatorin und Redakteurin der Kindernachrichten Zib Zack Mini, sowie der beiden Wissensformate für Kinder - Ganz Ohr und Hack Check. 
-Vor ihrer Zeit beim ORF hat sie an der FH St. Pölten Telekommunikation und Medien studiert, beim Privatradio PL1  gearbeitet und eine Schauspielausbildung 
+Vor ihrer Zeit beim ORF hat sie an der FH St. Pölten Telekommunikation und Medien studiert, beim Privatradio PL1  gearbeitet und eine Schauspielausbildung abgeschlossen.
 
 
 - Info Hotline: 0699 15088177 
