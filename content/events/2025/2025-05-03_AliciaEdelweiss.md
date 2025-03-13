@@ -5,7 +5,7 @@ date = 2025-05-03T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "FURIE"
-featured = "img/events/2025-05-03_AliciaEdelweiss_c_AlexGotter.jpg"
+featured = "img/events/2025-05-03_AliciaEdelweiss_c_HannaFasching.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -42,7 +42,7 @@ In Begleitung ihrer Band präsentiert Alicia neben ihrem neuen Album auch Highli
 
 Christian Pausch von FM4 schreibt: "Die Lieder von Alicia Edelweiss bringen uns zum Lachen, bereiten uns Gänsehaut, erschüttern uns in ihrer Sanftheit, und zerreißen die Stille, wenn es die Geschichte des Liedes verlangt. Die Musikerin beweist immer wieder aufs Neue, dass sie in der Vielfalt zuhause ist."
 
-Foto © Alex Gotter
+Foto © Hanna Fasching
 
 
 - Info Hotline: 0699 15088177 
