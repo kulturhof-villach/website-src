@@ -36,7 +36,7 @@ Die unvergleichliche Alicia Edelweiss bringt ihr neues Album FURIE auf die Bühn
 
 Alicias Debütalbum „When I’m enlightened, everything will be better“ (2019) machte sie zu einer der spannendsten Stimmen der österreichischen Indie-Szene. Ihre Texte sind poetisch, skurril und oft von einer melancholischen Tiefe geprägt. Musikalisch wechselt sie mühelos zwischen Akkordeon, Gitarre, Ukulele und Klavier.
 
-Mit FURIE präsentiert die Musikerin ein Album, das vor Vielfalt strotzt und Emotionen entfesselt. Das Werk erscheint am 25.04.2025 und verbindet vielschichtige Klanglandschaften mit tiefgründigen Geschichten – eine musikalische Reise, die Instinkte, Intuition und ungezähmte Emotionen thematisiert.
+Mit FURIE präsentiert die Musikerin ein Album, das vor Vielfalt strotzt und Emotionen entfesselt. Das Werk erscheint am 09.05.2025 und verbindet vielschichtige Klanglandschaften mit tiefgründigen Geschichten – eine musikalische Reise, die Instinkte, Intuition und ungezähmte Emotionen thematisiert.
 
 In Begleitung ihrer Band präsentiert Alicia neben ihrem neuen Album auch Highlights ihres bisherigen Repertoires.
 
