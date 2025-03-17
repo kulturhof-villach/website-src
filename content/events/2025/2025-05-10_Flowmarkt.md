@@ -27,7 +27,7 @@ draft = false
 >
 >Anmeldung und Information: flowmarkt@kulturhofvillach.at
 >
->Standgebühren: 10 €
+>Standgebühren: 10 € für 2 Meter + 5 € für jeden weiteren Meter
 >
 >Bei Schlechtwetter wird auf 17. Mai verschoben
 
