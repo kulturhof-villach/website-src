@@ -47,7 +47,7 @@ Im Trio tritt Sigrid Horn gemeinsam mit Bernhard Scheiblauer und Sarah Metzler a
 
 Foto © Pamela Russmann
 
-![SigridHornTrio](/img/events/2025-06-20_SigridHornTrio_c_Daniela Matejschek.jpg)
+![SigridHornTrio](/img/events/2025-06-20_SigridHornTrio_Daniela Matejschek.jpg)
 Foto © Daniela Matejschek
 
 
