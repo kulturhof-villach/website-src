@@ -4,7 +4,7 @@ authors = ["kulturhof"]
 date = 2025-05-03T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "FURIE"
+description = "18:30 Uhr - Vernissage Marsel Osovska"
 featured = "img/events/2025-05-03_AliciaEdelweiss_c_HannaFasching.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -44,6 +44,16 @@ Christian Pausch von FM4 schreibt: "Die Lieder von Alicia Edelweiss bringen uns 
 
 Foto © Hanna Fasching
 
+## Vernissage
+
+Vor dem Konzert von Alicia Edelweiss sind alle herzlich zur neuen Ausstellung im :schauraum eingeladen. Die Künstlerin Marsel Osovska wird ihre Werke bei der Vernissage um 18:30 Uhr präsentieren.
+
+Marsel Osovska:  Bildende Künstlerin, geboren 2005 in Winnyzja, Ukraine. Lebt, studiert und arbeitet seit 2023 in Kärnten, Österreich. Arbeitet mit Themen wie zwischenmenschlichen Beziehungen, Selbsterkundung und Krieg durch kleinformatige Acrylbilder von „Geistern“ - Kreaturen, die sich in weißem Stoff verstecken und als „Leinwand“ dienen, um die Botschaft der Künstlerin zu vermitteln, die nicht mit Worten ausgedrückt werden kann.
+Zur Ausstellung: Manchmal reichen Worte nicht aus, um ein Gefühl zu erklären, vor allem wenn man nicht einfach mit dem Finger darauf zeigen kann: Frieden, Liebe, Glück, Depression, Trauer, Heimweh... 
+Farben und Formen fungieren als Gefäße, die den Betrachter von der Farbe auf der Leinwand zurück in die Spalten seines eigenen Geistes und seiner Seele führen. Diejenigen, die im Schatten stehen, im Schatten lauern und beobachten, ansonsten - Geister, fangen diese Gefühle oft aus der zarten Perspektive eines Beobachters ein. Das härteste, überwältigendste Gefühl, sei es positiv oder negativ, bedarf manchmal keiner poetischen Darstellung. Vielmehr ist es oft so unverhohlen und direkt, dass es gehört werden will... Kannst du es hören?
+
+![Marsel Osovska](/img/events/2025-05-03_schauraum_MarselOsovska.jpg)
+© Marsel Osovska
 
 - Info Hotline: 0699 15088177 
 - E-Mail: office@kulturhofvillach.at
