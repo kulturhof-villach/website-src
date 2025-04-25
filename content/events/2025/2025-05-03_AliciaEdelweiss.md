@@ -52,7 +52,7 @@ Marsel Osovska:  Bildende Künstlerin, geboren 2005 in Winnyzja, Ukraine. Lebt, 
 Zur Ausstellung: Manchmal reichen Worte nicht aus, um ein Gefühl zu erklären, vor allem wenn man nicht einfach mit dem Finger darauf zeigen kann: Frieden, Liebe, Glück, Depression, Trauer, Heimweh... 
 Farben und Formen fungieren als Gefäße, die den Betrachter von der Farbe auf der Leinwand zurück in die Spalten seines eigenen Geistes und seiner Seele führen. Diejenigen, die im Schatten stehen, im Schatten lauern und beobachten, ansonsten - Geister, fangen diese Gefühle oft aus der zarten Perspektive eines Beobachters ein. Das härteste, überwältigendste Gefühl, sei es positiv oder negativ, bedarf manchmal keiner poetischen Darstellung. Vielmehr ist es oft so unverhohlen und direkt, dass es gehört werden will... Kannst du es hören?
 
-![Marsel Osovska](/img/events/2025-05-03_schauraum_MarselOsovska.jpg)
+![Marsel Osovska](/img/events/2025-05-03_schauraum_c_MarselOsovska.jpg)
 © Marsel Osovska
 
 - Info Hotline: 0699 15088177 
