@@ -5,7 +5,7 @@ date = 2025-06-27T18:00:00
 publishdate = 2021-09-23 
 description = "Bachmanntage - Lesungen junger Autorinnen" 
 time = "18:00" 
-featured = "img/news/2025-06-27_LitNeueJungeLiteratur.png" 
+featured = "img/news/2025-06-27_LitNeueJungeLiteratur.PNG" 
 type = "news"
 draft = false
 +++
