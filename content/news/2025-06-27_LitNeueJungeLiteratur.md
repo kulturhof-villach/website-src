@@ -22,6 +22,7 @@ Im Anschluss treten Edna Million und Kommando Elefant auf und a.c.m.e,- gibt ein
 
 **Interessierte können sich bis 22. Juni per Mail an office@kulturhofvillach.at anmelden.**
 
+
 #### Kriterien für die Teilnahme:
 > - persönlich verfasster Text
 > - in Prosa
