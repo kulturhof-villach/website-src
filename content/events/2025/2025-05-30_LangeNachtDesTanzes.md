@@ -1,5 +1,5 @@
 +++
-title = "Lange Nacht des Tanzes"
+title = "LANGE NACHT DES TANZES | DOLGA NOČ PLESA"
 authors = ["kulturhofkeller"]
 date = 2025-05-30T18:30:00
 publishdate = 2021-05-01
@@ -14,22 +14,34 @@ tags = ["performance"]
 draft = false
 +++
 
-### Lange Nächte des Tanzes Bleiburg & Villach
+### LANGE NACHT DES TANZES | DOLGA NOČ PLESA
 
-2025 veranstaltet das CCB erstmals die „Langen Nächte des Tanzes“ – 2 Lange Nächte des Tanzes in 2 Städten an einem Wochenende. Das CCB möchte die LNT in seiner Gründungsstadt Bleiburg verfestigen, um die Zusammenarbeit mit dem lokalen Publikum zu intensivieren und plant gleichzeitig, wieder in wechselnden Städten in Kärnten aufzutreten und somit das Festival landesweit zu etablieren. Bislang wurde die LNT bereits 17x in Bleiburg, Gmünd, Slovenj Gradec, Feldkirchen, Villach, St. Kanzian und Millstatt abgehalten.
+2025 präsentiert das Center for Choreography Bleiburg/Pliberk erstmals zwei Lange Nächte des Tanzes an einem einzigen Wochenende – in Bleiburg und Villach! Unter dem Motto der Vielfalt des zeitgenössischen Tanzes verspricht dieses Event ein fesselndes Erlebnis für alle Tanzbegeisterten. Das Publikum wird durch die Stadt geführt und erlebt an verschiedenen Schauplätzen zeitgenössischen Tanz. Künstler:innen aus über 10 Ländern werden die Straßen von Bleiburg und Villach mit ihrer Kreativität zum Leben erwecken. 
 
-Dieses Festival zeichnet sich durch seine wandelnden Themen und die abwechselnde Bespielung verschiedener historischer Städte und Orte in Kärnten aus. Sowohl Künstler:innen als auch Publikum werden auf ungewöhnliche Weise herausgefordert – allein schon durch die kompakte Inszenierung mit bis zu 20 Vorstellungen an einem einzigen Abend und die außergewöhnlichen Aufführungsorte. Dies ermöglicht eine einzigartige Erfahrung für die Künstler:innen, die die Gelegenheit erhalten, ortsbezogene kreative Arbeit zu leisten und in einen intensiven Austausch mit der einheimischen Bevölkerung zu treten.
+Leta 2025 bo Center for Choreography Bleiburg/Pliberk prvič uprizoril dve Dolgi noči plesa v enem vikendu – v Pliberku in Beljaku! Dogodek, ki poteka pod geslom raznolikosti sodobnega plesa, obeta nepozabno izkušnjo za vse ljubitelje:ice plesa. Publika bo vodena skozi mesto ter na različnih prizoriščih doživela sodobni ples. Umetniki:ce iz več kot desetih držav bodo s svojo ustvarjalnostjo oživili:e ulice Pliberka in Beljaka.
 
-> VILLACH | Freitag, 30.5., 18:30 – 00:00, Eröffnung: Rathausplatz
+> VILLACH | BELJAK
 >
-> BLEIBURG | Samstag, 31.5., 18:30 – 00:00, Eröffnung: 10. Oktober-Platz
+> FREITAG | PETEK, 30.5., 18:30 – 00:00
 >
-> TICKETPREISE: 20 EUR NORMAL / 15 EUR Kinder, Jugend und Studierende; Reservierung: ccb@ccb-tanz.at
+> Eröffnung | otvoritev: RATHAUSPLATZ | TRG MESTNE HIŠE
 >
-> Kostenlose Tanzworkshops: 29.5., Villach | Rathausplatz: Petra Peček representing the label Andrea K. Schlehwein + NETZWERK AKS; Anmeldung bevorzugt: ocb@ocb-tanz.at
-> 
+> TICKET INDOOR: EUR 20,00
+>
+> ERMÄßIGT | ZNIŽANO: EUR 15,00
+>
+> OUTDOOR: GRATIS | PROSTO!
+>
+> BEI JEDEM WETTER/OB VSAKEM VREMENU
+>
+> Reservierungen/rezervacije: ccb@ccb-tanz.at
+>
+> Kontakt: +4367762823602
+>
+> www.ccb-tanz.at | www.facebook.com/ccbbleiburgpliberk | www.instagram.com/ccb.centerforchoreography
+>
 > [Programm-Download](https://ccb-tanz.at/wp-content/uploads/2025/04/LNT25_FOLDER.pdf)
 
 
-- Info Hotline: 0699 15088177 
+- Kulturhof:villach: 0699 15088177 
 - E-Mail: office@kulturhofvillach.at
