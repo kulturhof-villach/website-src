@@ -25,7 +25,7 @@ Im Rahmen des Wettlesens lädt der Kulturhof:villach Jugendliche ein, ihre eigen
 
 Als Preise winken Freikarten für Veranstaltungen im Kulturhof und in der neuenbühnevillach, aber auch begleitetes Textschreiben mit Profis des TURBOtheater sowie eine große Bücherauswahl gesponsert von Thalia.
 
-#### Kriterien für die Teilnahme am Wettlesen:
+#### Kriterien für die Teilnahme:
 > - persönlich verfasster Text
 > - in Prosa
 > - deutschsprachig
