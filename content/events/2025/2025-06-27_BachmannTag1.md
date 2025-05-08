@@ -14,7 +14,7 @@ tags = ["konzert"]
 draft = false
 +++
 
->Programm am Freitag, 27. Juni:
+>Programm am Freitagabend, 27. Juni:
 >
 >•	18:00 Uhr - lit! neue junge literatur - Wettlesen junger Villacher Autor*innen
 >
