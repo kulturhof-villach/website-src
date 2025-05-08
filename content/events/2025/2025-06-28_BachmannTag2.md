@@ -1,5 +1,5 @@
 +++
-title = "Vernissage art:wall & schauraum | Lesung Clemens Hofer"
+title = "Vernissage art:wall & :schauraum | Lesung Clemens Hofer"
 authors = ["kulturhof"]
 date = 2025-06-28T18:00:00
 publishdate = 2021-05-02
