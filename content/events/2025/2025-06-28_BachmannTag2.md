@@ -14,7 +14,7 @@ tags = ["lesung"]
 draft = false
 +++
 
->Programm am Samstag, 28. Juni:
+>Programm am Samstagabend, 28. Juni:
 >
 >•	18:00 Uhr - Vernissage art:wall und :schauraum
 >
