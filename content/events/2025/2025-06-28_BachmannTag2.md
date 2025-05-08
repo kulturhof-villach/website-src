@@ -56,6 +56,11 @@ Veranstaltungsmoderationen sowie Auftritte bei Rap-Konzerten.
 https://clemenshofer.at/
 
 
+## Jazz im Kulturhof:keller ##
+Um 20 Uhr ist der Villacher Jazzmusiker Gerd Schuller auf der Bühne des Kulturhof:kellers zu erleben. Diese Veranstaltung wird vom Kulturforum Villach organisiert und findet nicht im Rahmen der Bachmanntage statt. Es ist der reguläre Eintritt zu bezahlen.
+
+[Ein Abend mit dem Kulturpreisträger Gerd Schuller](https://kulturhofvillach.at/events/2025/2025-06-28_kf/)
+
 
 >Infos unter
 >
