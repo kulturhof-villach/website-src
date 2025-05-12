@@ -1,5 +1,5 @@
 +++
-title = "Vernissage art:wall & :schauraum | Lesung Clemens Hofer"
+title = "Lesung Clemens Hofer | Vernissage art:wall & :schauraum"
 authors = ["kulturhof"]
 date = 2025-06-28T18:00:00
 publishdate = 2021-05-02
@@ -16,22 +16,15 @@ draft = false
 
 >Programm am Samstagabend, 28. Juni:
 >
->•	18:00 Uhr - Vernissage art:wall und :schauraum
+>•	18:00 Uhr - Lesung Clemens Hofer
 >
->•	19:00 Uhr - Lesung Clemens Hofer
+>•	19:00 Uhr - Vernissage art:wall und :schauraum
 >
 >•	20:00 Uhr - Empfehlung: Jazz im Kulturhof:keller mit Gerd Schuller (Veranstalter: Kulturforum Villach)
 >
 >**Eintritt frei bei Vernissage und Lesung**
 >
 >[Infos zu den Lesungen und dem gesamten Bachmann-Programm im Kulturhof:villach](https://kulturhofvillach.at/events/2024/2024-06-27_bachmann/)
-
-
-
-## Vernissage art:wall und :schauraum ##
-
-Infos folgen
-
 
 
 ## Lesung Clemens Hofer ##
@@ -54,6 +47,11 @@ Veröffentlichungen in den Lichtungen und Druckwerken des Kärntner Bildungswerk
 Veranstaltungsmoderationen sowie Auftritte bei Rap-Konzerten.
 
 https://clemenshofer.at/
+
+
+## Vernissage art:wall und :schauraum ##
+
+Infos folgen
 
 
 ## Jazz im Kulturhof:keller ##
