@@ -20,7 +20,7 @@ draft = false
 >
 >•	19:00 Uhr - Vernissage art:wall und :schauraum
 >
->•	20:00 Uhr - Empfehlung: Jazz im Kulturhof:keller mit Gerd Schuller (Veranstalter: Kulturforum Villach)
+>•	19:30 Uhr - Empfehlung: Jazz im Kulturhof:keller mit Gerd Schuller (Veranstalter: Kulturforum Villach)
 >
 >**Eintritt frei bei Vernissage und Lesung**
 >
@@ -55,7 +55,7 @@ Infos folgen
 
 
 ## Jazz im Kulturhof:keller ##
-Um 20 Uhr ist der Villacher Jazzmusiker Gerd Schuller auf der Bühne des Kulturhof:kellers zu erleben. Diese Veranstaltung wird vom Kulturforum Villach organisiert und findet nicht im Rahmen der Bachmanntage statt. Es ist der reguläre Eintritt zu bezahlen.
+Um 19:30 Uhr ist der Villacher Jazzmusiker Gerd Schuller auf der Bühne des Kulturhof:kellers zu erleben. Diese Veranstaltung wird vom Kulturforum Villach organisiert und findet nicht im Rahmen der Bachmanntage statt. Es ist der reguläre Eintritt zu bezahlen.
 
 [Ein Abend mit dem Kulturpreisträger Gerd Schuller](https://kulturhofvillach.at/events/2025/2025-06-28_kf/)
 
