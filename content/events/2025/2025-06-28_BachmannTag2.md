@@ -51,6 +51,8 @@ https://clemenshofer.at/
 
 ## Vernissage art:wall und :schauraum ##
 
+Vernissage art:wall - Lenia Friedrich
+Vernissage :schauraum - Lana Vollmann & Vivien Vejvar (CHS Villach)
 Infos folgen
 
 
