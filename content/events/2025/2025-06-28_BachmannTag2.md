@@ -20,7 +20,7 @@ draft = false
 >
 >•	19:00 Uhr - Vernissage art:wall und :schauraum
 >
->•	19:30 Uhr - Empfehlung: Jazz im Kulturhof:keller mit Gerd Schuller (Veranstalter: Kulturforum Villach)
+>Im Anschluss, nach dem offiziellen Bachmann-Rahmenprogramm, findet ein Jazz-Konzert mit Gerd Schuller statt, dass wir euch sehr gerne empfehlen möchten!
 >
 >**Eintritt frei bei Vernissage und Lesung**
 >
