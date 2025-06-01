@@ -11,7 +11,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["Konzert"]
-draft = fals
+draft = false
 +++
 
 >FREIER EINTRITT 
