@@ -18,7 +18,7 @@ draft = false
 >
 > [spectrum festival](https://www.festivalspectrum.com/portfolios/erianvernissage/)
 >
-> Ort: Kulturhof:villach
+> Ort: Kulturhof:villach 
 > 
 > 5. Juli, 21:00 Uhr
 >
