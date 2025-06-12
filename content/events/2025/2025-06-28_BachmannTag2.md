@@ -61,6 +61,7 @@ menschlicher Wahrnehmung und Erinnerungsbildung.  Sie beendete 2024 ihr Diplomst
 mit Auszeichnung in Mediale Künste an der Kunsthochschule für Medien in Köln, zuvor BA in Mediendesign in Münster und Bauzeichnerlehre.
 
 www.leniafriedrich.de
+
 instagram: @leniafriedrich
 
 ![Lenia Friedrich](/img/events/2025-06-28_LeniaFriedrich_c_JelenaIlic.jpg)
