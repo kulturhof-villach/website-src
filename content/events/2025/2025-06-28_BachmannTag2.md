@@ -64,7 +64,7 @@ www.leniafriedrich.de
 
 instagram: @leniafriedrich
 
-![Lenia Friedrich](/img/events/2025-06-28_LeniaFriedrich_c_JelenaIlic.jpg)
+![Lenia Friedrich](/img/events/2025-06-28_Lenia Friedrich_c_JelenaIlic.jpg)
 © Jelena Ilic
 
 ### Gestaltung art:wall
