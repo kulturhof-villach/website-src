@@ -1,7 +1,7 @@
 +++
 title = "Regentrude"
 authors = ["kulturhofkeller"]
-date = 2025-07-31T19:00:00
+date = 2025-07-02T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Theater licHTerLoh"
