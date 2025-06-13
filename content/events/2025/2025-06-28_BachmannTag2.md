@@ -93,6 +93,9 @@ Wir laden herzlich ein zu einer Ausstellung, die nicht nur das Auge, sondern vor
 
 Jedes Werk spricht seine eigene Sprache – manchmal laut, manchmal leise – und lädt ein zum Innehalten, zum Nachdenken, zum Fühlen. Wir freuen uns sehr, euch unsere "Keine Gedankenwelt" näherzubringen und gemeinsam in die Tiefe unserer inneren Landschaften einzutauchen.
 
+![schauraum](/img/events/2025-06-28_schauraum.jpg)
+© Lana Vollmann & Vivien Vejvar
+
 ### Vejvar Vivien - WEWA
 WEWA – das ist mein Künstlername. Er ist eine verkürzte, persönliche Abwandlung meines Familiennamens und steht für Eigenschaften, die mir wichtig sind: Wertvoll, Ehrgeizig, Wagemutig und   Authentisch.
 Ich heiße Vivien Vejvar, bin 17 Jahre alt und ständig auf der Suche nach neuen Wegen, meine kleine Welt zu verlassen und mich kreativ auszudrücken.
