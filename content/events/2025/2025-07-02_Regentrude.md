@@ -11,7 +11,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["theater"]
-draft = false
+draft = true
 +++
 
 Am 27. Juni geht es in Villach um's Klima. In diesem Rahmen bringt das Theater licHTerLoh am 1. & 2. Juli ihr Stück "Die Regentrude" auf die Kulturhof:bühne.
