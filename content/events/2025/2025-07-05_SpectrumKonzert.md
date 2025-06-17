@@ -1,5 +1,5 @@
 +++
-title = "Spektrum Festival - Low Life Rich Kids"
+title = "Spectrum Festival - Low Life Rich Kids"
 authors = ["festival-spectrum"]
 date = 2025-07-04T21:00:00
 publishdate = 2021-05-01
@@ -29,7 +29,7 @@ draft = false
 ![Low Life Rich Kids](/img/events/2025-07-05_LowLifeRichKids_Nele_Christoph.JPG)
 © Nele Christoph
 
-## LOW LIFE RICH KIDS - Konzert mit Bernhard Eders aktueller Band
+## LOW LIFE RICH KIDS
 
 Die Band, die ursprünglich für das Theaterstück "Über Nacht" am Wiener Burgtheater gegründet wurde, hat sich rasch als eigenständiges Projekt rund um die Schauspieler*innen Mara Romei und Coco Brell sowie dem renommierten Singer/Songwriter Bernhard Eder etabliert und beeindruckt mit einer Mischung aus Post-Punk und Neuer Deutscher Welle.
 
