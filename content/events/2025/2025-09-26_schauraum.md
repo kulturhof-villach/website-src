@@ -4,7 +4,7 @@ authors = ["kulturhof"]
 date = 2025-09-26T18:00:00
 publishdate = 2021-05-01
 time = "18:00"
-description = "Valentina Santner | conni feitsinger aka ratriot | Kateryna Hryvul"
+description = "Vernissage: Valentina Santner | conni feitsinger aka ratriot | Kateryna Hryvul"
 featured = "img/events/2025-09-26_schauraum_main.JPG"
 featuredVideo = ""
 featuredVimeo = ""
@@ -15,7 +15,6 @@ draft = false
 +++
 
 > VERNISSAGE IN :SCHAURAUM UND :KLANGKORRIDOR
-> EINTRITT FREI
 
 ## Schreibmähschine
 
