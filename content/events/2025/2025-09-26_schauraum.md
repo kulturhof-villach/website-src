@@ -52,6 +52,7 @@ In dieser Performance wird der Schreibprozess durch eine Schreibmaschine personi
 Dieses Projekt ist in der Lehrveranstaltung von Jakob Scheid und Clemens Gadenstätter in Kooperation mit der Kunstuniversität Graz (Insitut für Komposition, Musiktheorie und Musikgeschichte) entstanden. Am 8. Mai 2025 wurden die Instrumente, sowie auch die Schreibmähschine, in einer Konzertsituation in Graz im Ligeti-Saal das erste Mal gespielt. Ein weiteres Konzert findet am Angewandte Festival Ende Juni 2025 stattfinden.
 
 ![Schreibmaschine](/img/events/2025-09-26_schauraum.JPG)
+
 Fotos © Lucija Novak
 
 ### Valentina Santner
