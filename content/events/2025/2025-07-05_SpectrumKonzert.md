@@ -1,7 +1,7 @@
 +++
 title = "Spectrum Festival - Low Life Rich Kids"
 authors = ["festival-spectrum"]
-date = 2025-07-04T21:00:00
+date = 2025-07-05T21:00:00
 publishdate = 2021-05-01
 time = "21:00"
 description = "Anschließend DJ-SET mit VVV ratriot"
