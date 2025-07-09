@@ -1,0 +1,54 @@
++++
+title = "NENDA"
+authors = ["kulturhof"]
+date = 2025-11-13T19:00:00
+publishdate = 2021-05-01
+time = "19:00"
+description = "KRRRA TOUR 2025"
+featured = "img/events/2025-11-13_Kopf.jpg"
+featuredVideo = ""
+featuredVimeo = ""
+linktitle = ""
+type = "event"
+tags = ["konzert"]
+draft = true
++++
+
+
+2025-11-13_Manuel_Dragan_c_Theresa_Pewal.jpg
+2025-11-13_Natalie_c_Patrick_Conor_Klopf.jpg
+2025-11-13_Rudi_Katholnig_HansPeter_Steiner.jpg
+
+
+> EINTRITT: Vorverkauf € 18.-\* / € 16.-\*\*
+> 
+> EINTRITT: Abendkassa € 20.- / € 18.-\*\* € 10.-\*\*\*
+>
+> \*Im Vorverkauf auf [kupfticket.com/events/nenda](https://kupfticket.com/events/nenda)
+>
+> \*\*Ermäßigungen für Studierende, Lehrlinge und Mindestpensionist\*innen
+> 
+> \*\*\*Ermäßigungen für Schüler\*innen, Menschen mit Behinderungen und wirtschaftlich schwache Personen / Kontingent liegt an der Abendkasse auf; für Einlassgarantie bitten wir um Reservierung
+>
+> Ticketreservierung zum Abendkassapreis über office@kulturhofvillach.at oder +43699/15088177 (bitte um Angabe von Name und Telefonnummer)
+>
+> **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard in Kombination mit einem gültigen Lichtbildausweis;** für Einlassgarantie bitten wir um Reservierung
+>
+> **GRATIS EINTRITT für Personen bis zum vollendeten 14. Lebensjahr;** für Einlassgarantie bitten wir um Reservierung
+
+
+
+#### NENDA
+
+**NENDA** ist eine Künstlerin aus den Tiroler Alpen. Als Schauspielerin ist sie aus Serien wie The Rising (Sky) & Belgravia: The Next Chapter (MGM+, Amazon) bekannt.
+Als Musikerin gewann NENDA diverse Auszeichnungen für ihre selbstproduzierten Musikvideos. Ihre Debutsingle „Mixed Feelings“ toppte die FM4 Jahrescharts 2021.
+NENDA’s Debutalbum KRRRA wird im Herbst 2025 veröffentlicht, darauf bespricht sie weiterhin Themen wie Identität und gesellschaftspolitische Fragen. Das Album bringt Einsicht in ihre Lebenswelt – als Tirolerin sowie Londonerin, als Mauerblümchen sowie Boss Bitch. Vollgepackt mit ehrlichen Emotionen, humorvollen Charakteren und bleibenden Eindrücken.
+
+
+![NENDA](/img/events/2025-11-28_NENDAc_Yuki_Gaderer.jpg)
+Foto © Yuki Gaderer
+Foto Banner © Suna.films
+
+
+- Info Hotline: 0699 15088177 
+- E-Mail: office@kulturhofvillach.at
