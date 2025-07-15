@@ -1,30 +1,24 @@
 +++
-title = "NENDA"
+title = "Kopf üban Loch"
 authors = ["kulturhof"]
 date = 2025-11-13T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
-description = "KRRRA TOUR 2025"
+description = "Poesie und Musik"
 featured = "img/events/2025-11-13_Kopf.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
 type = "event"
-tags = ["konzert"]
-draft = true
+tags = ["poesie"]
+draft = false
 +++
 
-
-2025-11-13_Manuel_Dragan_c_Theresa_Pewal.jpg
-2025-11-13_Natalie_c_Patrick_Conor_Klopf.jpg
-2025-11-13_Rudi_Katholnig_HansPeter_Steiner.jpg
-
-
-> EINTRITT: Vorverkauf € 18.-\* / € 16.-\*\*
+> EINTRITT: Vorverkauf € 20.-\* / € 16.-\*\*
 > 
-> EINTRITT: Abendkassa € 20.- / € 18.-\*\* € 10.-\*\*\*
+> EINTRITT: Abendkassa € 25.- / € 21.-\*\* € 10.-\*\*\*
 >
-> \*Im Vorverkauf auf [kupfticket.com/events/nenda](https://kupfticket.com/events/nenda)
+> \*Im Vorverkauf auf [kupfticket.com/events/kopf-ueban-loch](https://kupfticket.com/events/kopf-ueban-loch)
 >
 > \*\*Ermäßigungen für Studierende, Lehrlinge und Mindestpensionist\*innen
 > 
@@ -38,16 +32,36 @@ draft = true
 
 
 
-#### NENDA
+### Kopf üban Loch
+## Poesie und Musik
 
-**NENDA** ist eine Künstlerin aus den Tiroler Alpen. Als Schauspielerin ist sie aus Serien wie The Rising (Sky) & Belgravia: The Next Chapter (MGM+, Amazon) bekannt.
-Als Musikerin gewann NENDA diverse Auszeichnungen für ihre selbstproduzierten Musikvideos. Ihre Debutsingle „Mixed Feelings“ toppte die FM4 Jahrescharts 2021.
-NENDA’s Debutalbum KRRRA wird im Herbst 2025 veröffentlicht, darauf bespricht sie weiterhin Themen wie Identität und gesellschaftspolitische Fragen. Das Album bringt Einsicht in ihre Lebenswelt – als Tirolerin sowie Londonerin, als Mauerblümchen sowie Boss Bitch. Vollgepackt mit ehrlichen Emotionen, humorvollen Charakteren und bleibenden Eindrücken.
+Ein literarisch-musikalischer Abend mit Gedichten von Hermes Fritz
+
+An zwei besonderen Abenden laden wir herzlich ein zu einer kraftvollen Begegnung zwischen Literatur, Schauspiel und Musik!
+
+![Natalie Krainer](/img/events/2025-11-13_Natalie_c_Patrick_Conor_Klopf.jpg)
+Natalie Krainer, Foto: © Patrick Conor Klopf
+
+![Manuel Dragan](/img/events/2025-11-13_Manuel_Dragan_c_Theresa_Pewal.jpg)
+Manuel Dragan, Foto: © Theresa Pewal
+
+Im Zentrum stehen die feinsinnigen, humorvollen und bildstarken Gedichte von Hermes Fritz – steirischer Autor, Grafiker und bildender Künstler.
+Gelesen werden seine Texte von den Kärntner Schauspieler\*innen Manuel Dragan und Natalie Krainer, deren Interpretationen mitreißen und berühren.
+
+![Rudi Katholnig und Hans-Peter Steiner](/img/events/2025-11-13_Rudi_Katholnig_HansPeter_Steiner.jpg)
+Rudi Katholnig und Hans-Peter Steiner
+
+Musikalisch begleitet wird der Abend vom Duo Rudi Katholnig & Hans-Peter Steiner – ein klangvoller Dialog zwischen Tönen und Texten.
+
+Steiermark und Kärnten – wird sich das vertragen?
+Wir sagen: Unbedingt! Es erwartet Sie eine gelungene Mischung aus großer Kunst, feinem Humor und einem musikalischen Ohrenschmaus.
 
 
-![NENDA](/img/events/2025-11-28_NENDAc_Yuki_Gaderer.jpg)
-Foto © Yuki Gaderer
-Foto Banner © Suna.films
+> Termine: 13. und 15. November 2025
+>
+> Beginn: 19:00 Uhr
+>
+> Kulturhof:villach Lederergasse, 15, 9500 Villach
 
 
 - Info Hotline: 0699 15088177 
