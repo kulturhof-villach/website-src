@@ -35,9 +35,12 @@ draft = false
 ### Kopf üban Loch
 ## Poesie und Musik
 
-Ein literarisch-musikalischer Abend mit Gedichten von Hermes Fritz
+**Steiermark trifft Kärnten – Poesie & Musik**
+Ein literarisch-musikalischer Abend mit Herms Fritz
 
 An zwei besonderen Abenden laden wir herzlich ein zu einer kraftvollen Begegnung zwischen Literatur, Schauspiel und Musik!
+
+Satirisch-ironisch, humorig-derb und manchmal herrlich absurd: Die Gedichte des steirischen Autors, Grafikers und bildenden Künstlers Herms Fritz sind ein Fest für Freund*innen der schrägen Poesie und des schwarzen Humors.
 
 ![Natalie Krainer](/img/events/2025-11-13_Natalie_c_Patrick_Conor_Klopf.jpg)
 Natalie Krainer, Foto: © Patrick Conor Klopf
@@ -45,17 +48,14 @@ Natalie Krainer, Foto: © Patrick Conor Klopf
 ![Manuel Dragan](/img/events/2025-11-13_Manuel_Dragan_c_Theresa_Pewal.jpg)
 Manuel Dragan, Foto: © Theresa Pewal
 
-Im Zentrum stehen die feinsinnigen, humorvollen und bildstarken Gedichte von Hermes Fritz – steirischer Autor, Grafiker und bildender Künstler.
-Gelesen werden seine Texte von den Kärntner Schauspieler\*innen Manuel Dragan und Natalie Krainer, deren Interpretationen mitreißen und berühren.
+Gelesen werden seine Texte von den Kärntner Schauspielerinnen Manuel Dragan und Natalie Krainer, deren Interpretationen mitreißen und berühren.
 
 ![Rudi Katholnig und Hans-Peter Steiner](/img/events/2025-11-13_Rudi_Katholnig_HansPeter_Steiner.jpg)
 Rudi Katholnig und Hans-Peter Steiner
 
 Musikalisch begleitet wird der Abend vom Duo Rudi Katholnig & Hans-Peter Steiner – ein klangvoller Dialog zwischen Tönen und Texten.
 
-Steiermark und Kärnten – wird sich das vertragen?
-Wir sagen: Unbedingt! Es erwartet Sie eine gelungene Mischung aus großer Kunst, feinem Humor und einem musikalischen Ohrenschmaus.
-
+Freuen Sie sich auf einen Abend voller Lustigkeit, Kunst und Klang, bei dem kein Auge trocken bleibt – und kein Ohr unberührt.
 
 > Termine: 13. und 15. November 2025
 >
