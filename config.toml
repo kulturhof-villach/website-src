@@ -81,6 +81,7 @@ icon = "fab fa-instagram fa-lg"
     land = "img/logos/land.png"
     bund = "img/logos/bund.png"
     jugendcard = "img/logos/jugendcard-bubble.png"
+    hakuk = "img/logos/hakuk.png"
 
 #Enable inline html
 [markup.goldmark.renderer]

@@ -59,6 +59,7 @@
             {{ if and (eq .Type "event") (in .Params.authors "kulturhof")}}
             <div class="is-1">
               <figure class="">
+                <img src="{{ .Site.Params.logo.hakuk | relURL  }}" width="100px">
                 <img src="{{ .Site.Params.logo.jugendcard | relURL  }}" width="200px">
               </figure>
             </div>
