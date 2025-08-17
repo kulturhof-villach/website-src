@@ -19,3 +19,11 @@ Der Kulturhof:villach ist das Kulturzentrum der Stadt, das seit 2011 alternative
 {{< rel-figure src="img/Slider_Fairness_Codex.png" >}}
 
 [Fairness Codex](https://www.bmkoes.gv.at/dam/jcr:ee849de0-6295-4c48-8ba0-4e33d8442abd/220511_Fairness-Codex_Broschüre_A5_BF.pdf)
+
+{{< figure src="img/logos/hakuk.png" width="150px">}}
+
+Der Kulturpass gilt für alle Veranstaltungen, die vom Kulturhof selbst veranstaltet werden (auf der
+Website markiert mit kleinem türkisen Logo und gekennzeichnet mit der Aufschrift "Kulturhof" ). Er ist
+nicht gültig für Veranstaltungen, die von anderen Vereinen oder Veranstalter * innen, die sich im
+Kulturhof einmieten, durchgeführt werden. Pro Veranstaltung gibt es ein Kontingent von max. 10
+Tickets - je nach Verfügbarkeit . Für Einlassgarantie bitten wir um rechtzeitige Reservierung unter +43 699 15088177 oder per Mail an  offjce@kuiturhofvillach.at
