@@ -20,7 +20,7 @@ draft = false
 ![Queen Mama](/img/events/2025-09-19_queenmama1.png)
 © Theater TiTS\*up
 
-**4 FRAUEN GEHEN AUF DER BÜHNE MIT DeN THEMEN: UNBEZAHLTE CARE ARBEIT, ÜBERFORDERUNG, MENTAL LOAD, unENDLICHER LIEBE UND ENDLICHE KRÄFTE SCHWANGER**
+**4 FRAUEN GEHEN AUF DER BÜHNE MIT DEN THEMEN: UNBEZAHLTE CARE ARBEIT, ÜBERFORDERUNG, MENTAL LOAD, UNENDLICHER LIEBE UND ENDLICHE KRÄFTE SCHWANGER**
 
 Ein Theaterabend über die Königinnendisziplin der menschheit: die Mutterschaft - mit Glitzer, Krone und ungeschminkter Ehrlichkeit.
 Was ist eine gute mutter? wer ist die beste im ganzen Land? seien sie unsere jury?
