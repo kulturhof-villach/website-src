@@ -14,7 +14,24 @@ tags = ["konzert"]
 draft = false
 +++
 
-**TICKETS DEMNÄCHST ERHÄLTLICH**
+> EINTRITT: Vorverkauf € 22.-\* / € 18.-\*\*
+> 
+> EINTRITT: Abendkassa € 25.- / € 20.-\*\* € 10.-\*\*\*
+>
+> \*Im Vorverkauf auf [kupfticket.com/events/lukas-lauermann-support-jana-thomaschuetz](https://kupfticket.com/events/lukas-lauermann-support-jana-thomaschuetz)
+>
+> \*\*Ermäßigungen für Studierende, Lehrlinge und Mindestpensionist\*innen
+> 
+> \*\*\*Ermäßigungen für Schüler\*innen, Menschen mit Behinderungen und wirtschaftlich schwache Personen / Kontingent liegt an der Abendkasse auf; für Einlassgarantie bitten wir um Reservierung
+>
+> Ticketreservierung zum Abendkassapreis über office@kulturhofvillach.at oder +43699/15088177 (bitte um Angabe von Name und Telefonnummer)
+>
+> **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard in Kombination mit einem gültigen Lichtbildausweis;** für Einlassgarantie bitten wir um Reservierung
+>
+> **GRATIS EINTRITT für Personen bis zum vollendeten 14. Lebensjahr;** für Einlassgarantie bitten wir um Reservierung
+> **GRATIS EINTRITT für Besitzer\*innen des Kulturpasses - nur gültig in Kombination mit einem gültigen Lichtbildausweis** begrenzte Anzahl an Tickets, nach Verfügbarkeit - für Einlassgarantie bitten wir um Reservierung
+
+
 
 ### Lukas Lauermann 
 ## Varve
