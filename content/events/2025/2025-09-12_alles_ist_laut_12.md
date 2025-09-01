@@ -19,6 +19,7 @@ draft = false
 ### ALLES IST LAUT und deshalb esse ich Toast
 
 Ein Theaterstück über Reizüberflutung, Erreichbarkeit und das Gefühl, nicht mehr hinterherzukommen.
+
 Ein neuer Tag beginnt. Der Toaster springt, der Kopf läuft los. Schon bevor irgendetwas gesagt wurde, ist alles zu viel: Bilder, Geräusche, Aufgaben, Gedanken. Alles will Aufmerksamkeit, alles ist gleichzeitig da.
 ALLES IST LAUT und deshalb esse ich Toast ist eine performative Auseinandersetzung mit der ständigen Überforderung des modernen Alltags. Mit Objekten, Körpern, Routinen und Wiederholungen entsteht ein Theater der Dinge, das weniger erzählt als zeigt, was passiert, wenn man zwar alles erlebt – aber nichts wirklich mitbekommt.
 Die Bühne wird zum durchgetakteten Raum, zur Welt voller Ablenkung, Orientierungslosigkeit und ständiger Erreichbarkeit. Eine Figur bleibt zurück – oder ist sie der Ausgangspunkt? Immer wieder dieselbe Bewegung, derselbe Anfang, derselbe Toast.
