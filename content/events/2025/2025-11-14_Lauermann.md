@@ -4,7 +4,7 @@ authors = ["kulturhof"]
 date = 2025-11-14T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "Varve"
+description = "Support: Jana Thomaschütz"
 featured = "img/events/2025-11-14_LL_c_Julia_Haimburger.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -52,7 +52,17 @@ Homepage: [www.lukaslauermann.net](https://lauermann.tumblr.com/)
 
 Foto Lukas Lauermann © Julia Haimburger
 
-**TICKETS DEMNÄCHST ERHÄLTLICH**
+### Jana Thomaschütz
+
+![Jana Thomaschütz](/img/events/2025-11-14_JanaThomaschütz_c_Ira&John.jpg)
+© Ira & John
+
+Jana Thomaschütz ist freischaffende Künstlerin mit Arbeits - und Lebensmittelpunkt in Kärnten/Koroška. Sie liebt die Kammermusik, das Liedermachen und das Theaterspielen.
+Mit dem Noreia String Quartet, mit der Band "Manjana" und mit verschiedenen Theater-Ensembles bespielt sie die unterschiedlichsten Bühnen.
+
+Am 14. November wird sie im Kulturhof:villach zum ersten Mal mit ihrem Solo-Programm auftreten. Melodien und Lieder, die sie seit Jahren begleiten, werden mit Stimme und Cello zu fein arrangierten Covers und Eigenkompositionen.
+
+
 
 - Info Hotline: 0699 15088177 
 - E-Mail: office@kulturhofvillach.at
