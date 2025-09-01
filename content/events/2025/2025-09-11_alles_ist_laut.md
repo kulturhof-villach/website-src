@@ -1,5 +1,5 @@
 +++
-title = "Alles ist laut"
+title = "ABGESAGT: Alles ist laut"
 authors = ["kulturhofkeller"]
 date = 2025-09-11T20:00:00
 publishdate = 2021-05-01
@@ -13,6 +13,8 @@ type = "event"
 tags = ["theater"]
 draft = false
 +++
+
+**Aufgrund des Ausfalls eines Darstellers muss das Stück am 11. und auch 12. September abgesagt werden. Nachholtermine werden rechtzeitig bekannt gegeben.** 
 
 ### ALLES IST LAUT und deshalb esse ich Toast
 
