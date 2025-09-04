@@ -55,6 +55,7 @@ Foto Lukas Lauermann © Julia Haimburger
 ### Jana Thomaschütz
 
 ![Jana Thomaschuetz](/img/events/2025-11-14_JanaThomaschuetz_c_IraJohn.jpg)
+
 © Ira & John
 
 Jana Thomaschütz ist freischaffende Künstlerin mit Arbeits - und Lebensmittelpunkt in Kärnten/Koroška. Sie liebt die Kammermusik, das Liedermachen und das Theaterspielen.
