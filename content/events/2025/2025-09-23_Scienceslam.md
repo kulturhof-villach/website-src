@@ -65,7 +65,7 @@ Wissenschaftler\*innen der Fachhochschule Kärnten und ihrer internationalen Par
 > “Launching nanowarfare to tackle breast cancer.”
 > Swathy Krishna Reghukumar – Medical University of Gdánsk (Polen)
 
-
+Moderation: Bernhard Weingartner, Science Slam Austria
 
 Die Veranstaltung findet als Kooperation zwischen der FH Kärnten und dem Kulturhof:villach statt.
 
