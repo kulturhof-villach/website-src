@@ -2,7 +2,7 @@
 title = "Heckspoiler - Bock auf Stress Tour"
 authors = ["kulturhof"]
 date = 2025-10-10T20:00:00
-publishdate = 2021-05-02
+publishdate = 2025-05-02
 time = "20:00"
 description = "Support: Mountain"
 featured = "img/events/2025-12-19_HECKSPOILER_c_nicknofuture.jpg"
@@ -11,7 +11,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["konzert"]
-draft = true
+draft = false
 +++
 
 > EINTRITT: Vorverkauf € 21.-\* / € 18.- \*\*
