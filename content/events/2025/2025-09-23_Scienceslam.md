@@ -27,6 +27,46 @@ draft = false
 Findest du Wissenschaft spannend? Willst du aktuelle Forschung in leicht verdaulichen Häppchen serviert bekommen? Dann komm am 23. September um 18 Uhr zum zweiten internationalen Science Slam in den Kulturhof:villach!
 Wissenschaftler\*innen der Fachhochschule Kärnten und ihrer internationalen Partneruniversitäten tauschen die Hörsäle und gegen die Bühne. Das Publikum wählt gemeinsam den gelungensten Beitrag des Abends! Sei dabei, lach mit und stimm ab!
 
+### Die Slamer*innen
+
+> 1. Pitch
+> “Active ageing in sports field”
+> Luís Jacob Jacinto – Polytechnic University of Santarém (Portugal)
+>
+> 2. Pitch
+> „BioBox – Crossborder Biodiversity Toolbox“
+> Anna Hollerer – FH Kärnten 
+>
+> 3. Pitch
+> „CSI: Bloodstream — Tracking Cancer’s Most Wanted“ 
+> Klaudia Kubiak – Medical University of Gdánsk (Polen)
+>
+> 4. Pitch
+> „Ion Trap Processors for Quantum Computing” 
+> Alexander Zesar, Victoria Schwab, Silke Auchter – Infineon 
+>
+> 5. Pitch
+> „Ketamine for PTSD: A New Path to Healing?” 
+> Agnieszka Mechelińska & Krzysztof Sadko – Medical University of Gdánsk (Polen)
+>
+> 6. Pitch
+> „Woher willst du das wissen? Warum kritisches Denken wichtig ist und wie es schnell zu weit gehen kann.“ 
+> Ilja Svetnik – FH Kärnten 
+>
+> 7. Pitch
+> „Beyond the Cholesterol Number: Quality Over Quantity “ 
+> Shraddha Singh – Medical University of Gdánsk (Polen)
+>
+> 8. Pitch
+> „Eine Oma-Geschichte: Was können wir lernen von das Altern bei Affen?“
+> Roy Hammer – Affenberg, Universität Wien
+>
+> 9. Pitch
+> “Launching nanowarfare to tackle breast cancer.”
+> Swathy Krishna Reghukumar – Medical University of Gdánsk (Polen)
+
+
+
 Die Veranstaltung findet als Kooperation zwischen der FH Kärnten und dem Kulturhof:villach statt.
 
 FH Kärnten
