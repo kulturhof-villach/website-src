@@ -46,6 +46,13 @@ Mit „Bock auf Stress“ treiben Heckspoiler ihren Metalpunk jetzt auf die Spit
 
 Na dann: Prost Mahlzeit – und viel Spaß im Pit.
 
+**Tourpräsentator\*innen**
+
+Im gesamten Deutschsprachigen Raum:
+OX Fanzine & Livegigs.de, Frontstage Magazin, MoreCore und SLAM Magazin
+In Österreich:
+Radio 88.6, Stark!Strom Magazin, The Gap
+
 ### SUPPORT
 ## MØUNTAIN
 
