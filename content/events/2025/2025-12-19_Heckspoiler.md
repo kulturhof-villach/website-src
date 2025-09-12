@@ -1,7 +1,7 @@
 +++
 title = "Heckspoiler - Bock auf Stress Tour"
 authors = ["kulturhof"]
-date = 2025-10-10T20:00:00
+date = 2025-12-19T20:00:00
 publishdate = 2025-05-02
 time = "20:00"
 description = "Support: Mountain"
