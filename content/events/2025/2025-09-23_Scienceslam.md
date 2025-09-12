@@ -34,34 +34,30 @@ Wissenschaftler\*innen der Fachhochschule Kärnten und ihrer internationalen Par
 > Luís Jacob Jacinto – Polytechnic University of Santarém (Portugal)
 >
 > 2. Pitch
-> „BioBox – Crossborder Biodiversity Toolbox“
-> Anna Hollerer – FH Kärnten 
->
-> 3. Pitch
 > „CSI: Bloodstream — Tracking Cancer’s Most Wanted“ 
 > Klaudia Kubiak – Medical University of Gdánsk (Polen)
 >
-> 4. Pitch
+> 3. Pitch
 > „Ion Trap Processors for Quantum Computing” 
 > Alexander Zesar, Victoria Schwab, Silke Auchter – Infineon 
 >
-> 5. Pitch
+> 4. Pitch
 > „Ketamine for PTSD: A New Path to Healing?” 
 > Agnieszka Mechelińska & Krzysztof Sadko – Medical University of Gdánsk (Polen)
 >
-> 6. Pitch
+> 5. Pitch
 > „Woher willst du das wissen? Warum kritisches Denken wichtig ist und wie es schnell zu weit gehen kann.“ 
 > Ilja Svetnik – FH Kärnten 
 >
-> 7. Pitch
+> 6. Pitch
 > „Beyond the Cholesterol Number: Quality Over Quantity “ 
 > Shraddha Singh – Medical University of Gdánsk (Polen)
 >
-> 8. Pitch
+> 7. Pitch
 > „Eine Oma-Geschichte: Was können wir lernen von das Altern bei Affen?“
 > Roy Hammer – Affenberg, Universität Wien
 >
-> 9. Pitch
+> 8. Pitch
 > “Launching nanowarfare to tackle breast cancer.”
 > Swathy Krishna Reghukumar – Medical University of Gdánsk (Polen)
 
