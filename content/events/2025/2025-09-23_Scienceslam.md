@@ -54,7 +54,7 @@ Wissenschaftler\*innen der Fachhochschule Kärnten und ihrer internationalen Par
 > Shraddha Singh – Medical University of Gdánsk (Polen)
 >
 > 7. Pitch
-> „Eine Oma-Geschichte: Was können wir lernen von das Altern bei Affen?“
+> „Eine Oma-Geschichte: Was wir von alternden Affen lernen können“
 > Roy Hammer – Affenberg, Universität Wien
 >
 > 8. Pitch
