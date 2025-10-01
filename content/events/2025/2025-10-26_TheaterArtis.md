@@ -26,6 +26,7 @@ Auf humorvolle Weise lassen sie immer wieder aufblitzen, dass die Lösung stets 
 
 Ein Erzähltheater für Kinder und Erwachsene, das ernsthaft und humorvoll zugleich ist, Habgier ad absurdum führt und die Hoffnung auf ein gutes Miteinander stärkt.
 
+
 ##### Infos zur Aufführung:
 >
 > Stückfassung und Regie: Anna Russegger
