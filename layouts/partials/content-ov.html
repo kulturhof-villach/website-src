@@ -15,6 +15,7 @@
       example useage:
         (dict "title" .Title "text" .Params.description "link" :Permalink "image" .Params.featured "imgclass" "is-square is-128x128 ov-img" "date" .Params.date "tags" .Params.tags "authors" .Params.authors )
 -->
+
 {{ $dir := path.Dir .image}}
 {{ $base := path.Base .image}}
 {{ $thumb := delimit (slice $dir "/thumb_" $base) ""}}
