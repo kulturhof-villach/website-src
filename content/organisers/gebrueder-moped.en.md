@@ -1,4 +1,4 @@
 +++
-title = "Gebrüder Moped"
+title = "Franz und Martin Moped"
 id = "gebrueder-moped"
 +++
