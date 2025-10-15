@@ -15,7 +15,7 @@ draft = false
 +++
 
 
-> HIER & JETZT
+> **HIER & JETZT**
 > 
 > Wie wollen wir leben? Eine grundlegende Orientierung zu den dringlichsten Fragen zum Thema Migration. Eine Spurensuche nach dem guten, gemeinsamen Leben auf dieser einen Welt... und warum wir im Augenblick so im Argen sind.
 >
@@ -23,13 +23,13 @@ draft = false
 >
 > Diese Veranstaltung soll allen Betroffenen und interessierten Bürger\*innen die Möglichkeit bieten, im Laufe eines Abends an einem offenen und konstruktiven Gespräch zu den vielschichtigen Themen Flucht und Fremdsein teilzunehmen.
 > 
-> Mittwoch, 26. November, 19 Uhr
+> - Mittwoch, 26. November, 19 Uhr
 > 
-> Kulturhof:villach, Lederergasse 15
+> - Kulturhof:villach, Lederergasse 15
 >
-> Eintritt frei
+> - Eintritt frei
 >
-> Wir bitten dringend um Anmeldung, um den Abend organisatorisch bestmöglich gestalten zu können (+43 699 15088177, office@kulturhofvillach.at)
+> - Wir bitten dringend um Anmeldung, um den Abend organisatorisch bestmöglich gestalten zu können (+43 699 15088177, office@kulturhofvillach.at)
 
 
 ## HIER & JETZT
@@ -50,7 +50,7 @@ Die große Frage nach einem gemeinsamen Leben berührt uns in einem geradezu umf
 ## Sprecher\*innen
 
 ### DORO BLANCKE
-*Doro Blancke* setzt sich seit Jahren für Menschen auf der Flucht ein. Für ihr Engagement wurde sie 2020 mit dem Ute Bock Preis ausgezeichnet. Der Fokus ihrer Arbeit liegt auf fairen Asylverfahren in Österreich und der Abschaffung von Abschiebungen in Hochrisikogebiete. Doro Blancke ist es wichtig, den Dialog im Sinne der Menschen auf der Flucht aufrechtzuerhalten und Ungerechtigkeiten sowie Menschenrechtsbrüche aufzuzeigen. Ein großes Anliegen besteht auch darin, die bewusst geschürten Ängste vor dem „Fremden“ zu dezimieren. Dafür ist Dialog, Austausch und Vorgehen gegen Populismus durch Sachlichkeit und Kennen der Fakten von großer Bedeutung. Der stärkste Antrieb für Doro Blancke ist jedoch die Liebe zum Menschen, der Glaube an die Gerechtigkeit und das Getragen-Sein im WIR.
+**Doro Blancke** setzt sich seit Jahren für Menschen auf der Flucht ein. Für ihr Engagement wurde sie 2020 mit dem Ute Bock Preis ausgezeichnet. Der Fokus ihrer Arbeit liegt auf fairen Asylverfahren in Österreich und der Abschaffung von Abschiebungen in Hochrisikogebiete. Doro Blancke ist es wichtig, den Dialog im Sinne der Menschen auf der Flucht aufrechtzuerhalten und Ungerechtigkeiten sowie Menschenrechtsbrüche aufzuzeigen. Ein großes Anliegen besteht auch darin, die bewusst geschürten Ängste vor dem „Fremden“ zu dezimieren. Dafür ist Dialog, Austausch und Vorgehen gegen Populismus durch Sachlichkeit und Kennen der Fakten von großer Bedeutung. Der stärkste Antrieb für Doro Blancke ist jedoch die Liebe zum Menschen, der Glaube an die Gerechtigkeit und das Getragen-Sein im WIR.
 
 Seit Jänner 2021 ist Doro Blancke Geschäftsführerin des Vereins "Flüchtlingshilfe - refugee assistence - doro blancke", dessen Mission es ist, Menschen auf der Flucht beizustehen. Flucht ist nie freiwillig, meist begleitet von Leid und Verlust. Wer gezwungen ist, alles Vertraute hinter sich zu lassen, soll in Europa menschenwürdig ankommen, faire Asylverfahren erhalten und die Chance haben, sich in unserer Gesellschaft einzubringen und zu entfalten. Doch die Realität ist oft eine andere. Viele Geflüchtete leben unter entwürdigenden Bedingungen an Europas Außengrenzen – in Lagern wie Lesbos, Samos oder Calais. Der Verein unterstützt dort lokale NGOs, ist selbst auf Lesbos engagiert und fördert Partnerorganisationen in Österreich für faire Verfahren, bessere Lebensbedingungen und Menschlichkeit.
 www.doroblancke.at
@@ -60,7 +60,7 @@ www.doroblancke.at
 
 
 ### CLAUDIA HEU
-*Claudia Heu* verbindet Kunst, Performance und soziale Intervention, um Dialog und Begegnung in realen Kontexten zu fördern. Durch künstlerische Zusammenarbeiten und Lehrtätigkeiten schafft sie Erfahrungsräume, die Normen, Wahrnehmung und Werte neu befragen. Ihre Performances entstehen in städtischen Lebensräumen und wurden in Europa, den USA und der Mongolei verwirklicht; in Österreich in Zusammenarbeit mit dem ImPulsTanz Festival, der Sommerszene Salzburg und dem Tanzquartier Wien. Sie unterrichtet Kampfkunst, Improvisation und Performance, am Max Reinhardt Seminar, an der MUK Wien, im Applied Theatre- Universität Mozarteum und an der Stockholm University.
+**Claudia Heu** verbindet Kunst, Performance und soziale Intervention, um Dialog und Begegnung in realen Kontexten zu fördern. Durch künstlerische Zusammenarbeiten und Lehrtätigkeiten schafft sie Erfahrungsräume, die Normen, Wahrnehmung und Werte neu befragen. Ihre Performances entstehen in städtischen Lebensräumen und wurden in Europa, den USA und der Mongolei verwirklicht; in Österreich in Zusammenarbeit mit dem ImPulsTanz Festival, der Sommerszene Salzburg und dem Tanzquartier Wien. Sie unterrichtet Kampfkunst, Improvisation und Performance, am Max Reinhardt Seminar, an der MUK Wien, im Applied Theatre- Universität Mozarteum und an der Stockholm University.
 
 Mit Jeremy Xido entstand das zweijährige Projekt Live on Earth in der Flüchtlingssiedlung Macondo in Wien, ausgezeichnet mit dem Outstanding Artist Award für Interkulturellen Dialog.
 www.claudiaheu.com
@@ -70,7 +70,7 @@ www.claudiaheu.com
 
 
 ### ALEXANDER BEHR
-*Alexander Behr* ist Politikwissenschaftler und Journalist. Neben seiner Lehrtätigkeit an Universitäten, an Schulen und bei Gewerkschaften engagiert er sich in weltweit vernetzten sozialen Bewegungen. Schwerpunktmäßig ist er in antirassistischen Zusammenhängen aktiv sowie in Klimabewegungen und Bewegungen für eine nachhaltige bäuerliche Landwirtschaft. Er arbeitete in einem Netzwerk zur Unterstützung von Landarbeiter:innen in der Gemüseproduktion und gründete das Netzwerk Afrique-Europe-Interact mit, das westafrikanische und europäische Basisbewegungen vereint.
+**Alexander Behr** ist Politikwissenschaftler und Journalist. Neben seiner Lehrtätigkeit an Universitäten, an Schulen und bei Gewerkschaften engagiert er sich in weltweit vernetzten sozialen Bewegungen. Schwerpunktmäßig ist er in antirassistischen Zusammenhängen aktiv sowie in Klimabewegungen und Bewegungen für eine nachhaltige bäuerliche Landwirtschaft. Er arbeitete in einem Netzwerk zur Unterstützung von Landarbeiter:innen in der Gemüseproduktion und gründete das Netzwerk Afrique-Europe-Interact mit, das westafrikanische und europäische Basisbewegungen vereint.
 
 Als Journalist hat er mehrere Bücher von Geflüchteten übersetzt und herausgegeben. Behr ist wissenschaftlicher Mitarbeiter bei Diskurs. Das Wissenschaftsnetz sowie Kuratoriumsmitglied der Hilfsorganisation medico international.
 
@@ -80,7 +80,7 @@ Als Journalist hat er mehrere Bücher von Geflüchteten übersetzt und herausgeg
 
 ## Moderation
 ### CARLA KÜFFNER
-*Carla Küffner* ist Soziologin und Professorin für Disability & Diversity Studies an der Fachhochschule Kärnten.
+**Carla Küffner** ist Soziologin und Professorin für Disability & Diversity Studies an der Fachhochschule Kärnten.
 Sie beschäftigt sich mit Themen wie Migration, Flucht, Gender und Queer-Diversität, Barrierefreiheit und Inklusion.
 
 Außerdem engagiert sie sich in sozialen Bewegungen und ist Sprecherin der Plattform Migration Kärnten. In ihrer Arbeit setzt sie sich dafür ein, dass alle Menschen – unabhängig von Herkunft, Geschlecht, Identität oder Beeinträchtigung – gleiche Chancen und Teilhabe in der Gesellschaft haben.
