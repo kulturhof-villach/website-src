@@ -43,7 +43,7 @@ Wir erkennen immer klarer, wie sehr unsere eigene Lebensweise die Welt von Grund
 
 Mit großer Kraft drängen diese unbequmenen Erkenntinsse in unser Bewußtsein. Wir bekommen es mit der Angst zu tun und werden wütend. Wer ist an all dem Schuld? Unsicherheit und Misstrauen gegenüber dem vermeintlich „Fremden“ und „Anderen“ prägen uns stark. Sie werden zur großen Projektionsfläche unserer Ängste und Sorgen und nähren die Illusion, dass allein Abgrenzung auf allen Ebenen unsere Probleme löst.
 
-Inmitten des lauten Außen aber übersehen wir, dass nicht einmal mehr wir selbst in uns beheimatet sind. Wir sind uns selbst fremd geworden. In großer Arroganz nehmen wir uns aus der Verantwortung und trennen unser Ich vom Ganzen. Die Konsequenzen dieser Entfesselung sind katastrophal und bringen uns an den Rand des Abgrundes. Wir haben das Gefühl, dass uns die Zeit zwischen den Fingern zerrinnt. Wie konnte das alles soweit kommen? Wi e kommen wir da je wieder raus?
+Inmitten des lauten Außen aber übersehen wir, dass nicht einmal mehr wir selbst in uns beheimatet sind. Wir sind uns selbst fremd geworden. In großer Arroganz nehmen wir uns aus der Verantwortung und trennen unser Ich vom Ganzen. Die Konsequenzen dieser Entfesselung sind katastrophal und bringen uns an den Rand des Abgrundes. Wir haben das Gefühl, dass uns die Zeit zwischen den Fingern zerrinnt. Wie konnte das alles soweit kommen? Wie kommen wir da je wieder raus?
 
 Die große Frage nach einem gemeinsamen Leben berührt uns in einem geradezu umfassenden Ausmaß. Die Sehnsucht nach Klarheit ist groß. Sinnvolle Antworten auf unsere Fragen bleiben aus. Immer tiefer sickert die Erkenntnis, dass nichts, was wir hier auf dieser Welt tun, ohne Folgen bleibt. Wir sitzen tatsächlich alle in einem Boot. Das es so nicht mehr weitergehen kann spühren und wissen wir sehr genau. Aber wennn nicht so, wie dann? Wie wollen wir dann zusammen leben?
 
@@ -85,7 +85,7 @@ Sie beschäftigt sich mit Themen wie Migration, Flucht, Gender und Queer-Diversi
 
 Außerdem engagiert sie sich in sozialen Bewegungen und ist Sprecherin der Plattform Migration Kärnten. In ihrer Arbeit setzt sie sich dafür ein, dass alle Menschen – unabhängig von Herkunft, Geschlecht, Identität oder Beeinträchtigung – gleiche Chancen und Teilhabe in der Gesellschaft haben.
 
-![CARLA KÜFFNER](/img/events/2025-11-26_CarlaKueffner_c_GerhardFillei.jpg‎)
+![CARLA KUEFFNER](/img/events/2025-11-26_CarlaKueffner_c_GerhardFillei.jpg‎)
 © Gerhard Fillei
 
 Grafik by Eszter Drienyovszki
