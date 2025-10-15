@@ -85,7 +85,7 @@ Sie beschäftigt sich mit Themen wie Migration, Flucht, Gender und Queer-Diversi
 
 Außerdem engagiert sie sich in sozialen Bewegungen und ist Sprecherin der Plattform Migration Kärnten. In ihrer Arbeit setzt sie sich dafür ein, dass alle Menschen – unabhängig von Herkunft, Geschlecht, Identität oder Beeinträchtigung – gleiche Chancen und Teilhabe in der Gesellschaft haben.
 
-![CARLA KUEFFNER](/img/events/2025-11-26_CarlaKueffner_c_GerhardFillei.jpg‎)
+![CARLA KUEFFNER](/img/events/2025-11-26_CarlaKueffner_c_GerhardFillei.jpg)
 © Gerhard Fillei
 
 
