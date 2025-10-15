@@ -5,13 +5,13 @@ date = 2025-11-26T19:00:00
 publishdate = 2021-05-02
 time = "19:00"
 description = "Eine grundlegende Orientierung zu den dringlichsten Fragen zum Thema Migration."
-featured = "img/events/2025-10-10_ZINN_yuna_sakuma.jpg"
+featured = "img/events/2025-11-26_xy.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["diskussion"]
-draft = true
+draft = false
 +++
 
 
