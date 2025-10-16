@@ -74,7 +74,7 @@ www.claudiaheu.com
 
 Als Journalist hat er mehrere Bücher von Geflüchteten übersetzt und herausgegeben. Behr ist wissenschaftlicher Mitarbeiter bei Diskurs. Das Wissenschaftsnetz sowie Kuratoriumsmitglied der Hilfsorganisation medico international.
 
-![ALEXANDER BEHR](/img/events/2025-11-26_AlexanderBehr_c_LisaBolyos.jpg)
+![ALEXANDER BEHR](/img/events/2025-11-26_AlexanderBehr_c_LisaBolyos_small.jpg)
 © Lisa Bolyos
 
 
