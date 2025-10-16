@@ -15,7 +15,6 @@ draft = false
 +++
 
 > VERNISSAGE IN :SCHAURAUM UND :KLANGKORRIDOR
-
 ## in stein gemeisselt.kamni spomina
 
 Die Installation in stein gemeisselt.kamni spomina erarbeitet künstlerisch die erzählten und unerzählten Geschichten von sieben Familien aus Ludmannsdorf/Bilčovs, welche zwischen 1942 und 1944 in Viehwagons deportiert wurden. Steine sind Zeitzeugen der Natur und wichtige Wegbegleiter des Menschen. Die Kunstwerke aus Ton von Rezi Kolter stehen für eine Vielzahl von Geschehnissen und Schicksalen des Zweiten Weltkrieges und das Bewusstsein für Frieden. Begleitet durch ein zweisprachiges Gedicht von Lena Kolter wird die Vergangenheit aufgearbeitet und in eine Zukunft aus Kriegsende und Menschlichkeit, Solidarität und Verantwortung begleitet.
