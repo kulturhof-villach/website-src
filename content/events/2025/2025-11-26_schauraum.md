@@ -5,7 +5,7 @@ date = 2025-11-26T18:00:00
 publishdate = 2021-05-01
 time = "18:00"
 description = "Vernissage: Rezi Kolter | Lena Kolter"
-featured = "img/events/2025-11-26_LenaKolter_c_Mars2.jpg‎"
+featured = "img/events/2025-11-26_LenaKolter_c_Mars2_small.jpg‎"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -21,11 +21,11 @@ Die Installation in stein gemeisselt.kamni spomina erarbeitet künstlerisch die 
 
 Instalacija in stein gemeisselt.kamni spomina umetniško predela zgodbe sedmih družin iz Bilčovsa, ki so bile med leti 1942 in 1944 deportirane. Kamni pripovedujejo in pričajo o času, ki je našo zgodovino močno zaznamoval. Umetniško delo iz gline Rezije Kolter simbolizira številne dogodke in usode druge svetovne vojne ter ozaveščanje za mir. Ob spremljavi dvojezične pesmi Lene Kolter je preteklost ponovno ovrednotena in pospremljena z zavzemanjem za prihodnost, sestavljeno iz konca vojne, človečnosti, solidarnosti ter soodgovornosti.
 
-![stein.kamni1](/img/events/2025-11-26_LenaKolter_c_Mars1.jpg)
+![stein.kamni1](/img/events/2025-11-26_LenaKolter_c_Mars1_small.jpg)
 
-![stein.kamni3](/img/events/2025-11-26_LenaKolter_c_Mars3.jpg)
+![stein.kamni3](/img/events/2025-11-26_LenaKolter_c_Mars3_small.jpg)
 
-![stein.kamni4](/img/events/2025-11-26_LenaKolter_c_Mars4.jpg)
+![stein.kamni4](/img/events/2025-11-26_LenaKolter_c_Mars4_small.jpg)
 
 Fotos © Mars
 
