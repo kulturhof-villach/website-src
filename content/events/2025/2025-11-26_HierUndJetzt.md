@@ -21,6 +21,8 @@ draft = false
 >
 > Ein Abend mit DORO BLANCKE, CLAUDIA HEU, ALEXANDER BEHR, Moderation: CARLA KÜFFNER
 >
+> Wir leben in einer Welt tiefgreifender Veränderungen. Atemlos entwickelt sich unsere Zivilisation einer Zukunft entgegen, die sich für uns wohl noch nie so unbestimmt angefühlt hat. Wie beeinflusst unsere Lebensweise die globale Gemeinschaft? Wie fühlt es sich an, aufgrund von Konflikten oder Krisen fliehen zu müssen? Wie gehen wir mit Unsicherheit und Angst vor dem „Fremden" um? Und wie können wir in dieser zerrütteten Welt ein solidarisches Miteinander gestalten?
+>
 > Diese Veranstaltung soll allen Betroffenen und interessierten Bürger\*innen die Möglichkeit bieten, im Laufe eines Abends an einem offenen und konstruktiven Gespräch zu den vielschichtigen Themen Flucht und Fremdsein teilzunehmen.
 > 
 > - Mittwoch, 26. November, 19 Uhr
