@@ -36,18 +36,22 @@ draft = false
 
 ## HIER & JETZT
 
-Wir leben in einer Welt tiefgreifender Veränderungen. Atemlos entwickelt sich unsere Zivilisation einer Zukunft entegegen, die sich für uns wohl noch nie so unbestimmt angfühlt hat. Die enorme Dichte an Information überfordert. Ereignisse scheinen sich zu überschlagen und wir verlieren immer mehr den festen Boden unter den Füssen.
+Wir leben in einer Welt tiefgreifender Veränderungen. Atemlos entwickelt sich unsere Zivilisation einer Zukunft entgegen, die sich für uns wohl noch nie so unbestimmt angefühlt hat. Die enorme Dichte an Informationen überfordert. Ereignisse scheinen sich zu überschlagen, und wir verlieren immer mehr festen
+Boden unter den Füßen.
 
-Kriege und Katastrophen verursachen massive Fluchtbewegungen. Allein durch den Ukrainekrieg haben bis Dezember 2024 etwa 45,1 Millionen Menschen die Grenze der Ukraine passiert um Schutz in anderen Ländern zu suchen. Die Organisation für Migration (IOM) geht davon aus, dass in den kommenden Jahren weitere 150 bis 200 Millionen Menschen aufgrund von Extremwetterereignissen, Wasserknappheit, Nahrungsmittelknappheit und der Zerstörung von Lebensräumen zur Flucht
-gezwungen werden und ihre Heimat verlassen müssen.
+Kriege und Katastrophen verursachen massive Fluchtbewegungen. Allein durch den Ukrainekrieg haben bis Oktober 2025 etwa neun Millionen Menschen die Grenzen der Ukraine verlassen, um Schutz in anderen Ländern zu suchen. Die Internationale Organisation für Migration (IOM) geht davon aus, dass in den
+kommenden Jahren weitere 150 bis 200 Millionen Menschen aufgrund von Extremwetterereignissen, Wasser- und Nahrungsmittelknappheit und der Zerstörung von Lebensräumen zur Flucht gezwungen werden und ihre Heimat verlassen müssen.
 
-Wir erkennen immer klarer, wie sehr unsere eigene Lebensweise die Welt von Grund auf verändert und wie tiefgreifend unser Denken und Handeln die gesamte Weltgemeinschaft beeinflusst. Die harte Erfahrung, dass Wohlstand und Sicherheit nicht selbstverständlich sind, verstört und ängstigt uns. Voll Sorge erahnen wir, das Hab und Gut und Leben verloren gehen, dass letzlich nichts bleibt und dass uns unsere Sucht nach immer größerer Sicherheit und ständigem Wohlstandszuwachs in eine Sackgasse führt. Wie lange noch, bis wir selbst zu Flüchtenden und Heimatsuchenden werden?
+Wir erkennen immer klarer, wie sehr unsere eigene Lebensweise die Welt von Grund auf verändert und wie tiefgreifend unser Denken und Handeln die gesamte Weltgemeinschaft beeinflusst. Die Erkenntnis, dass Wohlstand und Sicherheit nicht selbstverständlich sind, verstört und ängstigt uns. Voller Sorge erahnen wir, dass Hab und Gut und Leben verloren gehen können, dass letztlich nichts bleibt und dass uns unsere Sucht nach immer größerer Sicherheit und ständigem Wohlstandszuwachs in eine Sackgasse führt. Wie lange noch, bis wir selbst zu Flüchtenden und Heimatsuchenden werden?
 
-Mit großer Kraft drängen diese unbequmenen Erkenntinsse in unser Bewußtsein. Wir bekommen es mit der Angst zu tun und werden wütend. Wer ist an all dem Schuld? Unsicherheit und Misstrauen gegenüber dem vermeintlich „Fremden“ und „Anderen“ prägen uns stark. Sie werden zur großen Projektionsfläche unserer Ängste und Sorgen und nähren die Illusion, dass allein Abgrenzung auf allen Ebenen unsere Probleme löst.
+Mit großer Kraft drängen diese unbequemen Erkenntnisse in unser Bewusstsein. Wir bekommen Angst, spüren unsere Ohnmacht und werden wütend. Wer trägt die „Schuld“ an all dem? Unsicherheit und Misstrauen gegenüber dem vermeintlich „Fremden“ und „Anderen“ prägen uns stark. Beide werden zur großen Projektionsfläche unserer Ängste und Sorgen und nähren die Illusion, dass allein Abgrenzung auf allen Ebenen unsere Probleme löst.
 
-Inmitten des lauten Außen aber übersehen wir, dass nicht einmal mehr wir selbst in uns beheimatet sind. Wir sind uns selbst fremd geworden. In großer Arroganz nehmen wir uns aus der Verantwortung und trennen unser Ich vom Ganzen. Die Konsequenzen dieser Entfesselung sind katastrophal und bringen uns an den Rand des Abgrundes. Wir haben das Gefühl, dass uns die Zeit zwischen den Fingern zerrinnt. Wie konnte das alles soweit kommen? Wie kommen wir da je wieder raus?
+Inmitten des lauten Außen übersehen wir aber auch, dass nicht einmal mehr wir selbst in uns beheimatet sind. Wir sind uns selbst fremd geworden. In großer Arroganz nehmen wir uns aus der Verantwortung und trennen unser Ich vom Ganzen. Die Konsequenzen dieser Entfremdung sind katastrophal und bringen uns
+an den Rand des Abgrunds. Wir haben das Gefühl, dass uns die Zeit zwischen den Fingern zerrinnt. Wie konnte es so weit kommen? Wie kommen wir da je wieder heraus?
 
-Die große Frage nach einem gemeinsamen Leben berührt uns in einem geradezu umfassenden Ausmaß. Die Sehnsucht nach Klarheit ist groß. Sinnvolle Antworten auf unsere Fragen bleiben aus. Immer tiefer sickert die Erkenntnis, dass nichts, was wir hier auf dieser Welt tun, ohne Folgen bleibt. Wir sitzen tatsächlich alle in einem Boot. Das es so nicht mehr weitergehen kann spühren und wissen wir sehr genau. Aber wennn nicht so, wie dann? Wie wollen wir dann zusammen leben?
+Die große Frage nach einem gemeinsamen Leben berührt uns tief. Die Sehnsucht nach Klarheit ist groß. Sinnvolle Antworten auf unsere Fragen bleiben oft aus. Immer tiefer sickert die Erkenntnis, dass nichts, was wir hier auf dieser Welt tun, ohne Folgen bleibt. Wir sitzen tatsächlich alle in einem Boot. Dass es so nicht mehr weitergehen kann, spüren und wissen wir sehr genau. Doch wenn nicht so, wie dann? Wie wollen wir zusammenleben?
+
+Zur Einführung stellen sich unsere Gäste kurz vor und teilen ihre Perspektiven zum Thema. Im Anschluss wird das Gespräch eröffnet, um gemeinsam mit Ihnen einen Abend lang auf Augenhöhe zu reflektieren, Fragen zu stellen, Notwendigkeiten zu erkennen und Wege aus dem Dilemma aufzuzeigen. Wir freuen uns sehr auf Ihre Teilnahme.
 
 ## Sprecher\*innen
 
