@@ -88,7 +88,7 @@ Außerdem engagiert sie sich in sozialen Bewegungen und ist Sprecherin der Platt
 ![CARLA KUEFFNER](/img/events/2025-11-26_CarlaKueffner_c_GerhardFillei.jpg)
 © Gerhard Fillei
 
-
+![Hier und Jetzt](/img/events/2025-11-26_hier_und_jetzt_POST.jpg)
 Grafik by Eszter Drienyovszki
 www.eszterdrienyovszki.com
 
