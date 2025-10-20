@@ -1,10 +1,10 @@
 +++
-title = "in stein gemeisselt.kamni spomina"
+title = "in stein gemeisselt kamni spomina"
 authors = ["kulturhof"]
 date = 2025-11-26T18:00:00
 publishdate = 2021-05-01
 time = "18:00"
-description = "Vernissage: Rezi Kolter | Lena Kolter"
+description = "Vernissage Rezi Kolter und Lena Kolter"
 featured = "img/events/2025-11-26_LenaKolter_c_Mars2_small.jpg‎"
 featuredVideo = ""
 featuredVimeo = ""
