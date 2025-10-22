@@ -17,11 +17,12 @@ draft = false
 
 > **HIER & JETZT**
 > 
-> Wie wollen wir leben? Eine grundlegende Orientierung zu den dringlichsten Fragen zum Thema Migration. Eine Spurensuche nach dem guten, gemeinsamen Leben auf dieser einen Welt... und warum wir im Augenblick so im Argen sind.
+> Wie wollen wir leben?
+> Eine grundlegende Orientierung zu den dringlichsten Fragen zum Thema gewaltsame Migration. Und eine Spurensuche nach dem guten, gemeinsamen Leben auf dieser einen Welt… und warum wir im Augenblick so im Argen liegen.
 >
 > Ein Abend mit DORO BLANCKE, CLAUDIA HEU, ALEXANDER BEHR, Moderation: CARLA KÜFFNER
 >
-> Wir leben in einer Welt tiefgreifender Veränderungen. Atemlos entwickelt sich unsere Zivilisation einer Zukunft entgegen, die sich für uns wohl noch nie so unbestimmt angefühlt hat. Wie beeinflusst unsere Lebensweise die globale Gemeinschaft? Wie fühlt es sich an, aufgrund von Konflikten oder Krisen fliehen zu müssen? Wie gehen wir mit Unsicherheit und Angst vor dem „Fremden" um? Und wie können wir in dieser zerrütteten Welt ein solidarisches Miteinander gestalten?
+> Wie beeinflusst unsere Lebensweise die globale Gemeinschaft? Wie fühlt es sich an, aufgrund  von Konflikten oder Krisen fliehen zu müssen? Wie gehen wir mit Unsicherheit und Angst vor dem „Fremden” um? Und wie können wir in dieser zerrütteten Welt ein solidarisches Miteinander gestalten?  Diese Veranstaltung soll allen interessierten Menschen die Möglichkeit bieten, im Laufe eines Abends an einem offenen und ehrlichen Gespräch zu den vielschichtigen Themen Flucht und Fremdsein teilzunehmen.
 >
 > Diese Veranstaltung soll allen Betroffenen und interessierten Bürger\*innen die Möglichkeit bieten, im Laufe eines Abends an einem offenen und konstruktiven Gespräch zu den vielschichtigen Themen Flucht und Fremdsein teilzunehmen.
 > 
