@@ -157,7 +157,11 @@ Kultur Schwabegg / Hiša kulture Žvabek
 > 
 > 2025 Gewölbegalerie Klagenfurt
 
-Lena und Rezi Kolter werden für Ihr aktuelles Schaffen gefördert von:
+###### Lena und Rezi Kolter werden für Ihr aktuelles Schaffen gefördert von:
+
+![KDBarba](/img/events/2025-11-26_KDBarba.jpg)
+
+![LandKärnten](/img/events/2025-11-26_LandKärnten_Logo.png)
 
 
 
