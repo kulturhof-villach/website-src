@@ -1,5 +1,5 @@
 +++
-title = "Rock Christmas
+title = "Rock Christmas"
 authors = ["kulturhofkeller"]
 date = 2025-12-13T18:30:00
 publishdate = 2021-05-01
