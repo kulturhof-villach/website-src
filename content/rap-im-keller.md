@@ -1,7 +1,7 @@
 +++
 title = "Rap im Keller"
 authors = ["kulturhof"]
-date = 2025-12-18T20:00:00
+date = 2025-09-05T20:00:00
 publishdate = 2021-05-01
 description = "Freestyle-Cypher in Villach"
 featured = "img/events/2025-09-05_Rik_c_Martin_Funk.jpeg"
