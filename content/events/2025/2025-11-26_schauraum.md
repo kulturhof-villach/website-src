@@ -20,9 +20,19 @@ draft = false
 
 ## in stein gemeisselt.kamni spomina
 
-Die Installation in stein gemeisselt.kamni spomina erarbeitet künstlerisch die erzählten und unerzählten Geschichten von sieben Familien aus Ludmannsdorf/Bilčovs, welche zwischen 1942 und 1944 in Viehwagons deportiert wurden. Steine sind Zeitzeugen der Natur und wichtige Wegbegleiter des Menschen. Die Kunstwerke aus Ton von Rezi Kolter stehen für eine Vielzahl von Geschehnissen und Schicksalen des Zweiten Weltkrieges und das Bewusstsein für Frieden. Begleitet durch zweisprachige Gedichte und Musik von Lena Kolter wird die Vergangenheit aufgearbeitet und in eine Zukunft aus Kriegsende und Menschlichkeit, Solidarität und Verantwortung begleitet.
+Die Installation in stein gemeisselt.kamni spomina erarbeitet künstlerisch die erzählten und unerzählten Geschichten von sieben Familien aus Ludmannsdorf/Bilčovs, welche zwischen 1942 und 1944 in Viehwagons deportiert wurden. 
 
-Instalacija in stein gemeisselt.kamni spomina umetniško predela zgodbe sedmih družin iz Bilčovsa, ki so bile med leti 1942 in 1944 deportirane. Kamni pripovedujejo in pričajo o času, ki je našo zgodovino močno zaznamoval. Umetniško delo iz gline Rezije Kolter simbolizira številne dogodke in usode druge svetovne vojne ter ozaveščanje za mir. Ob spremljavi dvojezičnih pesmi in glasbe Lene Kolter je preteklost ponovno ovrednotena in pospremljena z zavzemanjem za prihodnost, sestavljeno iz konca vojne, človečnosti, solidarnosti ter soodgovornosti.
+Steine sind Zeitzeugen der Natur und wichtige Wegbegleiter des Menschen. Die vom Krieg gezeichneten Menschen stehen an der Mauer. Auf hohen Stelen symbolisieren sie mit ihrer aufrechten Haltung Mut, Beharrlichkeit, innere Stärke und unerschütterliches Vertrauen in die Freiheit. Sie erinnern daran, dass die Mauer nur einseitig ist und dass in offenen Richtungen ein Ausweg, ein Weg in die Zukunft gefunden werden kann.
+
+Die Kunstwerke aus Ton von Rezi Kolter stehen für eine Vielzahl von Geschehnissen und Schicksalen des Zweiten Weltkrieges und das Bewusstsein für Frieden. Begleitet durch zweisprachige Gedichte und Musik von Lena Kolter wird die Vergangenheit aufgearbeitet und in eine Zukunft aus Kriegsende und Menschlichkeit, Solidarität und Verantwortung begleitet.
+
+
+
+Instalacija in stein gemeisselt.kamni spomina umetniško predela zgodbe sedmih družin iz Bilčovsa, ki so bile med leti 1942 in 1944 deportirane. 
+
+Kamni pripovedujejo in pričajo o času, ki je našo zgodovino močno zaznamoval. Ob zid postavljeni so ljudje, ki jih je zanamoval čas vojne. Na visokih stojalih simbolizirajo s svojo pokončno držo pogum, vzstrajnost, notranjo moč in trno zaupanje v svobodo. Opominjajo, da je zid samo enostranski, v odprtih smereh se lahko najde izhod, pot v bodočnost.
+
+Umetniško delo iz gline Rezije Kolter simbolizira številne dogodke in usode druge svetovne vojne ter ozaveščanje za mir. Ob spremljavi dvojezičnih pesmi in glasbe Lene Kolter je preteklost ponovno ovrednotena in pospremljena z zavzemanjem za prihodnost, sestavljeno iz konca vojne, človečnosti, solidarnosti ter soodgovornosti.
 
 ![stein.kamni1](/img/events/2025-11-26_LenaKolter_c_Mars1_small.jpg)
 
