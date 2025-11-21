@@ -3,7 +3,7 @@ title = "DRUM WORKSHOP"
 authors = ["kulturhof"]
 date = 2025-12-20T10:00:00
 publishdate = 2021-05-01
-time = "10:00"
+time = "12:00"
 description = "Kostenloser Schlagzeugunterricht mit Lucy Kaewprasert"
 featured = "img/events/2025-12-20_DrumerWorkshop.png"
 featuredVideo = ""
@@ -18,7 +18,7 @@ draft = false
 
 > Anmeldung per Mail an lucyka.drums@posteo.de
 > Uhrzeit nach Vereinbarung
-> Zeitraum 10 - 18 Uhr
+> Zeitraum 12 - 18 Uhr
 
 
 ## THE DRUM TEACHER TOUR
