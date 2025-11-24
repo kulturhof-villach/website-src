@@ -38,9 +38,9 @@ Den Auftakt gestaltet die Villacher Formation **The Wooden Heads**. Die junge Po
 
 „Dieses Konzert ist für uns ein ganz besonderes Event und eine Einladung, den Alltag für einen Moment hinter sich zu lassen und die Kraft der Musik zu genießen“, sagt GEMMA-Vorsitzender Marc Germeshausen. Der Jugendverein unterstreicht mit dieser Veranstaltung erneut sein Engagement für regionale Kulturarbeit und die Förderung junger Talente.
 
-Tickets für das GEMMA-Weihnachtskonzert sind online unter (www.gemma.cc)[https://www.gemma.cc/] erhältlich.
+Tickets für das GEMMA-Weihnachtskonzert sind online unter [www.gemma.cc](https://www.gemma.cc/) erhältlich.
 
 
-Du möchtest dich auch im Kulturhof:villach einmieten? (Mehr Infos)[https://kulturhofvillach.at/mietinfo/] 
+Du möchtest dich auch im Kulturhof:villach einmieten? [Mehr Infos](https://kulturhofvillach.at/mietinfo/) 
 
 Kontakt: office@kulturhofvillach.at +43 699 15088177
