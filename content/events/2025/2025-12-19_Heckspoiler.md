@@ -57,7 +57,7 @@ Radio 88.6, Stark!Strom Magazin, The Gap
 ## MØUNTAIN
 
 ![MØUNTAIN](/img/events/2025-12-19_mountain_foto_esther_varga_fotografie.jpg)
-© esther.varga.fotografie
+© Esther Varga Fotografie
 
 Kommen Sie, kommen und staunen Sie – Die Rückkehr der einzigartigen, der unverfälschten, der absolut abgedrehtesten Instrumental Rocker von hier bis an die Grenzen von Mordor. In Ihrer Originalbesetzung fallen Sie erneut über euch her, um euch Ihren unvergleichbaren Sound um die Ohren zu ballern. Werden Sie Zeugen Ihres 10-jährigen Album Jubiläums, in welchem Sie dieses monumentale Werk von Anfang bis Ende durchspielen – Keine Gefangenen.
 
