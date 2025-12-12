@@ -4,13 +4,13 @@ authors = ["kulturhof"]
 date = 2026-02-07T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
-description = "Lesung - Schauspiel - Frauencafé im Anschluss"
+description = "Lesung und Schauspiel"
 featured = "img/events/2026-02-07_BagherAhmadi_c_BagherAhmadi.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
 type = "event"
-tags = ["lesung"]
+tags = ["konzert"]
 draft = false
 +++
 
