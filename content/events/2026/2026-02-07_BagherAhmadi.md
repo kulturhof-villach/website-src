@@ -52,13 +52,6 @@ Inszenierung verleiht der Suche nach Sinn, Menschlichkeit und Vergebung eine zut
 
 Fotos © Bagher Ahmadi
 
-#### Frauencafé des Carinthischen Sommers
-
-Im Anschluss an die Darbietung lädt das Team des Carinthischen Sommers zum Frauencafé im Kulturhof:villach. Mit dem Frauencafé bietet der Carinthische Sommer eine Begegnungsplattform an, die sich explizit an Frauen und an Frauen mit Migrationshintergrund richtet. Mit dem Angebot soll ein Gesprächsforum geschaffen werden, in dem aktuelle Themen und alltägliche Fragen ebenso debattiert werden können wie grundsätzlicher kulturelle Themen. Der Zugang zu Kultur und zu klassischer Musik, wie sie der Carinthische Sommer vertritt, wird in den bereits bestehenden Angeboten wie Sprachkursen u.ä. naturgemäß relativ wenig gefördert. Das Festival kann hier neu zugezogenen Familien den Reichtum und die Vielfalt des kulturellen Lebens in Österreich in vorbildlicher Weise öffnen.
-
-Das Frauencafé hat seit April 2024 dreimal stattgefunden und trifft auf großes Interesse. Bei unserem dritten Frauencafé am 28. Mai 2025 besuchten wir gemeinsam mit über 40 Teilnehmer:innen die interaktive Ausstellung „Tor zur Demokratie" im Landhaus in Klagenfurt. Im Rahmen des Projektes stehen wir in regem Austausch mit Caritas, PIVA, ÖIF, EqualiZ, etc.
-
-
 - Info Hotline: 0699 15088177 
 - E-Mail: office@kulturhofvillach.at
 
