@@ -1,7 +1,7 @@
 +++
 title = "Aki Takase & Gina Schwarz"
 authors = ["kulturforum-villach"]
-date = 2026-01-17T20:00:00
+date = 2026-01-16T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "So long Carla"
@@ -14,7 +14,7 @@ tags = ["konzert"]
 draft = false
 +++
 
-**Samstag, 17. Jänner, 20 Uhr, Kulturhof:keller, Lederergasse 15, Villach**
+**Freitag, 16. Jänner, 20 Uhr, Kulturhof:keller, Lederergasse 15, Villach**
 
 ### Aki Takase & Gina Schwarz (JPN, A): „So long Carla”
 
