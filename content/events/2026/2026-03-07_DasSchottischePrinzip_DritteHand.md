@@ -31,7 +31,7 @@ draft = false
 > **GRATIS EINTRITT für Personen bis zum vollendeten 14. Lebensjahr;** für Einlassgarantie bitten wir um Reservierung
 
 
-Zum internationalen Frauentag spielen Das Schottische Prinzip und Dritte Hand ein Doppelkonzert im Kulturhof:villach. Vorab gibt's die Vernissage von Ina Riegler im :schauraum des Kulturhofs.
+Zum internationalen Frauentag spielen Das Schottische Prinzip und Dritte Hand ein Doppelkonzert im Kulturhof:villach.
 
 ### Das Schottische Prinzip
 
