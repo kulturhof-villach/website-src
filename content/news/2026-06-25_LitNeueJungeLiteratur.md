@@ -8,7 +8,7 @@ time = "18:00"
 featured = "img/events/2025-06-27_LitNeueJungeLiteratur.PNG" 
 type = "event"
 tags = ["lesung"]
-draft = true
+draft = false
 +++
 
 ## Bachmanntage im Kulturhof:villach
