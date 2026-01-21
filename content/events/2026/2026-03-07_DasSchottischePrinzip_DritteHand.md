@@ -1,7 +1,7 @@
 +++
 title = "Das Schottische Prinzip & Dritte Hand"
 authors = ["kulturhof"]
-date = 2026-03-13T20:00:00
+date = 2026-03-07T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Doppelkonzert zum internationalen Frauentag"
