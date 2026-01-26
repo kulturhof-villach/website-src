@@ -10,7 +10,7 @@ featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
 type = "event"
-tags = ["party"]
+tags = ["konzert"]
 draft = false
 +++
 
