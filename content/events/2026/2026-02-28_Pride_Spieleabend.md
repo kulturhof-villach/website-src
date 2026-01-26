@@ -1,7 +1,7 @@
 +++
 title = "Board Game Night"
 authors = ["kulturhofkeller"]
-date = 2026-01-28T19:00:00
+date = 2026-02-28T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Verein Villacher Pride"
