@@ -31,7 +31,7 @@ draft = false
 > **GRATIS EINTRITT für Personen bis zum vollendeten 14. Lebensjahr;** für Einlassgarantie bitten wir um Reservierung
 
 
-Stoner Rock vom Feinsten am 20.März im Kulturhof:villach mit OPIUM MASALA und For Eons:
+Stoner Rock vom Feinsten am 20. März im Kulturhof:villach mit OPIUM MASALA und For Eons:
 
 ### OPIUM MASALA
 
