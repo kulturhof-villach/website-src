@@ -5,7 +5,7 @@ date = 2026-03-21T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Vernissage - Eintritt frei"
-featured = "img/events/2026-03-21_InaRiegler.png"
+featured = "img/events/2026-03-21_InaRieglerManOfIsle.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -17,6 +17,24 @@ draft = false
 > Vernissage in :SCHAURAUM und :KLANGKORRIDOR
 > 
 > Eintritt frei
+
+In den zwei ausgestellten Werken geht es um eine Reflexion über zehn Jahre sozialer Arbeit mit fremduntergebrachten Kindern. Kinder, die Gewalt, Missbrauch, Vernachlässigung und Suchterkrankungen im familiären Umfeld erlebt haben. Kinder, deren Biografien von Brüchen geprägt sind – und dennoch von einer leisen, oft übersehenen Stärke.
+
+Im Zentrum des Bildes steht der Versuch, diese Kinder zu schützen. Nicht als Heldengeste, sondern als Haltung. Als Dasein. Als stilles Versprechen: Du bist nicht allein. Die Dunkelheit im Werk verweist auf die Schwere der Vergangenheit, auf Traumata und innere Kämpfe. Gleichzeitig durchbricht Licht die Szenerie – als Zeichen von Hoffnung, Beziehung und möglicher Zukunft. Schutz bedeutet hier nicht, Schmerz ungeschehen zu machen, sondern ihn mitzutragen.
+
+Für die Ausstellung entwickelte die Band Man of Isle eine eigens konzipierte Klanglandschaft. Ausgangspunkt bildet bisweilen unveröffentlichtes Material, aus dem ein Loop hervorgeht, der sich im Verlauf zunehmend auflöst. Durch experimentelle Verfahren mit analogem Tonband wird der Klang einem fortschreitenden Prozess des Verschleißes ausgesetzt: Mit jeder Wiederholung verliert das Magnetband an Substanz, wodurch Frequenzauslöschungen, Toninstabilitäten bis hin zum vollständigen Zusammenbruch des Loops entstehen.
+
+Als Gegenpol zu dieser sich zunehmend selbst auflösenden Klangstruktur tritt eine Stimme hervor, die mit den Worten „for you I can repair" beharrlich Widerstand leistet. Zwischen Fragilität und Beständigkeit entfaltet sich so ein Spannungsfeld, das von Hoffnung und Beharrlichkeit erzählt — ein Sinnbild menschlicher Verletzlichkeit und des fortwährenden Versuchs, dem Zerfall etwas entgegenzusetzen. Es entsteht ein immersiver Raum aus Bild und Klang, der Dunkelheit zulässt und zugleich Hoffnung hör- und sichtbar werden lässt.
+
+## Man of Isle - Music for Manna
+
+Man of Isle verbinden mystische Klangwelten mit treibenden Rhythmen und schaffen dichte, atmosphärische Soundräume. Zwischen Indie Pop und sphärischen Soundscapes bewegt sich ihr unverwechselbarer Sound, der von Sehnsucht, Verlust und Hoffnung erzählt und dabei gleichermaßen Intimität wie Weite entfaltet.
+
+Mit ihrem Debütalbum Planting Hearts (2019) etablierte sich die österreichische Band in der heimischen Musiklandschaft und machte sich rasch einen Namen in der Indie-Szene. Aktuell arbeitet Man of Isle an ihrem zweiten Studioalbum und bereitet sich auf Konzerte im In- und
+Ausland vor.
+
+Foto © Man Of Isle
+
 
 ## Ina Riegler
 
@@ -30,7 +48,7 @@ Mit der Identifikation von geschichtlichen Narrativen und Mythen, sowie der Spre
 
 Fotos © Ina Riegler
 
-### Ausstellungen und Projekte
+### Ausstellungen und Projekte von Ina Riegler
 
 > 08/2025 WONDER VILLA. Wandel. Wunder. Erschütterung in der Villa Miralago in Pörtschach, kuratiert von Andreas Schlichtner
 >
