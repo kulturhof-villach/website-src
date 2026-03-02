@@ -16,7 +16,7 @@ draft = false
 
 ### Drag Karaoke
 
-**von, für und mit Änfänger\*innen**
+**von, für und mit Anfänger\*innen**
 
 Alle neugierigen jungen Leute, die schon immer einmal Drag ausprobieren wollten, sind willkommen. Egal wieviel Erfahrung ihr schon auf der Bühne hattet, egal ob ihr euch auf das Singen, Performen, Tanzen, Schauspiel oder Comedy konzentrieren wollt. Bringt euch selbst und eure Kreativität mit! 
 Ein Abend zum Karaoke singen, zu einem Track lipsyncen oder einfach zur Musik abgehen, ob auf der Bühne oder der Tanzfläche. Werft euch in Schale; lasst uns Diversität feiern!
