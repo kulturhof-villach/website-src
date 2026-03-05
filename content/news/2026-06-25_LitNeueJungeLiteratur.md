@@ -19,7 +19,7 @@ Literaturfans und vor allem Jugendliche sind herzlich eingeladen vom **25. bis 2
 
 Zusätzlich findet ein buntes Abendprogramm statt. Ein Programmpunkt dabei ist das **Wettlesen unter dem Slogan lit! neue junge literatur am 25. Juni, ab 18 Uhr**.
 
-Im Rahmen des Wettlesens lädt der Kulturhof:villach Jugendliche ein, ihre eigenen Texte auf der Bühne vorzutragen. Als Jurorin fungiert die junge Villacher Schriftstellerin Sarah Schönfelder.
+Wenn ihr jung seid und gerne Texte schreibt, gibt es für euch die Möglichkeit beim Wettlesen eure Texte auf der Bühne vorzutragen. Als Jurorin fungiert die junge Villacher Schriftstellerin Sarah Schönfelder.
 
 **Interessierte können sich bis 18. Juni per Mail an office@kulturhofvillach.at anmelden.**
 
