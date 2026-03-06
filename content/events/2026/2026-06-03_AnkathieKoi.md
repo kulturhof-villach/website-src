@@ -4,7 +4,7 @@ authors = ["kulturhof"]
 date = 2026-06-03T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "Ich komm jetzt deine Liebe abkassieren!"
+description = "Support: fridolin_schneck"
 featured = "img/events/2026-06-03_AnkathieKoi_Banner_c_FlorianLehner.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -32,8 +32,8 @@ draft = false
 
 
 
-### Ankathie Koi
-#### Ich komm jetzt deine Liebe abkassieren!
+## Ankathie Koi
+### Ich komm jetzt deine Liebe abkassieren!
 
 The Kois are back in town and on the road again!
 
@@ -51,7 +51,7 @@ Wenn Ankathie Koi auf Tour ist, knallen die Korken! Also nicht verwunderlich, da
 
 Fotos © Florian Lehner
 
-#### Bio
+### Bio
 
 Ankathie Koi stammt aus Oberbayern, lebt und arbeitet aber schon lange in Wien. Sie ist Sängerin, Komponistin und Entertainerin. Mit ihrer mächtigen und facettenreichen Stimme, Extravaganz und Charakter zieht die Musikerin ihr Publikum regelrecht in den Bann.
 
@@ -60,6 +60,48 @@ Ihre erste Single unter dem Pseudonym Ankathie Koi veröffentlichte sie 2014: "K
 2019 folgte Ankathie Kois zweites Album "Prominent Libido", wobei die Tournee durch den deutschsprachigen Raum im Frühjahr 2020 durch Corona jäh unterbrochen wurde. Angeregt dadurch, ihre Fans auch maskentragend und an Sitzplätze gebunden zu unterhalten, krempelte Ankathie Koi ihr Setup um und entwickelte ihre akustischen „In Private“- Shows, welche u.a. im Festspielhaus St. Pölten und im Wiener Konzerthaus aufgeführt wurden.
 
 Für ihr drittes Album kehrt Ankathie Koi zu ihrer Muttersprache zurück und singt auf Deutsch. Das Ergebnis betitelt Ankathie Koi selbst als modernen Retro-Pop – „PIKANT“ ist am 26.04.2024 erschienen und kann sich zahlreicher positiver Pressestimmen erfreuen. Ankathie Koi und Band touren aktuell durch Deutschland und Österreich, um das Album live vorzustellen.
+
+
+## Support: fridolin_schneck
+
+![Mikk](/img/events/2024-06-01_fridolinschneck_c_MarioKuhs.jpg)
+Foto © Mario Kuhs
+
+Mario Alexander Kuhs, a teacher, photographer, musician, and former frontman and mastermind of the Austrian
+band Psycho P., is attempting a solo project after a long musical absence. Under the moniker fridolin_schneck, he
+aims to rediscover the guitar for himself and find new interpretations for it.
+
+"After playing the guitar for so long and being technically limited as a self-taught player, it's difficult to break away
+from one's own path. Therefore, the fridolin_schneck project was never really intended as a solo endeavor. I always
+envisioned other musicians and instruments being part of it. Music is about collaboration and dialogue. Unfortunately,
+up until now, the right people haven't come together. In that sense, the solo project was born out of necessity."
+
+Even with Psycho P., Mario Kuhs never considered himself a traditional rock guitarist, but rather a seeker who
+skillfully avoided conventional riffs. The focus is on instrumental pieces, primarily featuring stripped-down clean
+guitar sounds, sporadically interrupted by vocals, and enhanced with loops at the right moments. The musical project
+fridolin_schneck is currently seen as a work in progress:
+
+"I'm not entirely sure where the journey should lead. The musical foundation is there, but I'm constantly oscillating
+between the different realms of experimentation and convention, between instrumental music and classic song
+structures with vocal parts, micro-loops, and longer, intricate and complex pieces."
+
+The project is currently open in all directions, potentially allowing space for other musicians and avoiding limitations.
+To prevent the work from the past years spent in solitude from disappearing completely, these pieces are now being
+presented as solo compositions.
+
+The emphasis is on instrumental guitar parts, rhythmic structures, crafted and interlocking miniatures, often in
+harmonic but sometimes contradictory interplay. Coming from a rock background, Mario Kuhs aims not to remain
+stagnant but to constantly move forward. The pieces draw inspiration from fingerstyle guitar music, jazz, rock, pop,
+metal, as well as classical singer-songwriter traditions.
+
+"I'm not sure if it makes sense when I say I have an essayistic approach to making music. Even though there might not
+be an immediate connection, when it comes to how I think and create music, I think of Robert Musil's 'The Man
+Without Qualities'. I struggle to write linear songs; I'm always looking for different patterns that I can assemble like
+building blocks. Perhaps it's because I'm a mathematician."
+
+Despite all the experimentation, the music remains conventional; the guitar is plucked, struck, and caressed
+extensively. Whether the project succeeds remains to be seen, as Musil's words echo: "Things might just as well be
+different."
 
 
 - Info Hotline: 0699 15088177 
