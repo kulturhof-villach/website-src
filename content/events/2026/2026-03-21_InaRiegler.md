@@ -18,7 +18,7 @@ draft = false
 > 
 > Eintritt frei
 
-In den zwei ausgestellten Werken geht es um eine Reflexion über zehn Jahre sozialer Arbeit mit fremduntergebrachten Kindern. Kinder, die Gewalt, Missbrauch, Vernachlässigung und Suchterkrankungen im familiären Umfeld erlebt haben. Kinder, deren Biografien von Brüchen geprägt sind – und dennoch von einer leisen, oft übersehenen Stärke.
+In dem ausgestellten Werke geht es um eine Reflexion über zehn Jahre sozialer Arbeit mit fremduntergebrachten Kindern. Kinder, die Gewalt, Missbrauch, Vernachlässigung und Suchterkrankungen im familiären Umfeld erlebt haben. Kinder, deren Biografien von Brüchen geprägt sind – und dennoch von einer leisen, oft übersehenen Stärke.
 
 Im Zentrum des Bildes steht der Versuch, diese Kinder zu schützen. Nicht als Heldengeste, sondern als Haltung. Als Dasein. Als stilles Versprechen: Du bist nicht allein. Die Dunkelheit im Werk verweist auf die Schwere der Vergangenheit, auf Traumata und innere Kämpfe. Gleichzeitig durchbricht Licht die Szenerie – als Zeichen von Hoffnung, Beziehung und möglicher Zukunft. Schutz bedeutet hier nicht, Schmerz ungeschehen zu machen, sondern ihn mitzutragen.
 
