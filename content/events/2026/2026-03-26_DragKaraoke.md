@@ -26,7 +26,7 @@ Alle Infos über das Event aund wie ihr mitmachen könnt auf Instagram: **@drag.
 ![Drag Karaoke](/img/events/2026-03-26_DragKaraoke.JPG)
 
 
-> Wo? Kuluthof:villach | Lederergasse 15
+> Wo? Kulturhof:villach | Lederergasse 15
 >
 > 27. März | 19 Uhr
 >
