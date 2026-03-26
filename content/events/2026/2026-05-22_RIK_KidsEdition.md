@@ -18,7 +18,7 @@ draft = false
 
 Es ist soweit. Die Hosts der beliebten Rap im Keller Events haben die vielen Anfragen erhört und veranstalten eine Rap im Keller - Kids Edition! 
 
-Jede\*r ist willkommen, es ist keine Erfahrung notwendig. Es geht allein ums Ausprobieren, einmal auf der Bühne stehen und nach Lust und Laune einen freestyle Cypher ins Mikro rappen. Martin und Alex werden auch noch ihre besten Tipps zu Reim und Rhythmus weitergeben.
+Jede\*r ist willkommen, es ist keine Erfahrung notwendig. Es geht allein ums Ausprobieren, einmal auf der Bühne stehen und nach Lust und Laune einen Freestyle-Cypher ins Mikro rappen. Martin und Alex werden auch noch ihre besten Tipps zu Reim und Rhythmus weitergeben.
 
 > Facts:
 >
