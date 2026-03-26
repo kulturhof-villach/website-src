@@ -14,10 +14,6 @@ tags = ["freestylerap"]
 draft = false
 +++
 
-**Eintritt frei**
-
-> Open Mic Freestyle-Cypher für Kids bis 14 Jahren
-
 ## Rap im Keller - Kids Edition
 
 Es ist soweit. Die Hosts der beliebten Rap im Keller Events haben die vielen Anfragen erhört und veranstalten eine Rap im Keller - Kids Edition! 
