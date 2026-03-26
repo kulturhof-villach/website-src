@@ -11,7 +11,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["konzert"]
-draft = false
+draft = true
 +++
 
 > EINTRITT: Vorverkauf € 25.-\* / € 20.-\*\*
