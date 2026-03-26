@@ -36,10 +36,6 @@ Jede\*r ist willkommen, es ist keine Erfahrung notwendig. Es geht allein ums Aus
 >
 > - Eintritt frei
 
-
-![Rik](/img/events/2025-09-05_RikGrafik_Martin_Funk.JPG)
-Illustration © Martin Funk
-
 ## Die Hosts
 
 doppelt sichtbar – die Freestyle Zwillinge aus Villach.
