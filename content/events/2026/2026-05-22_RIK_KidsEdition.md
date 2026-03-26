@@ -11,7 +11,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["freestylerap"]
-draft = true
+draft = false
 +++
 
 **Eintritt frei**
