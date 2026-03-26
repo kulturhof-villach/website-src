@@ -11,14 +11,14 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["konzert"]
-draft = true
+draft = false
 +++
 
 > EINTRITT: Vorverkauf € 25.-\* / € 20.-\*\*
 > 
 > EINTRITT: Abendkassa € 28.- / € 23.-\*\* / € 15.-\*\*\*
 >
-> \*Im Vorverkauf auf [kupfticket.com/events/manu-delago-max-zt-deuce-tour-2026](https://kupfticket.com/events/manu-delago-max-zt-deuce-tour-2026)
+> \*Im Vorverkauf auf [kupfticket.com/events/manu-delago-max-zt-deuce-tour-2026-2](https://kupfticket.com/events/manu-delago-max-zt-deuce-tour-2026-2)
 >
 > \*\*Ermäßigungen für Studierende, Lehrlinge und Mindestpensionist\*innen
 > 
