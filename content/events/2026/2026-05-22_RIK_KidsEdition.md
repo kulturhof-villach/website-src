@@ -11,7 +11,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["freestylerap"]
-draft = false
+draft = true
 +++
 
 ## Rap im Keller - Kids Edition
