@@ -57,7 +57,7 @@ Die Wiener Künstlerin MONSTERHEART präsentierte im Jänner 2026 mit „MELODY 
 
 Die Entscheidung für einen Bandnamen ist eine sensible Aufgabe. Wird sie mit Bedacht getroffen, kann sie auf elegante Weise zeigen, in welche Richtung eine Band oder eine Künstler\*in denkt, welche Ziele sie verfolgen und welche gestalterische oder sogarideologische Idee hinter ihrer Musik steht. Schlecht ausgewählt, kann es freilich auch katastrophal ausufern.
 
-Für die österreichische Musikerin und bildende Künstlerin Anna Attar gilt ersteres. 2011 wählte sie für ihr musikalisches Soloprojekt den Namen Monsterheart und dieses Pseudonym bringt ihr ästhetisches Streben perfekt auf den Punkt. Ihre Musik evoziert eine autarke kleine Welt, in der sie oft sehr unterschiedliche Extreme miteinander vermählt. 
+Für die österreichische Musikerin und bildende Künstlerin **Anna Attar** gilt ersteres. 2011 wählte sie für ihr musikalisches Soloprojekt den Namen Monsterheart und dieses Pseudonym bringt ihr ästhetisches Streben perfekt auf den Punkt. Ihre Musik evoziert eine autarke kleine Welt, in der sie oft sehr unterschiedliche Extreme miteinander vermählt. 
 
 Songs die an die vermeintliche Niedlichkeit von Kinderliedern erinnern werden in dunkle Dark Wave-Wälder geschickt. Fröhlicher, ungemein melodischer Indie Pop wird von melancholischem Folk erschreckt. Und auch inhaltlich fügt Monsterheart Themen zusammen, die nur selten etwas miteinander zu tun haben, die in ihrer Kombination aber eine betörend romantische aber auch leicht abgründige Stimmung auslösen: Science Fiction Märchen, introspektive Reisen und kontemplativer Realismus. 
 
@@ -83,7 +83,7 @@ MAIIJA ist das Projekt der österreichischen Musikerin und Komponistin **Marilie
 2023 erschien das Debüt I AM (Noise Appeal Records) und 2026 folgt das Album WHAT IF, das auf berührend persönliche Weise von Verwundbarkeit und Stärke erzählt, von Krankheit und Hoffnung, von Stillstand und Aufbruch – immer verknüpft mit der Frage nach kollektiver Verantwortung in einer unsicheren Gegenwart.
 
 
-> Besetzung
+> **Besetzung**
 >
 > • Marilies Jagsch – Gitarre, Klavier, Gesang
 >
