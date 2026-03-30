@@ -1,5 +1,5 @@
 +++
-title = "Storkstromkeller Vol. 1"
+title = "Storkstromkeller Vol.1"
 authors = ["kulturhofkeller"]
 date = 2026-05-30T19:00:00
 publishdate = 2021-05-01
