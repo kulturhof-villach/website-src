@@ -17,6 +17,7 @@ draft = false
 # Storkstromkeller Vol. 1
 
 
+
 #### High Voltage (Carinthian Metal)
 
 ![High Voltage](/img/events/2026-05-30_HighVoltage.jpg)
@@ -37,7 +38,8 @@ Im Herbst 2020 stieß nach langer Suche Joe Zarre, ein Jünger der alten Schule 
 Kurz vor der Fertigstellung des Albums verließ Bassist Joe aus privaten Gründen die Band wieder und wurde durch Musikerfreund Stephan Truck als Session Bassist ersetzt.  Im Herbst 2023 erschien dann das neue Album, welches zeitgleich mit dem 30jährigen Jubiläum der Band re-leased wurde. 
 
 Einige Zeit nachher stieg Stephan Truck, angetan vom Bühnenpotenzial der Band, als fixer Bassist ein.  Die Jungs blieben trotz schwerer Zeiten für den Oldschool Metal bis heute ihrer Linie treu und überzeugen weiterhin die alten aber auch junge Fans. 
- 	
+
+  
 
 #### CounterValley
 
@@ -47,6 +49,7 @@ Einige Zeit nachher stieg Stephan Truck, angetan vom Bühnenpotenzial der Band, 
 
 
 Aus dem Gegendtal direkt auf die Bühne! Die Band **CounterValley** überzeugt mit purer Energie, mitreißender Live-Performance und zeigt mit der EP Isolated Sanity ihren authentischen Sound! "From the valley to your ears – CounterValley live!"
+
 
 
 #### BLACKROSES
