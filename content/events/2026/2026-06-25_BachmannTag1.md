@@ -31,7 +31,7 @@ Die musikalische Eröffnung der diesjährigen Bachmanntage im Kulturhof:villach 
 
 Davor gibt's mit **lit! neue junge literatur** die Chance für junge Menschen ihre Texte vor Publikum zu präsentieren. Es winken zahlreiche Preise und Feedback zu den Texten von der jungen Villacher Schriftstellerin Sarah Schönfelder. Interessierte können sich bis 18. Juni per Mail an office@kulturhofvillach.at anmelden.
 
-[lit! neue junge literatur](https://kulturhofvillach.at/news/2026-06-25_litneuejungeliteratur/)
+Mehr Infos unter [lit! neue junge literatur](https://kulturhofvillach.at/news/2026-06-25_litneuejungeliteratur/)
 
 
 
