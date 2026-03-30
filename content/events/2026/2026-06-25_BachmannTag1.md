@@ -41,22 +41,24 @@ Mehr Infos unter [lit! neue junge literatur](https://kulturhofvillach.at/news/20
 
 © Martin Funk
 
-Für die Bachmanntage hebt das Duo von doppelt sichtbar den monatlichen Rap im Keller ans Tageslicht und veranstaltet kurzerhand **Rap im Hof** - dies nach gewohnter Freestyle-Cypher-Manier. Jede*r ist willkommen – egal, ob Anfänger\*in, neugierig oder erfahren am Mic. Der Fokus liegt nicht auf Wettbewerb, sondern auf künstlerischem Wachstum, Gemeinschaft und dem gemeinsamen Spaß an Sprache und Rhythmus. Die einzige Regel: Sei gemütlich.
+Für die Bachmanntage hebt das Duo von doppelt sichtbar den monatlichen Rap im Keller ans Tageslicht und veranstaltet kurzerhand **Rap im Hof** - dies nach gewohnter Freestyle-Cypher-Manier. 
+
+Jede*r ist willkommen – egal, ob Anfänger\*in, neugierig oder erfahren am Mic. Der Fokus liegt nicht auf Wettbewerb, sondern auf künstlerischem Wachstum, Gemeinschaft und dem gemeinsamen Spaß an Sprache und Rhythmus. Die einzige Regel: Sei gemütlich.
 
 ##### Die Hosts
 
 doppelt sichtbar – die Freestyle Zwillinge aus Villach
 
-instagram.com/doppeltsichtbar
+[instagram.com/doppeltsichtbar](https://www.instagram.com/doppeltsichtbar/)
 
+Mr. Jenkins - DJ aus Villach
 
-##### Mr. Jenkins
-
-instagram.com/misterjenkinz
+[instagram.com/misterjenkinz](https://www.instagram.com/misterjenkinz/)
 
 ##### Social Media
 
-instagram.com/rapimkeller
+[instagram.com/rapimkeller](https://www.instagram.com/rapimkeller/)
+
 
 
 
@@ -72,8 +74,9 @@ instagram.com/rapimkeller
 Dort wo Beats zwischen Hammond Piano-Sounds, Boombap Rhythmen und Gitarren-Wirblereien auf Dialekt-Storytelling und kratzigen Gesang treffen - dort findet man auch das Nebelkynd.
 
 
-Kontakt:
->
+
+
+
 >office@kulturhofvillach.at
 >
 >+43 699 15088177
