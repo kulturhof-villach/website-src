@@ -32,3 +32,10 @@ Als Preise winken Freikarten für Veranstaltungen im Kulturhof und in der neuenb
 > - maximale Lesedauer von 10 Minuten
 > - Text + kurze Biographie/Hintergrund zum Text (formatiert in 12 Punkt-Schrift) bis spätestens 18. Juni an office@kulturhofvillach.at 
 > - persönliches Vortragen beim Wettlesen am 25. Juni, 18:00 Uhr
+
+
+
+>office@kulturhofvillach.at
+>
+>+43 699 15088177
+
