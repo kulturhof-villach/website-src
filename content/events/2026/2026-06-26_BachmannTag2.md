@@ -123,7 +123,7 @@ Das Hertz gibt die Anzahl sich wiederholender Vorgänge in einem periodischen Si
 Aufhorchen lässt dabei vor allem der innovative Einsatz der Querflöte, die mit zahlreichen Effekten entfremdet unerwartete harmonische und rhythmische Klanggewitter erzeugt. Schlagzeug und Gitarre bilden mit technoiden bis poppigen Basslines sowie mit repetitiven Schlagzeug-Grooves eine solide Basis.
 
 
-> Besetzung
+> **Besetzung**
 >
 > • Joachim Rigler: Gitarre / Bass
 >
