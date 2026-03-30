@@ -29,7 +29,8 @@ draft = false
 
 
 
-## Julia Jost: Wo der spitzeste Zahn der Karawanken in den Himmel hinauf fletscht ##
+## Julia Jost
+#### Wo der spitzeste Zahn der Karawanken in den Himmel hinauf fletscht
 
 ![Julia Jost](/img/events/2026-06-27_JuliaJost_c_RafaelaProell.jpg)
 
