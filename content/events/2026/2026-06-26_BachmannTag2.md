@@ -53,6 +53,7 @@ Im Laufe der Jahre hat sich mein Stil von detailreichen, abs
 
 
 
+
 #### Palina Pivovarova - :schauraum
 
 ![Palina Pivovarova](/img/events/2026-06-26_PalinaPivovarova.png)
@@ -66,6 +67,8 @@ Palina Pivovarova wurde 2009 in St. Petersburg geboren und wohnt seit 2015 in Kl
 
 
 
+
+
 #### s p p s - :klangkorridor
 
 ![s p p s](/img/events/xxx)
@@ -76,6 +79,8 @@ Info folgt
 
 
 
+
+
 ## Tanzbüro ##
 
 ![Tanzbüro](/img/events/xxx)
@@ -83,6 +88,8 @@ Info folgt
 © xxx
 
 Info folgt
+
+
 
 
 
@@ -100,6 +107,7 @@ Zu zweit steuerten sie auch die Songs & die Performance zu den  Geschichten aus 
 **Der Nino Aus Wien**, österreichischer Liedermacher und Literat, prägt nun seit über 12 Jahren die deutschsprachige Musikszene mit seiner ureigenen Form des „Wienerlieds“ und seinem „Hirschstettner Soul“. „Der beste junge Liedermacher des Landes” und der “Bob Dylan vom Praterstern” ist er laut Falter. Quer verteilt im deutschsprachigen Raum spielt Nino an die 100 Konzerte pro Jahr. Vom Wiener Gürtel-Club bis hin zur Hamburger Elbphilharmonie. 2016 mit dem Amadeus Austrian Music Award in der Kategorie „Alternative Pop / Rock“ ausgezeichnet, erschien 2024 nicht nur sein Album “endlich Wienerlieder”, sondern bei Redelsteiner dahimène edition auch sein Kochbuch: Take 16
  
 Natalie Ofenböck und der Nino Aus Wien finden gemeinsam Lieder und was sie sonst noch so suchen. Zum Beispiel in Villach. Es ist eine gemeinsame Geschichte. Eine Geschichte, die weder zu Ende gesungen noch ausgelesen ist.
+
 
 
 
@@ -122,6 +130,7 @@ Aufhorchen lässt dabei vor allem der innovative Einsatz der Querflöte, die mit
 > • Alexander Behr: Schlagzeug / Percussion
 >
 > • Sara Zlanabitnig: Querflöte / Effekte
+
 
 
 
