@@ -5,7 +5,7 @@ date = 2026-05-22T16:00:00
 publishdate = 2021-05-01
 time = "16:00"
 description = "Bühne frei für Kids bis 14 Jahren"
-featured = "img/events/2026-05-22_RIK_KidsEdition.png"
+featured = "img/events/2026-05-22_RIK_KIDS.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -32,17 +32,26 @@ Jede\*r ist willkommen, es ist keine Erfahrung notwendig. Es geht allein ums Aus
 >
 > - Eintritt frei
 
+
+Um 20 Uhr findet wie gewohnt die Rap im Keller Originalversion statt:
+
+[kulturhofvillach.at/events](https://kulturhofvillach.at/events/2026/2026-05-22_rik/)
+
+
 ## Die Hosts
 
-doppelt sichtbar – die Freestyle Zwillinge aus Villach.
+doppelt sichtbar – die Freestyle Zwillinge aus Villach
+
 [instagram.com/doppeltsichtbar](https://www.instagram.com/doppeltsichtbar/)
 
-Mr. Jenkins – DJ aus Villach.
+Mr. Jenkins – DJ aus Villach
+
 [instagram.com/misterjenkinz](https://www.instagram.com/misterjenkinz/)
 
 ## Social Media
 
-Rap im Keller ist auch auf Instagram vertreten
+Rap im Keller ist auch auf Instagram vertreten:
+
 [instagram.com/rapimkeller](https://www.instagram.com/rapimkeller/)
 
 
