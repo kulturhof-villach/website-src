@@ -18,9 +18,9 @@ draft = false
 >
 >•	19:00 Uhr - Lesung Julia Jost
 >
->•	20:30 Uhr - Konzert MONSTERHEART
+>•	20:30 Uhr - MONSTERHEART
 >
->•	21:30 Uhr - Konzert MAIIJA
+>•	21:30 Uhr - MAIIJA
 >
 >**Eintritt frei**
 >
