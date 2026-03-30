@@ -26,13 +26,13 @@ Alle Infos über das Event aund wie ihr mitmachen könnt auf Instagram: **@drag.
 ![Drag Karaoke](/img/events/2026-03-26_DragKaraoke.JPG)
 
 
-> Wo? Kulturhof:villach | Lederergasse 15
+> Kulturhof:villach | Lederergasse 15
 >
 > 27. März | 19 Uhr
 >
 > Eintritt frei
 >
-> Veranstaltet von Drak Karaoke
+> Veranstaltet von Drag Karaoke
 >
 > Kontakt: drag.karaoke.villach@gmail.com
 
