@@ -31,7 +31,8 @@ draft = false
 
 
 
-## Vernissage :artwall | :schauraum | :klangkorridor ##
+## Vernissage 
+### :artwall | :schauraum | :klangkorridor ##
 
 
 #### Pia Dalitz - :artwall
