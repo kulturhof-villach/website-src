@@ -22,7 +22,7 @@ Aus dem Gegendtal direkt auf die Bühne! Die Band **CounterValley** überzeugt m
 
 ![Rock Christmas](/img/events/2025-12-13_RockChristmas.jpg)
 
-> Kuluthof:villach | Lederergasse 15
+> Kulturhof:villach | Lederergasse 15
 >
 > 13. Dezember | 18:30 Uhr
 >
