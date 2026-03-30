@@ -50,9 +50,10 @@ Mr. Jenkins – DJ aus Villach
 
 ## Social Media
 
-Rap im Keller ist auch auf Instagram vertreten:
+Rap im Keller auf Instagram:
 
 [instagram.com/rapimkeller](https://www.instagram.com/rapimkeller/)
+
 
 
 
