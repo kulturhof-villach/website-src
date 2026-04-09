@@ -64,7 +64,7 @@ Für diese Mission wird auch am 5. September gerockt und gesammelt. Die Erlöse 
 >
 > Tickets Abendkasse: 20 Euro
 >
-> Veranstaltet von **Sea Shepherd Österreich**
+> Veranstaltet von **Sea Shepherd Österreich** in Kooperation mit dem Kulturhof:villach
 
 
 
