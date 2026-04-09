@@ -60,9 +60,9 @@ Für diese Mission wird auch am 5. September gerockt und gesammelt. Die Erlöse 
 >
 > 5. September | 19:30 Uhr
 >
-> Tickets Vorverkauf: 18 Euro / erm. 15 Euro - über [kupfticket.com/events/sea-shepherd-benefizkonzert-im-kulturhofvillach](https://kupfticket.com/events/sea-shepherd-benefizkonzert-im-kulturhofvillach)
+> Tickets Vorverkauf: 22 Euro / erm. 18 Euro - über [kupfticket.com/events/sea-shepherd-benefizkonzert-im-kulturhofvillach](https://kupfticket.com/events/sea-shepherd-benefizkonzert-im-kulturhofvillach)
 >
-> Tickets Abendkasse: 20 Euro
+> Tickets Abendkasse: 25 Euro
 >
 > Veranstaltet von **Sea Shepherd Österreich**
 
