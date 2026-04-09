@@ -1,5 +1,5 @@
 +++
-title = "Ankathie Koi"
+title = "Ankathie Koi - ABGESAGT"
 authors = ["kulturhof"]
 date = 2026-06-03T20:00:00
 publishdate = 2021-05-01
@@ -13,6 +13,9 @@ type = "event"
 tags = ["konzert"]
 draft = false
 +++
+
+## Es tut uns leid, euch mitteilen zu müssen, dass uns der Gig aus logistischen Gründen leider abgesagt wurde. Alle bereits gekauften Tickets werden erstattet. 
+
 
 > EINTRITT: Vorverkauf € 24.-\* / € 20.-\*\*
 > 
