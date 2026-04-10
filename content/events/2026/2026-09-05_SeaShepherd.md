@@ -17,7 +17,9 @@ draft = false
 # Sea Shepherd Österreich
 ## Benefizkonzert im Kulturhof:villach
 
-Sea Shepherd ist eine internationale, gemeinnützige Organisation zum Schutz der Meere und deren Tierwelt. Ziel ist es, die Zerstörung von Lebensräumen und das Abschlachten der Tiere in den Weltmeeren zu beenden.
+Sea Shepherd Global ist eine international tätige Meeresschutzorganisation, welche sich mit direkten Aktionen aktiv gegen illegale Aktivitäten einsetzt. Mit einer eigenen Flotte, aktuell aus 7 Schiffen bestehend, greift Sea Shepherd mit mehreren Kampagnen und Kooperationen weltweit ein.
+
+Sea Shepherd Global besteht aus über 10 Länderchaptern, zu denen auch Österreich zählt. Die Volunteers in Österreich leisten wichtige Aufklärungsarbeit, organisieren regelmäßig Uferreinigungen (Wien, Graz), sammeln Spenden und verkaufen Merchandise auf verschiedensten Veranstaltungen, um die Kampagnen zu finanzieren und halten Vorträge in Schulen. Weiters gibt es noch das Projekt „Artists for Sea Shepherd“ wo mit Künstler\*innen jeglicher Art zusammengearbeitet wird um gemeinsam auf die Wichtigkeit und Dringlichkeit des Meeresschutzes aufmerksam zu machen.
 
 Für diese Mission wird auch am 5. September gerockt und gesammelt. Die Erlöse fließen in den Schutz und den Erhalt der maritimen Ökosysteme und Tierwelt.
 
@@ -63,6 +65,8 @@ Für diese Mission wird auch am 5. September gerockt und gesammelt. Die Erlöse 
 > Tickets Vorverkauf: 22 Euro / erm. 18 Euro - über [kupfticket.com/events/sea-shepherd-benefizkonzert-im-kulturhofvillach](https://kupfticket.com/events/sea-shepherd-benefizkonzert-im-kulturhofvillach)
 >
 > Tickets Abendkasse: 25 Euro
+>
+> Kontakt: artists@seashepherd.at
 >
 > Veranstaltet von **Sea Shepherd Österreich**
 
