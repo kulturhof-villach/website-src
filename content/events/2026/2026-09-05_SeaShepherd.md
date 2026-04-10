@@ -4,8 +4,8 @@ authors = ["kulturhofkeller"]
 date = 2026-09-05T19:30:00
 publishdate = 2021-05-01
 time = "19:30"
-description = "Forgotten in progress | Under destruction | Story of a stranger | Hidden fates"
-featured = "img/events/2026-09-05_SeaShepherd.png"
+description = "Forgotten in progress | Under Destruction | Story of a Stranger | Hidden Fates"
+featured = "img/events/2026-09-05_SSAT.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -33,27 +33,52 @@ Für diese Mission wird auch am 5. September gerockt und gesammelt. Die Erlöse 
 
   
 
-#### Under destruction
+#### Under Destruction
 
-![Under destruction](/img/events/2026-09-05_UnderDestruction.jpg)
+![Under Destruction](/img/events/2026-09-05_UnderDestruction.jpg)
 
-© Under destruction
+© Under Destruction
+
+
+Under Destruction aus Graz machen Melodic Death Metal nach Schweden-Rezept und segeln seit vielen Jahren durch Österreichs Underground.
+Ihr Sound baut auf melodische Riffs und stampfende Groove Parts, über denen mächtige Souts thronen, kombiniert mit gezielt eingesetzten temporeichen Passagen.
+
+Oder wie Metal Hammer über ihr Debüt Album sagte: „ … kein Weichkeks-Metal, sondern melodischer Death Metal mit Eiern und Mosh Faktor.“
+Auch auf ihrem zukünftigen Release, an dem gerade gearbeitet wird, werden die Headbang-Parts nicht zu kurz kommen.
 
 
 
-#### Story of a stranger
+#### Story of a Stranger
 
-![Story of a stranger](/img/events/2026-09-05_StoryOfAStranger_c_KurtHohenbichler.png)
+![Story of a Stranger](/img/events/2026-09-05_StoryOfAStranger_c_KurtHohenbichler.png)
 
 © Kurt Hohenbichler
 
 
+Mit ihrem offiziellen Eintritt in die Szene im Jahr 2024 entstanden, bringen Story of a Stranger ihre gemeinsame Leidenschaft für harte Musik und kreativen Ausdruck nach außen – mit dem Anspruch, modernen Metalcore neu zu definieren.
 
-#### Hidden fates
+Mit jahrelanger Erfahrung vereinen die vier Musiker Screams, Clean-Vocals und harte Instrumentals zu einem dynamischen Sound. Ihre Musik ruft dazu auf, die eigene Kraft zu erkennen und sie für echten Wandel einzusetzen.
 
-![Hidden fates](/img/events/2026-09-05_HiddenFates.jpg)
 
-© Hidden fates
+
+#### Hidden Fates
+
+![Hidden Fates](/img/events/2026-09-05_HiddenFates.jpg)
+
+© Hidden Fates
+
+
+Hidden Fates ist eine dreiköpfige Band aus Graz, Österreich, welche im Dezember 2022 das
+erste Mal die heimische Metalcoreszene mit ihrer ersten Single “Devil Inside” aufmischte.
+Für production und recordings, haben sich die Drei Electric Callboy’s Produzenten und
+Gitarristen Daniel Haniß ins Boot geholt und gemeinsam mit ihm bereits eine EP und vier
+Singles veröffentlicht.
+
+Zudem kooperieren sie in Sachen Mastering mit Christoph Wieczorek von Annisokay und
+werden mit Features von Sebastian von Samurai Pizza Cats kräftig unterstützt.
+Der Sound setzt sich aus bissigen Metal-Riffen, melodischen elektronic-synths, gemischt mit
+klangvollen Vocals zusammen. Dieses Jahr geht es für Hidden Fates durch ganz Europa -
+auch einige österreichische Stopps sind dabei.
 
 
 
