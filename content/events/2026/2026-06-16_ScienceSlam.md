@@ -1,7 +1,7 @@
 +++
 title = "ACE2 EU ANNUAL INTERNATIONAL SCIENCE SLAM
 authors = ["kulturhofkeller"]
-date = 2025-09-23T18:00:00
+date = 2026-06-16T18:00:00
 publishdate = 2021-05-01
 time = "18:00"
 description = "Bühne frei für die internationale Wissenschaft in Villach"
