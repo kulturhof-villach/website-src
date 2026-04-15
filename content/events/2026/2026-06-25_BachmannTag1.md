@@ -24,7 +24,7 @@ draft = false
 >
 >**Eintritt frei**
 >
->[Infos zu den Lesungen und dem gesamten Bachmann-Programm](https://kulturhofvillach.at/events/2026/2026-06-25_bachmann.md)
+>[Infos zu den Lesungen und dem gesamten Bachmann-Programm](https://kulturhofvillach.at/events/2026/2026-06-25_bachmann/)
 
 
 Die musikalische Eröffnung der diesjährigen Bachmanntage im Kulturhof:villach übernehmen **doppelt sichtbar** und **Nebelkynd**.
