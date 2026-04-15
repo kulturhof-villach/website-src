@@ -26,7 +26,7 @@ draft = false
 >
 >**Eintritt frei**
 >
->[Infos zu den Lesungen und dem gesamten Bachmann-Programm](https://kulturhofvillach.at/events/2026/2026-06-26_bachmanntag2/)
+>[Infos zu den Lesungen und dem gesamten Bachmann-Programm](https://kulturhofvillach.at/events/2026/2026-06-25_bachmann/)
 
 
 
