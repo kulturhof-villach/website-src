@@ -34,9 +34,9 @@ draft = false
 
 ## Experimentierfeld der Künste: Tanz | Literatur | Musik ##
 
-![Tanzbüro](/img/events/xxx)
+![Tanzbüro](/img/events/2026-06-26_Tanz.png)
 
-© xxx
+© Tanzbüro
 
 **6 Künstler\*innen - 3 Kunstrichtungen - 2 Trios** das ist ist die Ausgangslage dieses kleinen aber feinen Projekts, in dem Kärntner und Kärntner-Slowenische Künstler\*innen, verschiedener Sparten und Generationen, zusammentreffen um gemeinsam Raum mit ihrer Kunst zu füllen.
 
