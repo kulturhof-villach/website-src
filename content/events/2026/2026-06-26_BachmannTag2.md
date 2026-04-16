@@ -94,13 +94,6 @@ Info folgt
 
 
 
-
-
-
-
-
-
-
 ## Natalie Ofenböck & Der Nino aus Wien ##
 
 ![Natalie und Nino](/img/events/2024-10-25_Nino_und_Natalie_Pamela_Rußmann.jpg)
