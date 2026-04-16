@@ -84,9 +84,9 @@ Palina Pivovarova wurde 2009 in St. Petersburg geboren und wohnt seit 2015 in Kl
 
 #### s p p s - :klangkorridor
 
-![s p p s](/img/events/xxx)
+![s p p s](/img/events/2026-06-26_spps.PNG)
 
-© xxx
+© s p p s
 
 Info folgt
 
