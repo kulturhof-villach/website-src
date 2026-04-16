@@ -1,5 +1,5 @@
 +++
-title = "Vernissage | Tanz | Natalie Ofenböck & Der Nino aus Wien | Hertzinger"
+title = "Tanz | Vernissage | Natalie Ofenböck & Der Nino aus Wien | Hertzinger"
 authors = ["kulturhof"]
 date = 2026-06-26T18:00:00
 publishdate = 2021-05-02
@@ -16,9 +16,11 @@ draft = false
 
 >Programm am Freitag, 26. Juni:
 >
->•	18:00 Uhr - Vernissage :artwall | :schauraum | :klangkorridor
+>•	18:00 Uhr - Experimentierfeld der Künste: Tanz | Literatur | Musik
 >
->•	19:00 Uhr - Tanz
+>•	18:30 Uhr - Vernissage :artwall | :schauraum | :klangkorridor
+>
+>•	19:30 Uhr - Experimentierfeld der Künste: Tanz | Literatur | Musik
 >
 >•	20:00 Uhr - Natalie Ofenböck & Der Nino aus Wien
 >
@@ -28,6 +30,17 @@ draft = false
 >
 >[Infos zu den Lesungen und dem gesamten Bachmann-Programm](https://kulturhofvillach.at/events/2026/2026-06-25_bachmann/)
 
+
+
+## Experimentierfeld der Künste: Tanz | Literatur | Musik ##
+
+![Tanzbüro](/img/events/xxx)
+
+© xxx
+
+**6 Künstler\*innen - 3 Kunstrichtungen - 2 Trios** das ist ist die Ausgangslage dieses kleinen aber feinen Projekts, in dem Kärntner und Kärntner-Slowenische Künstler\*innen, verschiedener Sparten und Generationen, zusammentreffen um gemeinsam Raum mit ihrer Kunst zu füllen.
+
+Jeweils eine Musiker\*in, eine Literat\*in und eine Tänzer\*in finden eine gemeinsame Sprache, eine gemeinsame Melodie, eine gemeinsame Bewegung. Ein Experiment das den Künstler\*innen absolute Freiheit an der Umsetzung dieser Performance geben soll, mit Ausnahme einer Aufgabenstellung: Kommt mit eurer Erfahrung, eurem Wissen und eurem professionellen Mindset. Alles andere lasst ihr zuhause. Findet und erfindet euch gemeinsam in diesem Projekt, überrascht euch und lasst euch überraschen!
 
 
 
@@ -81,13 +94,7 @@ Info folgt
 
 
 
-## Tanzbüro ##
 
-![Tanzbüro](/img/events/xxx)
-
-© xxx
-
-Info folgt
 
 
 
