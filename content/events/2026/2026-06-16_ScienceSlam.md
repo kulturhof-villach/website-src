@@ -1,5 +1,5 @@
 +++
-title = "ACE2 EU ANNUAL INTERNATIONAL SCIENCE SLAM
+title = "ACE2 EU ANNUAL INTERNATIONAL SCIENCE SLAM"
 authors = ["kulturhofkeller"]
 date = 2026-06-16T18:00:00
 publishdate = 2021-05-01
