@@ -19,7 +19,7 @@ Literaturfans und vor allem Jugendliche sind herzlich eingeladen vom **25. bis 2
 
 Zusätzlich findet ein buntes Abendprogramm statt. Ein Programmpunkt dabei ist das **Wettlesen unter dem Slogan lit! neue junge literatur am 25. Juni, ab 18 Uhr**.
 
-Wenn ihr jung seid und gerne Texte schreibt, gibt es für euch die Möglichkeit beim Wettlesen eure Texte auf der Bühne vorzutragen. Als Jurorinnen fungieren die junge Villacher Schriftstellerin Sarah Schönfelder und die Nachwuchsschauspielerin Elena Schurian.
+Wenn ihr jung seid und gerne Texte schreibt, gibt es für euch die Möglichkeit beim Wettlesen eure Texte auf der Bühne vorzutragen. Als Jurorinnen fungieren die junge Villacher Schriftstellerin Sarah Schönfelder und die Nachwuchsautorin und Schauspielerin Elena Schurian.
 
 **Interessierte können sich bis 18. Juni per Mail an office@kulturhofvillach.at anmelden.**
 
