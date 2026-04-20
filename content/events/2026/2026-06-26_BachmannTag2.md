@@ -92,7 +92,6 @@ Palina Pivovarova wurde 2009 in St. Petersburg geboren und wohnt seit 2015 in Kl
 
 
 
-
 ## Natalie Ofenböck & Der Nino aus Wien ##
 
 ![Natalie und Nino](/img/events/2024-10-25_Nino_und_Natalie_Pamela_Rußmann.jpg)
