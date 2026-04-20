@@ -18,9 +18,11 @@ draft = false
 >
 >•	19:00 Uhr - Lesung Julia Jost
 >
->•	20:30 Uhr - MONSTERHEART
+>•	20:00 Uhr - MONSTERHEART
 >
->•	21:30 Uhr - MAIIJA
+>•	21:00 Uhr - MAIIJA
+>
+>•	21:00 Uhr - a.c.m.e; radiolab
 >
 >**Eintritt frei**
 >
@@ -95,6 +97,15 @@ MAIIJA ist das Projekt der österreichischen Musikerin und Komponistin **Marilie
 > • Gernot Scheithauer – Schlagzeug
 >
 
+
+
+
+## a.c.m.e,- radiolab ##
+
+![a.c.m.e,- radiolab](/img/events/2025-06-27_acme_radiolab.jpg)
+© a.c.m.e,- radiolab
+
+Ab 22 Uhr gibt’s eine Live-Session des a.c.m.e,- radiolab mit special guest.
 
 
 
