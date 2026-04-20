@@ -88,8 +88,7 @@ Palina Pivovarova wurde 2009 in St. Petersburg geboren und wohnt seit 2015 in Kl
 
 © s p p s
 
-Info folgt
-
+2001 geboren, 16 in österreich geworden, 11 in österreich nicht gelebt. s p p s ist kein nomade, sondern ein heimatsmensch, denn die heimat gibt es nicht. sie heißt sofiia oder? es sei. sie machts experimentell anscheinend. diesmal auditiv. es geht um die vermittlung.
 
 
 
