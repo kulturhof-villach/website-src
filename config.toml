@@ -9,6 +9,7 @@ name = "Verein kult:villach"
 address = "Lederergasse 15, 9500 Villach"
 email = "office@kulturhofvillach.at"
 phone = "+43 699 15088177"
+zvr = "ZVR-Nummer: 928224022"
 [params.social]
 [params.social.instagram]
 name = "instagram"
