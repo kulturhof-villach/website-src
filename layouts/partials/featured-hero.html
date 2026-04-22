@@ -64,6 +64,15 @@
               </figure>
             </div>
             {{ end }}
+            {{ if and (eq .Type "event") (in .Params.authors "queer-prisma")}}
+            <div class="is-1">
+              <figure class="">
+                <img src="{{ .Site.Params.logo.hakuk | relURL  }}" width="100px">
+                <img src="{{ .Site.Params.logo.jugendcard | relURL  }}" width="200px">
+                <img src="{{ .Site.Params.logo.queerprisma | relURL  }}" width="200px">
+              </figure>
+            </div>
+            {{ end }}
 
     </div>
   </div>
