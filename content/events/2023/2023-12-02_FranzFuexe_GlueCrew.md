@@ -83,6 +83,4 @@ sowie einer Split-Schallplatte mit der finnischen Band Checking Line (Pop Poo Re
 - Info Hotline: 0699 15088177 
 - E-Mail: office@kulturhofvillach.at
 
-## Covid Informationen
-
-[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+ 

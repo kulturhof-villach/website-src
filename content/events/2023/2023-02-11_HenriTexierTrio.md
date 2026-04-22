@@ -32,6 +32,4 @@ Heteroklite Lockdown ist das 2022 erschienene Album des weltbekannten und bereit
 Telefonische Kartenreservierung unter 0699 180 825 70 oder 04242 28896  sowie über Homepage www.kulturforumvillach.at                             
 
 
-## Covid Informationen
-
-[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+ 

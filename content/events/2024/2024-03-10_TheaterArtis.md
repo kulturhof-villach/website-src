@@ -47,6 +47,4 @@ Angesichts aktueller politischer Tendenzen und Strömungen stellt „Dollfuß �
 
 
 
-## Covid Informationen
-
-[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+ 

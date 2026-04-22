@@ -50,6 +50,4 @@ Fotocredit: Patrick Connor Klopf
 
 
 
-## Covid Informationen
-
-[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+ 

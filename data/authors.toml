@@ -36,6 +36,22 @@
   xing = ""
   linkedin = ""
 
+[  queer-prisma ]
+  name = "Queer Prisma"
+  featured = "/img/organiser/queer-prisma.png"
+  [ queer-prisma.bio ]
+    en = ""
+    de = ""
+  website = ""
+  email = ""
+  github = ""
+  twitter = ""
+  facebook = ""
+  instagram =""
+  slideshare = ""
+  xing = ""
+  linkedin = ""
+
 [ sem-jeito ]
   name = "Sem Jeito"
   featured = "/img/organiser/sem-jeito.jpg"

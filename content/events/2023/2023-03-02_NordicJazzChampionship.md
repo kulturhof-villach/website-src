@@ -34,6 +34,4 @@ Somit sind an diesen beiden Abenden insgesamt 6 Konzerte mit MusikerInnen aus DÃ
 #### Telefonische Kartenreservierung unter 0699 180 825 70 oder 04242 28896  sowie Ã¼ber Homepage www.kulturforumvillach.at                             
 
 
-## Covid Informationen
-
-[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+ 

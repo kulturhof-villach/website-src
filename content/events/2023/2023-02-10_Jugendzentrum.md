@@ -36,6 +36,4 @@ draft = false
 
 
 
-Covid Informationen
-
-[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+ 

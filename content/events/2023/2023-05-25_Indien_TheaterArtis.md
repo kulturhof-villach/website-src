@@ -46,6 +46,4 @@ Doch im Verlauf ihrer gemeinsamen Arbeit ändert sich die Beziehung der beiden z
 
 
 
-## Covid Informationen
-
-[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+ 

@@ -25,6 +25,4 @@ Am 24. Oktober spielen die Big Bands der Musikschule Villach ein Herbstkonzert u
 Eintritt = freiwillige Spende                            
 
 
-## Covid Informationen
-
-[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+ 

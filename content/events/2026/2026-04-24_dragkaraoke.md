@@ -1,6 +1,6 @@
 +++
 title = "Drag Karaoke"
-authors = ["kulturhofkeller"]
+authors = ["queer-prisma"]
 date = 2026-04-24T19:00:00
 publishdate = 2021-05-01
 time = "19:00"

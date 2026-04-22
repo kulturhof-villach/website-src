@@ -38,6 +38,4 @@ Gewalt gegen Frauen, exemplarisch gezeigt an verschiedenen Monologen, mit einer 
 
 
 
-## Covid Informationen
-
-[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+ 

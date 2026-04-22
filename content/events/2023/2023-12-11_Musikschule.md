@@ -25,6 +25,4 @@ Die Jazz Pop Rock Ensembles der Musikschule Villach interpretieren Weihnachtlich
 Eintritt = freiwillige Spende                            
 
 
-## Covid Informationen
-
-[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+ 

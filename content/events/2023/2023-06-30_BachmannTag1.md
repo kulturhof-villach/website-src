@@ -66,5 +66,4 @@ Ab 22 Uhr gibt’s Tanzbares aus der Konserve zusammengestellt vom legendären K
 >
 >+43 699 15088177
 
-##### Covid Informationen
-[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+#####  

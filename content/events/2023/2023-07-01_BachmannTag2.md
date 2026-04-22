@@ -70,5 +70,4 @@ Das Album “Bei Tageslicht” erschien im Oktober 2022 als Vinyl LP und digital
 >
 >+43 699 15088177
 
-##### Covid Informationen
-[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+#####  

@@ -27,6 +27,4 @@ Hans Jalovetz wird über den Be- und Hardbopper, Freejazzer und Bürgerrechtler 
 **Telefonische Kartenreservierung unter 0699 180 825 70 oder 04242 28896  sowie über Homepage www.kulturforumvillach.at**                      
 
 
-## Covid Informationen
-
-[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+ 

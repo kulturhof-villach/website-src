@@ -40,6 +40,4 @@ Foto: © Strompopper & Goga Mason
 Kontakt:
 - E-Mail: info@k3festival.com
 
-## Covid Informationen 
-
-[Wichtige Informationen zum Besuch im Kulturhof.]({{< ref "/covid-info" >}})
+ 
