@@ -1,5 +1,5 @@
 +++
-title = "Julia Jost | MONSTERHEART | MAIIJA"
+title = "Julia Jost | MONSTERHEART | MAIIJA | a.c.m.e; radiolab"
 authors = ["kulturhof"]
 date = 2026-06-27T19:00:00
 publishdate = 2021-05-02
