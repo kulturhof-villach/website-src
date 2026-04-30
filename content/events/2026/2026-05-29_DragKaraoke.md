@@ -1,5 +1,5 @@
 +++
-title = "Drag Karaoke"
+title = "Drag Karaoke - Hello Sailor!"
 authors = ["queer-prisma"]
 date = 2026-05-29T19:00:00
 publishdate = 2021-05-01
@@ -28,12 +28,14 @@ Gleichzeitig versteht sich QUEER PRISMA auch als Einladung: Der Raum steht offen
 
 Aktuelle Termine und Infos gibt es über unseren [WhatsApp-Channel](https://whatsapp.com/channel/0029VbCZ3lH4tRrsc7KgLt3u) sowie auf unseren Social-Media-Kanälen.
 
-### QUEER PRISMA - Drag Karaoke
+### QUEER PRISMA - Drag Karaoke | Category: "Hello Sailor!"
 
 **von, für und mit Anfänger\*innen**
 
 Alle neugierigen jungen Leute, die schon immer einmal Drag ausprobieren wollten, sind willkommen. Egal wieviel Erfahrung ihr schon auf der Bühne hattet, egal ob ihr euch auf das Singen, Performen, Tanzen, Schauspiel oder Comedy konzentrieren wollt. Bringt euch selbst und eure Kreativität mit! 
 Ein Abend zum Karaoke singen, zu einem Track lipsyncen oder einfach zur Musik abgehen, ob auf der Bühne oder der Tanzfläche. Werft euch in Schale; lasst uns Diversität feiern!
+
+Am 29.5.2026 mit dem Thema **"Hello Sailor!"**. Matrosen, Meerjungfrauen, Piraten und alles dazwischen und außerhalb ;).
 
 Alle Infos über das Event aund wie ihr mitmachen könnt auf Instagram: **@drag.karaoke** oder per Mail: **drag.karaoke.villach@gmail.com**
 
