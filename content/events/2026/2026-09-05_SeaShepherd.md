@@ -31,6 +31,17 @@ Für diese Mission wird auch am 5. September gerockt und gesammelt. Die Erlöse 
 
 © Kuro Simon
 
+
+
+Forget stagnancy - Forgotten in Progress from Austria stand for uncompromising energy, honest emotions and an explosive mix of 
+nu-metal and metalcore. With brutal riffs, catchy hooks and deep lyrics, they create a sound that hits the heart and tears everything 
+apart on stage. 
+
+After shows with some of the greats of the underground scene like Stellvris, Acres, Skywalker, Guilt Trip, Foreign Hands, Sorcerer and 
+Silenzer, Forgotten in Progress have established themselves as one of the most promising bands in the Austrian core scene. Their tireless drive and impressive live performances have made them known not only as a musical force, but also as official supporting artists for Sea Shepherd Austria. 
+
+2026 will be loud! New songs are on the way - raw, intense and more emotional than ever. Get ready for the next chapter of Forgotten in Progress.
+
   
 
 #### Under Destruction
