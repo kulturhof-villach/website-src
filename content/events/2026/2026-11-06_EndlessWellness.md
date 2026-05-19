@@ -2,8 +2,8 @@
 title = "Endless Wellness"
 authors = ["kulturhof"]
 date = 2026-11-06T20:00:00
-publishdate = 2026-05-19
-time = "12:00"
+publishdate = 2026-05-18
+time = "20:00"
 description = ""
 featured = "img/events/2026-11-06_EndlessWellness_c_LucaCeline.jpg"
 featuredVideo = ""
