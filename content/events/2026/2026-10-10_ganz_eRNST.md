@@ -28,11 +28,11 @@ Wer bin ich eigentlich, und wann bin ich wirklich ganz ich – ganz Ernst? Wann 
 >
 > 10. Oktober 2026 | 19 Uhr
 >
-> Ticketpreise: regulär 20€; Ermäßigungen für Studierende und Schüler\*innen bis zum vollendeten 27. Lebensjahr, Arbeitssuchende, Zivildiener\*innen, Präsenzdiener\*innen und Kolleg\*innen 15€
+> Ticketpreise: regulär 20€; Ermäßigungen für Studierende und Schüler\*innen bis zum vollendeten 27. Lebensjahr, Arbeitssuchende, Zivildiener, Präsenzdiener, FSJler\*innen und Kolleg\*innen 15€
 >
-> Reservierung empfohlen: ernst.sigot@hotmaill.com
+> Reservierung empfohlen: ernst@sigot.at
 >
-> Veranstaltet von **Ernst Sigot** Kontakt und Infos: ernst.sigot@hotmaill.com
+> Veranstaltet von **Ernst Sigot** Kontakt und Infos: ernst@sigot.at
 
 
 
