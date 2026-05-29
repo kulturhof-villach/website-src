@@ -29,7 +29,7 @@ draft = false
 ![Science Slam](/img/events/2026-06-16_Plakat_ScienceSlam.jpg)
 Grafik © FH Kärnten
 
-Findest du Wissenschaft spannend? Willst du aktuelle Forschung in leicht verdaulichen Häppchen serviert bekommen? Dann komm am 16. Juni 1016 um 18 Uhr zum internationalen Science Slam in den Kulturhof:villach!
+Findest du Wissenschaft spannend? Willst du aktuelle Forschung in leicht verdaulichen Häppchen serviert bekommen? Dann komm am 16. Juni 2026 um 18 Uhr zum internationalen Science Slam in den Kulturhof:villach!
 Wissenschaftler\*innen der Fachhochschule Kärnten und ihrer internationalen Partneruniversitäten tauschen die Hörsäle und gegen die Bühne. Das Publikum wählt gemeinsam den gelungensten Beitrag des Abends! Sei dabei, lach mit und stimm ab!
 
 Die Veranstaltung findet als Kooperation zwischen der FH Kärnten und dem Kulturhof:villach statt.
