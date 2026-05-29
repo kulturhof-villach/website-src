@@ -22,7 +22,9 @@ draft = false
 >
 > Ticketreservierung über office@kulturhofvillach.at oder +43699/15088177 (bitte um Angabe von Name und Telefonnummer) 
 
-## Bühne frei für den zweiten internationalen Science Slam in Villach!
+## ACE2 EU ANNUAL INTERNATIONAL SCIENCE SLAM
+
+### Bühne frei für die internationale Wissenschaft in Villach!
 
 ![Science Slam](/img/events/2026-06-16_Plakat_ScienceSlam.jpg)
 Grafik © FH Kärnten
