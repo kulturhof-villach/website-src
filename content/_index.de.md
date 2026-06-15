@@ -16,6 +16,17 @@ tags = []
 
 Der Kulturhof:villach ist das Kulturzentrum der Stadt, das seit 2011 alternativer Kunst und Kultur einen Raum in Villach bietet. Der Kulturhof: versteht sich dabei als eine lebendige Basis für Kulturschaffende mit der Stadt in Beziehung zu treten. [Weiterlesen](ueber-uns)
 
+
+
+### Das Konsulat
+
+{{< figure src="img/logos/konsulat.png" width="200px">}}
+
+Café & Bar in Villach
+Willkommen im Konsulat – Ihrem Café & Bar in Villach. Freuen Sie sich auf Spezialitätenkaffee, hausgemachte Mehlspeisen, feine Weine, kulturelle Veranstaltungen und einen Ort, an dem Begegnungen und gute Gespräche zuhause sind.
+
+
+
 {{< rel-figure src="img/Slider_Fairness_Codex.png" >}}
 
 [Fairness Codex](https://www.bmkoes.gv.at/dam/jcr:ee849de0-6295-4c48-8ba0-4e33d8442abd/220511_Fairness-Codex_Broschüre_A5_BF.pdf)

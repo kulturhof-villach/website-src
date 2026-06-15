@@ -14,7 +14,6 @@ tags = ["konzert"]
 draft = false
 +++
 
-
 >Programm am Samstag, 27. Juni:
 >
 >•	19:00 Uhr - Lesung Julia Jost
