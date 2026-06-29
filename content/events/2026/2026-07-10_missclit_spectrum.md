@@ -1,7 +1,7 @@
 +++
 title = "Spectrum Festival"
 authors = ["festival-spectrum"]
-date = 2025-07-10T22:00:00
+date = 2026-07-10T22:00:00
 publishdate = 2021-05-01
 time = "22:00"
 description = "Miss Clit"
