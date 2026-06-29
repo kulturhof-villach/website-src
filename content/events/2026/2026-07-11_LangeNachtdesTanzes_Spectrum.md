@@ -1,7 +1,7 @@
 +++
 title = "Spectrum Festival"
 authors = ["festival-spectrum"]
-date = 2025-07-11T21:30:00
+date = 2026-07-11T21:30:00
 publishdate = 2021-05-01
 time = "21:30"
 description = "Lange Nacht des Tanzes - Artist Talk"
