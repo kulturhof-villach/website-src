@@ -5,7 +5,7 @@ date = 2025-07-10T21:00:00
 publishdate = 2021-05-01
 time = "21:00"
 description = "Drag Karaoke"
-featured = "img/events/2027-10_10_DragKaraoke_Spectrum.jpeg"
+featured = "img/events/2026-07-10_SpectrumGrafik.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -13,6 +13,7 @@ type = "event"
 tags = ["drag"]
 draft = false
 +++
+
 
 >FREIER EINTRITT 
 >
@@ -26,6 +27,9 @@ draft = false
 
 
 ## DRAG KARAOKE
+
+![Drag Karaoke](/img/events/2027-10_10_DragKaraoke_Spectrum.jpeg)
+© Drag Karaoke
 
 Ein Abend zum Karaoke Singen, zu einem Track Lipsyncen oder einfach zur Musik abgehen, ob auf der Bühne oder auf der Tanzfläche. Drag Karaoke ist für Kings, Queens und allerhand Things, die auffallen wollen. Das ist eure Möglichkeit, Drag zu sehen und im Drag gesehen zu werden! Queere Sachen und gute Stimmung erwarten euch!
 
