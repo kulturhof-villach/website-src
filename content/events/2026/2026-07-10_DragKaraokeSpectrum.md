@@ -1,7 +1,7 @@
 +++
 title = "Spectrum Festival"
 authors = ["festival-spectrum"]
-date = 2025-07-10T21:00:00
+date = 2026-07-10T21:00:00
 publishdate = 2021-05-01
 time = "21:00"
 description = "Drag Karaoke"
