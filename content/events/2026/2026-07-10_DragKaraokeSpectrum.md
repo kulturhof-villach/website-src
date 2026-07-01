@@ -1,6 +1,6 @@
 +++
 title = "Spectrum Festival"
-authors = ["festival-spectrum"]
+authors = ["queer-prisma"]
 date = 2026-07-10T21:00:00
 publishdate = 2021-05-01
 time = "21:00"
@@ -17,7 +17,7 @@ draft = false
 
 >FREIER EINTRITT 
 >
-> [spectrum festival](https://www.festivalspectrum.com/)
+> Veranstaltet von Spectrum Festival [spectrum festival](https://www.festivalspectrum.com/)
 >
 > Ort: Kulturhof:villach
 > 
