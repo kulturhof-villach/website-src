@@ -5,7 +5,7 @@ date = 2024-02-03T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "DIALEKT REGGAE MUKKE"
-featured = "img/events/2024-02-03_Faiasalamanda_c_MarioHaber.jpg"
+featured = "img/events/2024/2024-02-03_Faiasalamanda_c_MarioHaber.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -32,7 +32,7 @@ draft = false
 
 ## FAIASALAMANDA
 
-![Oehl](/img/events/2024-02-03_Faiasalamanda_c_MarioHaber.jpg)
+![Oehl](/img/events/2024/2024-02-03_Faiasalamanda_c_MarioHaber.jpg)
 Foto © Mario Haber
 
 Sein bürgerlicher Name ist Mario Haber, geboren und aufgewachsen in Kärnten/Österreich,

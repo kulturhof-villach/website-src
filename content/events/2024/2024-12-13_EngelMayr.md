@@ -5,7 +5,7 @@ date = 2024-12-13T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: Von Dannen"
-featured = "img/events/2024-12-13_EngelMayr_c_EngelMayr.jpg"
+featured = "img/events/2024/2024-12-13_EngelMayr_c_EngelMayr.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -30,7 +30,7 @@ draft = false
 
 ## Engel Mayr
 
-![Engel Mayr](/img/events/2024-12-13_EngelMayr_c_EngelMayr.jpg)
+![Engel Mayr](/img/events/2024/2024-12-13_EngelMayr_c_EngelMayr.jpg)
 Foto © Engel Mayr
 
 ENGEL MAYR sieht man jede Woche im österreichischen TV, wenn er als Gitarrist der Hausband die legendäre Late Night Show WILLKOMMEN ÖSTERREICH mit Stermann & Grissemann rockt. Wenn er dort nicht gerade Nena, Herbert Grönemeyer oder Helge Schneider mit seinen Tönen entzückt, spielt er in klassischer Power Trio Formation erdigen BluesRock ganz im Stile von Govt Mule, ZZ Top und Gary Moore. In den vergangenen 10 Jahren hat er sich zu einem BluesRock Aushängeschild Österreichs entwickelt und mit den Alben “Sacred Cow” & “Slave To The Music” Heavy-Funk Bluesrock der Extraklasse (Zitat Gitarre & Bass Magazin Deutschland) geboten!
@@ -39,7 +39,7 @@ ENGEL MAYR sieht man jede Woche im österreichischen TV, wenn er als Gitarrist d
 
 ## Von Dannen
 
-![Von Dannen](/img/events/2024-12-13_VonDannen_c_AnjaKoppitsch.jpg)
+![Von Dannen](/img/events/2024/2024-12-13_VonDannen_c_AnjaKoppitsch.jpg)
 Foto © Anja Koppitsch
 
 "Von Dannen“ ist eine österreichischePop-Rock-Band aus Klagenfurt am Wörthersee, die 2021 gegründet wurde. Das Fundament der Formation bildete die langjährige Freundschaft zwischen dem Singer-Songwriter Christoph Fischer unddem Gitarristen Stefan Ackerer.

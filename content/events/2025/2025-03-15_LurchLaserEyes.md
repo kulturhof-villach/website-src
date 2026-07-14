@@ -5,7 +5,7 @@ date = 2025-03-15T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: Laser Eyes"
-featured = "img/events/2024-10-19_Lurch.jpg"
+featured = "img/events/2025/2024-10-19_Lurch.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -37,7 +37,7 @@ Nachdem das Konzert im Herbst 2024 abgesagt werden musste, bringen Lurch nun als
 
 ### Lurch
 
-![Lurch](/img/events/2024-10-19_Lurch1.jpg)
+![Lurch](/img/events/2024/2024-10-19_Lurch1.jpg)
 Fotos © Lurch
 
 Es wummert, dampft und jault durch die Gehörgänge, wenn Lurch auf der Bühne stehen. Sie
@@ -46,7 +46,7 @@ machen psychedelische Musik für Metalfans, funky Garage Punk mit Doomgeschmack,
 
 ### Laser Eyes
 
-![Laser Eyes](/img/events/2024-10-19_Laser_Eyes.jpg)
+![Laser Eyes](/img/events/2024/2024-10-19_Laser_Eyes.jpg)
 Foto © Laser Eyes
 
 Das österreichische Stoner-Duo Laser Eyes präsentiert sein zweites Album „Grizzly vs. Guillotine“, bei dem der Kampf zwischen Natur und Maschine im Mittelpunkt steht. Mit Arrangements, die nahtlos von epischen, elfminütigen Reisen zu kürzeren, fast poppigen Juwelen übergehen, vermischt Grizzly vs. Guillotine meisterhaft kontrastierende Klanglandschaften.

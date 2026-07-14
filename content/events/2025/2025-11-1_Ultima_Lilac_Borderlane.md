@@ -5,7 +5,7 @@ date = 2025-11-01T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = ""
-featured = "img/events/2025-11-1_Ultima_Radio.jpg"
+featured = "/img/events/2025/2025-11-1_Ultima_Radio.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -29,7 +29,7 @@ draft = false
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard in Kombination mit einem gültigen Lichtbildausweis;** für Einlassgarantie bitten wir um Reservierung
 > **GRATIS EINTRITT für Personen bis zum vollendeten 14. Lebensjahr;** für Einlassgarantie bitten wir um Reservierung
 
-![Ultima Radio](/img/events/2025-11-1_Ultima_Radio1.jpg)
+![Ultima Radio](/img/events/2025/2025-11-1_Ultima_Radio1.jpg)
 © Ultima Radio
 
 ## Ultima Radio
@@ -38,7 +38,7 @@ Mit ihrer Soundvielfalt, die von Alternative, Crossover, Progressive bis hin zu 
 
 With their variety of sounds, ranging from Alternative, Crossover, Progressive to Post Rock, Ultima Radio are trying to overcome the limits of typical genres, intending to find their very own style. After a successful demonstration of their potential versatility on their debut-album “A Thousand Shapes”, they presented a much more consistent sound on their second album “Dusk City”. The band’s third album “Sleep Panic Repeat”, which came to life during the COVID-19 pandemic, expanded that sound with another dark and powerful piece of music. Now, the band has returned and set sail with their “Basement Session EP”, which features their new front man Daniel Dorninger from the Austrian band Witchrider.
 
-![Lilac Vegetal](/img/events/2025-11-1lilac_vegetal_c_nikolaus_ratay.jpg)
+![Lilac Vegetal](/img/events/2025/2025-11-1lilac_vegetal_c_nikolaus_ratay.jpg)
 Lilac Vegetal © Nikolaus Ratay
 
 ## Lilac Vegetal
@@ -47,7 +47,7 @@ Lilac Vegetal bewegen sich an den Rändern der Rockmusik und bemühen sich durc
 
 The three piece Lilac Vegetal move at the outer edges of rock music, striving to explore density and minimalism, friction and consonance, improvisation and structure through deflections in all directions. The skillful interplay between gloom and lightness creates something massive and mysterious that makes this band so very absorbing.
 
-![Borderlane](/img/events/2025-11-1_Borderlane.JPG)
+![Borderlane](/img/events/2025/2025-11-1_Borderlane.JPG)
 © Borderlane
 
 ## Borderlane

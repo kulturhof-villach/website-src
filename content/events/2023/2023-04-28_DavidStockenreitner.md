@@ -5,7 +5,7 @@ date = 2023-04-28T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "EL DISABLO – Ein Krüppelspiel"
-featured = "img/events/2023-04-28_ElDisablo_DavidStockenreitner_c_StefanJoham.jpg"
+featured = "img/events/2023/2023-04-28_ElDisablo_DavidStockenreitner_c_StefanJoham.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -53,7 +53,7 @@ In EL DISABLO sehen Sie den Aufstieg und möglicherweise den Fall des David Stoc
 Wird er es schaffen, sich zum Oberhaupt des kriminellen Milieus hoch zu inkludieren?
 Geben Sie ihm Ihr Geld und Sie werden es herausfinden.
 
-![David Stockenreitner](/img/events/2023-04-28_DavidStockenreitner_c_StefanJoham.jpg)
+![David Stockenreitner](/img/events/2023/2023-04-28_DavidStockenreitner_c_StefanJoham.jpg)
 
 Fotos: © Stefan Joham
 

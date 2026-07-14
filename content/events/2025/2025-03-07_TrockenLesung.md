@@ -5,7 +5,7 @@ date = 2025-03-07T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Moderation Esther Csapo"
-featured = "img/events/2025-03-07_Wagner_Trocken.jpg"
+featured = "img/events/2025/2025-03-07_Wagner_Trocken.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -40,7 +40,7 @@ In seinem Debüt schaut er seinem eigenen Alkoholproblem ebenso schonungslos ins
 Daniel Wagner offenbart, worauf der ewige Kater den Blick verstellt und wie schwierig es ist, nach dem Entzug die Lücke der Sucht mit Sinn zu füllen.
 Ein zutiefst lebensbejahendes Buch, das berührt, wachrüttelt und uns ehrlicher mit uns selbst umgehen lässt. Und letztlich auch fürsorglicher.
 
-![Daniel Wagner](/img/events/2025-03-07_Wagner_Daniel_c_Esther_Varga.jpg)
+![Daniel Wagner](/img/events/2025/2025-03-07_Wagner_Daniel_c_Esther_Varga.jpg)
 Foto © Esther Varga
 
 **Daniel Wagner**
@@ -48,7 +48,7 @@ Foto © Esther Varga
 
 ## Moderation
 
-![Esther Csapo](/img/events/2025-03-07_Esther_Csapo_orf.jpg)
+![Esther Csapo](/img/events/2025/2025-03-07_Esther_Csapo_orf.jpg)
 Foto © ORF
 
 ## Esther Csapo

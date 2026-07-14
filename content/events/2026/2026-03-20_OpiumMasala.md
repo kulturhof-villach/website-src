@@ -5,7 +5,7 @@ date = 2026-03-20T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: For Eons"
-featured = "img/events/2026-03-20_OM_c_OM.png"
+featured = "/img/events/2026/2026-03-20_OM_c_OM.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -37,7 +37,7 @@ Stoner Rock vom Feinsten am 20. März im Kulturhof:villach mit OPIUM MASALA und 
 
 Aus dem bizarren Gemenge, strukturierten Lärms, tiefen Gitarrensounds und Schlagzeugrhythmen zwischen doomigen Laid-Back und trashigen D Beat entsteht ein Masala, das mit Vorsicht zu genießen ist, denn es handelt sich um OPIUM MASALA. Das Duo ist der neueste Stoff aus Leningraz bestehend aus Rama Finsta und Shanti Lebi. Ihr kennt die beiden aus anderen Projekten wie z. B. Lesson To Be Learned, Baguette oder A Great River In The Sky.
 
-![Opium Masala](/img/events/2026-03-20_OpiumMasala_c_OpiumMasala.jpg)
+![Opium Masala](//img/events/2026/2026-03-20_OpiumMasala_c_OpiumMasala.jpg)
 
 Grafik und Foto © Opium Masala
 
@@ -48,7 +48,7 @@ Grafik und Foto © Opium Masala
 For Eons ist ein Rock-Trio aus Wien, das 2022 von Clemens (Bass, Synth & Gesang) und Martin (Gitarre) gegründet wurde. Ein Jahr später komplettierte Fabian (Schlagzeug) das Trio. Gemeinsam erschaffen sie einen einzigartigen Sound, der Elemente aus Stoner Rock, Synth Rock und Progressive Rock vereint: Mit schweren Riffs, sphärischen Synthesizern und progressiver Power bewegt sich For Eons zwischen erdiger Intensität und ätherischer Klangtiefe.
 
 
-![For Eons](/img/events/2026-03-20_ForEons_c_Fisheye.jpg)
+![For Eons](//img/events/2026/2026-03-20_ForEons_c_Fisheye.jpg)
 
 Foto © Fisheye
 

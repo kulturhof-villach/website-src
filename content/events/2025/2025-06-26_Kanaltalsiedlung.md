@@ -5,7 +5,7 @@ date = 2025-06-26T18:00:00
 publishdate = 2021-05-02
 time = "18:00"
 description = "feine Vereine feiern gemeinsam"
-featured = "img/events/2025-06-26_Kanaltaltersiedlung.jpeg"
+featured = "/img/events/2025/2025-06-26_Kanaltaltersiedlung.jpeg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -64,7 +64,7 @@ Markus Lackner, Stefan Breuer, Edith Eva Kapeller
 
 
 
-![Initiativgruppe Kanaltaler-Siedlun Villach](/img/events/2025-06-26_Kanaltaltersiedlung.jpeg)
+![Initiativgruppe Kanaltaler-Siedlun Villach](/img/events/2025/2025-06-26_Kanaltaltersiedlung.jpeg)
 © Initiativgruppe Kanaltaler-Siedlun Villach
 
 

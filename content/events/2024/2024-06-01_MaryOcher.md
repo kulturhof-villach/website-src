@@ -5,7 +5,7 @@ date = 2024-06-01T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: fridolin_schneck"
-featured = "img/events/2024-06-01_MaryOcher_c_PietroPontieri.jpg"
+featured = "img/events/2024/2024-06-01_MaryOcher_c_PietroPontieri.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -30,7 +30,7 @@ draft = false
 
 ## Mary Ocher
 
-![Mary Ocher](/img/events/2024-06-01_MaryOcher_c_BorisEldagsen.jpg)
+![Mary Ocher](/img/events/2024/2024-06-01_MaryOcher_c_BorisEldagsen.jpg)
 Foto © Boris Eladagsen, Titelfoto © Pietro Pontieri
 
 Experimental political pop artist Mary Ocher returns to European stages with her two drummers Your Government, armed with two new records released only months apart: "Approaching Singularity: Music for The End of Time" (Nov 3) and "Your Guide to Revolution" (June 14).
@@ -53,7 +53,7 @@ Sympathize - with Your Government
 
 ## Support: fridolin_schneck
 
-![Mikk](/img/events/2024-06-01_fridolinschneck_c_MarioKuhs.jpg)
+![Mikk](/img/events/2024/2024-06-01_fridolinschneck_c_MarioKuhs.jpg)
 Foto © Mario Kuhs
 
 Mario Alexander Kuhs, a teacher, photographer, musician, and former frontman and mastermind of the Austrian

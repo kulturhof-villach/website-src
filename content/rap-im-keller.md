@@ -4,7 +4,7 @@ authors = ["kulturhof"]
 date = 2025-09-02T20:00:00
 publishdate = 2021-05-01
 description = "Freestyle-Cypher in Villach"
-featured = "img/events/2025-09-05_Rik_c_Martin_Funk.jpeg"
+featured = "/img/events/2025/2025-09-05_Rik_c_Martin_Funk.jpeg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -25,7 +25,7 @@ Also: das Mic ist offen – du auch?
 
 **Das Konzept ist simpel und bewusst offen gehalten:** Jede\*r ist willkommen – egal, ob Anfänger\*in, neugierig oder erfahren am Mic. Der Fokus liegt nicht auf Wettbewerb, sondern auf künstlerischem Wachstum, Gemeinschaft und dem gemeinsamen Spaß an Sprache und Rhythmus. Die einzige Regel: Sei gemütlich.
 
-![Rik](/img/events/2025-09-05_RikGrafik_Martin_Funk.JPG)
+![Rik](/img/events/2025/2025-09-05_RikGrafik_Martin_Funk.JPG)
 Illustration © Martin Funk
 
 ## Termine
@@ -56,7 +56,7 @@ Rap im Keller ist auch auf Instagram vertreten
 
 ## Impressionen
 
-![Rik](/img/events/2025-09-05-Rik.jpg)
+![Rik](/img/events/2025/2025-09-05-Rik.jpg)
 Fotos © Martin Funk
 
 

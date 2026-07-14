@@ -5,7 +5,7 @@ date = 2024-06-29T20:00:00
 publishdate = 2021-05-02
 time = "20:00"
 description = "Bachmanntage im Kulturhof | Eintritt frei"
-featured = "img/events/2024-06-29_doppelfingerLauermann.jpg"
+featured = "img/events/2024/2024-06-29_doppelfingerLauermann.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -32,7 +32,7 @@ draft = false
 
 ## Robert Stadlober: Eine Reise durch die Zeit mit Kurt Tucholsky ##
 
-![Robert Stadlober](/img/events/2024-06-29_TucholskyStadlober_c_Stadlober.jpeg)
+![Robert Stadlober](/img/events/2024/2024-06-29_TucholskyStadlober_c_Stadlober.jpeg)
 © Robert Stadlober
 
 ### „Wenn wir einmal nicht grausam sind, dann glauben wir gleich, wir seien gut.“
@@ -50,7 +50,7 @@ Und Robert Stadlober singt, spricht und ruft uns ins Gedächtnis, dass sich eben
 
 ## doppelfinger & Lukas Lauermann ##
 
-![doppelfinger](/img/events/2024-06-29_doppelfinger_c_SophieLoew.jpg)
+![doppelfinger](/img/events/2024/2024-06-29_doppelfinger_c_SophieLoew.jpg)
 © Sophie Löw
 
 Clemens Bäres erste Lieder, die er abgeschieden in Oberösterreich geschrieben hat, waren ursprünglich nie dafür bestimmt, von anderen gehört zu werden. Die Musik dient seit jeher als Zufluchtsort, als »place to go«, wenn es zu schnell und zu laut wird; was schwerfällt, in Worte zu fassen, kann Clemens Bäre im Songwriting und in der Musik ausdrücken. 2019 wagte er sich schließlich doch nach draußen, um anderen, die Ähnliches erfahren, Worte zu geben und ihnen vielleicht sogar das zu bieten, das auch ihm seine musikalischen Held\*innen von damals gegeben haben. Drei Jahre später veröffentlicht er als doppelfinger sein Debütalbum »by design«. 
@@ -62,7 +62,7 @@ Zeitlos, aber doch aktueller denn je – in Anbetracht der derzeitigen Weltstimm
 In Österreich wird doppelfinger nicht nur deshalb bereits jetzt als »einer der besten Singer-/ Songwriter des Landes« (radio FM4) mit »internationalem Anspruch« (the gap) verstanden. Auch andere Kreative der heimischen Szene zeigen sich angetan und verleihen dem Projekt in Kollaboration einen überraschenden Twist: an musikalischer Front bringen u.a. Jakob Herber (Co-Writing, Recording, Production – FLUT, Culk, Anger, Sophia Blenda), Sophie Lindinger (Mixing – Leyya, My Ugly Clementine), Lukas Lauermann (Cello – u.a. Soap&Skin, Tocotronic) und OSKA (Backing Vocals) ihre Vision und Schaffenskraft mit ein.
 
 
-![Lukas Lauermann](/img/events/2024-06-29_LukasLauermann_c_JuliaHaimburger.jpg)
+![Lukas Lauermann](/img/events/2024/2024-06-29_LukasLauermann_c_JuliaHaimburger.jpg)
 
 © Julia Haimburger
 
@@ -75,7 +75,7 @@ In seinem Soloprojekt fließen all diese künstlerischen und persönlichen Erfah
 
 ## a.c.m.e,- radiolab ##
 
-![acme radiolab](/img/events/2024-06-29_acme_radiolab.jpg)
+![acme radiolab](/img/events/2024/2024-06-29_acme_radiolab.jpg)
 © a.c.m.e,- radiolab
 
 Ab 22 Uhr gibt’s eine Live-Session des a.c.m.e,- radiolab mit special guest.

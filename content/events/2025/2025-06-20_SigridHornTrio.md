@@ -5,7 +5,7 @@ date = 2025-06-20T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Sommerkonzert im Hof"
-featured = "img/events/2025-06-20_SigridHorn_c_PamelaRussmann.jpg"
+featured = "/img/events/2025/2025-06-20_SigridHorn_c_PamelaRussmann.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -47,7 +47,7 @@ Im Trio tritt Sigrid Horn gemeinsam mit Bernhard Scheiblauer und Sarah Metzler a
 
 Foto © Pamela Russmann
 
-![SigridHornDrei](/img/events/2025-06-20_SigridHornDrei_c_DanielaMatejschek.jpg)
+![SigridHornDrei](/img/events/2025/2025-06-20_SigridHornDrei_c_DanielaMatejschek.jpg)
 Foto © Daniela Matejschek
 
 

@@ -5,7 +5,7 @@ date = 2025-06-28T18:00:00
 publishdate = 2021-05-02
 time = "18:00"
 description = "Bachmanntage im Kulturhof | Eintritt frei"
-featured = "img/events/2025-06-28_Fenster_c_ClemensHofer.jpg"
+featured = "/img/events/2025/2025-06-28_Fenster_c_ClemensHofer.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -29,7 +29,7 @@ draft = false
 
 ## Lesung Clemens Hofer ##
 
-![Clemens Hofer](/img/events/2025-06-28_PortraitClemensHofer_c_ClemensHofer.jpg)
+![Clemens Hofer](/img/events/2025/2025-06-28_PortraitClemensHofer_c_ClemensHofer.jpg)
 © Clemens Hofer
 
 Geboren (1986) und aufgewachsen in Villach, musikalische Ausbildung im Konzertfach
@@ -64,7 +64,7 @@ www.leniafriedrich.de
 
 instagram: @leniafriedrich
 
-![Lenia Friedrich](/img/events/2025-06-28_LeniaFriedrich_c_JelenaIlic.jpg)
+![Lenia Friedrich](/img/events/2025/2025-06-28_LeniaFriedrich_c_JelenaIlic.jpg)
 © Jelena Ilic
 
 ### Gestaltung art:wall
@@ -77,7 +77,7 @@ Lade dir die kostenlos App „Artivive“ runter, halte das Smartphone auf die W
 Mag.a   Alisa Herzog – Frauen- und Gleichbehandlungsbeauftragte Stadt Villach
 Dr.in Mag.a  Ute Liepold
 
-![artwall](/img/events/2025-06-28_artwall.JPG)
+![artwall](/img/events/2025/2025-06-28_artwall.JPG)
 © Lenia Friedrich
 
 ## Vernissage :schauraum ##
@@ -93,7 +93,7 @@ Wir laden herzlich ein zu einer Ausstellung, die nicht nur das Auge, sondern vor
 
 Jedes Werk spricht seine eigene Sprache – manchmal laut, manchmal leise – und lädt ein zum Innehalten, zum Nachdenken, zum Fühlen. Wir freuen uns sehr, euch unsere "Keine Gedankenwelt" näherzubringen und gemeinsam in die Tiefe unserer inneren Landschaften einzutauchen.
 
-![schauraum](/img/events/2025-06-28_schauraum.jpg)
+![schauraum](/img/events/2025/2025-06-28_schauraum.jpg)
 © Lana Vollmann & Vivien Vejvar
 
 ### Vejvar Vivien - WEWA

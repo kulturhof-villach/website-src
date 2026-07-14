@@ -5,7 +5,7 @@ date = 2024-08-29T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Bird Be Brave"
-featured = "img/events/2024-08-29_IsabelRumble.png"
+featured = "img/events/2024/2024-08-29_IsabelRumble.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -30,7 +30,7 @@ draft = false
 
 ## Isabel Rumble
 
-![Isabel Rumble](/img/events/2024-08-29_IsabelRumble.png)
+![Isabel Rumble](/img/events/2024/2024-08-29_IsabelRumble.png)
 Foto © Isabel Rumble
 
 Die Australierin Isabel Rumble ist in ihrer Heimat bereits mehr als ein Geheimtipp. So ist ihr Debütalbum Bird Be Brave das Folk-Album des Jahres 2023 von Alliance Australia. Ihre Lieder über die Feinheiten von Liebe, Sehnsucht und Hoffnung laden die Zuhörer*innen in einen Kokon der Reflexion  ein.

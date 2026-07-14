@@ -5,7 +5,7 @@ date = 2024-05-30T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: Borderlane"
-featured = "img/events/2024-05-30_Heimwerker.jpg"
+featured = "img/events/2024/2024-05-30_Heimwerker.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -64,7 +64,7 @@ Foto © Heimwerker
 
 ## Support: Borderlane
 
-![LittleLakes](/img/events/2024-05-30_Borderlane.JPG)
+![LittleLakes](/img/events/2024/2024-05-30_Borderlane.JPG)
 
 Foto © Borderlane
 

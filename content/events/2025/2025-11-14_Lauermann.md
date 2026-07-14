@@ -5,7 +5,7 @@ date = 2025-11-14T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: Jana Thomaschütz"
-featured = "img/events/2025-11-14_LL_c_Julia_Haimburger.jpg"
+featured = "/img/events/2025/2025-11-14_LL_c_Julia_Haimburger.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -54,7 +54,7 @@ Foto Lukas Lauermann © Julia Haimburger
 
 ### Jana Thomaschütz
 
-![Jana Thomaschuetz](/img/events/2025-11-14_JanaThomaschuetz_c_IraJohn.jpg)
+![Jana Thomaschuetz](/img/events/2025/2025-11-14_JanaThomaschuetz_c_IraJohn.jpg)
 
 © Ira & John
 

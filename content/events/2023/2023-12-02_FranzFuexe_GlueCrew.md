@@ -5,7 +5,7 @@ date = 2023-12-02T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "19:00 Vernissage des CHS Villach"
-featured = "img/events/2023-05-13_FranzFuexe_c_JakobWallner.jpg"
+featured = "img/events/2023/2023-05-13_FranzFuexe_c_JakobWallner.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -57,7 +57,7 @@ ELIAS HIRSCHL
 Foto © Jakob Wallner
 
 ## Support: GLUE CREW
-![Glue Crew](/img/events/2023-05-13_GlueCrew_c_LudwigSeidl.jpg)
+![Glue Crew](/img/events/2023/2023-05-13_GlueCrew_c_LudwigSeidl.jpg)
 Foto © Ludwig Seidl
 
 Punkrock, Ska, Rap, Austropop – die GLUE CREW lässt sich von vielfältigen Genres inspirieren und kreiert daraus

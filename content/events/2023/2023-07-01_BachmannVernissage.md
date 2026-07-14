@@ -5,7 +5,7 @@ date = 2023-07-01T19:00:00
 publishdate = 2021-05-02
 time = "19:00"
 description = "Bachmanntage im Kulturhof | Eintritt frei"
-featured = "img/events/2023-07-01_Vernissage.png"
+featured = "img/events/2023/2023-07-01_Vernissage.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -76,7 +76,7 @@ Infos und Werke sind auf ihrer Website zu finden: [eszterdrienyovszki.com](https
 ## Pop-up-Ausstellung „Bewusstein" des CHS-Villach ##
 Schüler\*innen der 4AHK der HLA für Kunst und Gestaltung am CHS Villach zeigen an diesem Abend – und NUR an diesem Abend – Arbeiten aus den Bereichen Malerei, Grafik, Plastik und Video. Die Werke beschäftigen sich mit dem Thema Bewusstsein in all seinen Facetten. Biologische, psychologische und philosophische Erkenntnisse und Überlegungen liegen den individuellen Arbeiten zugrunde.
 
-![VernissageCHS](/img/events/2023-07-01_VernissageCHS.png)
+![VernissageCHS](/img/events/2023/2023-07-01_VernissageCHS.png)
 
 **Bilder im Uhrzeigersinn, links beginnend**:
 

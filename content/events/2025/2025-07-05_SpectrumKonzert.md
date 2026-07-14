@@ -5,7 +5,7 @@ date = 2025-07-05T21:00:00
 publishdate = 2021-05-01
 time = "21:00"
 description = "Anschließend DJ-SET mit VVV ratriot"
-featured = "img/events/2025-07-06_Spectrum.jpg"
+featured = "/img/events/2025/2025-07-06_Spectrum.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -26,14 +26,14 @@ draft = false
 >
 > ab 23:00 Uhr DJ-SET mit >>VVV<</ratriot
 
-![Low Life Rich Kids](/img/events/2025-07-05_LowLifeRichKids_Nele_Christoph.JPG)
+![Low Life Rich Kids](/img/events/2025/2025-07-05_LowLifeRichKids_Nele_Christoph.JPG)
 © Nele Christoph
 
 ## LOW LIFE RICH KIDS
 
 Die Band, die ursprünglich für das Theaterstück "Über Nacht" am Wiener Burgtheater gegründet wurde, hat sich rasch als eigenständiges Projekt rund um die Schauspieler*innen Mara Romei und Coco Brell sowie dem renommierten Singer/Songwriter Bernhard Eder etabliert und beeindruckt mit einer Mischung aus Post-Punk und Neuer Deutscher Welle.
 
-![Dj-Set](/img/events/2025-07-05_SpecrtumDJ.jpg)
+![Dj-Set](/img/events/2025/2025-07-05_SpecrtumDJ.jpg)
 © VVV & ratriot
 
 ## DJ-SET mit >>VVV<</ratriot

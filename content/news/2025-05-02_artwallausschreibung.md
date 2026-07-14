@@ -37,15 +37,15 @@ Die :artwall wird regelmäßig von wechselnden Künstler\*innen gestaltet und bl
 Der Kulturhof:villach ist seit über 13 Jahren ein offenes Kulturzentrum in der Villacher Altstadt (Lederergasse 15), betrieben vom Verein kult:villach. 
 
 
-![Eszter Drienyovski](/img/events/2025-05-02_eszter.jpg)
+![Eszter Drienyovski](/img/events/2025/2025-05-02_eszter.jpg)
 Eszter Drienyovski :artwall © Eszter Drienyovski
 
 
-![Fabian Stiebler](/img/events/2025-05-02_fabian.jpg)
+![Fabian Stiebler](/img/events/2025/2025-05-02_fabian.jpg)
 Fabian Stiebler :artwall © Fabian Stiebler
 
 
-![Paulina Molnar](/img/events/2025-05-02_Paulina.jpg)
+![Paulina Molnar](/img/events/2025/2025-05-02_Paulina.jpg)
 Paulina Molnar © Kuho
 
 

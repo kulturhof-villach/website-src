@@ -5,7 +5,7 @@ date = 2023-06-10T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Varulv | Schänder | AGAN | Cryptal Echoes"
-featured = "img/events/2023-06-10_Metal.png"
+featured = "img/events/2023/2023-06-10_Metal.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -31,7 +31,7 @@ sowie im Kulturhof:büro (Tel.: +43 699 15088177)
 
 ### Varulv
 
-![Varulv](/img/events/2023-06-10_Varulv.jpg)
+![Varulv](/img/events/2023/2023-06-10_Varulv.jpg)
 ©Varulv
 
 Die Herrschaften von Varulv treiben seit geraumer Zeit ihr Unwesen und ziehen den Pestkarren nach Jahren der Abstinenz wieder für eine extendet Headliner Show nach Kärnten!
@@ -42,7 +42,7 @@ Also in the luggage are songs from the last 3 albums: Legendary songs, underworl
 
 ### Schänder
 
-![Schänder](/img/events/2023-06-10_Schänder_c_DiVoraPhotography.jpg)
+![Schänder](/img/events/2023/2023-06-10_Schänder_c_DiVoraPhotography.jpg)
 ©DiVoraPhotography
 
 SCHÄNDER aus Klagenfurt wurde 2019 gegründet, als sich Gerry Greyskull, Lex Savage, Kleschkolt Kole und Infernal Zermallner unter der Flagge des Old School Black Metal versammelten, um Tod und Verderben auf die Welt niederregnen zu lassen. Mit der Veröffentlichung des ersten Albums 2021 wurde ihre Blasphemie erstmals hörbar gemacht und führte, wie beabsichtigt, zu kollektivem Wahnsinn! Seither erobern sie die Bühnen und Städte und hinterlassen nichts als verbrannte Erden, wohin sie auch gehen. In the Name of fucking HELL!!!
@@ -51,7 +51,7 @@ SCHÄNDER from Klagenfurt / Austria was founded in 2019, when Gerry Greyskull, L
 
 ### AGAN
 
-![AGAN](/img/events/2023-06-10_Agan.jpg)
+![AGAN](/img/events/2023/2023-06-10_Agan.jpg)
 ©AGAN
 
 In einem engen Tal von Baška grapa (Tolmin, Slowenien) wurde eine Idee geboren. Eine Idee, Geschichten zu erzählen, bei denen die Materie aus der Natur und der menschlichen Seele stammt.
@@ -64,7 +64,7 @@ Agan is a symbiose of pounding drums, guitars, that roar and scream from the dee
 
 ### Cryptal Echoes
 
-![Cryptal Echoes](/img/events/2023-06-10_TrveMetal_CryptalEchoes2_c_m0le.photo.png)
+![Cryptal Echoes](/img/events/2023/2023-06-10_TrveMetal_CryptalEchoes2_c_m0le.photo.png)
 ©m0le.photo
 
 "Wer glaubt, langsame Musik kann nicht ballern, sollte sich dringenst mal in den schwarzen Oberflächen eines modrigen Stehgewässers spiegeln und bis in die grauen Zellen inhalieren. Das Wiederhallen im Schädelknochen mag ähnlich arg ausfallen wie die Geräuschkulisse von CRYPTAL ECHOES. Diese Band aus – na hoppala, Klagenfurt! - klingt ziemlich genau als wären die besten Zeiten des finnischen 90er Death DOOM Metal nie vorbei gewesen. [...]" (Steel City Sorcery)

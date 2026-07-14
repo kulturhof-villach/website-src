@@ -5,7 +5,7 @@ date = 2025-12-13T18:30:00
 publishdate = 2021-05-01
 time = "18:30"
 description = "King Groening und Counter Valley"
-featured = "img/events/2025-12-13_RockChristmas.jpg"
+featured = "/img/events/2025/2025-12-13_RockChristmas.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -20,7 +20,7 @@ Aus dem Gegendtal direkt auf die Bühne! Die Band **CounterValley** überzeugt m
 
 **King Groening** - die 4köpfige Band aus Villach spielt Alternativ Rock mit Aussagekraft. Eigenkompositionen mit zum Teil sozialkritischen Texten für Freunde der Rockmusik der 80er und 90er Jahre. Die erste Single ,,Over" ist auf allen Streamingplattformen erhältlich.
 
-![Rock Christmas](/img/events/2025-12-13_RockChristmas.jpg)
+![Rock Christmas](/img/events/2025/2025-12-13_RockChristmas.jpg)
 
 > Kulturhof:villach | Lederergasse 15
 >

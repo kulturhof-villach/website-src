@@ -5,7 +5,7 @@ date = 2025-03-21T19:30:00
 publishdate = 2021-05-01
 time = "19:30"
 description = "Verba Serpentis, Nyrak, Draugr, Painful"
-featured = "img/events/2025-03-21-Blashemy.jpg"
+featured = "/img/events/2025/2025-03-21-Blashemy.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -32,7 +32,7 @@ draft = false
 ## BLASPHEMY OVER VILLACH
 
 ### Verba Serpentis
-![Verba Serpentis](/img/events/2025-03-21_VerbaSerpentis.jpg)
+![Verba Serpentis](/img/events/2025/2025-03-21_VerbaSerpentis.jpg)
 © Verba Serpentis
 
 Verba Serpentis ist die Stimme der Schlange, einer melodischen und atmosphärischen Black Metal-Band aus Kärnten (AUT), die durch ihre Musik dunkle Wahrheiten flüstert. 
@@ -44,7 +44,7 @@ An echo of ancient wisdom. The serpent’s words, weaving a tapestry of haunting
 to embrace the shadows. The timeless words of the serpent speak of defiance, darkness, and the freedom found in the embrace of the night.
 
 ### Nyrak
-![Nyrak](/img/events/2025-03-21_Nyrak.jpg)
+![Nyrak](/img/events/2025/2025-03-21_Nyrak.jpg)
 © Nyrak
 
 Nyrak ist eine Progressive-Black-Metal-Band aus Belgien, die den unermüdlichen Drang verkörpert, die Grenzen des Genres zu verschieben. Unsere Vision ist es, einen einzigartigen Sound zu schaffen, der die rohe Intensität des Black Metal mit progressiven Elementen kombiniert, was zu einem Klangerlebnis führt, das sowohl düster als auch komplex ist.
@@ -54,7 +54,7 @@ Nyrak is a progressive black metal band from Belgium, embodying a relentless dri
 Nyrak is driven by a hunger for innovation and dedication to delivering powerful, unforgettable music.
 
 ### Draugr
-![Draugr](/img/events/2025-03-21_Draugr.png)
+![Draugr](/img/events/2025/2025-03-21_Draugr.png)
 © Draugr
 
 Beeinflusst von der nordischen Mythologie erwecken Draugr die dunklen Legenden des Nordens wieder zum Leben. 
@@ -66,7 +66,7 @@ The four-member band manages the balancing act from atmospheric riffing to whipp
 Rounded off by a charged, ritualistic live show, Draugr is the right band for every fan of harder music.
 
 ### Painful
-![Painful](/img/events/2025-03-21_Painful.jpg)
+![Painful](/img/events/2025/2025-03-21_Painful.jpg)
 © Painful
 
 Black Metal aus Deutschland https://www.painfulmetal.com/

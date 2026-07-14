@@ -5,7 +5,7 @@ date = 2025-11-13T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Poesie und Musik"
-featured = "img/events/2025-11-13_Kopf.jpg"
+featured = "/img/events/2025/2025-11-13_Kopf.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -42,15 +42,15 @@ An zwei besonderen Abenden laden wir herzlich ein zu einer kraftvollen Begegnung
 
 Satirisch-ironisch, humorig-derb und manchmal herrlich absurd: Die Gedichte des steirischen Autors, Grafikers und bildenden Künstlers Herms Fritz sind ein Fest für Freund\*innen der schrägen Poesie und des schwarzen Humors.
 
-![Natalie Krainer](/img/events/2025-11-13_Natalie_c_Patrick_Conor_Klopf.jpg)
+![Natalie Krainer](/img/events/2025/2025-11-13_Natalie_c_Patrick_Conor_Klopf.jpg)
 Natalie Krainer, Foto: © Patrick Conor Klopf
 
-![Manuel Dragan](/img/events/2025-11-13_Manuel_Dragan_c_Theresa_Pewal.jpg)
+![Manuel Dragan](/img/events/2025/2025-11-13_Manuel_Dragan_c_Theresa_Pewal.jpg)
 Manuel Dragan, Foto: © Theresa Pewal
 
 Gelesen werden seine Texte von den Kärntner Schauspielerinnen Manuel Dragan und Natalie Krainer, deren Interpretationen mitreißen und berühren.
 
-![Rudi Katholnig und Hans-Peter Steiner](/img/events/2025-11-13_Rudi_Katholnig_HansPeter_Steiner.jpg)
+![Rudi Katholnig und Hans-Peter Steiner](/img/events/2025/2025-11-13_Rudi_Katholnig_HansPeter_Steiner.jpg)
 Rudi Katholnig und Hans-Peter Steiner
 
 Musikalisch begleitet wird der Abend vom Duo Rudi Katholnig & Hans-Peter Steiner – ein klangvoller Dialog zwischen Tönen und Texten.

@@ -5,7 +5,7 @@ date = 2023-05-27T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: The Lithic Sea"
-featured = "img/events/2023-05-27_DasTrojanischePferd_TheLithicSea.png"
+featured = "img/events/2023/2023-05-27_DasTrojanischePferd_TheLithicSea.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -36,7 +36,7 @@ MUSIKEXPRESS: „Das nächste musikalische Schwergewicht aus Wien.“
 FM4: „Lieder, die die ganze Welt in den Abgrund reißen – theatralisch und selbstironisch zugleich.“
 [Das Trojanische Pferd](https://dastrojanischepferd.org)
 
-![Das Trojanische Pferd](/img/events/2023-05-27_DasTrojanische Pferd_c_MariaKöfer.jpg)
+![Das Trojanische Pferd](/img/events/2023/2023-05-27_DasTrojanische Pferd_c_MariaKöfer.jpg)
 Foto: © Maria Köfer
 
 ## The Lithic Sea
@@ -53,7 +53,7 @@ anderem auch als Support für namhafte, internationale Bands wie “Karma To Bur
 Nach einer Neufindungsphase sind sie seit Ende 2022 in neuer Besetzung wieder da – und bereit zu
 rocken!
 
-![The Lithic Sea](/img/events/2023-05-27_TheLithicSea_TheLithicSea.png)
+![The Lithic Sea](/img/events/2023/2023-05-27_TheLithicSea_TheLithicSea.png)
 Foto: © The Lithic Sea
 
 

@@ -5,7 +5,7 @@ date = 2024-12-07T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: Anna Ebner"
-featured = "img/events/2024-12-07_WishToWonder_c_WishToWonder.jpg"
+featured = "img/events/2024/2024-12-07_WishToWonder_c_WishToWonder.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -25,7 +25,7 @@ Ihre Musik verbindet kraftvolle Energie mit unkonventionellen Ideen, die jedes S
 
 ## Support: Anna Ebner
 
-![Anna Ebner](/img/events/2024-12-07_AnnaEbner_c_AnnaEbner.jpg)
+![Anna Ebner](/img/events/2024/2024-12-07_AnnaEbner_c_AnnaEbner.jpg)
 Foto © Anna Ebner
 
 Anna Ebner ist eine 21-jährige Singer-Songwriterin, deren Musik von melancholischen Klängen und tiefgründigen Texten geprägt ist. Jeder Song erzählt seine eigene Geschichte und vermittelt Emotionen auf eine Art und Weise, wie es Worte nicht könnten. Sie schreibt hauptsächlich Balladen über gesellschaftskritische Themen, mentale Gesundheit, Herzschmerz und die Beziehung zu sich selbst. 

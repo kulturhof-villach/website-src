@@ -5,7 +5,7 @@ date = 2024-10-26T23:55:00
 publishdate = 2021-05-01
 time = "23:55"
 description = "Afterparty"
-featured = "img/events/2024-10-26_Hiphop_Afterparty.png"
+featured = "img/events/2024/2024-10-26_Hiphop_Afterparty.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -32,17 +32,17 @@ Egal, ob du tief in der Hip-Hop-Kultur verwurzelt bist oder einfach eine gute Ze
 
 ## DJ Mischa Van Green
 
-![DJ Mischa Van Green](/img/events/2024-10-26_Mischa.jpg)
+![DJ Mischa Van Green](/img/events/2024/2024-10-26_Mischa.jpg)
 Foto © DJ Mischa Van Green
 
 DJ Mischa Van Green aus Villach ist eine feste Größe in der österreichischen Techno-Szene und hat bereits unzählige Bühnen in ganz Österreich zum Beben gebracht. Mit ihrer Leidenschaft für druckvolle, hypnotische Beats und ihren energiegeladenen Sets fesselt sie das Publikum und sorgt für ekstatische Nächte. Ihr Gespür für perfekt abgestimmte Tracks sorgt für einen unaufhaltsamen Flow, der die Tanzfläche durchgehend in Bewegung hält. Mit energiegeladenen Drops und tiefen Basslines nimmt sie die Crowd mit auf eine Reise, die bis zum letzten Beat fasziniert. DJ Mischa Van Green liefert den Sound, der jede Nacht unvergesslich macht und dich bis zum frühen Morgen tanzen lässt.
 
 ## DJ Noxx & DJ District 
 
-![DJ District](/img/events/2024-10-26_District.JPG)
+![DJ District](/img/events/2024/2024-10-26_District.JPG)
 Foto © DJ District
 
-![DJ Noxx](/img/events/2024-10-26Romeo.JPG)
+![DJ Noxx](/img/events/2024/2024-10-26Romeo.JPG)
 Foto © DJ Noxx
 
 DJ Noxx und DJ District, zwei aufstrebende Talente in der Drum-and-Bass-Szene, vereinen ihre Kräfte für ein einzigartiges B2B-Set, das die Tanzflächen zum Beben bringt! DJ Noxx überzeugt mit dynamischem Neurofunk und mitreißenden Übergängen, während DJ District mit kraftvollen Beats und intensiven Mixes frische Impulse setzt.

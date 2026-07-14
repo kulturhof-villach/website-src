@@ -5,7 +5,7 @@ date = 2023-10-20T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Ein fragiles System Tour"
-featured = "img/events/2023-10-20_Bipolar_Feminin@ApolloniaTheresaBitzan.jpg"
+featured = "img/events/2023/2023-10-20_Bipolar_Feminin@ApolloniaTheresaBitzan.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -31,7 +31,7 @@ draft = false
 ## Bipolar Feminin
 ### Ein fragiles System Tour
 
-![Bipolar Feminin](/img/events/2023-10-20_Bipolar@ApolloniaTheresaBitzan.jpg)
+![Bipolar Feminin](/img/events/2023/2023-10-20_Bipolar@ApolloniaTheresaBitzan.jpg)
 Fotos © Apollonia Theresa Bitzan
 
 Klang ihre erste EP Piccolo Family noch wie ein Schrei der Ermächtigung, so haben Bipolar Feminin sich seither durch ihre mitreißenden Live-Gigs eine leidenschaftliche Anhänger*innenschaft erspielt, sind tatsächlich zu einer Art Macht geworden. „Wir spüren jetzt eine andere Form von Verantwortung“, sagt die Band, „Durch die  veränderte Reichweite ist es für uns wichtiger geworden, uns intensiver mit der Musik und dem Texten auseinanderzusetzen. Die Arbeit ist bewusster und reflektierter geworden. Ein immer fortlaufender Prozess.“
@@ -46,7 +46,7 @@ Mit „Herr Arne“ gönnen sie sich sogar einen ironiefreien Tribut an den Trom
 
 „In der eigenen Jugend“, bekennt die Band, „waren die frühen Tocotronic-Alben von großer Bedeutung für uns.“ Eines davon, Digital ist besser, sprach von der Sehnsucht, „Teil einer Jugendbewegung“ zu sein. Bipolar Feminin sind folgerichtig Zentrum ihrer selbst aufgebauten Bewegung geworden. Diese zehn Songs sind der Soundtrack dazu, von der Entfremdung („In deinem Wertesystem hab ich keinen Platz“) bis zum Alternativentwurf („Leben für lau“). Ein Album auf deiner Seite.
 
-![Cadu](/img/events/2023-10-20_Cadu.png)
+![Cadu](/img/events/2023/2023-10-20_Cadu.png)
 Foto © CADÛ
 
 **Support**

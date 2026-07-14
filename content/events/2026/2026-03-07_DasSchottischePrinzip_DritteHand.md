@@ -5,7 +5,7 @@ date = 2026-03-07T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Doppelkonzert zum internationalen Frauentag"
-featured = "img/events/2026-03-07_Schotten_Hand_Cover.png"
+featured = "/img/events/2026/2026-03-07_Schotten_Hand_Cover.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -47,7 +47,7 @@ Zum internationalen Frauentag spielen Das Schottische Prinzip und Dritte Hand ei
 
 Mit dem Album Golden Voyager Record Vol. III meldet sich die Wiener Band Das Schottische Prinzip am 17. Oktober 2025 zurück – lauter, wütender, poetischer. Nach ihrem Debüt Jolly eröffnet die feministische Indie/Pop-Band ein neues Kapitel: ein Album, das die Absurditäten der Gegenwart reflektiert und zugleich nach den Sternen greift.
 
-![Das Schottische Prinzip](/img/events/2026-03-07_DasSchottischePrinzip_c_YukiGaderer.jpg)
+![Das Schottische Prinzip](//img/events/2026/2026-03-07_DasSchottischePrinzip_c_YukiGaderer.jpg)
 
 Foto © Yuki Gaderer
 
@@ -64,7 +64,7 @@ Foto © Yuki Gaderer
 
 Dritte Hand hat Jahrzehnte an Vinyl verdaut, um der mostviertler Mundart ein neues Fundament zu bauen. Woodstock Vibes der 60er, Patti Smith Romantik der 70er, Neue-Deutsche-Welle-Dada der 80er, Grunge-Gitarrengekreische der 90er und Downtempo Hip-Hop Beats der letzten 00er Jahre sind Hauptzutaten ihrer Sicht des Austropop. Gemeinsam verschmelzen sie zu einem Spektakel, das sich in den Herzen ihres Publikums einnistet und dort gedeiht.
 
-![Dritte Hand](/img/events/2026-03-07_DritteHand_c_NeleHazod.png)
+![Dritte Hand](//img/events/2026/2026-03-07_DritteHand_c_NeleHazod.png)
 
 Foto © Nele Hazod
 

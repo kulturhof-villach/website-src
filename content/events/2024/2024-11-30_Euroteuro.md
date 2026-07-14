@@ -5,7 +5,7 @@ date = 2024-11-30T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: Heimwerker"
-featured = "img/events/2024-11-30_EUROTEURO_c_Florian_Lehner.jpg"
+featured = "img/events/2024/2024-11-30_EUROTEURO_c_Florian_Lehner.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -30,7 +30,7 @@ draft = false
 
 ## EUROTEURO
 
-![Euroteuro](/img/events/2024-11-30_EUROTEURO2023_c_Jan_Hasenauer.png)
+![Euroteuro](/img/events/2024/2024-11-30_EUROTEURO2023_c_Jan_Hasenauer.png)
 Foto © Jan Hasenauer
 Foto Banner © Florian Lehner 
 
@@ -51,7 +51,7 @@ bernhard@siluh.com
 
 ## Support: Heimwerker
 
-![Heimwerker](/img/events/2024-11-30_Heimwerker.jpg)
+![Heimwerker](/img/events/2024/2024-11-30_Heimwerker.jpg)
 Grafik © Heimwerker
 
 Heimwerker ist ein Musik-Organ, welches sich durch die Tiefen des Geschehens und die Weiten des Vergehens gezwängt hat, um aus einem bösen Parallel-Universum, dem Perversum, auf die Erde zu kommen und die hier lebenden Homo Sapiens Sapiens mit einem schrecklichen Sound aus Metal, Psychedelischen Landschaften, Post-Apokalyptischem Provinz Punk (PAPP) und Generationen Punk zu verstören.

@@ -5,7 +5,7 @@ date = 2023-02-17T10:00:00
 publishdate = 2021-05-01
 time = "10:00"
 description = "Unsere Reise in die Zukunft"
-featured = "img/events/2023-02-15_TURBOkids_Zukunft1.jpg"
+featured = "img/events/2023/2023-02-15_TURBOkids_Zukunft1.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -16,7 +16,7 @@ draft = false
 
 #### TURBOkids
 
-![TURBOkids](/img/events/2023-02-15_TURBOkids_Zukunft.jpg)
+![TURBOkids](/img/events/2023/2023-02-15_TURBOkids_Zukunft.jpg)
 **ACHTUNG - DATUMSÄNDERUNG - VON 15.2.-17.2. + 18.2. Werkschau**
 
 

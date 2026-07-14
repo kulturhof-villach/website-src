@@ -5,7 +5,7 @@ date = 2025-12-12T19:00:00
 publishdate = 2021-05-02
 time = "19:00"
 description = "Ein Abend voller Herz, Stimme und Gänsehaut"
-featured = "img/events/2025-12-12_GEMMA-Weihnachtskonzert.jpg"
+featured = "/img/events/2025/2025-12-12_GEMMA-Weihnachtskonzert.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -23,17 +23,17 @@ Der Verein **GEMMA** lädt am Freitag, **12. Dezember 2025**, zu einem besondere
 
 **Verena Wagner** bildet den musikalischen Höhepunkt des Abends. Mit ihrem aktuellen Album Pionier zeigt die Kärntner Musikerin eine beeindruckende Mischung aus roher Ehrlichkeit, musikalischem Tiefgang und starker stimmlicher Präsenz. Ihre Lieder erzählen Geschichten voller Gefühl, Aufbruchsstimmung und Innerlichkeit. Auf der Bühne verbindet sie ausdrucksstarke Vocals mit echtem Herzblut und schafft Momente, die das Publikum unmittelbar erreichen. Verena Wagner hat sich mit ihrem unverwechselbaren Stil längst zu einer der bedeutendsten Künstlerinnen des Landes entwickelt und prägt den Abend als Hauptact auf besondere Weise.
 
-![Verena Wagner](/img/events/2025-12-12_Verena_Wagner.jpg)
+![Verena Wagner](/img/events/2025/2025-12-12_Verena_Wagner.jpg)
 © Carina Antl
 
 Unterstützt wird sie von **Judith Lisa**, die seit ihrer Teilnahme an Starmania eine beachtliche musikalische Entwicklung durchlaufen hat. Mit ihrer warmen, authentischen Stimme und einer beeindruckenden Vielseitigkeit spannt sie einen Bogen von gefühlvollen Popballaden bis hin zu mitreißenden, tanzbaren Songs. Ihre Musik überzeugt durch Echtheit, Nähe und starke Melodien, die sie zu einer idealen Ergänzung des Konzertprogramms machen.
 
-![Judith Lisa](/img/events/2025-12-12_Judith_Lisa.jpg)
+![Judith Lisa](/img/events/2025/2025-12-12_Judith_Lisa.jpg)
 © Liebäugelei/René Podesser
 
 Den Auftakt gestaltet die Villacher Formation **The Wooden Heads**. Die junge Pop und Rock Band bringt frische Energie auf die Bühne und verbindet Klassiker vergangener Jahrzehnte mit modernen Elementen. Ihre Spielfreude und Dynamik sorgen für einen lebendigen Einstieg in einen Abend, der ganz im Zeichen hochwertiger Live-Musik steht.
 
-![The Wooden Heads](/img/events/2025-12-12_The_wooden_heads.jpg)
+![The Wooden Heads](/img/events/2025/2025-12-12_The_wooden_heads.jpg)
 © Helmuth Weichselbraun
 
 „Dieses Konzert ist für uns ein ganz besonderes Event und eine Einladung, den Alltag für einen Moment hinter sich zu lassen und die Kraft der Musik zu genießen“, sagt GEMMA-Vorsitzender Marc Germeshausen. Der Jugendverein unterstreicht mit dieser Veranstaltung erneut sein Engagement für regionale Kulturarbeit und die Förderung junger Talente.

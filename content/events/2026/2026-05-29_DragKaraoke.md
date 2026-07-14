@@ -5,7 +5,7 @@ date = 2026-05-29T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Queer Prisma Auftakt"
-featured = "img/events/2026-04-24_Dragkaraoke.jpg"
+featured = "/img/events/2026/2026-04-24_Dragkaraoke.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -16,7 +16,7 @@ draft = false
 
 ## QUEER PRISMA
 
-![Queer Prisma](/img/events/2026-05-29_QueerPrisma.png)
+![Queer Prisma](//img/events/2026/2026-05-29_QueerPrisma.png)
 
 **Das neue Format für queere Veranstaltungen im Kulturhof:villach**
 
@@ -39,7 +39,7 @@ Am 29.5.2026 mit dem Thema **"Hello Sailor!"**. Matrosen, Meerjungfrauen, Pirate
 
 Alle Infos über das Event aund wie ihr mitmachen könnt auf Instagram: **@drag.karaoke** oder per Mail: **drag.karaoke.villach@gmail.com**
 
-![Drag Karaoke](/img/events/2026-04-24_Dragkaraoke.jpg)
+![Drag Karaoke](//img/events/2026/2026-04-24_Dragkaraoke.jpg)
 
 > Kulturhof:villach | Lederergasse 15
 >

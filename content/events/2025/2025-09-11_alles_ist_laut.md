@@ -5,7 +5,7 @@ date = 2025-09-11T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "und deshalb esse ich Toast"
-featured = "img/events/2025-09-11_Alles_ist_laut.JPG"
+featured = "/img/events/2025/2025-09-11_Alles_ist_laut.JPG"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -26,7 +26,7 @@ Ein Stück über das Funktionieren-Müssen, über das innere Taubsein und das Ge
 Für Menschen ab 8 Jahren. 
 Dauer: ca. 45–60 Minuten.
 
-![Alles ist laut](/img/events/2025-09-11_Alles_ist_laut_plakat.jpeg)
+![Alles ist laut](/img/events/2025/2025-09-11_Alles_ist_laut_plakat.jpeg)
 
 
 > Kuluthof:villach | Lederergasse 15

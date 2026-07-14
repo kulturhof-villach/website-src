@@ -5,7 +5,7 @@ date = 2025-12-19T20:00:00
 publishdate = 2025-05-02
 time = "20:00"
 description = "Support: Mountain"
-featured = "img/events/2025-12-19_HECKSPOILER_c_nicknofuture.jpg"
+featured = "/img/events/2025/2025-12-19_HECKSPOILER_c_nicknofuture.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -32,7 +32,7 @@ draft = false
 
 ## HECKSPOILER ##
 
-![Heckspoiler](/img/events/2025-12-19_HECKSPOILER_c_nicknofuture.jpg)
+![Heckspoiler](/img/events/2025/2025-12-19_HECKSPOILER_c_nicknofuture.jpg)
 © nicknofuture
 
 **Heckspoiler** – *„Bock auf Stress“* Tour
@@ -56,7 +56,7 @@ Radio 88.6, Stark!Strom Magazin, The Gap
 ### SUPPORT
 ## MØUNTAIN
 
-![MØUNTAIN](/img/events/2025-12-19_mountain_foto_esther_varga_fotografie.jpg)
+![MØUNTAIN](/img/events/2025/2025-12-19_mountain_foto_esther_varga_fotografie.jpg)
 © Esther Varga Fotografie
 
 Kommen Sie, kommen und staunen Sie – Die Rückkehr der einzigartigen, der unverfälschten, der absolut abgedrehtesten Instrumental Rocker von hier bis an die Grenzen von Mordor. In Ihrer Originalbesetzung fallen Sie erneut über euch her, um euch Ihren unvergleichbaren Sound um die Ohren zu ballern. Werden Sie Zeugen Ihres 10-jährigen Album Jubiläums, in welchem Sie dieses monumentale Werk von Anfang bis Ende durchspielen – Keine Gefangenen.

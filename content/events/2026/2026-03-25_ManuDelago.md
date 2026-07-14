@@ -5,7 +5,7 @@ date = 2026-03-25T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Deuce Tour 2026"
-featured = "img/events/2026-03-25_ManuDelagoMaxZT_c_SimonReithofer.jpg"
+featured = "/img/events/2026/2026-03-25_ManuDelagoMaxZT_c_SimonReithofer.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -35,7 +35,7 @@ draft = false
 ## Manu Delago & Max ZT
 ### Deuce Tour 2026
 
-![ManuDelago](/img/events/2026-03-25_ManuDelagoMaxZT_2_c_SimonReithofer.jpg)
+![ManuDelago](//img/events/2026/2026-03-25_ManuDelagoMaxZT_2_c_SimonReithofer.jpg)
 
 Fotos © Simon Reithofer
 

@@ -5,7 +5,7 @@ date = 2025-11-26T19:00:00
 publishdate = 2021-05-02
 time = "19:00"
 description = "Eine grundlegende Orientierung zu den dringlichsten Fragen zum Thema gewaltsame Migration."
-featured = "img/events/2025-11-26_hier_und_jetzt2.jpg"
+featured = "/img/events/2025/2025-11-26_hier_und_jetzt2.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -62,7 +62,7 @@ Zur Einführung stellen sich unsere Gäste kurz vor und teilen ihre Perspektiven
 Seit Jänner 2021 ist Doro Blancke Geschäftsführerin des Vereins "Flüchtlingshilfe - refugee assistence - doro blancke", dessen Mission es ist, Menschen auf der Flucht beizustehen. Flucht ist nie freiwillig, meist begleitet von Leid und Verlust. Wer gezwungen ist, alles Vertraute hinter sich zu lassen, soll in Europa menschenwürdig ankommen, faire Asylverfahren erhalten und die Chance haben, sich in unserer Gesellschaft einzubringen und zu entfalten. Doch die Realität ist oft eine andere. Viele Geflüchtete leben unter entwürdigenden Bedingungen an Europas Außengrenzen – in Lagern wie Lesbos, Samos oder Calais. Der Verein unterstützt dort lokale NGOs, ist selbst auf Lesbos engagiert und fördert Partnerorganisationen in Österreich für faire Verfahren, bessere Lebensbedingungen und Menschlichkeit.
 www.doroblancke.at
 
-![DORO BLANCKE](/img/events/2025-11-26_DoroBlancke_c_DoroBlancke.jpg)
+![DORO BLANCKE](/img/events/2025/2025-11-26_DoroBlancke_c_DoroBlancke.jpg)
 © Doro Blancke
 
 
@@ -72,7 +72,7 @@ www.doroblancke.at
 Mit Jeremy Xido entstand das zweijährige Projekt Live on Earth in der Flüchtlingssiedlung Macondo in Wien, ausgezeichnet mit dem Outstanding Artist Award für Interkulturellen Dialog.
 www.claudiaheu.com
 
-![CLAUDIA HEU](/img/events/2025-11-26_ClaudiaHeu_c_KatharinaGruzei.jpeg)
+![CLAUDIA HEU](/img/events/2025/2025-11-26_ClaudiaHeu_c_KatharinaGruzei.jpeg)
 © Katharina Gruzei
 
 
@@ -81,7 +81,7 @@ www.claudiaheu.com
 
 Als Journalist hat er mehrere Bücher von Geflüchteten übersetzt und herausgegeben. Behr ist wissenschaftlicher Mitarbeiter bei Diskurs. Das Wissenschaftsnetz sowie Kuratoriumsmitglied der Hilfsorganisation medico international.
 
-![ALEXANDER BEHR](/img/events/2025-11-26_AlexanderBehr_c_LisaBolyos_small.jpg)
+![ALEXANDER BEHR](/img/events/2025/2025-11-26_AlexanderBehr_c_LisaBolyos_small.jpg)
 © Lisa Bolyos
 
 
@@ -92,10 +92,10 @@ Sie beschäftigt sich mit Themen wie Migration, Flucht, Gender und Queer-Diversi
 
 Außerdem engagiert sie sich in sozialen Bewegungen und ist Sprecherin der Plattform Migration Kärnten. In ihrer Arbeit setzt sie sich dafür ein, dass alle Menschen – unabhängig von Herkunft, Geschlecht, Identität oder Beeinträchtigung – gleiche Chancen und Teilhabe in der Gesellschaft haben.
 
-![CARLA KUEFFNER](/img/events/2025-11-26_CarlaKueffner_c_GerhardFillei.jpg)
+![CARLA KUEFFNER](/img/events/2025/2025-11-26_CarlaKueffner_c_GerhardFillei.jpg)
 © Gerhard Fillei
 
-![Hier und Jetzt](/img/events/2025-11-26_hier_und_jetzt_POST.jpg)
+![Hier und Jetzt](/img/events/2025/2025-11-26_hier_und_jetzt_POST.jpg)
 Grafik by Eszter Drienyovszki
 www.eszterdrienyovszki.com
 

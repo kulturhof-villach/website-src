@@ -5,7 +5,7 @@ date = 2026-06-03T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: fridolin_schneck"
-featured = "img/events/2026-06-03_AnkathieKoi_Banner_c_FlorianLehner.jpg"
+featured = "/img/events/2026/2026-06-03_AnkathieKoi_Banner_c_FlorianLehner.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -50,7 +50,7 @@ PIKANT folgt auf PROMINENT LIBIDO, Koi, die Vierzigzigjährige selbst-ernannte S
 
 Wenn Ankathie Koi auf Tour ist, knallen die Korken! Also nicht verwunderlich, dass ihre Konzerte gerne mal als ausschweifende Partys enden. Eines ist allen klar, die jemals auf einem Ankathie Koi Konzert waren - es wird (auf gut wienerisch) ur arg und episch! Die Band ist berühmt-berüchtigt dafür, ihre Klassiker zu 15- minütigen Tanzorgien auszweiten. Also gern ein bissi weniger anziehen, weil heiß wird’s bestimmt!
 
-![Ankathie Koi](/img/events/2026-06-03_AnkathieKoi_c_FlorianLehner.jpg)
+![Ankathie Koi](//img/events/2026/2026-06-03_AnkathieKoi_c_FlorianLehner.jpg)
 
 Fotos © Florian Lehner
 
@@ -67,7 +67,7 @@ Für ihr drittes Album kehrt Ankathie Koi zu ihrer Muttersprache zurück und sin
 
 ## Support: fridolin_schneck
 
-![Mikk](/img/events/2024-06-01_fridolinschneck_c_MarioKuhs.jpg)
+![Mikk](/img/events/2024/2024-06-01_fridolinschneck_c_MarioKuhs.jpg)
 Foto © Mario Kuhs
 
 Mario Alexander Kuhs, a teacher, photographer, musician, and former frontman and mastermind of the Austrian

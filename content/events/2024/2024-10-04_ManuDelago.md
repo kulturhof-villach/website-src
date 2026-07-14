@@ -5,7 +5,7 @@ date = 2024-10-04T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Snow from Yesterday Tour"
-featured = "img/events/2024-10-04_ManuDelago_c_reithofermedia.jpg"
+featured = "img/events/2024/2024-10-04_ManuDelago_c_reithofermedia.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -31,7 +31,7 @@ draft = false
 ## Manu Delago feat. Mad About Lemon
 ### Snow from Yesterday Tour
 
-![Manu Delago](/img/events/2024-10-04_ManuDelago_c_WienerKonzerthaus_JuliaWesely.jpg)
+![Manu Delago](/img/events/2024/2024-10-04_ManuDelago_c_WienerKonzerthaus_JuliaWesely.jpg)
 Foto © Julia Wesely, Titelfoto © reithofer media
 
 Der zweifach Grammy-nominierte Komponist und Perkussionist Manu Delago kollaboriert für sein neues außergewöhnliches Album "Snow from Yesterday" (One Little Independent Records) mit dem Vokalensemble Mad About Lemon und geht damit gemeinsam auf große Europatournee."
@@ -58,7 +58,7 @@ Snow From Yesterday reist über endlose ozeanische Weiten und Jahrtausende hinwe
 >
 > “Dreamy acoustics”– XLR8R
 
-![Manu Delago](/img/events/2024-10-04_ManuDelago_MadAboutLemon_c_MariaKnoll.jpg)
+![Manu Delago](/img/events/2024/2024-10-04_ManuDelago_MadAboutLemon_c_MariaKnoll.jpg)
 Foto © Maria Knoll
 
 > Line up:

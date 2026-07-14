@@ -5,7 +5,7 @@ date = 2023-05-20T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "The Voice Poet"
-featured = "img/events/2023-05-20_GolnarShahyar3_c_InaAydogan.jpg"
+featured = "img/events/2023/2023-05-20_GolnarShahyar3_c_InaAydogan.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -35,7 +35,7 @@ Im Jahr 2008 ließ sich die iranisch-kanadische Sängerin, Komponistin und Multi
 
 Golnar Shahyars musikalische Ambitionen fielen in diesen Kreisen auf fruchtbaren Boden, ebenso wie ihre Leidenschaft für soziale Gerechtigkeit in all ihren Formen. Sie machte sich in Wien schnell einen Namen und ist heute weithin bekannt als eine der versiertesten Vokalkünstlerinnen der europäischen zeitgenössischen und improvisierten Musik, als Komponistin und Produzentin eigener Musik und als Mitwirkende bei Tanz-, Theater- und Opernproduktionen.
 
-![GolnarShahyar](/img/events/2023-05-20_GolnarShahyar1_c_InaAydogan.jpg)
+![GolnarShahyar](/img/events/2023/2023-05-20_GolnarShahyar1_c_InaAydogan.jpg)
 
 Ihre Arbeit – mit Gruppen wie Choub, Gabbeh und dem Golnar & Mahan Trio sowie als Solokünstlerin unter dem Namen GolNar – ist ein außergewöhnliches Prisma von Sprachen und Stilen, das gleichermaßen aus den Traditionen Westasiens und Nordafrikas wie aus der zeitgenössischen Musik Europas und Amerikas schöpft. Es gibt keine sinnvolle Trennung zwischen ihrer Musik und den sozialen Themen, die sie anspricht: sie wuchs in einer Kultur auf, in der Frauen seit Jahrzehnten um eine öffentliche Stimme kämpfen. Hinzu kommt der Status einer Außenseiterin in Westeuropa, die eine Kultur vertritt, die oft mit Misstrauen und Unverständnis betrachtet wird, und so wird das Musizieren an sich zu einem politischen Akt.
 

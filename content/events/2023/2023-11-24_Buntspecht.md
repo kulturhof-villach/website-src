@@ -5,7 +5,7 @@ date = 2023-11-24T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = ""
-featured = "img/events/2023-11-24_Buntspecht_c_MichelleRassnitzer.png"
+featured = "img/events/2023/2023-11-24_Buntspecht_c_MichelleRassnitzer.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -42,7 +42,7 @@ Foto © Jonas Höschl
 ### Support Act
 ## Endless Wellness
 
-![Endless Wellness](/img/events/2023-11-24_Endless_Wellness_c_Franziska_Barcsay.jpg)
+![Endless Wellness](/img/events/2023/2023-11-24_Endless_Wellness_c_Franziska_Barcsay.jpg)
 Fotos © Franziska Barcsay
 
 Da ist eine schrammelnde Westerngitarre zu hören, die übersteuert. Eine Orgel bietet Fläche, manchmal legt sich auch ein düsterer Synthesizer dazu. Es könnte »Fuzz-Folk« genannt oder schlicht dem allumfassenden Indie zugeordnet werden; sie könnten als die »Big Thief, nur auf deutsch«, die »frühen Tocotronic, aber später« oder als »Isolation Berlin aus Wien« bezeichnet werden – aber ganz so einfach ist das mit dem Vergleichen nicht. Die obskur-poetischen, deutschsprachigen Texte sind eine laute Konfrontation mit Depression und schlagen zuletzt immer die Brücke zur Gesellschaft, vom Mikro- zum Makrokosmos. Es sind alternative Liebeslieder, für eine Achtsamkeit, für eine Zuversicht, für: Endless Wellness.

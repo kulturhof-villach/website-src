@@ -5,7 +5,7 @@ date = 2024-11-02T22:00:00
 publishdate = 2021-05-01
 time = "22:00"
 description = "AN ALL-NIGHT JOURNEY THROUGH GOA"
-featured = "img/events/2024-11-02_VarunDJParty.jpg"
+featured = "img/events/2024/2024-11-02_VarunDJParty.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -19,7 +19,7 @@ draft = false
 ### mit dem DJs Varun und Agrawal
 #### FREE ENTRY
 
-![RESONATE](/img/events/2024-11-02_VarunDJParty.jpg)
+![RESONATE](/img/events/2024/2024-11-02_VarunDJParty.jpg)
 Grafik © Eszter Drienyovszki
 
 

@@ -5,7 +5,7 @@ date = 2025-03-08T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Konzert zum Internationalen Frauentag"
-featured = "img/events/2025-03-08_NoreiaStringQuartet_c_Ira_and_John.jpg"
+featured = "img/events/2025/2025-03-08_NoreiaStringQuartet_c_Ira_and_John.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -47,7 +47,7 @@ Foto © Ira & John
 
 #### 3:rma
 
-![3rma](/img/events/2025-03-08_3rma_IraJohn.jpg)
+![3rma](/img/events/2025/2025-03-08_3rma_IraJohn.jpg)
 Foto © Ira & John
 
 3:rma is a Slovenian dark folk duo led by vocalist Maša But and guitarist Urška Supej, that is known for their unique way of mixing poetry with music, as well as addressing social issues through their pieces.

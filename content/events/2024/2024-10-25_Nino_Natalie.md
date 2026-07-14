@@ -5,7 +5,7 @@ date = 2024-10-25T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: Tommy Schupfer"
-featured = "img/events/2024-10-25_Nino_und_Natalie_Pamela_Rußmann.jpg"
+featured = "img/events/2024/2024-10-25_Nino_und_Natalie_Pamela_Rußmann.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -33,7 +33,7 @@ draft = false
 
 ### Kollaboration im Kulturhof!
 
-![Natalie und Nino](/img/events/2024-10-25_Nino_und_Natalie_Pamela_Rußmann.jpg)
+![Natalie und Nino](/img/events/2024/2024-10-25_Nino_und_Natalie_Pamela_Rußmann.jpg)
 © Pamela Rußmann
 
 **Natalie Ofenböck**, geboren 1987 in Wien, ist als Musikerin, Dichterin und Illustratorin tätig. 
@@ -48,7 +48,7 @@ Natalie Ofenböck und der Nino Aus Wien finden gemeinsam Lieder und was sie sons
 
 ## Tommy Schupfer
 
-![Tommy Schupfer](/img/events/2024-10-25_Tommy_Schupfer.jpeg)
+![Tommy Schupfer](/img/events/2024/2024-10-25_Tommy_Schupfer.jpeg)
 © Tommy Schupfer
 
 Thomy Schupfer Live: Eine musikalische Reise durch Höhen und Tiefen des Lebens

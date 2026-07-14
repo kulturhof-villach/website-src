@@ -5,7 +5,7 @@ date = 2024-10-17T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "im Gespräch mit Franz Miklautz"
-featured = "img/events/2024-10-17_Hessenthaler_C_Oliver-Jiszda.jpeg"
+featured = "img/events/2024/2024-10-17_Hessenthaler_C_Oliver-Jiszda.jpeg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -33,7 +33,7 @@ draft = false
 
 ### Julian Hessenthaler 
 
-![Julian Hessenthaler](/img/events/2024-10-17_Hessenthaler_C_Oliver-Jiszda.jpeg)
+![Julian Hessenthaler](/img/events/2024/2024-10-17_Hessenthaler_C_Oliver-Jiszda.jpeg)
 Foto © Oliver Jiszda
 
 Julian Hessenthaler, geboren 1980, ist ein ehemaliger Sicherheitsberater. 2017 filmte er den damaligen FPÖ-Chef Heinz Christian Strache beim Machtfantasieren in Ibiza. Die Veröffentlichung dieses Videos zwei Jahre später löste Korruptionsermittlungen aus, die auch Sebastian Kurz‘ politische Karriere beendeten und bis heute andauern.
@@ -43,7 +43,7 @@ Hessenthalers Buch "Nach Ibiza. Der lange Schatten eines Skandalvideos – Warum
 
 ### Franz Miklautz
 
-![Franz Miklautz](/img/events/2024-10-17_FranzMiklautz_c_KarlheinzFessl.png)
+![Franz Miklautz](/img/events/2024/2024-10-17_FranzMiklautz_c_KarlheinzFessl.png)
 
 © Karlheinz Fessl
 

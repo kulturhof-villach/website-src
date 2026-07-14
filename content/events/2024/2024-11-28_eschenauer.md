@@ -5,7 +5,7 @@ date = 2024-11-28T19:30:00
 publishdate = 2021-05-01
 time = "19:30"
 description = "mit Gerald Eschenauer"
-featured = "img/events/2024-11-28_Eschenauer.JPG"
+featured = "img/events/2024/2024-11-28_Eschenauer.JPG"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -16,7 +16,7 @@ draft = false
 
 ## Ein ungustiöser Abend mit Gerald Eschenauer
 
-![Ein ungustiöser Abend](/img/events/2024-11-28_Eschenauer_Plakat.jpg)
+![Ein ungustiöser Abend](/img/events/2024/2024-11-28_Eschenauer_Plakat.jpg)
 Grafik © Gerald Eschenauer
 
 #### Ein ungustiöser Abend

@@ -5,7 +5,7 @@ date = 2025-07-02T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Theater licHTerLoh"
-featured = "img/events/2025-07-02_Regentrude.jpg"
+featured = "/img/events/2025/2025-07-02_Regentrude.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -25,7 +25,7 @@ ist ein Kunstmärchen des deutschen Dichters Theodor Storm. Es stammt aus dem Ja
 Die Erde leidet unter großer Dürre, weil der feuerspeiende Wüterich Eckeneckepenn die Regentrude in einen tiefen Schlaf versetzt hat. Maren und ihr Freund Andrees machen sich auf den Weg, die Regentrude zu wecken, denn nur sie kann den erlösenden Regen bringen. Auf ihrer Reise müssen sie Mut beweisen. Gelingt es ihnen, die Natur zu retten und das Böse zu besiegen? 
 Die Regentrude erzählt von Hoffnung, Zusammenhalt und der Kraft, selbst in schwierigen Zeiten für das Gute einzustehen.
 
-![Die Regentrude](/img/events/2025-07-02_Regentrude.jpg)
+![Die Regentrude](/img/events/2025/2025-07-02_Regentrude.jpg)
 Plakat © Theater licHTerLoh
 
 ## Theater licHTerLoh

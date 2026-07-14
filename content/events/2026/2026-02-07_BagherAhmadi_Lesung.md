@@ -5,7 +5,7 @@ date = 2026-02-07T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Lesung und Schauspiel"
-featured = "img/events/2026-02-07_BagherAhmadi_c_BagherAhmadi.jpg"
+featured = "/img/events/2026/2026-02-07_BagherAhmadi_c_BagherAhmadi.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -48,7 +48,7 @@ In seiner Lesung aus „Vom Schatten ins Licht“ erzählt Bagher Ahmadi mit ein
 Borcherts zeitloses Stück „Draußen vor der Tür“ erzählt von der Heimkehr eines Mannes, der nach dem Krieg vor den Trümmern seiner Existenz steht. Ahmadi's
 Inszenierung verleiht der Suche nach Sinn, Menschlichkeit und Vergebung eine zutiefst erschütternde Aktualität. Seine persönliche Erfahrung verleiht der Aufführung eine zusätzliche Tiefe und Authentizität.  Dieses Stück ist nicht nur ein Blick zurück, sondern ein Spiegel unserer heutigen Realität. In einer Zeit, in der Millionen von Menschen durch Gewalt und Krieg entwurzelt werden, bietet „Draußen vor der Tür“ Raum für Reflexion und Empathie.
 
-![Bagher Ahmadi](/img/events/2026-02-07_BagherAhmadi_Buch_c_BagherAhmadi.jpg)
+![Bagher Ahmadi](//img/events/2026/2026-02-07_BagherAhmadi_Buch_c_BagherAhmadi.jpg)
 
 Fotos © Bagher Ahmadi
 

@@ -5,7 +5,7 @@ date = 2025-06-27T20:00:00
 publishdate = 2021-05-02
 time = "20:00"
 description = "Bachmanntage im Kulturhof | Eintritt frei"
-featured = "img/events/2025-06-27_EdnaMillion_c_LunaRosaCeto_KommandoElefant_c_AlexGotter.jpg"
+featured = "/img/events/2025/2025-06-27_EdnaMillion_c_LunaRosaCeto_KommandoElefant_c_AlexGotter.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -39,7 +39,7 @@ Davor gibt's mit **lit! neue junge literatur** die Chance für junge Menschen ih
 
 ## Edna Million ##
 
-![Edna Million](/img/events/2025-06-27_EdnaMillion_hoch_c_LunaRosaCeto.jpg)
+![Edna Million](/img/events/2025/2025-06-27_EdnaMillion_hoch_c_LunaRosaCeto.jpg)
 © Luna Rosa Ceto
 
 The deep voice and gloomy guitar of young songwriter Edna Million instantly beams you into a universe of lost places. The kind of smoke-filled bars, that Tom Waits might like. Or a lonely desert in Palm Springs. Dark and unique.
@@ -50,7 +50,7 @@ Eine der tiefsten Stimmen Wiens gehört einer jungen Songwriterin, deren Name ni
 
 ## Kommando Elefant ##
 
-![Kommando Elefant](/img/events/2025-06-27_KommandoElefant_c_AlexGotter.jpg)
+![Kommando Elefant](/img/events/2025/2025-06-27_KommandoElefant_c_AlexGotter.jpg)
 © Alex Gotter
 
 Kommando Elefant wurde 2007 gegründet. Mittlerweile wurden 7 Alben mit über 20 Radio-Singles veröffentlicht, unter anderem der öst. All Time Indie Hit „Alaska“.
@@ -82,7 +82,7 @@ Sicher zu rechnen ist mit Kommando Elefant am 27.6. in Villach :)
 
 ## a.c.m.e,- radiolab ##
 
-![a.c.m.e,- radiolab](/img/events/2025-06-27_acme_radiolab.jpg)
+![a.c.m.e,- radiolab](/img/events/2025/2025-06-27_acme_radiolab.jpg)
 © a.c.m.e,- radiolab
 
 Ab 22 Uhr gibt’s eine Live-Session des a.c.m.e,- radiolab mit special guest.

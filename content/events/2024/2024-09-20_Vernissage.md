@@ -5,7 +5,7 @@ date = 2024-09-20T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Vernissage"
-featured = "img/events/2024-09-20_Lenia.jpg"
+featured = "img/events/2024/2024-09-20_Lenia.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -18,7 +18,7 @@ draft = false
 
 ## Lenia Friedrich
 
-![Lenia Friedrich](/img/events/2024-09-20_Lenia.jpg)
+![Lenia Friedrich](/img/events/2024/2024-09-20_Lenia.jpg)
 © Lenia Friedrich
 
 Lenia Friedrich *1989

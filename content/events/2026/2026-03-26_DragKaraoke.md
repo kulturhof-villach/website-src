@@ -5,7 +5,7 @@ date = 2026-03-27T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = ""
-featured = "img/events/2026-03-26_DragKaraoke.JPG"
+featured = "/img/events/2026/2026-03-26_DragKaraoke.JPG"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -23,7 +23,7 @@ Ein Abend zum Karaoke singen, zu einem Track lipsyncen oder einfach zur Musik ab
 
 Alle Infos über das Event aund wie ihr mitmachen könnt auf Instagram: **@drag.karaoke** oder per Mail: **drag.karaoke.villach@gmail.com**
 
-![Drag Karaoke](/img/events/2026-03-26_DragKaraoke.JPG)
+![Drag Karaoke](//img/events/2026/2026-03-26_DragKaraoke.JPG)
 
 
 > Kulturhof:villach | Lederergasse 15

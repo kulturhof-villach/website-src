@@ -5,7 +5,7 @@ date = 2024-04-13T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Support: Little Lakes"
-featured = "img/events/2024-04-13_Martin Klein_c_PamelaRussmann.jpg"
+featured = "img/events/2024/2024-04-13_Martin Klein_c_PamelaRussmann.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -42,7 +42,7 @@ Foto © Pamela Russmann
 
 ## Support: Little Lakes
 
-![LittleLakes](/img/events/2024-04-13_LittleLakes_c_LittleLakes.JPG)
+![LittleLakes](/img/events/2024/2024-04-13_LittleLakes_c_LittleLakes.JPG)
 
 Foto © Little Lakes
 

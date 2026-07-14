@@ -5,7 +5,7 @@ date = 2024-06-28T20:00:00
 publishdate = 2021-05-02
 time = "20:00"
 description = "Bachmanntage im Kulturhof | Eintritt frei"
-featured = "img/events/2024-06-28_DexSkofi.png"
+featured = "img/events/2024/2024-06-28_DexSkofi.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -39,7 +39,7 @@ Davor gibt's mit dem **Schüler\*innen-Wettlesen** die Chance für junge Mensche
 
 ## Dexpleen ##
 
-![Dexpleen](/img/events/2024-06-28_Dexpleen_c_FiaRibisel.jpg)
+![Dexpleen](/img/events/2024/2024-06-28_Dexpleen_c_FiaRibisel.jpg)
 © Fia Ribisel
 
 Als Produzent\*in, Songwriter\*in und Multi-Instrumentalist\*in macht sich Dexpleen nicht erst seit gestern in der Festivalszene einen Namen und negiert jegliches Schubladendenken.
@@ -53,7 +53,7 @@ Mit dem Anliegen, die Lücke der Repräsentation in der Musikindustrie zu fülle
 
 ## Skofi ##
 
-![Skofi](/img/events/2024-06-28_Skofi_c_Skofi.JPG)
+![Skofi](/img/events/2024/2024-06-28_Skofi_c_Skofi.JPG)
 © Skofi
 
 Skofi ist Rapperin, Multi-Instrumentalistin, DJ und Produzentin aus Wien. Wenn sie nicht gerade mit Featureparts überzeugt, arbeitet sie vor allem mit dem Klosterneuburger Produzenten Skyfarmer zusammen. Gemeinsam releast das Duo regelmäßig Hits, die sich musikalisch zwischen Oldschool, House, Garage oder Trap bewegen und kann auf den Streamingplattformen bereits mehrere Millionen Streams weltweit vorweisen.
@@ -67,7 +67,7 @@ Egal ob im Duo oder Solo, Skofi’s Performances funktionieren im Club genauso w
 
 ## DJane Commander Venus ##
 
-![DJane Commander Venus](/img/events/2024-06-28_CommanderVenus_c_VitaDueller.jpg)
+![DJane Commander Venus](/img/events/2024/2024-06-28_CommanderVenus_c_VitaDueller.jpg)
 © Vita Dueller
 
 Ab 22 Uhr gibt’s Tanzbares aus der Konserve zusammengestellt von der legendären DJane Commander Venus. Unter dem Pseudonym DJane Commander Venus legt Simone Dueller seit 2003 vorzugsweise Indie-Musik und Alternative auf, u. a. Rote Bar/Volkstheater Wien, Burgtheater Kasino, beim Wiener Popfest, im Rahmen der Tage der deutschsprachigen Literatur (Bachmannpreis) und im Kulturhofkeller Villach.

@@ -5,7 +5,7 @@ date = 2023-03-18T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Calverhine / Hei'An / The Last Cell"
-featured = "img/events/2023-03-18_ProgressiveRockMetal.png"
+featured = "img/events/2023/2023-03-18_ProgressiveRockMetal.png"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -46,14 +46,14 @@ Riffs, begleitet von virtuosen Soli. Eine klangliche Achterbahnfahrt, die eine G
 erzählt, wie man es noch nie zuvor gehört hat.
 Die 4. EP wird derzeit aufgenommen und erscheint Anfang 2023.
 
-![The Last Cell](/img/events/2023-03-18_TheLastCell.jpg)
+![The Last Cell](/img/events/2023/2023-03-18_TheLastCell.jpg)
 
 
 ### HEI'AN
 
 Hei'An ist eine Post-Progressive-Metal-Band aus Slowenien, die Elemente aus einer Vielzahl verschiedener Genres und Subgenres in ihrer Musik verbindet, darunter Progressive-Metal-ähnliche Beats und Rhythmen, Post-Metal-ähnliche Akkordfolgen und Ambient-Parts, Black Metal-Esque Tremoli und Blast Beats, Metalcore-ähnliche Refrains und Riffs usw., während sie ihre eigene einzigartige Klangrichtung kreieren und kultivieren, die sowohl mit Intimität als auch mit gewaltig klingenden Segmenten gefüllt ist und den emotionalen Wert und die Wirkung ihrer Musik über alles stellt. Der Name Hei'An ist ein Pseudonym für ihren Frontmann, Bandleader und Songwriter Matic Blagonič und repräsentiert gleichzeitig die Band als Ganzes, die aus Matevž Počič (Gitarre), Peter Smrdel (Bass) und Gaj Bostič (Schlagzeug) besteht.
 
-![Hei'An](/img/events/2023-03-18_HeiAn.jpg)
+![Hei'An](/img/events/2023/2023-03-18_HeiAn.jpg)
 
 
 ### CALVERHINE
@@ -61,7 +61,7 @@ Hei'An ist eine Post-Progressive-Metal-Band aus Slowenien, die Elemente aus eine
 CALVERHINE vereinen diverse Stilrichtungen zu einer eigenen Mixtur aus schmetternden Riffs mit melodischen Parts und treibenden Beats. Tiefe, aggressive Growls im Wechselspiel mit cleanem Gesang. Leidenschaft und Hingabe zur Musik sind die treibenden Kräfte hinter CALVERHINE.
 Das beweisen die fünf Villacher auch bei ihren mitreißenden Liveshows.
 
-![Calverhine](/img/events/2023-03-18_Calverhine.jpg)
+![Calverhine](/img/events/2023/2023-03-18_Calverhine.jpg)
 
 
 

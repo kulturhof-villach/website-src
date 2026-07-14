@@ -5,7 +5,7 @@ date = 2024-06-07T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "support: Opium Masala"
-featured = "img/events/2024-06-07_Ufomammut_c_Francesca_De_Franceschi_Manzoni_2.jpg"
+featured = "img/events/2024/2024-06-07_Ufomammut_c_Francesca_De_Franceschi_Manzoni_2.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -30,7 +30,7 @@ draft = false
 > **GRATIS EINTRITT für Besitzer\*innen der Jugendcard - nur gültig bei Vorlage der Jugendcard**
 
 
-![Ufomammut](/img/events/2024-06-07_Ufomammut_c_Francesca_De_Franceschi_Manzoni3.jpg)
+![Ufomammut](/img/events/2024/2024-06-07_Ufomammut_c_Francesca_De_Franceschi_Manzoni3.jpg)
 
 ### Ufomammut
 
@@ -81,7 +81,7 @@ Foto © Francesca De Franceschi Manzoni
 ### support act - OPIUM MASALA
 
 
-![Opium Masala](/img/events/2024-06-07_Opium_Masala.jpg)
+![Opium Masala](/img/events/2024/2024-06-07_Opium_Masala.jpg)
 
 Aus dem bizarren Gemenge, strukturierten Lärms, tiefen Gitarrensounds und Schlagzeugrhythmen zwischen doomigen Laid-Back und trashigen D Beat entsteht ein Masala, das mit Vorsicht zu genießen ist, denn es handelt sich um OPIUM MASALA. Das Duo ist der neueste Stoff aus Leningraz bestehend aus Rama Finsta und Shanti Lebi. Ihr kennt die beiden aus anderen Projekten wie z. B. Lesson To Be Learned, Baguette oder A Great River In The Sky.
 
