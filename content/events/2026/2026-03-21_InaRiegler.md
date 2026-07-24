@@ -44,7 +44,7 @@ Ihre starken, farbgewaltigen Arbeiten stellen einen gemalten inneren Monolog dar
 
 Mit der Identifikation von geschichtlichen Narrativen und Mythen, sowie der Sprengung von sozial konstruierten Dichotomen und Stereotypen schafft Riegler eine neue Perspektive für die figurative Malerei. Riegler arbeitet und lebt in Kärnten.
 
-![InaRiegler](//img/events/2026/2026-03-21_InaRiegler_Portrait.jpg)
+![InaRiegler](/img/events/2026/2026-03-21_InaRiegler_Portrait.jpg)
 
 Fotos © Ina Riegler
 

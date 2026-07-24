@@ -50,7 +50,7 @@ PIKANT folgt auf PROMINENT LIBIDO, Koi, die Vierzigzigjährige selbst-ernannte S
 
 Wenn Ankathie Koi auf Tour ist, knallen die Korken! Also nicht verwunderlich, dass ihre Konzerte gerne mal als ausschweifende Partys enden. Eines ist allen klar, die jemals auf einem Ankathie Koi Konzert waren - es wird (auf gut wienerisch) ur arg und episch! Die Band ist berühmt-berüchtigt dafür, ihre Klassiker zu 15- minütigen Tanzorgien auszweiten. Also gern ein bissi weniger anziehen, weil heiß wird’s bestimmt!
 
-![Ankathie Koi](//img/events/2026/2026-06-03_AnkathieKoi_c_FlorianLehner.jpg)
+![Ankathie Koi](/img/events/2026/2026-06-03_AnkathieKoi_c_FlorianLehner.jpg)
 
 Fotos © Florian Lehner
 

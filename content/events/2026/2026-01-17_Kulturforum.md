@@ -28,11 +28,11 @@ Aki Takase, die „grande dame“ des europäischen Jazzpianos, kehrt in jenem F
 
 Das Programm widmet Aki Takase der großartigen Carla Bley, die 2015 zum letzten Mal bei uns zu Gast war, und die wohl als „role model“ für alles, was mit Frauen und Jazz zu tun hat, gilt.
 
-![Aki Takase](//img/events/2026/2026-01-16_Aki_c_FrankSiemer.jpg)
+![Aki Takase](/img/events/2026/2026-01-16_Aki_c_FrankSiemer.jpg)
 
 Foto © Frank Siemer
 
-![Gina Schwarz](//img/events/2026/2026-01-16_Gina Schwarz_c_Agnelli.jpg)
+![Gina Schwarz](/img/events/2026/2026-01-16_Gina Schwarz_c_Agnelli.jpg)
 
 Foto © Agnelli
 

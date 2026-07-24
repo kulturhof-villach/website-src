@@ -35,7 +35,7 @@ draft = false
 ### PINOCCHIO REVISITED
 ## AN IMMERSIVE AUDIOVISUAL SHOW
 
-![Pinoccio Revisited](//img/events/2026/2026-10-11_Pinocchio_Revisited_Carll Cneut_De_Singel_Uitgeverijen.jpg)
+![Pinoccio Revisited](/img/events/2026/2026-10-11_Pinocchio_Revisited_Carll Cneut_De_Singel_Uitgeverijen.jpg)
 Carll Cneut © De Singel Uitgeverijen
 
 Die vom Klavier dominierte Post-Rock-Band **We Stood Like Kings** widmet sich auf neue Weise der düsteren, zeitlosen Geschichte der Holzmarionette Pinocchio.
@@ -43,19 +43,19 @@ Nachdem sie für ihre Live-Soundtracks zu Kult-Stummfilmen wie *Koyaanisqatsi* u
 Die Band bewegt sich an der Schnittstelle von Post-Rock, Post-Metal, Neoklassik und Progressive Rock und hebt sich durch den ausgeprägten Einsatz des Klaviers von der breiten Alternative-Musikszene ab. Mit ihrem neuesten cineastischen Projekt **Pinocchio Revisited** greift das Instrumental-Quartett die zeitlose Entwicklungsgeschichte der Holzmarionette Pinocchio auf und beleuchtet sie durch ein düsteres Prisma aus Verrat, Manipulation und Machtspielen. Damit stellt das aktuelle Studioalbum **Pinocchio** das bislang ambitionierteste Werk der Band dar.
 Auf der großen Leinwand entfalten sich atemberaubende Schwarz-Weiß- und Farbzeichnungen des belgischen Illustrators **Carll Cneut**, die vom Studio Cartoonbase vollständig animiert wurden. **Pinocchio Revisited** bietet ein immersives audiovisuelles Erlebnis, das zwei Medien zu einer gemeinsamen emotionalen Sprache vereint. Das neue Projekt von **We Stood Like Kings** wechselt nahtlos zwischen zartem Minimalismus und explosiven Crescendos und zeugt erneut von einer Band, die sich weigert, in Vorhersehbarkeit zu verharren.
 
-![We Stood Like Kings](//img/events/2026/2026-10-22_We_Stood_Like_Kings_c_Olivier_Charlet.jpg)
+![We Stood Like Kings](/img/events/2026/2026-10-22_We_Stood_Like_Kings_c_Olivier_Charlet.jpg)
 We Stood Like Kings © Oliver Charlet
 
 **Carll Cneut**
 Carll Cneut gilt heute als einer der bedeutendsten Illustratoren weltweit; seine Arbeiten haben international große Anerkennung gefunden. Seine Illustrationen wurden in über 45 Ländern veröffentlicht und in mehr als 30 Sprachen übersetzt.
 
-![Pinoccio Revisited](//img/events/2026/2026-10-22_Pinocchio_Revisited2_Carll_Cneut_De_Singel_Uitgeverijen.jpg)
+![Pinoccio Revisited](/img/events/2026/2026-10-22_Pinocchio_Revisited2_Carll_Cneut_De_Singel_Uitgeverijen.jpg)
 Carll Cneut © De Singel Uitgeverijen
 
-![Pinoccio Revisited](//img/events/2026/2026-10-22_Pinocchio_Revisited3_Carll_Cneut_De_Singel_Uitgeverijen.jpg)
+![Pinoccio Revisited](/img/events/2026/2026-10-22_Pinocchio_Revisited3_Carll_Cneut_De_Singel_Uitgeverijen.jpg)
 Carll Cneut © De Singel Uitgeverijen
 
-![Pinoccio Revisited](//img/events/2026/2026-10-22_Pinocchio_Revisited6_Carll Cneut_De_Singel_Uitgeverijen.jpg)
+![Pinoccio Revisited](/img/events/2026/2026-10-22_Pinocchio_Revisited6_Carll Cneut_De_Singel_Uitgeverijen.jpg)
 Carll Cneut © De Singel Uitgeverijen
 
 EN

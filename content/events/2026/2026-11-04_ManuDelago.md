@@ -35,7 +35,7 @@ draft = false
 ## Manu Delago & Max ZT
 ### Deuce Tour 2026
 
-![ManuDelago](//img/events/2026/2026-03-25_ManuDelagoMaxZT_2_c_SimonReithofer.jpg)
+![ManuDelago](/img/events/2026/2026-03-25_ManuDelagoMaxZT_2_c_SimonReithofer.jpg)
 
 Fotos © Simon Reithofer
 

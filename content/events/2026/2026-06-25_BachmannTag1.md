@@ -37,7 +37,7 @@ Mehr Infos unter [lit! neue junge literatur](https://kulturhofvillach.at/news/20
 
 ## Rap im Hof ##
 
-![Rap im Hof](//img/events/2026/2026-06-25_RapImHof.png)
+![Rap im Hof](/img/events/2026/2026-06-25_RapImHof.png)
 
 © Martin Funk
 
@@ -65,7 +65,7 @@ Mr. Jenkins - DJ aus Villach
 
 ## Nebelkynd ##
 
-![Nebelkynd](//img/events/2026/2026-06-25_Nebelkynd.png)
+![Nebelkynd](/img/events/2026/2026-06-25_Nebelkynd.png)
 
 © Nebelkynd
 

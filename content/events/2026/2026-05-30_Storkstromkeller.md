@@ -20,7 +20,7 @@ draft = false
 
 #### High Voltage (Carinthian Metal)
 
-![High Voltage](//img/events/2026/2026-05-30_HighVoltage.jpg)
+![High Voltage](/img/events/2026/2026-05-30_HighVoltage.jpg)
 
 © High Voltage
 
@@ -43,7 +43,7 @@ Einige Zeit nachher stieg Stephan Truck, angetan vom Bühnenpotenzial der Band, 
 
 #### CounterValley
 
-![CounterValley](//img/events/2026/2026-05-30_CounterValley.jpg)
+![CounterValley](/img/events/2026/2026-05-30_CounterValley.jpg)
 
 © CounterValley
 
@@ -54,7 +54,7 @@ Aus dem Gegendtal direkt auf die Bühne! Die Band **CounterValley** überzeugt m
 
 #### BLACKROSES
 
-![BLACKROSES](//img/events/2026/2026-05-30_BlackRoses.jpg)
+![BLACKROSES](/img/events/2026/2026-05-30_BlackRoses.jpg)
 
 © BLACKROSES
 

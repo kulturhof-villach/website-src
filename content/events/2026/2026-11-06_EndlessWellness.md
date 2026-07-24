@@ -36,7 +36,7 @@ draft = false
 
 ### Endless Wellness 
 
-![Endless Wellness](//img/events/2026/2026-11_06_EndlessWellness_c_LucaCeline_2.jpg)
+![Endless Wellness](/img/events/2026/2026-11_06_EndlessWellness_c_LucaCeline_2.jpg)
 Fotos © Luca Celine
 
 Endless Wellness kommen aus Wien – aber eigentlich aus dem Bauch. Ihr Debütalbum „Was für ein Glück“ erschien Anfang 2024 bei Ink Music und wurde schnell als neuer Klassiker der  österreichischen Musikszene bezeichnet. Mit ihrem handgemachten Sound schaffte es die Band in  die Top 10 der österreichischen Albumcharts 2024, mehrere Singles erreichten die Top 5 der FM4- Charts. 2025 wurden Endless Wellness zudem zweimal für den Amadeus Award (FM4, Alternative)  nominiert. 

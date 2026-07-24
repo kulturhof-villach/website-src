@@ -18,7 +18,7 @@ draft = false
 
 Der Verein Villacher Pride lädt euch zum zweiten Mal um Brettspielabend ein. Ein Abend zum (Pride) feiern und für die Spittaler Pride am nächsten Tag Vorfreude zu schaffen. Wir freuen uns auf euch!
 
-![Game Night](//img/events/2026/2026-06-12_GameNightGrafik.png)
+![Game Night](/img/events/2026/2026-06-12_GameNightGrafik.png)
 
 
 > Kuluthof:villach | Lederergasse 15

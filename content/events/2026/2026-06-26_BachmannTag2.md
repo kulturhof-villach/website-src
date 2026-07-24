@@ -34,7 +34,7 @@ draft = false
 
 ## Experimentierfeld der Künste: Tanz | Literatur | Musik ##
 
-![Tanzbüro](//img/events/2026/2026-06-26_Tanz.png)
+![Tanzbüro](/img/events/2026/2026-06-26_Tanz.png)
 
 © Tanzbüro
 
@@ -50,7 +50,7 @@ Jeweils eine Musiker\*in, eine Literat\*in und eine Tänzer\*in finden eine geme
 
 #### Pia Dalitz - :artwall
 
-![Pia Dalitz](//img/events/2026/2026-06-26_PiaDalitz.png)
+![Pia Dalitz](/img/events/2026/2026-06-26_PiaDalitz.png)
 
 © Pia Dalitz
 
@@ -69,7 +69,7 @@ Im Laufe der Jahre hat sich mein Stil von detailreichen, abs
 
 #### Palina Pivovarova - :schauraum
 
-![Palina Pivovarova](//img/events/2026/2026-06-26_PalinaPivovarova.png)
+![Palina Pivovarova](/img/events/2026/2026-06-26_PalinaPivovarova.png)
 
 © Palina Pivovarova
 
@@ -84,7 +84,7 @@ Palina Pivovarova wurde 2009 in St. Petersburg geboren und wohnt seit 2015 in Kl
 
 #### s p p s - :klangkorridor
 
-![s p p s](//img/events/2026/2026-06-26_spps_c_spps.jpg)
+![s p p s](/img/events/2026/2026-06-26_spps_c_spps.jpg)
 
 © s p p s
 
@@ -112,7 +112,7 @@ Natalie Ofenböck und der Nino Aus Wien finden gemeinsam Lieder und was sie sons
 
 ## Hertzinger ##
 
-![Hertzinger](//img/events/2026/2026-06-26_Hertzinger.jpg)
+![Hertzinger](/img/events/2026/2026-06-26_Hertzinger.jpg)
 
 © Hertzinger
 

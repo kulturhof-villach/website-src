@@ -27,7 +27,7 @@ Für diese Mission wird auch am 5. September gerockt und gesammelt. Die Erlöse 
 
 #### Forgotten in progress
 
-![Forgotten in progress](//img/events/2026/2026-09-05_ForgottenInProgress_c_KuroSimon.jpg)
+![Forgotten in progress](/img/events/2026/2026-09-05_ForgottenInProgress_c_KuroSimon.jpg)
 
 © Kuro Simon
 
@@ -46,7 +46,7 @@ Silenzer, Forgotten in Progress have established themselves as one of the most p
 
 #### Under Destruction
 
-![Under Destruction](//img/events/2026/2026-09-05_UnderDestruction.jpg)
+![Under Destruction](/img/events/2026/2026-09-05_UnderDestruction.jpg)
 
 © Under Destruction
 
@@ -61,7 +61,7 @@ Auch auf ihrem zukünftigen Release, an dem gerade gearbeitet wird, werden die H
 
 #### Story of a Stranger
 
-![Story of a Stranger](//img/events/2026/2026-09-05_StoryOfAStranger_c_KurtHohenbichler.png)
+![Story of a Stranger](/img/events/2026/2026-09-05_StoryOfAStranger_c_KurtHohenbichler.png)
 
 © Kurt Hohenbichler
 
@@ -74,7 +74,7 @@ Mit jahrelanger Erfahrung vereinen die vier Musiker Screams, Clean-Vocals und ha
 
 #### Hidden Fates
 
-![Hidden Fates](//img/events/2026/2026-09-05_HiddenFates.jpg)
+![Hidden Fates](/img/events/2026/2026-09-05_HiddenFates.jpg)
 
 © Hidden Fates
 

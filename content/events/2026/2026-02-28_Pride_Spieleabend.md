@@ -18,7 +18,7 @@ draft = false
 
 Am 28. Februar veranstaltet der Villacher Pride Verein die erste Board Game Night inkl. Karaoke im Kulturhofkeller. Eintritt frei. 
 
-![Game Night](//img/events/2026/2026-02-28_gamenight.png)
+![Game Night](/img/events/2026/2026-02-28_gamenight.png)
 
 
 > Kuluthof:villach | Lederergasse 15

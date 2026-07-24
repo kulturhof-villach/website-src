@@ -26,7 +26,7 @@ draft = false
 
 ### Bühne frei für die internationale Wissenschaft in Villach!
 
-![Science Slam](//img/events/2026/2026-06-16_Plakat_ScienceSlam.jpg)
+![Science Slam](/img/events/2026/2026-06-16_Plakat_ScienceSlam.jpg)
 Grafik © FH Kärnten
 
 Findest du Wissenschaft spannend? Willst du aktuelle Forschung in leicht verdaulichen Häppchen serviert bekommen? Dann komm am 16. Juni 2026 um 18 Uhr zum internationalen Science Slam in den Kulturhof:villach!

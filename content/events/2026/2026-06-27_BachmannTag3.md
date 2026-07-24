@@ -34,7 +34,7 @@ draft = false
 ## Julia Jost
 #### Wo der spitzeste Zahn der Karawanken in den Himmel hinauf fletscht
 
-![Julia Jost](//img/events/2026/2026-06-27_JuliaJost_c_RafaelaProell.jpg)
+![Julia Jost](/img/events/2026/2026-06-27_JuliaJost_c_RafaelaProell.jpg)
 
 © Rafaela Pröll
 
@@ -52,7 +52,7 @@ In ihrem hochgelobten Roman schildert Julia Jost das Aufwachsen in einer archais
 
 ## MONSTERHEART ##
 
-![MONSTERHEART](//img/events/2026/2026-06-27_Monsterheart_c_Monsterheart.jpg)
+![MONSTERHEART](/img/events/2026/2026-06-27_Monsterheart_c_Monsterheart.jpg)
 
 © MONSTERHEART
 
@@ -71,7 +71,7 @@ Diese reizvolle Tradition der Zusammenfügung von Extremen praktiziert Monsterh
 
 ## MAIIJA ##
 
-![MAIIJA](//img/events/2026/2026-06-27_Maiija_c_MichaelMarlovic.jpeg)
+![MAIIJA](/img/events/2026/2026-06-27_Maiija_c_MichaelMarlovic.jpeg)
 
 © Michael Marlovic
 

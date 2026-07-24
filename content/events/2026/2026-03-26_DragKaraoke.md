@@ -23,7 +23,7 @@ Ein Abend zum Karaoke singen, zu einem Track lipsyncen oder einfach zur Musik ab
 
 Alle Infos über das Event aund wie ihr mitmachen könnt auf Instagram: **@drag.karaoke** oder per Mail: **drag.karaoke.villach@gmail.com**
 
-![Drag Karaoke](//img/events/2026/2026-03-26_DragKaraoke.JPG)
+![Drag Karaoke](/img/events/2026/2026-03-26_DragKaraoke.JPG)
 
 
 > Kulturhof:villach | Lederergasse 15
