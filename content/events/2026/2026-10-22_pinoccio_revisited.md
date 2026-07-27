@@ -5,7 +5,7 @@ date = 2026-10-22T20:00:00
 publishdate = 2026-05-18
 time = "20:00"
 description = "We Stood Like Kings"
-featured = "/img/events/2026/2026-10-11_Pinocchio_Revisited_Carll Cneut_De_Singel_Uitgeverijen.jpg"
+featured = "/img/events/2026/2026-10-11_Pinocchio_Revisited_Carll_Cneut_De_Singel_Uitgeverijen.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -35,7 +35,7 @@ draft = false
 ### PINOCCHIO REVISITED
 ## AN IMMERSIVE AUDIOVISUAL SHOW
 
-![Pinoccio Revisited](/img/events/2026/2026-10-11_Pinocchio_Revisited_Carll Cneut_De_Singel_Uitgeverijen.jpg)
+![Pinoccio Revisited](/img/events/2026/2026-10-11_Pinocchio_Revisited_Carll_Cneut_De_Singel_Uitgeverijen.jpg)
 Carll Cneut © De Singel Uitgeverijen
 
 Die vom Klavier dominierte Post-Rock-Band **We Stood Like Kings** widmet sich auf neue Weise der düsteren, zeitlosen Geschichte der Holzmarionette Pinocchio.
@@ -55,7 +55,7 @@ Carll Cneut © De Singel Uitgeverijen
 ![Pinoccio Revisited](/img/events/2026/2026-10-22_Pinocchio_Revisited3_Carll_Cneut_De_Singel_Uitgeverijen.jpg)
 Carll Cneut © De Singel Uitgeverijen
 
-![Pinoccio Revisited](/img/events/2026/2026-10-22_Pinocchio_Revisited6_Carll Cneut_De_Singel_Uitgeverijen.jpg)
+![Pinoccio Revisited](/img/events/2026/2026-10-22_Pinocchio_Revisited6_Carll_Cneut_De_Singel_Uitgeverijen.jpg)
 Carll Cneut © De Singel Uitgeverijen
 
 EN
