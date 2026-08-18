@@ -1,5 +1,5 @@
 +++
-title = "Sea Shepherd - Benefizkonzert"
+title = "Sea Shepherd - Ois für die Fisch - Benefizkonzert"
 authors = ["kulturhofkeller"]
 date = 2026-09-05T19:30:00
 publishdate = 2021-05-01
