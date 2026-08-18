@@ -98,14 +98,13 @@ auch einige österreichische Stopps sind dabei.
 >
 > 5. September | 19:30 Uhr
 >
-> Tickets Vorverkauf: 22 Euro / erm. 18 Euro - über [kupfticket.com/events/sea-shepherd-benefizkonzert-im-kulturhofvillach](https://kupfticket.com/events/sea-shepherd-benefizkonzert-im-kulturhofvillach)
+> Tickets Vorverkauf: 22 Euro / erm. 18 Euro (Ermäßigung für Ermäßigung für Schüler\*innen, Studierende und Menschen mit Behinderungen) [kupfticket.com/events/sea-shepherd-benefizkonzert-im-kulturhofvillach](https://kupfticket.com/events/sea-shepherd-benefizkonzert-im-kulturhofvillach)
 >
 > Tickets Abendkasse: 25 Euro
 >
 > Kontakt: artists@seashepherd.at
 >
 > Veranstaltet von **Sea Shepherd Österreich**
-
 
 
 
