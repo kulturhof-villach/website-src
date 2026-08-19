@@ -37,7 +37,7 @@ draft = false
 
 # Lazer Eyes 
 
-![Lazer Eyes](/img/events/2026-10-24_Laser-Eyes-Artist-Photo-Shopper.jpg)
+![Lazer Eyes](/img/events/2026/2026-10-24_Laser_Eyes_Artist_Photo_Shopper.jpg)
 © Lazer Eyes
 
 Laser Eyes vermischen die harten Elemente des Stoner Doom mit Garage Rock und klingen dabei eher wie ein Multiinstrumentalprojekt als ein Duo. Das österreichische Heavy-Rock-Duo, bestehend aus Lukas Grumet und Thomas Sager, kombiniert schnörkellose Hard-Rock-Riffs mit unzähligen Effektpedalen, Stoner-Akkorden und atmosphärischer Klanglandschaft und beweist damit, dass es ernst meint. Ihr Repertoire umfasst Songs, die Fans der Stoner-Rock-Szene der frühen 90er lieben werden, und besticht gleichzeitig durch innovative und extrovertierte Elemente, die den Sound von Laser Eyes einzigartig machen.
