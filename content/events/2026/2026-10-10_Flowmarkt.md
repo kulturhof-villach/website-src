@@ -17,7 +17,7 @@ draft = false
 
 #### Der Flowmarkt ist zurück !!  
 
-**Was du nicht mehr brauchst, kann jemand anderes lieben! Am 10. Oktober heißt es endlich wieder: nachhaltig shoppen, trödeln und entdecken. Du hast aussortiert und willst deine Schätze weitergeben? Sichere dir jetzt einen Stand!!"**
+**Was du nicht mehr brauchst, kann jemand anderes lieben! Am 10. Oktober heißt es endlich wieder: nachhaltig shoppen, trödeln und entdecken. Du hast aussortiert und willst deine Schätze weitergeben? Sichere dir jetzt einen Stand!!**
 
 > 2nd Hand | Gebrauchtes | Musik | Design | Kunst | Selbstgemachtes
 >
