@@ -39,7 +39,7 @@ Der Eintritt ist kostenlos.
 
 **BEWERBUNG FÜR EINEN STAND**
 
-Schriftliche Anmeldung an flowmarkt@kulturhofvillach.at bis 5. Oktober 2026. First come 
+Schriftliche Anmeldung an flowmarkt@kulturhofvillach.at bis 5. Oktober 2026. First come, first served.
 Kurze Beschreibung wer du bist, was du verkaufen möchtest, und wie viele Meter Standbreite du benötigst. Achtung! Keine Zelte oder Pavillons erlaubt! 
 Standgebühr zahlbar bei Bestätigung. 
 Tische und Kleiderstangen müssen selbst mitgebracht werden, aber ihr könnt natürlich eure Sachen auch auf einer Decke o.Ä. präsentieren. Stühle könnt ihr bei uns unentgeltlich ausborgen. 
