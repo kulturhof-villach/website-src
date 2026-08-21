@@ -1,7 +1,7 @@
 +++
 title = "Rap im Keller"
 authors = ["kulturhof"]
-date = 2025-09-02T20:00:00
+date = 2026-09-04T20:00:00
 publishdate = 2021-05-01
 description = "Freestyle-Cypher in Villach"
 featured = "/img/events/2025/2025-09-05_Rik_c_Martin_Funk.jpeg"
@@ -28,18 +28,14 @@ Also: das Mic ist offen – du auch?
 ![Rik](/img/events/2025/2025-09-05_RikGrafik_Martin_Funk.JPG)
 Illustration © Martin Funk
 
-## Termine
-> Freitag, 9. Jänner 2026 | 20:00 Uhr
+## nächste Termine
+> Freitag, 4. September 2026 | 20:00 Uhr
 > 
-> Freitag, 6. Februar 2026 | 20:00 Uhr
+> Samstag, 17.10.2026
 >
-> Freitag, 6. März 2026 | 20:00 Uhr
+> Freitag, 27.11.2026
 >
-> Freitag, 17. April 2026 | 20:00 Uhr
->
-> Freitag, 22. Mai 2026 | 20:00 Uhr
->
-> Donnerstag, 25. Juni 2026 - im Rahmen der Bachmanntag
+> Freitag, 18.12.2026
 
 ## Die Hosts
 
