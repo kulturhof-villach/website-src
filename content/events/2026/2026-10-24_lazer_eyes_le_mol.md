@@ -1,5 +1,5 @@
 +++
-title = "Lazer Eyes / le_mol"
+title = "Laser Eyes / le_mol"
 authors = ["kulturhof"]
 date = 2026-10-24T20:00:00
 publishdate = 2026-05-18
@@ -35,10 +35,10 @@ draft = false
 ### Lazer Eyes & le_mol
 ## DOPPELKONZERT
 
-# Lazer Eyes 
+# Laser Eyes 
 
 ![Lazer Eyes](/img/events/2026/2026-10-24_Laser_Eyes_Artist_Photo_Shopper.jpg)
-© Lazer Eyes
+© Laser Eyes
 
 Laser Eyes vermischen die harten Elemente des Stoner Doom mit Garage Rock und klingen dabei eher wie ein Multiinstrumentalprojekt als ein Duo. Das österreichische Heavy-Rock-Duo, bestehend aus Lukas Grumet und Thomas Sager, kombiniert schnörkellose Hard-Rock-Riffs mit unzähligen Effektpedalen, Stoner-Akkorden und atmosphärischer Klanglandschaft und beweist damit, dass es ernst meint. Ihr Repertoire umfasst Songs, die Fans der Stoner-Rock-Szene der frühen 90er lieben werden, und besticht gleichzeitig durch innovative und extrovertierte Elemente, die den Sound von Laser Eyes einzigartig machen.
 
