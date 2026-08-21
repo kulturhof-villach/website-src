@@ -28,8 +28,8 @@ Also: das Mic ist offen – du auch?
 ![Rik](/img/events/2025/2025-09-05_RikGrafik_Martin_Funk.JPG)
 Illustration © Martin Funk
 
-## nächste Termine
-> Freitag, 4. September 2026 | 20:00 Uhr
+## nächste Termine - jeweils 20 Uhr
+> Freitag, 04.09.2026
 > 
 > Samstag, 17.10.2026
 >
