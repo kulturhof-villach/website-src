@@ -32,9 +32,6 @@ draft = false
 >
 > **GRATIS EINTRITT für Kulturpass-Inhaber\*innen** (Hunger auf Kunst und Kultur) - Pro Veranstaltung gibt es ein Kontingent - je nach Verfügbarkeit . Für Einlassgarantie bitten wir um rechtzeitige Reservierung unter +43 699 15088177 oder per Mail an office@kulturhofvillach.at
 
-
-2026_01_16_David_Stockenreitner_stefan_joham.jpg
-
 ### David Stockenreitner
 
 ## Bricht ins Dunkel
