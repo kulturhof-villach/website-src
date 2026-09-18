@@ -38,7 +38,7 @@ Dauer ca 50 Minuten
 
 > Kulturhof:villach | Lederergasse 15
 >
-> 2. Oktober | 10 Uhr
+> 1. Oktober | 10 Uhr
 >
 > Reservierung / Tickets unter 0660/1688933 oder chybakillian@protonmail.com
 >
