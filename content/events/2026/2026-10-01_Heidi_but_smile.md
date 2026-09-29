@@ -46,11 +46,9 @@ Dauer ca 50 Minuten
 >
 > **weitere Termine**:
 > 
-> 1. Oktober | 20 Uhr | PREMIERE
-> 
-> 2. Oktober | 10 Uhr
->
-> 2. Oktober | 20 Uhr
+> - 1. Oktober | 20 Uhr | PREMIERE
+> - 2. Oktober | 10 Uhr
+> - 2. Oktober | 20 Uhr
 
 
 

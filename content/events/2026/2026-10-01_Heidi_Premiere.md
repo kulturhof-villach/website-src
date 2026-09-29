@@ -46,9 +46,8 @@ Dauer ca 50 Minuten
 >
 > **weitere Termine**:
 > 
-> 2. Oktober | 10 Uhr
->
-> 2. Oktober | 20 Uhr
+> - 2. Oktober | 10 Uhr
+> - 2. Oktober | 20 Uhr
 
 
 
