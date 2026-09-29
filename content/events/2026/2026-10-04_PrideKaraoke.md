@@ -5,13 +5,13 @@ date = 2026-10-04T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
 description = "Jim Queen After Party"
-featured = "/img/events/2026/2026-06-12_GameNight.png"
+featured = "/img/events/2026/2026-10-04_QueerPrisma_Karaoke.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["party"]
-draft = true
+draft = false
 +++
 
 ### Queer Prisma 
@@ -24,7 +24,7 @@ Filmabend im Stadtkino um 18 Uhr : Jim Queen. Karten können beim Stadtkino wie 
 
 Anschließend - ca. 20 Uhr kann Karaoke im Kulturhof:villach natürlich auch nicht fehlen! Ob ihr beim Kino dabei wart oder nicht - der Verein Villacher Pride freut sich auf euer Kommen! 
 
-![Game Night](/img/events/2026/2026-06-12_GameNightGrafik.png)
+![Karaoke](/img/events/2026/2026-10-04_QueerPrisma_Karaoke.jpg)
 
 > Kuluthof:villach | Lederergasse 15
 >
@@ -33,6 +33,8 @@ Anschließend - ca. 20 Uhr kann Karaoke im Kulturhof:villach natürlich auch nic
 > Eintritt frei
 >
 > QUEER PRISMA | Hosts: **Verein Villacher Pride**
+>
+> Kontakt: villacher.pride@gmail.com
 
 
 
