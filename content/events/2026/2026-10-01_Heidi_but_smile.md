@@ -50,7 +50,7 @@ Dauer ca 50 Minuten
 > 
 > 2. Oktober | 10 Uhr
 >
-> 2. Oktober | 20 Uhr
+> 3. Oktober | 20 Uhr
 
 
 
