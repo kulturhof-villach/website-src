@@ -1,9 +1,9 @@
 +++
 title = "Drag Karaoke"
 authors = ["queer-prisma"]
-date = 2026-10-30T19:00:00
+date = 2026-10-30T20:00:00
 publishdate = 2021-05-01
-time = "19:00"
+time = "20:00"
 description = "9 to 5 Slay"
 featured = "/img/events/2026/2026-04-24_Dragkaraoke.jpg"
 featuredVideo = ""
@@ -29,7 +29,7 @@ Alle Infos über das Event aund wie ihr mitmachen könnt auf Instagram: **@drag.
 
 > Kulturhof:villach | Lederergasse 15
 >
-> 30. Oktober | 19 Uhr
+> 30. Oktober | 20 Uhr
 >
 > Eintritt frei
 >
