@@ -67,7 +67,7 @@ Scheduled for release on February 23rd 2024, "Grizzly vs. Guillotine" will be av
 # le mol
 
 ![le_mol](/img/events/2026/2026-10-24_le_mol_c_TimPrimbs.jpg)
-© le_mol
+© Tim Primbs
 
 Das Wiener Loop-Orchester le_mol feier den Release des neuen Albums SPLIT SPLIT.
 
