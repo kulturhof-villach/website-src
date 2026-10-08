@@ -66,53 +66,25 @@ Scheduled for release on February 23rd 2024, "Grizzly vs. Guillotine" will be av
 
 # le mol
 
-![le_mol](/img/events/2026/2026-10-24_le_mol_Good.jpg)
+![le_mol](/img/events/2026/2026-10-24_le_mol_c_TimPrimbs.jpg)
 © le_mol
 
-Seit vier Alben und einer EP verfeinert le_mol ihren Instrumental-Rock-Stil, der sich zwischen noisigem Post-Rock, Artrock und Ambient-Klanglandschaften bewegt. Das selbsternannte Loop-Orchester imitiert mithilfe mehrerer Loop-Stationen eine ganze Band. le_mol wurde 2012 von Raimund Schlager und Sebastian Götzendorfer gegründet. Das Duo erlangte mit seinen Veröffentlichungen Aufmerksamkeit in der Post-Rock-Szene und begeistert sein Publikum mit seinen Live-Auftritten. Die Multiinstrumentalisten nutzen dabei mehrere Loop-Stationen und Effektpedale, um Loop-Tracks zu erstellen, über die sie anschließend ihre Songs und Improvisationen aufbauen. Das Duo tourte bereits durch Mitteleuropa und teilte die Bühne mit Bands wie MONO, God is an Astronaut, Maybeshewill, The Twilight Sad, pg.lost und vielen anderen.
+Das Wiener Loop-Orchester le_mol feier den Release des neuen Albums SPLIT SPLIT.
 
-le_mol – J_LLY G__D _iME_
-Digitales Album / noise179 – 24.11.2023
-Das Album culminaMon, bestehend aus den beiden letzten EPs „J_LLY“ und „G__D“ sowie zahlreichen neuen Stücken, bildet einen würdigen Abschluss dieses Veröffentlichungszyklus.
-Musikalisch überzeugen le_mol mit eingängigem Gesang des legendären Hans Platzgumer („prds recomposiMon“) und begeben sich auf elektronischere Pfade („Fun With Teeth“, „Me? Lol“), während sie ihren charakteristischen, melancholischen, loopbasierten Instrumental-Rock-Sound beibehalten („Damn You! Grown Up World“, „Welcome To The Bubble“).
+le_mol - Split Split (16.10.2026 via Noise Appeal)
+https://lnk.to/le_mol-splitsplit 
 
-Artisch gesehen versuchen le_mol durch die Gegenüberstellung von skurrilen Songfragmenten und nostalgisch-analogen Fotografien aus dem Wiener Vergnügungspark „Würstelprater“ mit der nachdenklichen Post-Rock-Musik, für die sie bekannt sind, ihre Wahrnehmung des Zeitgeistes auszudrücken. Als Kinder der 90er und des Reichtums, des Friedens und von MTV, die mit diesem Jahrzehnt einhergingen, ist „J_LLY G__D
-_iME_“ le_mols Reflexion über das Dasein als Dreißigjährige in einer Welt, in der die europäische Stabilität von gestern mit jeder Woche zu zerfallen scheint und die existenzielle Krise an jeder Ecke lauert. Klingt etwas übertrieben? Zum Glück sieht die Band das genauso und kann sich einen Hauch von Heiterkeit und Ironie im gesamten Album nicht verkneifen. Und das alles ohne richtige Texte, abgesehen von einem schwachen KI-Bot, der nicht einmal richtig Englisch spricht? Ja, so wirkt Instrumentalmusik auf den Kopf. Zum Glück. Welcome to the ride!
+Alles spaltet sich. le_mol loopen. Was bleibt? SPLIT SPLIT - ihr 6. Post-Rock-Album (Noise Appeal Records).
 
-**prds recomposition (feat. Hans Platzgumer)**
-Paradies ist vielleicht ein starkes Wort, aber jeder hat seine kleinen Rückzugsorte, wo alles bunt und fröhlich erscheint. Heutzutage macht es uns die Welt um uns herum – die an sich kaum ein Paradies ist – jedoch immer schwerer, unsere inneren Rückzugsorte zu bewahren. Ein pulsierender Mix aus E-Drums, Percussion und zerhackten Gitarren erinnert an Atoms For Peace und TV On The Radio – vor allem wegen der emotionalen Texte von Gastsänger Hans Platzgumer (bekannt von H.P. Zinker, ConverMble und Die Goldenen Zitronen), die direkt unter die Haut gehen. „Was bedeutet gut überhaupt noch?“, fragt sich ein verwirrter KI-Bot. Ist das Schlechte von heute das Gute von morgen? Oh toll, Nostalgie...
-Ein traurig-feierliches Lied, getragen von wunderschönen Akkorden, E-Gitarren, die mit Bögen gespielt werden, und einer Reihe von zerfallenden, aber kraftvollen Post-Metal-Gitarren, wuchtigen Drums und Feedbackwänden, die sich zum finalen Höhepunkt des Albums „J_LLY G__D _iME_“ aufbauen.
+Während manche Spaltungen unvermeidlich (Splitsville"), erzwungen (Splitter") oder sogar pathologisch („Split Brain") sind, wirken viele Spaltungen vermeidbar und durch bestimmte diskursive Kräfte vorangetrieben („Split The Rich"). Würde man Spaltungen jedoch immer weiter aufspalten, käme es dann nicht zu einer Rückkehr von Nuancen, Meinungspluralität und Gemeinschaft? SPLIT SPLIT.
 
-**me? lol**
-Ein beschwingter Electric-Swing-Loop-Track, der sich durch Improvisation in einen psychedelischen Trip verwandelt.
-Der typische Post-Rock schimmert in den traurigen Klavierlinien durch.
-damn you!
+Da bei den Instrumentalstücken von le_mol Wort und Musik getrennt sind, dienen die Titel jedoch ohnehin bestenfalls als Interpretationshinweise. Eine Ausnahme bilden die existentialistischen Lyrics von The Zew („Split Tongue") - einer selbsternannten Cyborg Folk Musikerin aus Wien. Das Konzept setzt sich fort in den Collagen und Monotypien der wienerischen Künstlerin Hanna Hollmann.
 
-**damn you! grown up world + brunch sounds nice**
-Ein verstörender KI-Prolog über das Arbeitsleben führt zu einem cineastischen Song, der einen in seinen Bann zieht durch sorgfältige Wiederholung von seltsamen Synthesizern, melancholischen Gitarren und einem Wiener Bösendorfer-Flügel – bis alles in eine industrielle Klanglandschaft zerfällt, die an Nine Inch Nails erinnert.
+Musikalisch bietet 'SPLIT SPLIT' eine Mischung aus melancholischem Post-Rock und Shoegaze ergänzt durch Elemente aus Post-Punk, Ambient und Industrial.
 
-**EN**
-For four records and one EP le_mol have been refining their instrumental rock style somewhere between noisy post-rock, artrock and ambient soundscapes. The self appointed loop-orchestra imitates a whole band by means of multiple loop stations. le_mol was founded by Raimund Schlager and Sebastian Götzendorfer in 2012.
-The duo gained some attention in the post-rock scene with their releases and have managed to fascinate audiences with their live shows. Here the multi instrumentalists use multiple loopstations and effect pedals to build loop-tracks over which they then build their songs and improvisations.
-The duo has toured Central Europe, sharing stages with bands like MONO, God is an Astronaut, Maybeshewill, The Twilight Sad, pg.lost and many more.
+Der Einsatz mehrerer Loop-Stations ermöglicht es den beiden Multiinstrumentalisten wie eine fünfköpfige Band zu klingen und sorgt für überrasche Wendungen im Songwrit-ing, die gängige Hörgewohnheiten herausfordern.
 
-**le_mol – J_LLY G__D _iME_**
-Digital Album / noise179 – 24.11.2023
-Composed of the last two EPs „J_LLY“ & „G__D“ and yet plenty of new material the LP culminaMon marks a worthy end point to this release cycle. Musically, le_mol feature some truly catchy lead vocals by legendary Hans Platzgumer (‚prds recomposiMon‘) and embark on more electronic avenues (‚Fun With Teeth’, ‘Me? Lol‘) while maintaining the trademark melancholy loop-based instrumental rock sound (‚Damn You! Grown Up World‘, ‚Welcome To The Bubble‘) they are known for. ArMsMcally, via a juxtaposiMon of odd song Mtles and nostalgic-analogue photographs from Vienna’s funpark „Wurstelprater“ with the thoughdul post-rock music they are known for, le_mol try to express their percepMon of the zeitgeist. As kids of the 90s and the wealth, peace and MTV that comes with that decade „J_LLY G__D _iME_“ is le_mol’s reflecMon on being thirtysomethings in a world where the European stability of yesterday seems to disintegrate with every passing week and existenMal crisis lurks around every corner. Sounds like a bit too much? Thankfully, the band thinks so itself and can’t stop themselves from a smidge of mirth and irony throughout the album.
-All of this without any real lyrics other than a feeble AI bot that can’t even properly speak English? Yes, that’s what instrumental music does to your head. Luckily. Welcome to the ride!
-
-**prds recomposi5on (feat. Hans Platzgumer)**
-Paradise might be a strong word but everyone has their own lihle spaces where everything feels colorful and jolly. These days however, the world around us – hardly ever a paradise in itself by any means – makes it harder to at least uphold your internal safe spaces.
-A pulsaMng mix of e-drums, percussion and sliced guitars remind of Atoms For Peace and TV On The Radio – all the more due to the emoMonal lyrics by guest vocalist Hans Platzgumer (of H.P. Zinker, ConverMble, Die Goldenen Zitronen fame) that go right under your skin. good 5mes “What does good even mean anymore?” – a confused AI bot is asking himself. Is the bad of today the good of tomorrow? oh great, nostalgia...
-A sadly solemn song carried by beauMful chords, e-guitars played with bows and an array of disintegraMng but powerful post-metal guitars, crushing drums and feedback walls build towards the ending climax of the „J_LLY G__D _iME_“ album.
-
-**me? lol**
-An upbeat electric swing loop-track that through improvisaMon turns into a psychedelic trip.
-The trademark post-rock shines through in the sad piano lines.
-damn you! 
-
-**grown up world + brunch sounds nice**
-An unsehling AI-prologue about work life leads into a cineasMc song that sucks you in through careful repeMMon of weird synthesizers, melancholic guitars and a Viennese Bösendorfer grand piano – unMl everything disintegrates into an industrial soundscape resembling Nine Inch Nails.
+Loops stick together - they never split!
 
 
 - Info Hotline: 0699 15088177 
