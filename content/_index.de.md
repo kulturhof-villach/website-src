@@ -26,6 +26,12 @@ Café & Bar in Villach
 Willkommen im Konsulat – Ihrem Café & Bar in Villach. Freuen Sie sich auf Spezialitätenkaffee, hausgemachte Mehlspeisen, feine Weine, kulturelle Veranstaltungen und einen Ort, an dem Begegnungen und gute Gespräche zuhause sind.
 
 
+### Boutique Hotel Goldenes Lamm
+
+{{< figure src="img/logos/GoldenesLamm.jpg" width="200px">}}
+
+Das Boutique Hotel Goldenes Lamm ist bereits jahrelanger, verlässlicher Partner des Kulturhof:villach. Viele Künstler\*innen, die auf der Kulturhof:bühne auftreten, übernachten anschließend im Boutique Hotel, das aufgrund der Nähe und der hohen Qualität die erste Wahl für Übernachtungen ist.
+
 
 {{< rel-figure src="img/Slider_Fairness_Codex.png" >}}
 
