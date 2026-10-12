@@ -32,6 +32,8 @@ Willkommen im Konsulat – Ihrem Café & Bar in Villach. Freuen Sie sich auf Spe
 
 Das Boutique Hotel Goldenes Lamm ist bereits jahrelanger, verlässlicher Partner des Kulturhof:villach. Viele Künstler\*innen, die auf der Kulturhof:bühne auftreten, übernachten anschließend im Boutique Hotel, das aufgrund der Nähe und der hohen Qualität die erste Wahl für Übernachtungen ist.
 
+[www.goldeneslamm.at](https://www.goldeneslamm.at/)
+
 
 {{< rel-figure src="img/Slider_Fairness_Codex.png" >}}
 
