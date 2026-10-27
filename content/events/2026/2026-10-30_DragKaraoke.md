@@ -4,7 +4,7 @@ authors = ["queer-prisma"]
 date = 2026-10-30T20:00:00
 publishdate = 2021-05-01
 time = "20:00"
-description = "9 to 5 Slay"
+description = "slaying 9 to 5 ROCKY HORROR"
 featured = "/img/events/2026/2026-04-24_Dragkaraoke.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -14,7 +14,7 @@ tags = ["party"]
 draft = false
 +++
 
-### QUEER PRISMA - Drag Karaoke | Category: 9 to 5 Slay"
+### QUEER PRISMA - Drag Karaoke | Category: slaying 9 to 5, ROCKY HORROR!
 
 **von, für und mit Anfänger\*innen**
 
