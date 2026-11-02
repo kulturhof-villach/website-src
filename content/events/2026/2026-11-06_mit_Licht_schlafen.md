@@ -28,17 +28,21 @@ Robin L. Grechenig
 Hat mehrjährige Erfahrung im Theaterbereich auf und hinter der Bühne und arbeitet hauptsächlich als Kostümbildnerin\*.
 
 **Was gesehen wird:**
-„Ein Haus, das dir Lächeln verspricht, dass es dich beschützt, während es über dir zusammenbricht.“ (Gelernt – Käptn Päng)
+Zu sehen:
+„Ein Haus, das dir Lächeln verspricht, dass es dich beschützt, während es über dir zusammenbricht." (Gelernt – Käptn Peng) 
+
 Über Partnerschafts- und häusliche Gewalt, deren Zeichen, Mechanismen und Eigenschaften.
-Wenn du glaubst, das ist normal, und du niemanden hast, der dieses Normal in Frage stellt, der Sachen benennt, die dir eingeredet werden, steckst du fest in der Annahme, es sei deine eigene Schuld; du seist das Problem, du hättest das verdient.                                                Auch die Stärksten verfangen sich in einem neuen „Normal“, verstärkt durch Isolation, beraubt der Möglichkeit, seine eigene Situation von außen sehen zu können und darauf zu reagieren.
+
+Wenn du glaubst, das ist normal, und du niemanden hast, der dieses Normal in Frage stellt, der Sachen benennt, die dir eingeredet werden, steckst du fest in der Annahme, es sei deine eigene Schuld; du seist das Problem, du hättest das verdient. Auch die Stärksten verfangen sich in einem neuen „Normal", verstärkt durch Isolation, beraubt der Möglichkeit, seine eigene Situation von außen sehen zu können und darauf zu reagieren.
 Es bleibt aber nie nur bei den Erwachsenen; Kinder, die Gewalt in der Familie miterleben, ohne sie selbst körperlich zu erfahren, zeigen Studien zufolge ähnliche Traumatisierungsmuster, wie direkt betroffene Kinder.
 Wir wissen: Gewalt, körperliche Gewalt, ist direkt traumatisierend.
 
 Zuhören, immer wieder, Zuspruch geben und Scheiße benennen, wenn Scheiße passiert, auch nach dem 13. Mal immer noch da sein; das sind Dinge, die Stärke und Halt bieten - die Leben retten.
-Someone can fix you a plate, but no one can force you to eat
+Someone can fix you a plate, but no one can force you to eat.
 
 Wir zeigen verschiedene Stadien der Gewaltspirale und Szenen häuslicher Gewalt und Partnerschaftsgewalt.
 Wir wollen etwas Licht auf das werfen, was so schwer zu erkennen und wahrzunehmen ist. Daran erinnern, was schon zählt. Mahnend, wie weit es gehen kann.
+
 
 ### Lena Kolter 
 
