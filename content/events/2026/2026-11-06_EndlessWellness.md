@@ -4,7 +4,7 @@ authors = ["kulturhof"]
 date = 2026-11-06T20:00:00
 publishdate = 2026-05-18
 time = "20:00"
-description = ""
+description = "Support: tauchen"
 featured = "/img/events/2026/2026-11-06_EndlessWellness_c_LucaCeline.jpg"
 featuredVideo = ""
 featuredVimeo = ""
@@ -45,6 +45,17 @@ Im Zentrum stehen obskur-poetische, deutschsprachige Texte, die sich schonungslo
 Die Band – Philipp Auer, Adele Ischia, Milena Klien und Patrick Huter – ist seit vielen Jahren  befreundet. Dieses gewachsene Vertrauen ist das Fundament ihres gemeinsamen Arbeitens: eine  spürbare Nähe, die Verletzlichkeit im kreativen Prozess zulässt und sich direkt auf der Bühne  überträgt. 
 So erspielten sich Endless Wellness bereits vor ihren ersten Veröffentlichungen eine treue  Fangemeinschaft; ausverkaufte Konzerte in Clubs, Zelten und Hallen folgten rasch. Live wird die  Musik zum kollektiven Moment: Lieder, die man alleine hören oder gemeinsam tanzen kann, das  Gewicht von den Schultern schüttelnd. Ihre Songs sind ein lautes, tröstendes Aufbegehren –  melancholisch, humorvoll und voller Wärme. 
 Musik für alle, die nicht still sein wollen, aber auch nicht mehr wissen, wie laut man schreien darf.
+
+### tauchen
+
+![tauchen](/img/events/2026/2026-11-06_Tauchen_c_HannaFasching.jpg)
+Foto © Hanna Fasching
+
+“tauchen”, das junge Wiener Popduo meistert das Spiel mit den Klischees deutscher Pop Romantik und schafft dabei ein aufregendes Spannungsfeld zwischen Banalität und Tiefgang.
+
+Die Band besteht aus Eva-Maria Kehrer und Marten Kaffke. Live präsentiert sich tauchen in voller Bandbesetzung mit Laura Breitfuß am Bass und Raphaela Fries an den Drums. Bereits mit fünf veröffentlichten Singles konnte das Projekt auf sich aufmerksam machen: Auftritte beim Popfest Wien, beim Showcase Festival WAVES, bei zahlreichen Festivals in ganz Österreich sowie Konzerte in mehreren deutschen Städten sprechen für sich.
+
+„tauchen“ hat sich in der jungen deutschsprachigen Popszene positioniert: mit einer klaren Handschrift, Wiedererkennungswert und dem Potenzial, ein wachsendes Publikum zu erreichen – durch Musik, die aktuelle gesellschaftliche Themen aufgreift und in persönliche Erfahrungsräume übersetzt.
 
 
 - Info Hotline: 0699 15088177 
