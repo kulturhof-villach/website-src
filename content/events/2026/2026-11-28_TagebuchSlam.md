@@ -28,7 +28,7 @@ draft = false
 ## ERSTMALS: TAGEBUCH SLAM IM KULTURHOF:VILLACH
 ### mit Diana Köhle
 
-![Diana Köhle](/img/events/2026-11-28_Tagebuchslam_c_Mia Löbl.jpg)
+![Diana Köhle](/img/events//2026/2026-11-28_Tagebuchslam_c_Mia Löbl.jpg)
 Foto © Mia Löbl
 
 „Liebes Tagebuch,..."
