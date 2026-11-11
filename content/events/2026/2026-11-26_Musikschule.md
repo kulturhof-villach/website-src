@@ -23,6 +23,6 @@ Illustration © Musikschule Villach
 
 Donnerstag, 26. November 2026, 18:00 Uhr
 
-Es spielen die Bigbands der Musikschule Villach.
+Es spielen die Big Bands der Musikschule Villach.
 
 Eintritt = freiwillige Spende
