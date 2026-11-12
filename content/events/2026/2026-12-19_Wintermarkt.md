@@ -25,6 +25,8 @@ draft = false
 >
 > Standgebühren: 10 € für ca. 2 Meter
 
+![Wintermarkt](/img/events/2026/2026-12-19_Wintermarkt.JPG)
+artwork © Simone Dueller
 
 **Wann? 19. Dezember, 2026 von 15 - 20 Uhr**
 
