@@ -33,6 +33,9 @@ draft = false
 
 ### GAIA BANFI
 
+#### Gaia Banfi - Europavox Sessions 2026
+[www.arte.tv](https://www.arte.tv/de/videos/133234-006-A/gaia-banfi/)
+
 Gaia Banfi ist eine 1998 in Mailand geborene Singer-Songwriterin, Musikerin und Produzentin. Ihr Schaffen verbindet Elemente aus Pop, Songwriting und elektronischer Musik. Luftige Gesangspassagen und Klangfarben verschmelzen zu einem Wechselspiel aus Kontrasten, elektronischen Einflüssen und verzerrten Sounds – oft bis an die Grenze des Singbaren geführt, sodass die Stimme gleichberechtigt neben allen anderen Produktionselementen steht.
 
 Als Tochter von Baffo Banfi, dem langjährigen Keyboarder der italienischen Prog-Band „Un Biglietto per l'Inferno“, wuchs Gaia in einem musikalischen Umfeld auf. Sie begann im Alter von sechs Jahren mit dem Gesangsunterricht, lernte später klassische Gitarre sowie Geige und schloss schließlich ihr Studium im Fach Jazzgesang am Konservatorium von Bologna bei Diana Torto ab.
