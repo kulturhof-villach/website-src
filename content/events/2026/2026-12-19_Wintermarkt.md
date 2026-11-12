@@ -11,7 +11,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["Wintermarkt"]
-draft = true
+draft = false
 +++
 
 
@@ -35,18 +35,21 @@ Der Eintritt ist kostenlos.
 
 Bring deinen ungeliebten Christbaumschmuck mit / oder was auch immer du findest und schmücke mit uns den schirchsten Baum Kärntens.
 
+## Du machst Sachen? 
+**...bestickst Kissen mit feministischen Sprüchen,.. häkelst ausgefallene Taschen,.. stellst coole Prints her.. oder.. what ever.. von den typischen Weihnachtsmärken gibt's nur Absagen, weil deine Sachen zu schräg.. !! Dann passt du vielleicht genau zu uns !!** 
+
 **BEWERBUNG FÜR EINEN STAND**
 
-Schriftliche Anmeldung an flowmarkt@kulturhofvillach.at bis 4. Dezember 2026. 
-Kurze Beschreibung wer du bist, was du verkaufen möchtest - bitte schicke uns Fotos! Achtung! Keine Zelte und Pavillons erlaubt! Die Standplätze werden 2-3 Meter haben. Bitte bringe selbst einen Tisch mit. Stühle könnt ihr bei uns unentgeltlich ausborgen. 
-Standgebühr: 10 € pro Platz /  zahlbar bei Bestätigung. Ob du dabei bist, teilen wir dir bis spätestens 7. Dezember mit.
+Schriftliche Bewerbung an office@kulturhofvillach.at bis 1. Dezember 2026. 
+Kurze Beschreibung wer du bist, was du verkaufen möchtest - bitte schicke uns Fotos! Bitte teile uns mit, wieviel Zeit dein Aufbau braucht. Achtung! Die Standplätze werden 2-3 Meter haben. Bitte bringe selbst einen Tisch mit. Stühle könnt ihr bei uns unentgeltlich ausborgen. Mehr Infos zur Organisation erhält ihr dann per Mail.
+Standgebühr: 10 € pro Platz /  zahlbar bei Bestätigung. Ob du dabei bist, teilen wir dir bis 2. Dezember mit.
 
 **ORGANISATORISCHES**
 
-Einlass und Aufbau von 07:30 - 10:00 Uhr
-Zum Ausladen könnt ihr mit dem Auto in die Lederergasse fahren. Wir teilen euch nach eurer Anmeldung eine Anfahrt- bzw. Aufbauzeit mit.
+Einlass und Aufbau von 12:00-15:00 Uhr
+Zum Ausladen/Einladen könnt ihr mit dem Auto in die Lederergasse fahren. Wir teilen euch nach eurer Anmeldung eine Anfahrt- bzw. Aufbauzeit mit.
 Da der Platz in der Gasse sehr beschränkt ist, haltet euch bitte an die Zeiten, und fahrt eure Autos danach auf einen ausgeschriebenen Parkplatz, da es beim Kulturhof keine Parkmöglichkeiten gibt. 
-Abbau und Einladen von 16.00 bis 18.00 Uhr.
+Abbau und Einladen von 20.00 bis 21.00 Uhr.
 
 
 - Info Hotline: 0699 15088177 
