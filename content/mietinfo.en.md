@@ -12,7 +12,7 @@ tags = []
 weight = 4
 +++
 
-The base fee for booking the main room in the basement is 400€ and does not include costs for equipment and technical personnel. Depending on the scale of the planned event, additional costs may apply. 
+The base fee for booking the main room in the basement is 500€ and does not include costs for equipment and technical personnel. Depending on the scale of the planned event, additional costs may apply. 
 
 The base fee for a DJ-event over two floors is 1000€. Depending on the scale of the planned event, additional costs may apply. 
 
