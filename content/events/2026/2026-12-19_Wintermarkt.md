@@ -37,6 +37,17 @@ Der Eintritt ist kostenlos.
 
 Bring deinen ungeliebten Christbaumschmuck mit / oder was auch immer du findest und schmücke mit uns den schirchsten Baum Kärntens.
 
+## Die Buntmeisen
+
+![Die Buntmeisen](/img/events/2026/2026-12-19_Die_Buntmeisen.JPG)
+ © Die Buntmeisen
+
+Die Buntmeisen bringen am 19. Dezember im Rahmen des Alternativen Wintermarkts bunten musikalischen Wind in den Kulturhofkeller Villach. Mit zwei Sets um 17:00 und 18:30 Uhr lädt der Chor zu einem ebenso stimmungsvollen wie unkonventionellen vorweihnachtlichen Musikerlebnis ein. Das Publikum kann sich auf eine Mischung aus Weihnachtsliedern, Popklängen und Poetry-Slam-Elementen freuen.
+
+Gegründet im Februar 2025 richtet sich der Verein bzw. Chor an alle, die Freude am Singen haben: egal welches Alter oder Geschlecht, welche Herkunft oder Erst-sprache, ob mit oder ohne Singerfahrung, queer oder nicht queer. Wir bieten allen eine Gemeinschaft und stehen für ein freies und selbstbestimmtes Leben, für das Recht auf Glücklich- und Anderssein und für gegenseitigen Respekt, Toleranz und Akzeptanz.
+
+![Die Buntmeisen](/img/events/2026/2026-12-19_Die_Buntmeisen.JPG)
+
 ## Du machst Sachen? 
 **...bestickst Kissen mit feministischen Sprüchen,.. häkelst ausgefallene Taschen,.. stellst coole Prints her.. oder.. what ever.. von den typischen Weihnachtsmärken gibt's nur Absagen, weil deine Sachen zu schräg.. !! Dann passt du vielleicht genau zu uns !!** 
 
