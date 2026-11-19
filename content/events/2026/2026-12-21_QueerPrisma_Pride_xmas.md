@@ -1,31 +1,31 @@
 +++
-title = "Villacher Pride Winterfest"
+title = "Villacher Pride Just Dance Turnier"
 authors = ["queer-prisma"]
-date = 2026-12-21T17:30:00
+date = 2026-12-28T17:30:00
 publishdate = 2021-05-01
 time = "17:30"
 description = "Queer Prisma"
-featured = "/img/events/2026/2026-12-21_Pride_Weihnachtsfeier.jpg"
+featured = "/img/events/2026/2026-12-28_Just_Dance_Turnier.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["party"]
-draft = false
+draft = dance
 +++
 
 ## Queer Prisma - Hosts: Verein Villacher Pride
 
-### Winterfest
+### Just Dance Turnier
 
-Der Verein Villacher Pride lädt die Queers und Allies zum Winterfest ein. Es gibt Musik, Essen, Glühwein. 
+Der Verein Villacher Pride lädt die Queers und Allies zum Just Dance Turnier ein. Anmeldungen bitte an villacher.pride@gmail.com
 
-![Winterfest](/img/events/2026/2026-12-21_Pride_Weihnachtsfeier.jpg)
-Winterfest, Grafik @ Villacher Pride
+![Just Dance](/img/events/2026/2026-12-28_Just_Dance_Turnier.jpg)
+Just Dance Turnier, Grafik @ Villacher Pride
 
 > Kuluthof:villach | Lederergasse 15
 >
-> 21. Dezember | 17:30 Uhr 
+> 28. Dezember | 17:30 Uhr 
 >
 > Eintritt frei - über eine freiwillige Spende freuen wir uns immer
 >
