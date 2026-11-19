@@ -11,7 +11,7 @@ featuredVimeo = ""
 linktitle = ""
 type = "event"
 tags = ["lesung"]
-draft = true
+draft = false
 +++
 
 
@@ -34,21 +34,25 @@ draft = true
 ![Babusar Pass](/img/events/2027/2027-01-30_Babusar_Passc_Olivia Wimmer.jpg)
 Babusar Pass © Olivia Wimmer
 
+Jetzt gehen Lukas Matzinger und Olivia Wimmer mit ihrem "Diavortrag 2.0" auf Roadshow.
+Ein Abend nach und mit dem Reiseroman *»Ohne Kalaschnikow schlaf ich schlecht«*, zwei Stunden Lesen und Erzählen, Fotos zeigen, Fragen beantworten und Bücher signieren.
 
-2027-01-30_Kalaschnikow_Buchcover.jpg
+![Buchcover](/img/events/2027/2027-01-30_Kalaschnikow_Buchcover.jpg)
+Buchcover 
 
-2027-01-30_Polizeistation_Gewahrsam.jpeg
+Der Falter-Reporter Lukas Matzinger und die Fotografin Olivia Wimmer über eine Reise in einem 40 Jahre alten VW-Bus von Wien nach China und zurück.
 
-2027-01-30_oliv_luki_by_patrick_rieser.jpg
+Was wir von dieser Reise mitbringen? Blutige Trikots von kirgisischen Polospielern, Ziegelsteine von Osama bin Ladens Haus in Abbottabad, ein Bouquet von Bakterien aus einem tadschikischen Sanatorium. 
 
-![Babusar Pass](/img/events/2027/2027-01-30_Babusar_Passc_Olivia Wimmer.jpg)
-Babusar Pass © Olivia Wimmer
+Doch hinter dem Ende der Welt, in den bedrohlichsten und unwirtlichsten Gegenden, warteten wundersame Begegnungen: Fremde gaben uns die besten Bissen und breitesten Betten – und beschenkten uns mit ihren Geschichten.
 
-David Stockenreitner kommt mit seinem neuen Programm BRICHT INS DUNKEL. Noch lässt er uns über den Inhalt im Dunkeln, aber man darf gespannt sein, sagt man David doch nach, er sei  einer der hintersinnigsten und boshaftesten Comedians, die Österreich hervorgebracht hat. 
+»Ohne Kalaschnikow schlaf ich schlecht« ist ein Reiseroman, in dem alles stimmt, ein Abenteuer, das sich nicht vorhersehen ließ, eine große Reportage von der weiten Welt.
 
-Und eins ist klar: David hat genug davon, immer der brave Behinderte zu sein, dem man vielleicht Mut und Tapferkeit zutraut – aber nie Bosheit oder Hinterfotzigkeit. Dabei ist genau das ein Teil wahrer Inklusion: auch mal unfair sein dürfen, auch mal das Letzte denken und das dann vielleicht auch sagen dürfen …
+![Polizeistation Gewahrsam](/img/events/2027/2027-01-30_Polizeistation_Gewahrsam.jpeg)
+Polizeistation Gewahrsam
 
-Zynisch, absurd und schwarzhumorig – so heizt David Stockenreitner der Wiener Comedyszene ein. Er tritt auf, um mit Witz, Redekunst und gutem Humor Menschen zum Lachen zu bringen. Als Kabarettist mit körperlicher Behinderung ist er zwar schon über so manche nicht barrierefreie Bühne gestolpert, auf den Mund gefallen ist er deshalb aber noch lange nicht. 
+![Olvia Wimmer und Lukas Matzinger](/img/events/2027/2027-01-30_oliv_luki_by_patrick_rieser.jpg)
+Olivia Wimmer und Lukas Matzinger © Patrick Rieser
 
 
 - Info Hotline: 0699 15088177 
