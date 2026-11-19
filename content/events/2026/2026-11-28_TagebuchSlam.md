@@ -5,7 +5,7 @@ date = 2026-11-28T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "mit Diana Köhle"
-featured = "img/events/2026/2026-11-28_Tagebuchslam_c_Mia Löbl.jpg"
+featured = "img/events/2026/2026-11-28_Tagebuchslam_c_Mia_Löbl.jpg"
 featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
@@ -28,7 +28,7 @@ draft = false
 ## ERSTMALS: TAGEBUCH SLAM IM KULTURHOF:VILLACH
 ### mit Diana Köhle
 
-![Diana Köhle](/img/events/2026/2026-11-28_Tagebuchslam_c_Mia Löbl.jpg)
+![Diana Köhle](/img/events/2026/2026-11-28_Tagebuchslam_c_Mia_Löbl.jpg)
 Foto © Mia Löbl
 
 „Liebes Tagebuch,..."
