@@ -27,9 +27,9 @@ draft = false
 >
 > **für Einlass- / Sitzplatzgarantie bitten wir um Reservierung**: office@kulturhofvillach.at oder +43 699 15088177 (bitte um Angabe von Name und Telefonnummer)
 
-### Buchpräsentation: Ohne Kalaschnikow schlaf ich schlecht
+## Buchpräsentation: Ohne Kalaschnikow schlaf ich schlecht
 
-## Der Falter-Reporter Lukas Matzinger und die Fotografin Olivia Wimmer über eine Reise in einem 40 Jahre alten VW-Bus von Wien nach China und zurück
+### Der Falter-Reporter Lukas Matzinger und die Fotografin Olivia Wimmer über eine Reise in einem 40 Jahre alten VW-Bus von Wien nach China und zurück
 
 ![Babusar Pass](/img/events/2027/2027-01-30_Babusar_Passc_Olivia Wimmer.jpg)
 Babusar Pass © Olivia Wimmer
