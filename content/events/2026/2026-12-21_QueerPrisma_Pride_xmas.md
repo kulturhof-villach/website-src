@@ -10,8 +10,8 @@ featuredVideo = ""
 featuredVimeo = ""
 linktitle = ""
 type = "event"
-tags = ["party"]
-draft = dance
+tags = ["dance"]
+draft = false
 +++
 
 ## Queer Prisma - Hosts: Verein Villacher Pride
