@@ -1,7 +1,7 @@
 +++
 title = "Ohne Kalaschnikow schlaf ich schlecht"
 authors = ["kulturhof"]
-date = 2027-01-16T19:00:00
+date = 2027-01-30T19:00:00
 publishdate = 2021-05-01
 time = "19:00"
 description = "Der Falter-Reporter Lukas Matzinger und die Fotografin Olivia Wimmer über eine Reise in einem 40 Jahre alten VW-Bus von Wien nach China und zurück"
